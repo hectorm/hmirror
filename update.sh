@@ -10,32 +10,6 @@ set -eu
 # Globals
 export LC_ALL=C
 
-# Sources
-sources=$(cat <<-'EOF'
-	adaway.org|https://adaway.org/hosts.txt
-	disconnect.me-ad|https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-	disconnect.me-malvertising|https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-	disconnect.me-malware|https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
-	disconnect.me-tracking|https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-	dshield.org-high|https://www.dshield.org/feeds/suspiciousdomains_High.txt
-	dshield.org-low|https://www.dshield.org/feeds/suspiciousdomains_Low.txt
-	dshield.org-medium|https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
-	fademind-add.2o7net|https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
-	fademind-add.dead|https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
-	fademind-add.risk|https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-	fademind-add.spam|https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
-	malwaredomainlist.com|https://www.malwaredomainlist.com/hostslist/hosts.txt
-	malwaredomains.com-immortaldomains|http://mirror1.malwaredomains.com/files/immortal_domains.txt
-	malwaredomains.com-justdomains|http://mirror1.malwaredomains.com/files/justdomains
-	pgl.yoyo.org|https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
-	ransomwaretracker.abuse.ch|https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-	someonewhocares.org|http://someonewhocares.org/hosts/hosts
-	spam404.com|https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
-	winhelp2002.mvps.org|http://winhelp2002.mvps.org/hosts.txt
-	zeustracker.abuse.ch|https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-EOF
-)
-
 # Methods
 printInfo() {
 	printf -- '   - %s\n' "$@"
@@ -50,17 +24,21 @@ printError() {
 }
 
 fetchUrl() {
-	curl -fsSL -A 'Mozilla/5.0' -- "$@"
+	curl -fsSL -A 'Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0' -- "$@"
 }
 
 # Process
 main() {
+	sourceList=$(jq -c '.sources|map(select(.enabled))' sources.json)
+	sourceCount=$(printf -- '%s' "$sourceList" | jq '.|length-1')
+
 	printAction 'Downloading lists...'
 	mkdir -p ./data && cd ./data
 
-	for list in $sources; do
-		name="$(printf -- '%s\n' "$list" | cut -d\| -f1)"
-		url=$(printf -- '%s\n' "$list" | cut -d\| -f2)
+	for i in $(seq 0 "$sourceCount"); do
+		entry=$(printf -- '%s' "$sourceList" | jq ".[$i]")
+		name=$(printf -- '%s' "$entry" | jq -r '.name')
+		url=$(printf -- '%s' "$entry" | jq -r '.url')
 
 		printInfo "$url"
 		content=$(fetchUrl "$url") || true
@@ -76,7 +54,7 @@ main() {
 			printError 'Download failed'
 		fi
 
-		unset name url content
+		unset entry name url content
 	done
 }
 
