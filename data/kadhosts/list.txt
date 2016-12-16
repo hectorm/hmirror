@@ -1,7 +1,7 @@
 # KAD hosts file
 # Zalecany tylko dla zaawansowanych uzytkownikow
 # Niektore funkcje oferowane przez filtr nie sa dostepne w ponizszym pliku ze wzgledu na ograniczenia hosts.
-# Aktualizacja zbiorowa: 2016121401
+# Aktualizacja zbiorowa: 2016121501
 
 
 # Podejrzane i/lub polaczone z innymi przekretami
@@ -455,6 +455,14 @@
 0.0.0.0 e-sprawdz-punkty-karne.pl
 0.0.0.0 e-punkty.pl
 0.0.0.0 ile-bedziesz-zyc.pl
+0.0.0.0 firebid.pl
+0.0.0.0 fbviews.pl
+0.0.0.0 views-fb.pl
+0.0.0.0 face-color.net.pl
+0.0.0.0 fejs-vieewer.pl
+0.0.0.0 face-views.info.pl
+0.0.0.0 face-view.pl
+0.0.0.0 bekiarena.pl
 
 # Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
 0.0.0.0 rfv.pl
@@ -1023,6 +1031,23 @@
 0.0.0.0 www.google.xweb24.pl
 
 # Przekrety
+0.0.0.0 viewfile.pl
+0.0.0.0 wygrajfinalfantasy.pl
+0.0.0.0 wygrajmafia3.pl
+0.0.0.0 wygrajgalaxy7edge.pl
+0.0.0.0 wygrajhamak.pl
+0.0.0.0 wygrajnamiot.pl
+0.0.0.0 wygrajtrampoline.pl
+0.0.0.0 autografbiebera.pl
+0.0.0.0 hersnkrs.pl
+0.0.0.0 odbierz-gre.pl
+0.0.0.0 mediakonkurs.pl
+0.0.0.0 doladuj-steam.pl
+0.0.0.0 instalike.eu
+0.0.0.0 twojeartykuly.com
+0.0.0.0 sprawdziq.eu
+0.0.0.0 gtavnapc.pl
+0.0.0.0 gold-wot.pl
 0.0.0.0 fastpay.pl
 0.0.0.0 wygrane-konkurs.pl
 0.0.0.0 wrzutkaplikow.pl
@@ -1817,6 +1842,8 @@
 0.0.0.0 xn--rankingdentystw-8rb.pl
 0.0.0.0 xn--dowiecznoci-mfc.pl
 0.0.0.0 xn--kadrymioci-g0b51a.pl
+0.0.0.0 xn--data-mierci-24-9xc.pl
+0.0.0.0 xn--data-mierci-sprawdz-kud.pl
 
 # Wapster
 0.0.0.0 www.nagroda-sms.pl
@@ -1881,6 +1908,7 @@
 0.0.0.0 sms-za-darmo.pl
 
 # Blogspot
+0.0.0.0 facebookcolors24.blogspot.com
 0.0.0.0 szybki-przeglad.blogspot.com
 0.0.0.0 zachomikowane.blogspot.com
 0.0.0.0 bon1500.blogspot.com
