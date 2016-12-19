@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Dec 17 06:00:37 UTC 2016
-# Blacklisted domains: 56726
+# Last updated:        Sun Dec 18 06:00:33 UTC 2016
+# Blacklisted domains: 56727
 
 # <header>
 127.0.0.1       localhost 
@@ -16090,7 +16090,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 delb.mspaceads.com
 0.0.0.0 delb.myspace.com
 0.0.0.0 delb2.myspace.com
-0.0.0.0 delcell.com
 0.0.0.0 delcieloopticals.com
 0.0.0.0 delcommerce.com.br
 0.0.0.0 delconewsnetwork.us.intellitxt.com
@@ -40587,6 +40586,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 samsclub33.pochta.ru
 0.0.0.0 samsung3.solution.weborama.fr
 0.0.0.0 samsung6edge.pl
+0.0.0.0 samsungacr.com
+0.0.0.0 samsungads.com
 0.0.0.0 samsunggiveaways.com
 0.0.0.0 samsungkamerasistemleri.com
 0.0.0.0 samsungs6win.pl
