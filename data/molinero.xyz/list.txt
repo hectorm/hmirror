@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sun Dec 18 06:00:33 UTC 2016
-# Blacklisted domains: 56727
+# Last updated:        Mon Dec 19 06:00:37 UTC 2016
+# Blacklisted domains: 56760
 
 # <header>
 127.0.0.1       localhost 
@@ -2268,6 +2268,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ace-lb.advertising.com
 0.0.0.0 ace-tag.advertising.com
 0.0.0.0 ace.adoftheyear.com
+0.0.0.0 ace.jamba.pl
 0.0.0.0 acefightgear.com.au
 0.0.0.0 acento.com
 0.0.0.0 acer-laptoprepair.co.uk
@@ -9053,6 +9054,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 avs.com.pe
 0.0.0.0 avsads.com
 0.0.0.0 avskype.com
+0.0.0.0 avsxrcoq2q5fgrw2.13inb1.top
 0.0.0.0 avsxrcoq2q5fgrw2.2wfe60.top
 0.0.0.0 avsxrcoq2q5fgrw2.5m2n7x.top
 0.0.0.0 avsxrcoq2q5fgrw2.5s96fr.top
@@ -10434,6 +10436,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 bhgscrap.112.2o7.net
 0.0.0.0 bhosadwa.com
 0.0.0.0 bhpds.com
+0.0.0.0 bhpfirelex.pl
 0.0.0.0 bhq6bimdfwwo857xdurp.ru
 0.0.0.0 bhtotheventos.com.br
 0.0.0.0 bhullarmanpower.com
@@ -10972,6 +10975,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 bonnieerwin11.com
 0.0.0.0 bonniercorp.122.2o7.net
 0.0.0.0 bonomania.xyz
+0.0.0.0 bonomaniacy.wroclaw.pl
 0.0.0.0 bonorganics.com
 0.0.0.0 bonsy.waw.pl
 0.0.0.0 bontril.1.p2l.info
@@ -11914,6 +11918,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 c8t.at
 0.0.0.0 c9.amazingcounters.com
 0.0.0.0 c9.statcounter.com
+0.0.0.0 c9d.pl
 0.0.0.0 c9u.at
 0.0.0.0 ca.2.cqcounter.com
 0.0.0.0 ca.5.p2l.info
@@ -13426,6 +13431,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cinemastar.pl
 0.0.0.0 cinemaxy.com
 0.0.0.0 cineveo.com
+0.0.0.0 cinex.pl
 0.0.0.0 cinformacaopromo.ptblogs.com
 0.0.0.0 cinplex.oewabox.at
 0.0.0.0 cintasuci.com
@@ -14272,6 +14278,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 colors-app.pl
 0.0.0.0 columbahouse.com
 0.0.0.0 columbianhouse.com
+0.0.0.0 com--win.net
 0.0.0.0 com-2ib.net
 0.0.0.0 com-4us.net
 0.0.0.0 com-92t.net
@@ -15775,6 +15782,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 darmowe-doladowania.gsm.pl
 0.0.0.0 darmowe-doladowania.net.pl
 0.0.0.0 darmowe-doladowania.waw.pl
+0.0.0.0 darmowe-doladowania24.pl
 0.0.0.0 darmowe-doladowanie-telefonu.pl
 0.0.0.0 darmowe-doladowanie.pl
 0.0.0.0 darmowe-doladowanie8.pl
@@ -16840,6 +16848,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 doladujzadarmo.pl
 0.0.0.0 dolce-sportro.count.brat-online.ro
 0.0.0.0 dolcezzashop.com
+0.0.0.0 dolfexalto.com
 0.0.0.0 dollarade.com
 0.0.0.0 dollarcash.org
 0.0.0.0 dollarrentcar.com
@@ -17054,6 +17063,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 download.yesmessenger.com
 0.0.0.0 download.ytdownloader.com
 0.0.0.0 download.yuyu.com
+0.0.0.0 download000.olsztyn.pl
+0.0.0.0 download000.warszawa.pl
 0.0.0.0 download1.pacificpoker.com
 0.0.0.0 download10-25.ru
 0.0.0.0 download131bucket.com
@@ -19094,6 +19105,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 f-js1.spotsniper.ru
 0.0.0.0 f-nod1.adsniper.ru
 0.0.0.0 f-nod2.adsniper.ru
+0.0.0.0 f-podgladacz.com.pl
+0.0.0.0 f-podgladacz.pl
 0.0.0.0 f-scripts.co.nr
 0.0.0.0 f-sy.com
 0.0.0.0 f.about.com
@@ -19204,6 +19217,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 facbok.ml
 0.0.0.0 face--viewer.blogspot.com
 0.0.0.0 face-color.net.pl
+0.0.0.0 face-color.pl
 0.0.0.0 face-hijack.fr
 0.0.0.0 face-kolor.rdx.pl
 0.0.0.0 face-podgladacz-24h.pl
@@ -19533,6 +19547,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 fb-szpieg.pl
 0.0.0.0 fb-szpieguj.pl
 0.0.0.0 fb-viewer20.bo.pl
+0.0.0.0 fb-views.info.pl
+0.0.0.0 fb-views.net.pl
 0.0.0.0 fb-viwer.5v.pl
 0.0.0.0 fb-znajomi.pl
 0.0.0.0 fb.cashtraffic.com
@@ -19819,6 +19835,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 fflotte.oewabox.at
 0.0.0.0 ffoqr3ug7m726zou.04hyxg.top
 0.0.0.0 ffoqr3ug7m726zou.0v7hry.bid
+0.0.0.0 ffoqr3ug7m726zou.13inb1.top
 0.0.0.0 ffoqr3ug7m726zou.1feasu.top
 0.0.0.0 ffoqr3ug7m726zou.2fu7bc.top
 0.0.0.0 ffoqr3ug7m726zou.2msuuj.top
@@ -20553,6 +20570,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 fnf-industrietechnk.com
 0.0.0.0 fnjyygovdjyemga.xyz
 0.0.0.0 fnlpic.com
+0.0.0.0 fnmi62725zfti2vy.13inb1.top
 0.0.0.0 fnmi62725zfti2vy.o08ra6.top
 0.0.0.0 fnmi62725zfti2vy.p9wol3.top
 0.0.0.0 fnmi62725zfti2vy.vwgxhm.bid
@@ -23136,6 +23154,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 gotofreehack24.com
 0.0.0.0 gotong-royong-utrecht.nl
 0.0.0.0 gotovacations.pk
+0.0.0.0 gotowka-doreki.eu
+0.0.0.0 gotowkatutaj.pl
 0.0.0.0 gottabemobile.us.intellitxt.com
 0.0.0.0 gouddc.com
 0.0.0.0 goulburnfairtrade.com.au
@@ -25292,6 +25312,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 i-lookup.com
 0.0.0.0 i-mobi.pl
 0.0.0.0 i-optics.com.ua
+0.0.0.0 i-payment.pl
 0.0.0.0 i-pokemon-go.pl
 0.0.0.0 i-see.co.zw
 0.0.0.0 i-solutions.cz
@@ -27111,6 +27132,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 jakeludington.us.intellitxt.com
 0.0.0.0 jakklong.com
 0.0.0.0 jam-kim.ru
+0.0.0.0 jamba.pl
 0.0.0.0 jambocast.com
 0.0.0.0 jambongrup.com
 0.0.0.0 james.adbutler.de
@@ -28308,6 +28330,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 kolodziak.pl
 0.0.0.0 kolopopo.com
 0.0.0.0 kolor-fejsa24.pl
+0.0.0.0 kolorfacebooka24.blogspot.com
 0.0.0.0 kolorowanka.za.pl
 0.0.0.0 kolorowefb.pl
 0.0.0.0 koloroweinformacje.w8w.pl
@@ -34751,6 +34774,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 odc.starwave.com
 0.0.0.0 odchlone-serv.myjino.ru
 0.0.0.0 odchudzaniezpasja.pl
+0.0.0.0 oddam-yorkii.pl
 0.0.0.0 oddbanner.bet-at-home.com
 0.0.0.0 oddcustoms.co.za
 0.0.0.0 odds.optimizely.com
@@ -35484,6 +35508,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ortho-tri-cyclen.1.p2l.info
 0.0.0.0 orthodoxanswers.gr
 0.0.0.0 ortopediamigojara.cl
+0.0.0.0 oryginalneubrania.com.pl
 0.0.0.0 os-paypol.co.uk
 0.0.0.0 osapeninsulasportfishing.com
 0.0.0.0 osawa.be
@@ -36381,6 +36406,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pdstexas.net
 0.0.0.0 pdtronto.com
 0.0.0.0 pe.5.p2l.info
+0.0.0.0 pe2cku7pebkpgeko.13inb1.top
 0.0.0.0 pe2cku7pebkpgeko.582h0n.top
 0.0.0.0 pe2cku7pebkpgeko.5hmjh7.bid
 0.0.0.0 pe2cku7pebkpgeko.ahovbr.top
@@ -37397,6 +37423,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 polymetal.ro
 0.0.0.0 pomeranian99.sitetracker.com
 0.0.0.0 pomfjaunvb.scrapper-site.net
+0.0.0.0 pomocdlalenki.pl
 0.0.0.0 pomosh-stydenty.ru
 0.0.0.0 ponadkreatywnie.pl
 0.0.0.0 ponfac.com
@@ -37608,6 +37635,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 poznajdate.pl
 0.0.0.0 poznajfb.pl
 0.0.0.0 poznajkoloryfb.pl
+0.0.0.0 pozyczka-minutowa.pl
 0.0.0.0 pp-authen-security.com
 0.0.0.0 pp-ger-de.germanger-verifyanfrage.ru
 0.0.0.0 pp-kundensicherheit.com
@@ -43053,6 +43081,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 spotxchange.com
 0.0.0.0 spotygen.com
 0.0.0.0 spravki-online.hit.bg
+0.0.0.0 sprawdz-date.pl
 0.0.0.0 sprawdz-ogladaj.bo.pl
 0.0.0.0 sprawdz-to.cba.pl
 0.0.0.0 sprawdz-to.ga
@@ -43067,6 +43096,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sprawdzkto.5x.pl
 0.0.0.0 sprawdzktopodgglada.blogspot.com
 0.0.0.0 sprawdzonagotowka.pl
+0.0.0.0 sprawdzone-doladowania.pl
 0.0.0.0 sprawdzswojeiq.com.pl
 0.0.0.0 sprawdzto.5x.pl
 0.0.0.0 spraywiredirect.com
@@ -44610,6 +44640,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 szpiegujnafb.pl
 0.0.0.0 sztosinternet.pl
 0.0.0.0 szukajfilmcda.online
+0.0.0.0 szybkapozyczkateraz.pl
 0.0.0.0 szybki-przeglad.blogspot.com
 0.0.0.0 szybkiefilmy.pl
 0.0.0.0 szybkieseriale.pl
@@ -48538,6 +48569,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 vexerrais.net
 0.0.0.0 vexplay.com
 0.0.0.0 vf7.soundsecureredir.com
+0.0.0.0 vfastdownload.com
 0.0.0.0 vfdeprod.amobee.com
 0.0.0.0 vffzemb.tk
 0.0.0.0 vfm.org.uk
@@ -54498,6 +54530,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.tw.vipbeanfun.com
 0.0.0.0 www.twairlines.com
 0.0.0.0 www.two-of-us.at
+0.0.0.0 www.twoj-voucher.com
 0.0.0.0 www.twojnajlepszydeal.pl
 0.0.0.0 www.twojprofil.eu
 0.0.0.0 www.twskype.com
