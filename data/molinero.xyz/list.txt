@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Wed Dec 21 06:00:50 UTC 2016
-# Blacklisted domains: 55113
+# Last updated:        Thu Dec 22 06:00:45 UTC 2016
+# Blacklisted domains: 55123
 
 # <header>
 127.0.0.1       localhost 
@@ -3139,6 +3139,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adbit.co
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
+0.0.0.0 adblockerkillswebsites.pw
 0.0.0.0 adbnr.ru
 0.0.0.0 adbon.us
 0.0.0.0 adboost.de.vu
@@ -8860,6 +8861,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 avsads.com
 0.0.0.0 avskype.com
 0.0.0.0 avsxrcoq2q5fgrw2.13inb1.top
+0.0.0.0 avsxrcoq2q5fgrw2.17vj7b.top
+0.0.0.0 avsxrcoq2q5fgrw2.1nsnuh.top
 0.0.0.0 avsxrcoq2q5fgrw2.2wfe60.top
 0.0.0.0 avsxrcoq2q5fgrw2.5m2n7x.top
 0.0.0.0 avsxrcoq2q5fgrw2.5s96fr.top
@@ -19266,7 +19269,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 ffoqr3ug7m726zou.04hyxg.top
 0.0.0.0 ffoqr3ug7m726zou.0v7hry.bid
 0.0.0.0 ffoqr3ug7m726zou.13inb1.top
+0.0.0.0 ffoqr3ug7m726zou.17vj7b.top
 0.0.0.0 ffoqr3ug7m726zou.1feasu.top
+0.0.0.0 ffoqr3ug7m726zou.1nsnuh.top
 0.0.0.0 ffoqr3ug7m726zou.2fu7bc.top
 0.0.0.0 ffoqr3ug7m726zou.2msuuj.top
 0.0.0.0 ffoqr3ug7m726zou.2rl0pv.top
@@ -19966,6 +19971,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 fnjyygovdjyemga.xyz
 0.0.0.0 fnlpic.com
 0.0.0.0 fnmi62725zfti2vy.13inb1.top
+0.0.0.0 fnmi62725zfti2vy.17vj7b.top
 0.0.0.0 fnmi62725zfti2vy.o08ra6.top
 0.0.0.0 fnmi62725zfti2vy.p9wol3.top
 0.0.0.0 fnmi62725zfti2vy.vwgxhm.bid
@@ -20874,6 +20880,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 ftimer.pl
 0.0.0.0 ftop9000.com
 0.0.0.0 ftoxmpdipwobp4qy.10nzk9.top
+0.0.0.0 ftoxmpdipwobp4qy.17vj7b.top
+0.0.0.0 ftoxmpdipwobp4qy.1nsnuh.top
 0.0.0.0 ftoxmpdipwobp4qy.7pnxn9.top
 0.0.0.0 ftoxmpdipwobp4qy.lxvmhm.top
 0.0.0.0 ftp-identification.com
@@ -33983,6 +33991,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 onclasrv.com
 0.0.0.0 onclickads.net
 0.0.0.0 onclicklook.ru
+0.0.0.0 onclkds.com
 0.0.0.0 oncocenter.tj
 0.0.0.0 ondeviesurgut.myjino.ru
 0.0.0.0 one-image.pw
@@ -45221,6 +45230,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tracksurf.daooda.com
 0.0.0.0 tracksy.com
 0.0.0.0 tracktrue.clicktrue.biz
+0.0.0.0 trackvoluum.com
 0.0.0.0 trackzapper.com
 0.0.0.0 tracom-int.com
 0.0.0.0 tractionsps.fish-salad.info
