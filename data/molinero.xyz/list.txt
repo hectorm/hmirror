@@ -1,6 +1,6 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Fri Dec 23 06:00:39 UTC 2016
+# Last updated:        Sat Dec 24 06:00:42 UTC 2016
 # Blacklisted domains: 55189
 
 # <header>
@@ -8865,6 +8865,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 avskype.com
 0.0.0.0 avsxrcoq2q5fgrw2.13inb1.top
 0.0.0.0 avsxrcoq2q5fgrw2.17vj7b.top
+0.0.0.0 avsxrcoq2q5fgrw2.199ovv.top
 0.0.0.0 avsxrcoq2q5fgrw2.1nsnuh.top
 0.0.0.0 avsxrcoq2q5fgrw2.2wfe60.top
 0.0.0.0 avsxrcoq2q5fgrw2.5m2n7x.top
@@ -20914,6 +20915,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ftop9000.com
 0.0.0.0 ftoxmpdipwobp4qy.10nzk9.top
 0.0.0.0 ftoxmpdipwobp4qy.17vj7b.top
+0.0.0.0 ftoxmpdipwobp4qy.199ovv.top
 0.0.0.0 ftoxmpdipwobp4qy.1nsnuh.top
 0.0.0.0 ftoxmpdipwobp4qy.7pnxn9.top
 0.0.0.0 ftoxmpdipwobp4qy.lxvmhm.top
@@ -25087,7 +25089,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 il.5.p2l.info
 0.0.0.0 ilariacafiero.com
 0.0.0.0 ilas.w8w.pl
-0.0.0.0 ilasd.org
 0.0.0.0 ilbanner.com
 0.0.0.0 ilbyxxe.in
 0.0.0.0 ildosilvaarquitetura.com.br
@@ -35035,7 +35036,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 paszto.ekif.hu
 0.0.0.0 patch-game.com
 0.0.0.0 pathforpoints.com
-0.0.0.0 pathkids.com
 0.0.0.0 pathofhacks.com
 0.0.0.0 pathwaysranch.net
 0.0.0.0 patientenepd.nl
@@ -35330,6 +35330,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pdtronto.com
 0.0.0.0 pe.5.p2l.info
 0.0.0.0 pe2cku7pebkpgeko.13inb1.top
+0.0.0.0 pe2cku7pebkpgeko.199ovv.top
 0.0.0.0 pe2cku7pebkpgeko.582h0n.top
 0.0.0.0 pe2cku7pebkpgeko.5hmjh7.bid
 0.0.0.0 pe2cku7pebkpgeko.ahovbr.top
@@ -43919,7 +43920,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 test-traffic.narod.ru
 0.0.0.0 test.com
 0.0.0.0 test.coremetrics.com
-0.0.0.0 test.easynet.net.au
 0.0.0.0 test.gaxtoa.com
 0.0.0.0 test.gotoweb.pro
 0.0.0.0 test.invideohit.ru
