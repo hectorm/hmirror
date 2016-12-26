@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Dec 24 06:00:42 UTC 2016
-# Blacklisted domains: 55189
+# Last updated:        Sun Dec 25 06:00:42 UTC 2016
+# Blacklisted domains: 55205
 
 # <header>
 127.0.0.1       localhost 
@@ -16208,6 +16208,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 diyshuttershop.co.uk
 0.0.0.0 dizinar.ir
 0.0.0.0 dizyhackz.com
+0.0.0.0 dizzcloud.com
 0.0.0.0 dj-cruse.de
 0.0.0.0 dj-sx.com
 0.0.0.0 dj3.com.pl
@@ -23861,6 +23862,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hertz.122.2o7.net
 0.0.0.0 hertzsales.com
 0.0.0.0 herwehaveit.0fees.us
+0.0.0.0 heshenkj.cn
 0.0.0.0 het-havenhuis.nl
 0.0.0.0 heticdocs.org
 0.0.0.0 hetmangniew.friko.pl
@@ -41664,6 +41666,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 speedchiller.com
 0.0.0.0 speedclicks.ero-advertising.com
 0.0.0.0 speedcounts.com
+0.0.0.0 speedcurve.com
 0.0.0.0 speedex.me
 0.0.0.0 speedfile.info
 0.0.0.0 speedguide.us.intellitxt.com
@@ -46872,6 +46875,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 v2knits.in
 0.0.0.0 v2mlbrown.com
 0.0.0.0 v2mlyellow.com
+0.0.0.0 v2profit.com
 0.0.0.0 v3.cnzz.com
 0.0.0.0 v3.stat.ku6.com
 0.0.0.0 v3.toolbar.soso.com
@@ -54926,7 +54930,19 @@ ff02::3         ip6-allhosts
 0.0.0.0 zermeo.com
 0.0.0.0 zeroclan.net
 0.0.0.0 zeroclick.sendori.com
+0.0.0.0 zeroredirect.com
+0.0.0.0 zeroredirect1.com
+0.0.0.0 zeroredirect10.com
+0.0.0.0 zeroredirect11.com
+0.0.0.0 zeroredirect12.com
 0.0.0.0 zeroredirect2.com
+0.0.0.0 zeroredirect3.com
+0.0.0.0 zeroredirect4.com
+0.0.0.0 zeroredirect5.com
+0.0.0.0 zeroredirect6.com
+0.0.0.0 zeroredirect7.com
+0.0.0.0 zeroredirect8.com
+0.0.0.0 zeroredirect9.com
 0.0.0.0 zerw.org
 0.0.0.0 zetaltda.com.br
 0.0.0.0 zetes.vdsinside.com
