@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 24 Dec 2016 at 21:16:49 GMT
+# Last updated: Wed, 28 Dec 2016 at 01:05:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3814,6 +3814,7 @@
 #</maybe-ads>
 
 # ads
+127.0.0.1
 127.0.0.1 0101011.com
 127.0.0.1 0427d7.se
 127.0.0.1 0d79ed.r.axf8.net
@@ -3826,6 +3827,7 @@
 127.0.0.1 121media.com
 127.0.0.1 123.fluxads.com
 127.0.0.1 123specialgifts.com
+127.0.0.1 130.211.230.53
 #127.0.0.1 140cc.v.fwmrm.net	#interferes with Comedy Central videos
 127.0.0.1 1.adbrite.com
 127.0.0.1 1.allyes.com.cn
@@ -3871,6 +3873,7 @@
 127.0.0.1 86get.joy.cn
 127.0.0.1 86log.joy.cn
 127.0.0.1 888casino.com
+127.0.0.1 8ruzz.allcpa.006238.xyz
 127.0.0.1 961.com
 127.0.0.1 a01.gestionpub.com
 127.0.0.1 a.0day.kiev.ua
@@ -6344,6 +6347,7 @@
 127.0.0.1 b34rightym.com
 127.0.0.1 babanetwork.adk2x.com
 127.0.0.1 babycenter.tt.omtrdc.net
+127.0.0.1 backoffice.evobinary.com
 127.0.0.1 b.admob.com
 127.0.0.1 b.ads2.msn.com
 127.0.0.1 badservant.guj.de
@@ -6588,6 +6592,7 @@
 127.0.0.1 buttcandy.com
 127.0.0.1 buttons.googlesyndication.com
 127.0.0.1 buzzbox.buzzfeed.com
+127.0.0.1 buzzonclick.com
 127.0.0.1 bwp.lastfm.com.com
 127.0.0.1 bwp.news.com
 127.0.0.1 c11370896.c.youradexchange.com
@@ -6918,6 +6923,7 @@
 127.0.0.1 cnt.trafficstars.com
 127.0.0.1 code2.adtlgc.com
 127.0.0.1 code.adtlgc.com
+127.0.0.1 code.vihub.ru
 127.0.0.1 coffeehausblog.com
 127.0.0.1 coinurl.com
 127.0.0.1 collectiveads.net
@@ -7499,6 +7505,7 @@
 127.0.0.1 getacooltv.com
 127.0.0.1 getafreeiphone.org
 127.0.0.1 getagiftonline.com
+127.0.0.1 getmyads24.com
 127.0.0.1 getmyfreebabystuff.com
 127.0.0.1 getmyfreegear.com
 127.0.0.1 getmyfreegiftcard.com
@@ -7561,6 +7568,7 @@
 127.0.0.1 goodbookbook.com
 127.0.0.1 goodsblock.marketgid.com
 127.0.0.1 goody-garage.com
+127.0.0.1 googlewordpad.info
 127.0.0.1 go.onclasrv.com
 127.0.0.1 go.padsdelivery.com
 127.0.0.1 go.padstm.com
@@ -8057,7 +8065,9 @@
 127.0.0.1 logger.virgul.com
 127.0.0.1 login.linkpulse.com
 127.0.0.1 log.olark.com
+127.0.0.1 log.pladform.ru
 127.0.0.1 logs.spilgames.com
+127.0.0.1 log.tagcade.com
 127.0.0.1 l.ohmyad.co
 127.0.0.1 looksmartcollect.247realmedia.com
 127.0.0.1 louisvil.app.ur.gcion.com
@@ -9004,6 +9014,7 @@
 127.0.0.1 rpc-php.trafficfactory.biz
 127.0.0.1 rpc.trafficfactory.biz
 127.0.0.1 rp.hit.gemius.pl
+127.0.0.1 rpm.newrelisc.com
 127.0.0.1 rqtrk.eu
 127.0.0.1 r.reklama.biz
 127.0.0.1 rs1.qq.com
@@ -9512,6 +9523,7 @@
 127.0.0.1 tag.regieci.com
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tags.hypeads.org
+127.0.0.1 tags.tagcade.com
 127.0.0.1 tags.toroadvertising.com
 127.0.0.1 tag.webcompteur.com
 127.0.0.1 tag.yieldoptimizer.com
@@ -9648,6 +9660,7 @@
 127.0.0.1 tradem.com
 127.0.0.1 traffic.adxprts.com
 127.0.0.1 trafficbee.com
+127.0.0.1 trafficnetworkads24.com
 127.0.0.1 traffic.outbrain.com
 127.0.0.1 trafficrevenue.net
 127.0.0.1 traffictraders.com
@@ -10243,6 +10256,7 @@
 127.0.0.1 www.awesomevipoffers.com
 #127.0.0.1 www.awin1.com	# Causes problems with British Airways
 127.0.0.1 www.awltovhc.com	#qksrv
+127.0.0.1 www.backoffice.evobinary.com
 127.0.0.1 www.baiduccdn.org
 127.0.0.1 www.baiducdn.org
 127.0.0.1 www.bananacashback.com
@@ -10298,6 +10312,7 @@
 127.0.0.1 www.buwobarun.cn
 127.0.0.1 www.buycheapadvertising.com
 127.0.0.1 www.buyhitscheap.com
+127.0.0.1 www.buzzonclick.com
 127.0.0.1 www.cam4.fr
 127.0.0.1 www.canuckmethods.com
 127.0.0.1 www.capath.com
@@ -10499,6 +10514,7 @@
 127.0.0.1 www.getacooltv.com
 127.0.0.1 www.getagiftonline.com
 127.0.0.1 www.getloan.com
+127.0.0.1 www.getmyads24.com
 127.0.0.1 www.getmyfreebabystuff.com
 127.0.0.1 www.getmyfreegear.com
 127.0.0.1 www.getmyfreegiftcard.com
@@ -10520,6 +10536,7 @@
 127.0.0.1 www.gofreegifts.com
 127.0.0.1 www.goody-garage.com
 127.0.0.1 www.googleadservices.com
+127.0.0.1 www.googlewordpad.info
 127.0.0.1 www.gopopup.com
 127.0.0.1 www.grabbit-rabbit.com
 127.0.0.1 www.greasypalm.com
@@ -10873,6 +10890,7 @@
 127.0.0.1 www.tracklead.net
 127.0.0.1 www.tradeadexchange.com
 127.0.0.1 www.tradem.com
+127.0.0.1 www.trafficnetworkads24.com
 127.0.0.1 www.trafficrevenue.net
 127.0.0.1 www.traffictrader.net
 127.0.0.1 www.traffictraders.com
