@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Dec 31 06:00:40 UTC 2016
-# Blacklisted domains: 55369
+# Last updated:        Sun Jan  1 06:00:44 UTC 2017
+# Blacklisted domains: 55371
 
 # <header>
 127.0.0.1       localhost 
@@ -416,6 +416,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 2014reltimes.ru
 0.0.0.0 2014tools.com
 0.0.0.0 2017rev1ews.com
+0.0.0.0 201ddlyh.com
 0.0.0.0 2020careyway.com
 0.0.0.0 203kitchen.com
 0.0.0.0 20585485p.rfihub.com
@@ -49033,6 +49034,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 wmserver.net
 0.0.0.0 wmtanhua.com
 0.0.0.0 wmte3.onlinenewgreecetrips.xyz
+0.0.0.0 wmunigeria.org
 0.0.0.0 wnt-40.seeweb.it
 0.0.0.0 woche.oewabox.at
 0.0.0.0 wohnnet.oewabox.at
