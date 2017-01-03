@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 28 Dec 2016 at 23:10:27 GMT
+# Last updated: Mon, 02 Jan 2017 at 08:08:17 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6726,6 +6726,7 @@
 127.0.0.1 cdn.freejlo.com
 127.0.0.1 cdn.freelac.com
 127.0.0.1 cdn.freelev.com
+127.0.0.1 cdn.geni.us
 127.0.0.1 cdn.go.arbo.bbelements.com
 127.0.0.1 cdn.go.arbopl.bbelements.com
 127.0.0.1 cdn.go.cz.bbelements.com
@@ -7008,6 +7009,7 @@
 127.0.0.1 creative.ad131m.com
 127.0.0.1 creative.adshuffle.com
 127.0.0.1 creative.ak.facebook.com
+127.0.0.1 creative.medianexusnetwork.com                                                                   
 127.0.0.1 creatives.livejasmin.com
 127.0.0.1 creatives.rgadvert.com
 127.0.0.1 creatrixads.com
@@ -7091,6 +7093,7 @@
 127.0.0.1 dashgreen.online
 127.0.0.1 data0.bell.ca
 127.0.0.1 data.flurry.com
+127.0.0.1 data.namesakeoscilloscopemarquis.com
 127.0.0.1 date.ventivmedia.com
 127.0.0.1 datingadvertising.com
 127.0.0.1 dawnnationaladvertiser.com
@@ -7578,6 +7581,7 @@
 127.0.0.1 got2goshop.com
 127.0.0.1 goto.mystreamdelivery.xyz
 127.0.0.1 goto.trafficmultiplier.com
+127.0.0.1 go.trkreward.com                                                                                 
 127.0.0.1 go.verymuchad.com
 127.0.0.1 gozatar.com
 127.0.0.1 gozing.directtrack.com
@@ -8696,9 +8700,11 @@
 127.0.0.1 pix522.adtech.fr
 127.0.0.1 pix522.adtech.us
 127.0.0.1 pixel.adsafeprotected.com
+127.0.0.1 pixel.adssafeprotected.com                                                                       
 127.0.0.1 pixel.everesttech.net
 127.0.0.1 pixel.mathtag.com
 #127.0.0.1 pixel.quantserve.com		# Interferes with Video on CBS and Comcast
+127.0.0.1 pixel-secure.solvemedia.com                                                                      
 127.0.0.1 pixel.sitescout.com
 127.0.0.1 pixel.watch
 127.0.0.1 pix.revsci.net
@@ -8731,6 +8737,7 @@
 127.0.0.1 popclick.net
 127.0.0.1 popmycash.com
 127.0.0.1 poponclick.com
+127.0.0.1 pop.redirect.adsjudo.com                                                                         
 127.0.0.1 popunder.adsrevenue.net
 127.0.0.1 popunder.loading-delivery1.com
 127.0.0.1 popunder.paypopup.com
@@ -9654,6 +9661,7 @@
 127.0.0.1 track.tooplay.com
 127.0.0.1 trackvoluum.com
 127.0.0.1 track.vscash.com
+127.0.0.1 track.whitespace57.com                                                                           
 127.0.0.1 tradearabia.advertserve.com
 127.0.0.1 tradefx.advertserve.com
 127.0.0.1 tradem.com
@@ -9831,6 +9839,8 @@
 127.0.0.1 vnumedia04.webtrekk.net
 127.0.0.1 vocal-mess.com
 127.0.0.1 vodafoneit.solution.weborama.fr
+127.0.0.1 voluumtracker1.com                                                                               
+127.0.0.1 voluumtracker.com                                                                                
 127.0.0.1 voluumtrk2.com
 127.0.0.1 voluumtrk3.com
 127.0.0.1 voluumtrk.com
