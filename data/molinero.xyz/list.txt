@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Mon Jan  2 06:02:12 UTC 2017
-# Blacklisted domains: 55371
+# Last updated:        Tue Jan  3 06:00:40 UTC 2017
+# Blacklisted domains: 55475
 
 # <header>
 127.0.0.1       localhost 
@@ -7653,6 +7653,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 angryhack.com
 0.0.0.0 angrys2.co.uk
 0.0.0.0 angryshippflyforok.su
+0.0.0.0 angrystake.com
+0.0.0.0 angrystakes.com
 0.0.0.0 angtr.112.2o7.net
 0.0.0.0 angts.112.2o7.net
 0.0.0.0 angvac.112.2o7.net
@@ -10437,7 +10439,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 bj02.cww.com
 0.0.0.0 bj04.com
 0.0.0.0 bj7kpvd.gandjaltilogoki.com
-0.0.0.0 bjaimu.cn
 0.0.0.0 bjarnum.eu
 0.0.0.0 bjdenon.com
 0.0.0.0 bjdingyedianli.com
@@ -10554,6 +10555,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 blisstree.us.intellitxt.com
 0.0.0.0 blitzadbg.hit.gemius.pl
 0.0.0.0 blitzbg.adocean.pl
+0.0.0.0 blitzcsgo.com
 0.0.0.0 blixiaobao1688.com
 0.0.0.0 bllhicksco.com
 0.0.0.0 blockchaln.co.com
@@ -12289,6 +12291,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdn.freelac.com
 0.0.0.0 cdn.freelev.com
 0.0.0.0 cdn.g.promosrv.com
+0.0.0.0 cdn.geni.us
 0.0.0.0 cdn.go.arbo.bbelements.com
 0.0.0.0 cdn.go.arbopl.bbelements.com
 0.0.0.0 cdn.go.cz.bbelements.com
@@ -14805,6 +14808,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 crawfordballs.com
 0.0.0.0 crawlability.com
 0.0.0.0 crazy-files.com
+0.0.0.0 crazy-jackpots.com
 0.0.0.0 crazyegg.com
 0.0.0.0 crazymasya.com
 0.0.0.0 crazypopups.com
@@ -14831,6 +14835,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 creative.cc-dt.com
 0.0.0.0 creative.clicksor.com
+0.0.0.0 creative.medianexusnetwork.com
 0.0.0.0 creative.nscash.com
 0.0.0.0 creative.whi.co.nz
 0.0.0.0 creative.wwwpromoter.com
@@ -14935,53 +14940,120 @@ ff02::3         ip6-allhosts
 0.0.0.0 cs6serial.net
 0.0.0.0 cs6serialcrack.com
 0.0.0.0 csagov.jinanyuz.com
+0.0.0.0 csbets.us
 0.0.0.0 csbjkj.com
+0.0.0.0 csbol.pro
 0.0.0.0 csc.beap.ad.yieldmanager.net
 0.0.0.0 csc.beap.bc.yahoo.com
 0.0.0.0 csccabouco.com
 0.0.0.0 cscomnsinc.tk
 0.0.0.0 csdian.net
+0.0.0.0 csdope.com
 0.0.0.0 csearsas.com
 0.0.0.0 csegurosural.com
 0.0.0.0 csepelihaziko.hu
 0.0.0.0 cserver.mii.instacontent.net
+0.0.0.0 csfastbets.com
 0.0.0.0 csgiveaways.com
 0.0.0.0 csgo--sxe.com
+0.0.0.0 csgo-amazing.com
+0.0.0.0 csgo-boss.com
+0.0.0.0 csgo-doit.com
 0.0.0.0 csgo-drop.com
 0.0.0.0 csgo-hacks.com
 0.0.0.0 csgo-inject.com
 0.0.0.0 csgo-injected.com
+0.0.0.0 csgo-jackpot.net
 0.0.0.0 csgo-protected.ru
 0.0.0.0 csgo-secure.com
 0.0.0.0 csgo-skiny.com.pl
 0.0.0.0 csgo-star.com
 0.0.0.0 csgo-sxe.net
 0.0.0.0 csgo-tournament.com
+0.0.0.0 csgo2casino.com
+0.0.0.0 csgo2happy.com
+0.0.0.0 csgo2lotto.com
+0.0.0.0 csgo2lucky.com
 0.0.0.0 csgoaimbot.com
+0.0.0.0 csgoallbets.com
+0.0.0.0 csgobigbet.com
+0.0.0.0 csgoboom.net
+0.0.0.0 csgobulls.com
+0.0.0.0 csgocake.com
 0.0.0.0 csgocasino-winning.su
 0.0.0.0 csgocasino.su
 0.0.0.0 csgocirclepunkty.pl
+0.0.0.0 csgocolt.com
+0.0.0.0 csgocute.com
+0.0.0.0 csgodc.com
+0.0.0.0 csgodolo.com
+0.0.0.0 csgoelect.com
+0.0.0.0 csgofine.com
+0.0.0.0 csgofireboom.com
+0.0.0.0 csgofirewin.com
+0.0.0.0 csgofortunes.com
+0.0.0.0 csgofrozl.com
+0.0.0.0 csgofrozy.com
+0.0.0.0 csgofunfun.com
+0.0.0.0 csgofunspin.com
+0.0.0.0 csgofurious.net
 0.0.0.0 csgogivers.com
+0.0.0.0 csgoguesswin.com
+0.0.0.0 csgohead.pro
 0.0.0.0 csgoioung.com
 0.0.0.0 csgoiunge.com
+0.0.0.0 csgojack.net
 0.0.0.0 csgojackpot-winning.su
 0.0.0.0 csgojackpot.be
 0.0.0.0 csgojackpot.co.uk
 0.0.0.0 csgojackpot.im
 0.0.0.0 csgojackpot.su
+0.0.0.0 csgoleep.com
+0.0.0.0 csgoletswin.com
+0.0.0.0 csgoletwin.com
+0.0.0.0 csgolightspot.com
 0.0.0.0 csgoluckywheel.com
+0.0.0.0 csgomakeyourbet.com
+0.0.0.0 csgomezo.com
+0.0.0.0 csgomuscles.com
+0.0.0.0 csgonight.pro
+0.0.0.0 csgooneitems.com
+0.0.0.0 csgoperry.com
+0.0.0.0 csgoplaytowin.com
 0.0.0.0 csgoproskins.com
+0.0.0.0 csgoravebet.com
+0.0.0.0 csgorealwin.com
+0.0.0.0 csgorider.com
+0.0.0.0 csgorsv.com
+0.0.0.0 csgoshakeit.com
 0.0.0.0 csgoshuffle.co.uk
 0.0.0.0 csgoshuffle.in
 0.0.0.0 csgoshuffle.su
 0.0.0.0 csgoskinsz.com
+0.0.0.0 csgoskrill.com
+0.0.0.0 csgoslayer.com
+0.0.0.0 csgospare.com
+0.0.0.0 csgospice.com
 0.0.0.0 csgosxe.com
+0.0.0.0 csgotape.com
+0.0.0.0 csgotopplay.com
+0.0.0.0 csgottr.com
+0.0.0.0 csgoturbobets.com
+0.0.0.0 csgovulcan.net
+0.0.0.0 csgowake.net
 0.0.0.0 csgoweaponskins.net
+0.0.0.0 csgowindrop.com
+0.0.0.0 csgowix.com
+0.0.0.0 csgowrap.pro
+0.0.0.0 csgoyourbets.com
+0.0.0.0 csgoyourpots.com
+0.0.0.0 csgreatwin.com
 0.0.0.0 csgu1.yourlatestphonespecials.xyz
 0.0.0.0 csh.actiondesk.com
 0.0.0.0 cshacks.org
 0.0.0.0 cshacks.partycat.us
 0.0.0.0 csharpcorner.us.intellitxt.com
+0.0.0.0 cshotwin.com
 0.0.0.0 csm.rotator.hadj7.adjuggler.net
 0.0.0.0 csma95349.analytics.edgesuite.net
 0.0.0.0 csmail.iggcn.com
@@ -14991,6 +15063,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csp.fastclick.net
 0.0.0.0 cspix.media6degrees.com
 0.0.0.0 csplane.com
+0.0.0.0 cspokemon.com
 0.0.0.0 csr.onet.pl
 0.0.0.0 csrj-ah.rau.ro
 0.0.0.0 csrracingcheats.gimmehacks.us
@@ -14999,6 +15072,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 csug8.updatedonlinepestinfo.xyz
 0.0.0.0 csuh5.newshoppingbonuspoints.xyz
 0.0.0.0 cswilliamsburg.com
+0.0.0.0 cswin4bet.com
+0.0.0.0 csxpot.com
 0.0.0.0 ct.5.p2l.info
 0.0.0.0 ct1.addthis.com
 0.0.0.0 ct2.comclick.com
@@ -15492,6 +15567,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 data.kataweb.it
 0.0.0.0 data.mobclix.com
 0.0.0.0 data.nal.usda.gov
+0.0.0.0 data.namesakeoscilloscopemarquis.com
 0.0.0.0 data.queryly.com
 0.0.0.0 data.ritzcarlton.com
 0.0.0.0 data.webads.co.nz
@@ -18466,6 +18542,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 exasked.com
 0.0.0.0 exata-contabil.com.br
 0.0.0.0 exawn.xyz
+0.0.0.0 exbeting.com
 0.0.0.0 excel-cars.co.uk
 0.0.0.0 excellenthacks.com
 0.0.0.0 excellentmovies.net
@@ -18900,6 +18977,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 faiz-e-mushtaq.com
 0.0.0.0 fajarsamudra.id
 0.0.0.0 fajdmr.com
+0.0.0.0 faker322.ru
 0.0.0.0 falajesus.com.br
 0.0.0.0 falaliee.cn
 0.0.0.0 falalioo.cn
@@ -20041,6 +20119,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 flyingmag.com.122.2o7.net
 0.0.0.0 flyingmag.us.intellitxt.com
 0.0.0.0 flymedia-mladnet.medialand.ru
+0.0.0.0 flyplaycsgo.com
 0.0.0.0 flyskyhawk.com
 0.0.0.0 fm.3tn.com.br
 0.0.0.0 fm1111.fr
@@ -22373,6 +22452,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 go.stirshakead.com
 0.0.0.0 go.straightresults.com
 0.0.0.0 go.todolize.com
+0.0.0.0 go.trkreward.com
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go.vrvm.com
 0.0.0.0 go.youlamedia.com
@@ -26429,9 +26509,11 @@ ff02::3         ip6-allhosts
 0.0.0.0 jackofallmasterofnone.com
 0.0.0.0 jackpot.112.2o7.net
 0.0.0.0 jackpotfutures.com
+0.0.0.0 jackpothard.com
 0.0.0.0 jackpotjoy.freeproductgiveaway.info
 0.0.0.0 jackpotwinner.info
 0.0.0.0 jackshigh.net
+0.0.0.0 jackskins.com
 0.0.0.0 jacksonsun.us.intellitxt.com
 0.0.0.0 jacksop9.com
 0.0.0.0 jacob.aa978.com
@@ -28968,6 +29050,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 lookup64.in.net
 0.0.0.0 lookup86.in.net
 0.0.0.0 loomarnia.com
+0.0.0.0 looneyskins.com
 0.0.0.0 loooking.biz
 0.0.0.0 looool.pl
 0.0.0.0 loopfiles.com
@@ -29126,6 +29209,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 luckyhalo.info
 0.0.0.0 luckyladyoilcompany.com
 0.0.0.0 luckypawexchange.com
+0.0.0.0 luckypotty.com
 0.0.0.0 luckypure.info
 0.0.0.0 luckys-fashion.com
 0.0.0.0 luckyshine.info
@@ -30496,6 +30580,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 megavision.com.mx
 0.0.0.0 megawerbung.de
 0.0.0.0 meghalomania.com
+0.0.0.0 megogorewards.net
 0.0.0.0 mehirim.com
 0.0.0.0 mehrbastan.com
 0.0.0.0 mei-mei.jp
@@ -35970,6 +36055,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pixalilyfoundation.com
 0.0.0.0 pixcheats.com
 0.0.0.0 pixel-geo.prfct.co
+0.0.0.0 pixel-secure.solvemedia.com
 0.0.0.0 pixel-user-1039.everesttech.net
 0.0.0.0 pixel.33across.com
 0.0.0.0 pixel.adadvisor.net
@@ -35978,6 +36064,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pixel.admedia.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.adsniper.ru
+0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.blog.hu
 0.0.0.0 pixel.captora.com
@@ -36478,6 +36565,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pop.dnparking.com
 0.0.0.0 pop.egi.biz
 0.0.0.0 pop.net21pk.com
+0.0.0.0 pop.redirect.adsjudo.com
 0.0.0.0 pop.zivilrecht.at
 0.0.0.0 pop.zompmedia.com
 0.0.0.0 pop3.leanstepup.com
@@ -37990,6 +38078,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 readytonikah.com
 0.0.0.0 reagroup.122.2o7.net
 0.0.0.0 real-players.info
+0.0.0.0 real4bets.com
 0.0.0.0 realads.realmedia.com
 0.0.0.0 realaudio.cimedia.net
 0.0.0.0 realbannerads.com
@@ -38844,6 +38933,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rotterdamistanbul.com
 0.0.0.0 roufians.com
 0.0.0.0 rouitieress-meys.info
+0.0.0.0 roulette-faker.pro
 0.0.0.0 roulette-online.petrovka.info
 0.0.0.0 roundstorm.com
 0.0.0.0 roundtelevision.com
@@ -40448,6 +40538,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 server.iad.liveperson.net
 0.0.0.0 server.popads.net
 0.0.0.0 server.radiosystem.it
+0.0.0.0 server.roulette-faker.pro
 0.0.0.0 server.siteamplifier.net
 0.0.0.0 server.toolbar.rediff.com
 0.0.0.0 server.zoiets.be
@@ -41141,8 +41232,13 @@ ff02::3         ip6-allhosts
 0.0.0.0 skin-care.1.p2l.info
 0.0.0.0 skinalluremedspa.com
 0.0.0.0 skincodesgiveaway.com
+0.0.0.0 skingang.com
 0.0.0.0 skinmedica.122.2o7.net
+0.0.0.0 skinsbeast.com
+0.0.0.0 skinscastle.com
+0.0.0.0 skinsgang.com
 0.0.0.0 skinskonkurs.pl
+0.0.0.0 skinslegends.com
 0.0.0.0 skinygo.pl
 0.0.0.0 skinykonkurs.pl
 0.0.0.0 skip.oewabox.at
@@ -41737,6 +41833,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 space-mobile.co
 0.0.0.0 space.us.intellitxt.com
 0.0.0.0 space4elephants.org
+0.0.0.0 spacebets.pro
 0.0.0.0 spacecodecpack.net
 0.0.0.0 spaceconstruction.com.au
 0.0.0.0 spacefiled.com
@@ -45209,6 +45306,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 track.webprodeals.cf
 0.0.0.0 track.webtrekk.de
 0.0.0.0 track.wesell.co.il
+0.0.0.0 track.whitespace57.com
 0.0.0.0 track.written.com
 0.0.0.0 track.www.zazzle.com
 0.0.0.0 track.xapads.com
@@ -47674,6 +47772,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 vologda.maxuma.ru
 0.0.0.0 volpefurniture.com
 0.0.0.0 volunteerbackgroundchecks.net
+0.0.0.0 voluumtracker.com
+0.0.0.0 voluumtracker1.com
 0.0.0.0 voluumtrk.com
 0.0.0.0 voluumtrk2.com
 0.0.0.0 voluumtrk3.com
@@ -48270,6 +48370,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 waxhack.com
 0.0.0.0 wayachts.eu
 0.0.0.0 wayanadwoods.in
+0.0.0.0 wayofgambling.com
 0.0.0.0 wayoseswindows.ru
 0.0.0.0 waystohack.com
 0.0.0.0 wayufilm.com
@@ -48430,6 +48531,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 webmaster.topbucks.com
 0.0.0.0 webmaster.utherverse.com
 0.0.0.0 webmaster.worldsex.com
+0.0.0.0 webmaster322.ru
 0.0.0.0 webmasterkai.sitetracker.com
 0.0.0.0 webmasterplan.com
 0.0.0.0 webmasterplan.de
@@ -48683,6 +48785,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 whitecastle.122.2o7.net
 0.0.0.0 whitehorse-sandway.co.uk
 0.0.0.0 whitehorsetechnologies.net
+0.0.0.0 whiterex-csgo.com
 0.0.0.0 whitespageis.com
 0.0.0.0 whitewidow145.cu.cc
 0.0.0.0 whive.org
@@ -54766,6 +54869,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 yourbook.pl
 0.0.0.0 yourcamera4free.com
 0.0.0.0 yourcomputerhelpdesk.com
+0.0.0.0 yourcsgo.com
 0.0.0.0 yourdailyoffers.co.uk
 0.0.0.0 yourdigitalsearcher.com
 0.0.0.0 yourdvdplayer.com
