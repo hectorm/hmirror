@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Jan  7 06:00:48 UTC 2017
-# Blacklisted domains: 56597
+# Last updated:        Sun Jan  8 06:00:45 UTC 2017
+# Blacklisted domains: 56598
 
 # <header>
 127.0.0.1       localhost 
@@ -22668,6 +22668,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 giftscom.122.2o7.net
 0.0.0.0 giftsformysubs.com
 0.0.0.0 giftsforpoints.info
+0.0.0.0 giftsforsubs.org
 0.0.0.0 giftsofsnowdown.com
 0.0.0.0 giftvouchersfree.com
 0.0.0.0 giftzoid.com
