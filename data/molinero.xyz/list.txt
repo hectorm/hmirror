@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Mon Jan  9 06:00:37 UTC 2017
-# Blacklisted domains: 56607
+# Last updated:        Tue Jan 10 06:00:44 UTC 2017
+# Blacklisted domains: 56606
 
 # <header>
 127.0.0.1       localhost 
@@ -8196,7 +8196,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 apple-zpalo.com
 0.0.0.0 apple.alimermertas.com
 0.0.0.0 apple.chasefeeds.com
-0.0.0.0 apple.com
 0.0.0.0 apple.com------support.host
 0.0.0.0 apple.com-safetyalert.com
 0.0.0.0 apple.com-scan-virus-detected.com
@@ -43847,6 +43846,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 stjohns2012.ca
 0.0.0.0 stjohnscinema.com
 0.0.0.0 stjohnsdryden.org
+0.0.0.0 stkjw.com.cn
 0.0.0.0 stl.p.a1.traceworks.com
 0.0.0.0 stmaryskarakkunnam.in
 0.0.0.0 stmaryslodgeno4.org
@@ -54948,7 +54948,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 www2.smartadserver.com
 0.0.0.0 www2.stats4free.de
 0.0.0.0 www2.survey-poll.com
-0.0.0.0 www2.xsshopw.com
 0.0.0.0 www2.yidsense.com
 0.0.0.0 www2.zapadserver1.com
 0.0.0.0 www20.777mnz.com
