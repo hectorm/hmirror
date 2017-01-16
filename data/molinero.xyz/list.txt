@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Jan 14 06:00:47 UTC 2017
-# Blacklisted domains: 56931
+# Last updated:        Sun Jan 15 06:00:50 UTC 2017
+# Blacklisted domains: 56934
 
 # <header>
 127.0.0.1       localhost 
@@ -3334,6 +3334,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adexprts.com
 0.0.0.0 adext.inkclub.com
 0.0.0.0 adextensioncontrol.tudou.com
+0.0.0.0 adf.ly
 0.0.0.0 adfactor.nl
 0.0.0.0 adfarm.mediaplex.com
 0.0.0.0 adfarm.mserve.ca
@@ -8490,6 +8491,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 arredarte.it
 0.0.0.0 arrivaldatesen.com
 0.0.0.0 arroba.mx
+0.0.0.0 ars-decoris.pl
 0.0.0.0 arsconsole.global-intermedia.com
 0.0.0.0 arsenalforum.cekuj.net
 0.0.0.0 arshoverseas.com
@@ -23477,6 +23479,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 grk6mgehel1hfehn.ru
 0.0.0.0 grmtech.net
 0.0.0.0 gronholmtrading.fi
+0.0.0.0 groningerpersprijs.nl
 0.0.0.0 groombinvest.com
 0.0.0.0 groovygpsstore.com
 0.0.0.0 grosirkecantikan.com
