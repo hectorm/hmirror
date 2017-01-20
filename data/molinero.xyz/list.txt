@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Wed Jan 18 06:00:45 UTC 2017
-# Blacklisted domains: 57029
+# Last updated:        Thu Jan 19 06:01:15 UTC 2017
+# Blacklisted domains: 57031
 
 # <header>
 127.0.0.1       localhost 
@@ -220,6 +220,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 123.8w8w8w.com.cn
 0.0.0.0 123.fluxads.com
 0.0.0.0 123.ichkoche.at
+0.0.0.0 1231166.com
 0.0.0.0 123188.com
 0.0.0.0 123count.com
 0.0.0.0 123counter.mycomputer.com
@@ -422,7 +423,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 2014tools.com
 0.0.0.0 2017folders.com
 0.0.0.0 2017rev1ews.com
-0.0.0.0 201ddlyh.com
 0.0.0.0 2020careyway.com
 0.0.0.0 203kitchen.com
 0.0.0.0 20585485p.rfihub.com
@@ -9851,6 +9851,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 baryote.com
 0.0.0.0 basamaindia.com
 0.0.0.0 basdong.com
+0.0.0.0 base.co.zm
 0.0.0.0 baseballheroes.haxdo.com
 0.0.0.0 basebanner.com
 0.0.0.0 baselinemag.us.intellitxt.com
@@ -41546,6 +41547,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 semes.sk
 0.0.0.0 seminario.ebci.ucr.ac.cr
 0.0.0.0 semiyun.com
+0.0.0.0 senciotech.com
 0.0.0.0 send-safe.com
 0.0.0.0 send.microad.jp
 0.0.0.0 send29931.cn
