@@ -1,7 +1,7 @@
 # KAD hosts file
 # Zalecany tylko dla zaawansowanych uzytkownikow
 # Niektore funkcje oferowane przez filtr nie sa dostepne w ponizszym pliku ze wzgledu na ograniczenia hosts.
-# Aktualizacja zbiorowa: 2017012001
+# Aktualizacja zbiorowa: 2017012101
 
 
 # Podejrzane i/lub polaczone z innymi przekretami
@@ -514,6 +514,9 @@
 0.0.0.0 konkurs-lotto.pl
 0.0.0.0 odbieramy.pl
 0.0.0.0 sprawdzpunktykarne.eu
+0.0.0.0 bardzofunny.co.pl
+0.0.0.0 konkurs-kobo.pl
+0.0.0.0 nxd.pl
 
 # Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
 0.0.0.0 rfv.pl
@@ -617,6 +620,12 @@
 0.0.0.0 ppl3.pl
 
 # Szybko wygaszajace
+0.0.0.0 testimisional.5v.pl
+0.0.0.0 pormn.ga
+0.0.0.0 pormn.tk
+0.0.0.0 r6faz.eu
+0.0.0.0 tennisowo.glt.pl
+0.0.0.0 poldens.5v.pl
 0.0.0.0 pffn.pl.tn
 0.0.0.0 easy.eu.ai
 0.0.0.0 fbtools.glt.pl
