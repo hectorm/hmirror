@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Jan 28 06:02:16 UTC 2017
-# Blacklisted domains: 56320
+# Last updated:        Sun Jan 29 06:01:57 UTC 2017
+# Blacklisted domains: 56321
 
 # <header>
 127.0.0.1       localhost 
@@ -32940,6 +32940,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 nd.5.p2l.info
 0.0.0.0 nd1.gamecopyworld.com
 0.0.0.0 nd11mx1-a-fixed.sancharnet.in
+0.0.0.0 ndb.com.pg
 0.0.0.0 ndl1mc1-a-fixed.sancharnet.in
 0.0.0.0 ndl1mx1-a-fixed.sancharnet.in
 0.0.0.0 ndl1pp1-a-fixed.sancharnet.in
