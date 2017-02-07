@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sun Feb  5 06:01:32 UTC 2017
-# Blacklisted domains: 60440
+# Last updated:        Mon Feb  6 06:01:40 UTC 2017
+# Blacklisted domains: 60441
 
 # <header>
 127.0.0.1       localhost 
@@ -34418,6 +34418,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 motivcomponents.com
 0.0.0.0 motivealuminium.com
 0.0.0.0 motleyfool-d.openx.net
+0.0.0.0 moto-viking.com
 0.0.0.0 motoafrika.com
 0.0.0.0 motoawards.pl
 0.0.0.0 motociklai.lt
