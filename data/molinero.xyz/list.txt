@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Tue Feb  7 06:01:37 UTC 2017
-# Blacklisted domains: 60500
+# Last updated:        Wed Feb  8 06:01:41 UTC 2017
+# Blacklisted domains: 60503
 
 # <header>
 127.0.0.1       localhost 
@@ -37985,9 +37985,12 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.1cq7gd.top
 0.0.0.0 p27dokhpz2n7nvgr.1dlcbk.top
 0.0.0.0 p27dokhpz2n7nvgr.1dp6un.top
+0.0.0.0 p27dokhpz2n7nvgr.1eeb86.top
 0.0.0.0 p27dokhpz2n7nvgr.1em2j4.top
+0.0.0.0 p27dokhpz2n7nvgr.1fqwek.top
 0.0.0.0 p27dokhpz2n7nvgr.1jw2lx.top
 0.0.0.0 p27dokhpz2n7nvgr.1kja1j.top
+0.0.0.0 p27dokhpz2n7nvgr.1lt2pn.top
 0.0.0.0 p27dokhpz2n7nvgr.1mwipu.top
 0.0.0.0 p27dokhpz2n7nvgr.1pbu64.top
 0.0.0.0 p27dokhpz2n7nvgr.1plugt.top
@@ -39411,6 +39414,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 pixoveexs.com
 0.0.0.0 pixxur.com
+0.0.0.0 pizhma.ru
 0.0.0.0 pizzadaily.org
 0.0.0.0 pizzatr.net
 0.0.0.0 pizzotti.net
@@ -53558,7 +53562,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 westernunion.tt.omtrdc.net
 0.0.0.0 westernunionglobal.112.2o7.net
 0.0.0.0 westjet.112.2o7.net
-0.0.0.0 westlifego.com
 0.0.0.0 westmesacdc.org
 0.0.0.0 westnorths.cn
 0.0.0.0 westwickfarrow.122.2o7.net
