@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 08 Feb 2017 at 05:09:42 GMT
+# Last updated: Thu, 09 Feb 2017 at 05:39:09 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1971,7 +1971,9 @@
 127.0.0.1 apple.com-safetyalert.com
 127.0.0.1 apple.com-scan-virus-detected.com
 127.0.0.1 apple.com-store.me
+127.0.0.1 apple.com-supportcenter.website
 127.0.0.1 apple.com------support.host
+127.0.0.1 apple.com.virus-mac.com
 127.0.0.1 apple-protection.info
 127.0.0.1 applestore.com-mobile.gift
 127.0.0.1 armsart.com
@@ -2179,6 +2181,7 @@
 127.0.0.1 macmeasurmenthub.club
 127.0.0.1 macmeasurmentpro.club
 127.0.0.1 mac-os.apple.com-secured.online
+127.0.0.1 mac-osx.message-warning.net
 127.0.0.1 mac-protection.info
 127.0.0.1 mail1.371.net
 127.0.0.1 mail.bangla.net
@@ -2357,6 +2360,7 @@
 127.0.0.1 postbox.mos.ru
 127.0.0.1 post.netchina.com.cn
 127.0.0.1 powabcyfqe.com
+127.0.0.1 pple.com.virus-mac.com
 127.0.0.1 premium-live-scan.com
 127.0.0.1 premiumvideoupdates.com
 127.0.0.1 prm-ext.phorm.com
@@ -2398,6 +2402,7 @@
 127.0.0.1 securitas25maximus.xyz
 127.0.0.1 securitas493maximus.xyz
 127.0.0.1 securitas611maximus.xyz
+127.0.0.1 security-alert.zs2vm.top
 127.0.0.1 securityandroidupdate.dinamikaprinting.com
 127.0.0.1 securityscan.us
 127.0.0.1 sedesol.sedesol.gob.mx
@@ -6161,6 +6166,7 @@
 127.0.0.1 afkarehroshan.com
 127.0.0.1 afp.qiyi.com
 127.0.0.1 afunnygames.com
+127.0.0.1 agardomains.com
 127.0.0.1 agisdayra.com
 127.0.0.1 agkn.com
 127.0.0.1 ahzahg6ohb.com
@@ -6239,6 +6245,7 @@
 127.0.0.1 app.datafastguru.info
 127.0.0.1 appdev.addthis.com
 127.0.0.1 appfixing.space
+127.0.0.1 apple.com-----scanner.club
 127.0.0.1 applicationpremium70.club
 127.0.0.1 applyfix.tech
 127.0.0.1 appnexus.com
@@ -6632,6 +6639,7 @@
 127.0.0.1 c.adroll.com
 127.0.0.1 califia.imaginemedia.com
 127.0.0.1 c.am10.ru
+127.0.0.1 cam2cam.xlovecam.com
 127.0.0.1 camgeil.com
 127.0.0.1 campaign.iitech.dk
 127.0.0.1 campaign.indieclick.com
@@ -6988,6 +6996,7 @@
 127.0.0.1 cool-premiums-now.com
 127.0.0.1 coolpremiumsnow.com
 127.0.0.1 coolsavings.com
+127.0.0.1 coquine-dispo.com
 127.0.0.1 corba.adtech.de
 127.0.0.1 corba.adtech.fr
 127.0.0.1 corba.adtech.us
@@ -8376,6 +8385,7 @@
 127.0.0.1 myhousetechnews.com
 127.0.0.1 my.mystreamdelivery.xyz
 127.0.0.1 myoffertracking.com
+127.0.0.1 myperiod.club
 127.0.0.1 my-reward-channel.com
 127.0.0.1 my-rewardsvault.com
 127.0.0.1 mysagagame.com
