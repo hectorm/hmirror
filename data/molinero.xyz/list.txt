@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Feb 11 06:01:59 UTC 2017
-# Blacklisted domains: 61051
+# Last updated:        Sun Feb 12 06:01:50 UTC 2017
+# Blacklisted domains: 61053
 
 # <header>
 127.0.0.1       localhost 
@@ -11228,6 +11228,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 bj04.com
 0.0.0.0 bj7kpvd.gandjaltilogoki.com
 0.0.0.0 bjadhav.com
+0.0.0.0 bjaimu.cn
 0.0.0.0 bjarnum.eu
 0.0.0.0 bjdenon.com
 0.0.0.0 bjdingyedianli.com
@@ -38292,6 +38293,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p2408.adskape.ru
 0.0.0.0 p250632.com
 0.0.0.0 p27dokhpz2n7nvgr.12gzrv.top
+0.0.0.0 p27dokhpz2n7nvgr.12umzf.top
 0.0.0.0 p27dokhpz2n7nvgr.1321z6.top
 0.0.0.0 p27dokhpz2n7nvgr.13gmvm.top
 0.0.0.0 p27dokhpz2n7nvgr.14gmtu.top
@@ -38327,6 +38329,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.1l4zyd.top
 0.0.0.0 p27dokhpz2n7nvgr.1lt2pn.top
 0.0.0.0 p27dokhpz2n7nvgr.1mwipu.top
+0.0.0.0 p27dokhpz2n7nvgr.1nmrtq.top
 0.0.0.0 p27dokhpz2n7nvgr.1pbu64.top
 0.0.0.0 p27dokhpz2n7nvgr.1plugt.top
 0.0.0.0 p27dokhpz2n7nvgr.1vjnyh.top
@@ -53100,7 +53103,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 vt-1.nrelate.com
 0.0.0.0 vt.5.p2l.info
 0.0.0.0 vte.nexteramedia.com
-0.0.0.0 vtipnetriko.cz
 0.0.0.0 vtu1.co.cc
 0.0.0.0 vtwomen.com
 0.0.0.0 vu.adschoom.com
