@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Mon Feb 13 06:02:37 UTC 2017
-# Blacklisted domains: 61056
+# Last updated:        Tue Feb 14 06:01:34 UTC 2017
+# Blacklisted domains: 61057
 
 # <header>
 127.0.0.1       localhost 
@@ -16323,6 +16323,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgorider.com
 0.0.0.0 csgorsv.com
 0.0.0.0 csgoshakeit.com
+0.0.0.0 csgoshow.com
 0.0.0.0 csgoshuffle.co.uk
 0.0.0.0 csgoshuffle.in
 0.0.0.0 csgoshuffle.su
@@ -38304,6 +38305,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.16ay2s.top
 0.0.0.0 p27dokhpz2n7nvgr.16fohp.top
 0.0.0.0 p27dokhpz2n7nvgr.18dawg.top
+0.0.0.0 p27dokhpz2n7nvgr.1967qy.top
 0.0.0.0 p27dokhpz2n7nvgr.1b3qjy.top
 0.0.0.0 p27dokhpz2n7nvgr.1bj4k9.top
 0.0.0.0 p27dokhpz2n7nvgr.1bniyw.top
@@ -54995,7 +54997,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.999ways.blogspot.co.uk
 0.0.0.0 www.99stats.com
 0.0.0.0 www.9malls.co.uk
-0.0.0.0 www.9mode-clothing-manufacturer.com
 0.0.0.0 www.a.websponsors.com
 0.0.0.0 www.a1a.pl
 0.0.0.0 www.a1fax.com
@@ -59745,6 +59746,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 x4.lov3.net
 0.0.0.0 x4.xclicks.net
 0.0.0.0 x5.xclicks.net
+0.0.0.0 x5sbb5gesp6kzwsh.frontmain.pl
 0.0.0.0 x6.xclicks.net
 0.0.0.0 x6.yakiuchi.com
 0.0.0.0 x65zz.popularprizes.8981275.com
@@ -60843,7 +60845,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 zhongyilunwen.com
 0.0.0.0 zhongyunshiji.com
 0.0.0.0 zhs389.com
-0.0.0.0 zhyravlik.ru
 0.0.0.0 ziadehagri.com
 0.0.0.0 ziaulhoquemukta.com
 0.0.0.0 zibup.csheaven.com
