@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Thu Feb 16 06:01:30 UTC 2017
-# Blacklisted domains: 61087
+# Last updated:        Fri Feb 17 06:01:49 UTC 2017
+# Blacklisted domains: 61088
 
 # <header>
 127.0.0.1       localhost 
@@ -37160,6 +37160,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 obada-konstruktiwa.org
 0.0.0.0 obaloco.com.br
 0.0.0.0 obam.pl
+0.0.0.0 obaratodefriburgo.com
 0.0.0.0 obccllc.com
 0.0.0.0 obdeskfyou.ru
 0.0.0.0 obdstarturkiye.com
@@ -38340,6 +38341,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.1dz7gk.top
 0.0.0.0 p27dokhpz2n7nvgr.1eeb86.top
 0.0.0.0 p27dokhpz2n7nvgr.1em2j4.top
+0.0.0.0 p27dokhpz2n7nvgr.1enbyr.top
 0.0.0.0 p27dokhpz2n7nvgr.1fqwek.top
 0.0.0.0 p27dokhpz2n7nvgr.1gnlsi.top
 0.0.0.0 p27dokhpz2n7nvgr.1gvql3.top
@@ -38539,7 +38541,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 panther1.cpxinteractive.com
 0.0.0.0 pantsflag.net
 0.0.0.0 papadopol.eu
-0.0.0.0 papamamandoudouetmoi.com
 0.0.0.0 papapear.fb-hacks.com
 0.0.0.0 papapearsagacheats.com
 0.0.0.0 papapkz.myvnc.com
