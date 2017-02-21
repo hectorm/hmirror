@@ -1,7 +1,7 @@
 # KAD hosts file
 # Zalecany tylko dla zaawansowanych uzytkownikow
 # Niektore funkcje oferowane przez filtr nie sa dostepne w ponizszym pliku ze wzgledu na ograniczenia hosts.
-# Aktualizacja zbiorowa: 2017021901
+# Aktualizacja zbiorowa: H2017022001
 
 
 # Podejrzane i/lub polaczone z innymi przekretami
@@ -557,6 +557,7 @@
 0.0.0.0 kupzytax.pl
 0.0.0.0 odbieraj-doladowania.pl
 0.0.0.0 iphone7silver-wygraj.pl
+0.0.0.0 promocja-doladowanie-50-pln.pl
 
 # Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
 0.0.0.0 rfv.pl
@@ -662,7 +663,10 @@
 0.0.0.0 url1.pl
 
 # Szybko wygaszajace
-polskieinfo365.wordpress.com
+0.0.0.0 gitarkasiema40.5v.pl
+0.0.0.0 dzieci2.89.pl
+0.0.0.0 ciemniejszastronagreya.tk
+0.0.0.0 polskieinfo365.wordpress.com
 0.0.0.0 karnawalowe-bony-do-drogerii.pl
 0.0.0.0 gitarasiema39.5v.pl
 0.0.0.0 focie-i-foczki.hitowy.pl
@@ -1195,8 +1199,15 @@ polskieinfo365.wordpress.com
 0.0.0.0 www.klikijuz.com
 0.0.0.0 pl.jetzt-teilnehmen.net
 0.0.0.0 doladowanie.02k.pl
+0.0.0.0 www.webfolder.exhl.pl
+0.0.0.0 www.the-best-movies.exhl.pl
 
 # Przekrety
+0.0.0.0 zalukaj-player.pl
+0.0.0.0 za-rejestrowany.pl
+0.0.0.0 4kplayer.pl
+0.0.0.0 tvseriesmovies.pl
+0.0.0.0 24pliki.pl
 0.0.0.0 best-coupon-offer.com
 0.0.0.0 cda-premiery.pl
 0.0.0.0 speed-lte.pl
