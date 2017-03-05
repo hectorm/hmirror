@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 03 Mar 2017 at 09:31:19 GMT
+# Last updated: Sat, 04 Mar 2017 at 20:51:50 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6247,6 +6247,7 @@
 127.0.0.1 appdev.addthis.com
 127.0.0.1 appfixing.space
 127.0.0.1 apple.com.clean-virus-mac.com
+127.0.0.1 apple.com-onlinesupport.host
 127.0.0.1 apple.com-----scanner.club
 127.0.0.1 apple.com-supportcenter.pro
 127.0.0.1 applicationpremium70.club
@@ -7087,13 +7088,10 @@
 127.0.0.1 d12.zedo.com
 127.0.0.1 d14.zedo.com
 127.0.0.1 d1.openx.org
-127.0.0.1 d1qqddufal4d58.cloudfront.net
-127.0.0.1 d1ros97qkrwjf5.cloudfront.net
 127.0.0.1 d1.zedo.com
 127.0.0.1 d2.zedo.com
 127.0.0.1 d3.zedo.com
 127.0.0.1 d4.zedo.com
-127.0.0.1 d5phz18u4wuww.cloudfront.net
 127.0.0.1 d5.zedo.com
 127.0.0.1 d6.c5.b0.a2.top.mail.ru
 127.0.0.1 d6.zedo.com
@@ -7331,7 +7329,7 @@
 127.0.0.1 f.as-eu.falkag.net
 127.0.0.1 fastfixing.tech
 127.0.0.1 fatcatrewards.com
-127.0.0.1 fbcdn-creative-a.akamaihd.net
+#127.0.0.1 fbcdn-creative-a.akamaihd.net
 127.0.0.1 fbfreegifts.com
 127.0.0.1 fbi.gov.id402037057-8235504608.d9680.com
 127.0.0.1 fcg.casino770.com
