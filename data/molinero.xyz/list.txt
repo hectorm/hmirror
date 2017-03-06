@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Mar  4 06:00:44 UTC 2017
-# Blacklisted domains: 62017
+# Last updated:        Sun Mar  5 06:00:50 UTC 2017
+# Blacklisted domains: 62019
 
 # <header>
 127.0.0.1       localhost 
@@ -8644,6 +8644,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 apple.chinatemai.host
 0.0.0.0 apple.com------support.host
 0.0.0.0 apple.com-----scanner.club
+0.0.0.0 apple.com-onlinesupport.host
 0.0.0.0 apple.com-safetyalert.com
 0.0.0.0 apple.com-scan-virus-detected.com
 0.0.0.0 apple.com-store.me
@@ -11084,7 +11085,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 bgwebads.com
 0.0.0.0 bgy888.net
 0.0.0.0 bh.contextweb.com
-0.0.0.0 bh.lhdna.com
 0.0.0.0 bhagyashrigawhale.com
 0.0.0.0 bhajankutir.vedicseasons.com
 0.0.0.0 bharatpensioners.org
@@ -16910,8 +16910,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
 0.0.0.0 d1l6p2sc9645hc.cloudfront.net
 0.0.0.0 d1piupybsgr6dr.cloudfront.net
-0.0.0.0 d1qqddufal4d58.cloudfront.net
-0.0.0.0 d1ros97qkrwjf5.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1zatounuylvwg.cloudfront.net
@@ -16943,7 +16941,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 d5.zedo.com
 0.0.0.0 d5h.pl
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
-0.0.0.0 d5phz18u4wuww.cloudfront.net
 0.0.0.0 d6.c5.b0.a2.top.mail.ru
 0.0.0.0 d6.zedo.com
 0.0.0.0 d6y5.ads.pof.com
@@ -21267,7 +21264,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 fbaps.pl
 0.0.0.0 fbbaodantri.byethost32.com
 0.0.0.0 fbcashclub.com
-0.0.0.0 fbcdn-creative-a.akamaihd.net
 0.0.0.0 fbcheat.strivetru.com
 0.0.0.0 fbcheaterz.com
 0.0.0.0 fbcheats.com
@@ -26761,17 +26757,21 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.142djp.top
 0.0.0.0 hjhqmbxyinislkkt.14stvt.top
 0.0.0.0 hjhqmbxyinislkkt.14yppf.top
+0.0.0.0 hjhqmbxyinislkkt.16ke1t.top
 0.0.0.0 hjhqmbxyinislkkt.18nepv.top
 0.0.0.0 hjhqmbxyinislkkt.18yzmj.top
+0.0.0.0 hjhqmbxyinislkkt.1a8u1r.top
 0.0.0.0 hjhqmbxyinislkkt.1aamtz.top
 0.0.0.0 hjhqmbxyinislkkt.1accfa.top
 0.0.0.0 hjhqmbxyinislkkt.1acfka.top
 0.0.0.0 hjhqmbxyinislkkt.1adh2r.top
 0.0.0.0 hjhqmbxyinislkkt.1bas8q.top
 0.0.0.0 hjhqmbxyinislkkt.1bcxcs.top
+0.0.0.0 hjhqmbxyinislkkt.1fzz7a.top
 0.0.0.0 hjhqmbxyinislkkt.1gxfxt.top
 0.0.0.0 hjhqmbxyinislkkt.1hapca.top
 0.0.0.0 hjhqmbxyinislkkt.1jnhdc.top
+0.0.0.0 hjhqmbxyinislkkt.1jwuaa.top
 0.0.0.0 hjhqmbxyinislkkt.1mswjm.top
 0.0.0.0 hjhqmbxyinislkkt.1mvku2.top
 0.0.0.0 hjhqmbxyinislkkt.1q7pwb.top
@@ -39014,6 +39014,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.17ryrs.top
 0.0.0.0 p27dokhpz2n7nvgr.18dawg.top
 0.0.0.0 p27dokhpz2n7nvgr.18kkhl.top
+0.0.0.0 p27dokhpz2n7nvgr.195heb.top
 0.0.0.0 p27dokhpz2n7nvgr.1967qy.top
 0.0.0.0 p27dokhpz2n7nvgr.1a7ivn.top
 0.0.0.0 p27dokhpz2n7nvgr.1aghep.top
@@ -39031,6 +39032,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.1cpb4z.top
 0.0.0.0 p27dokhpz2n7nvgr.1cpy1q.top
 0.0.0.0 p27dokhpz2n7nvgr.1cq7gd.top
+0.0.0.0 p27dokhpz2n7nvgr.1cvmb4.top
 0.0.0.0 p27dokhpz2n7nvgr.1cw65b.top
 0.0.0.0 p27dokhpz2n7nvgr.1d8d9w.top
 0.0.0.0 p27dokhpz2n7nvgr.1d8m97.top
