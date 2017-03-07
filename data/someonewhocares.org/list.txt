@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 04 Mar 2017 at 20:51:50 GMT
+# Last updated: Mon, 06 Mar 2017 at 07:26:55 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6511,6 +6511,7 @@
 127.0.0.1 beacons.helium.com
 127.0.0.1 beacon-us-west.rubiconproject.com
 127.0.0.1 be.ads.justpremium.com
+127.0.0.1 beap.gemini.yahoo.com
 127.0.0.1 bedach.stream
 127.0.0.1 bell.adcentriconline.com
 127.0.0.1 benimreklam.com
@@ -6845,6 +6846,7 @@
 127.0.0.1 classicjack.com
 127.0.0.1 c.latam.msn.com
 127.0.0.1 cleaningformac.com
+127.0.0.1 clevernt.com
 127.0.0.1 clhctrk.com
 127.0.0.1 click1.mainadv.com
 127.0.0.1 click1.rbc.magna.ru
@@ -7183,7 +7185,9 @@
 127.0.0.1 djbanners.deadjournal.com
 127.0.0.1 djugoogs.com
 127.0.0.1 dk.adserver.yahoo.com
+127.0.0.1 dl.bestofupload.info
 127.0.0.1 dl.ncbuy.com
+127.0.0.1 dl.neodownload.webcam
 127.0.0.1 dl-plugin.com
 127.0.0.1 dlvr.readserver.net
 127.0.0.1 dnads.directnic.com
@@ -9563,6 +9567,7 @@
 127.0.0.1 sumome.com
 127.0.0.1 sunmaker.com
 127.0.0.1 superbrewards.com
+127.0.0.1 superinterstitial.com
 127.0.0.1 support.sweepstakes.com
 127.0.0.1 supremeadsonline.com
 127.0.0.1 suresafe1.adsovo.com
@@ -10431,6 +10436,7 @@
 127.0.0.1 www.ciqugasox.cn
 127.0.0.1 www.claimfreerewards.com
 127.0.0.1 www.clashmediausa.com
+127.0.0.1 www.clevernt.com
 127.0.0.1 www.click10.com
 127.0.0.1 www.click4click.com
 127.0.0.1 www.click.alibaba.com
@@ -10954,6 +10960,7 @@
 127.0.0.1 www.subsitesadserver.co.uk
 127.0.0.1 www.sudokuwhiz.com
 127.0.0.1 www.superbrewards.com
+127.0.0.1 www.superinterstitial.com
 127.0.0.1 www.supremeadsonline.com
 127.0.0.1 www.surplus-suppliers.com
 127.0.0.1 www.sweetsforfree.com
@@ -11087,6 +11094,7 @@
 127.0.0.1 www.zemgo.com
 127.0.0.1 www.zevents.com
 127.0.0.1 www.zlothonline.info
+127.0.0.1 www.zytpirwai.net
 127.0.0.1 x65zz.popularprizes.8981275.com
 127.0.0.1 x86adserve006.adtech.de
 127.0.0.1 x.admob.com
@@ -11176,6 +11184,7 @@
 127.0.0.1 z.moatads.com
 127.0.0.1 zu1.november-lax.com
 127.0.0.1 zuzzer5.com
+127.0.0.1 zytpirwai.net
 #</ad-sites>
 
 # https://securehomes.esat.kuleuven.be/~gacar/persistent/index.html
