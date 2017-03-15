@@ -632,7 +632,7 @@
 0.0.0.0 banner.cybertechdev.com
 0.0.0.0 cybertown.ru
 # [D]
-0.0.0.0 d9ae99824.se[server down?]
+0.0.0.0 d9ae99824.se #[server down?]
 0.0.0.0 ads.dada.it
 0.0.0.0 count.daem0n.com
 0.0.0.0 annonser.dagbladet.no
@@ -1547,7 +1547,7 @@
 0.0.0.0 counter.top100.penki.lt
 0.0.0.0 tag.perfectaudience.com
 0.0.0.0 b1.perfb.com
-0.0.0.0 www.perfectherbpurchase.ru #[ScamFraudAlert.Pharmacy]
+0.0.0.0 www.perfectherbpurchase.ru #[ScamFraudAlert.Pharmacy][server down?]
 0.0.0.0 stats.persgroep.be
 0.0.0.0 stats.persgroep.nl
 0.0.0.0 count.pcpop.com
@@ -1572,12 +1572,12 @@
 0.0.0.0 ads.pinger.com
 0.0.0.0 banners.pinnaclesports.com
 0.0.0.0 www.pixazza.com
-0.0.0.0 accounts.pkr.com
+0.0.0.0 accounts.pkr.com #[server down?]
 0.0.0.0 banner.play-asia.com
 0.0.0.0 ads.playboy.bg
 0.0.0.0 pei-ads.playboy.com #[RealMedia]
 0.0.0.0 i.plug.it
-0.0.0.0 www.playertraffic.com
+0.0.0.0 www.playertraffic.com #[server down?]
 0.0.0.0 adserver.playtv.fr
 0.0.0.0 pu.plugrush.com
 0.0.0.0 widget.plugrush.com
@@ -1657,7 +1657,7 @@
 0.0.0.0 l1.cdn.qnsr.com #[WebBug]
 0.0.0.0 qualityporn.biz
 0.0.0.0 siteinterceptco1.qualtrics.com
-0.0.0.0 amch.questionmarket.com
+0.0.0.0 amch.questionmarket.com #[server down?]
 0.0.0.0 reports.quisma.com
 0.0.0.0 tracking.quisma.com
 0.0.0.0 adping.qq.com
@@ -1879,7 +1879,7 @@
 0.0.0.0 go.straightresults.com
 0.0.0.0 gsorder.berlin.strato.de
 0.0.0.0 www.stressx.org #[Piwik.Analytics]
-0.0.0.0 opx.struma.bg
+0.0.0.0 opx.struma.bg #[server down?]
 0.0.0.0 ads.strumarelax.com
 0.0.0.0 adv.stznews.bg
 0.0.0.0 webservices.sub2tech.com
@@ -1932,9 +1932,9 @@
 0.0.0.0 ads.tdcanadatrust.com
 0.0.0.0 openad.tf1.fr #[RealMedia]
 0.0.0.0 openadext.tf1.fr
-0.0.0.0 a.tfag.de
-0.0.0.0 ak.tfag.de
-0.0.0.0 i.tfag.de
+0.0.0.0 a.tfag.de #[server down?]
+0.0.0.0 ak.tfag.de #[server down?]
+0.0.0.0 i.tfag.de #[server down?]
 0.0.0.0 adv.tgadvapps.it
 0.0.0.0 market2.the-adult-company.com
 0.0.0.0 media.the-adult-company.com
@@ -1969,7 +1969,7 @@
 0.0.0.0 www.toplist.sk
 0.0.0.0 counter.topphoto.ru
 0.0.0.0 www.top25.ro
-0.0.0.0 www.top55.ro
+0.0.0.0 www.top55.ro #[server down?]
 0.0.0.0 www.top99.ro
 0.0.0.0 www.top100.ro
 0.0.0.0 www.top300.ro
@@ -1996,7 +1996,7 @@
 0.0.0.0 storage.trafic.ro
 0.0.0.0 cdn1ht.traffichaus.com
 0.0.0.0 www.trafficresults.com
-0.0.0.0 ads.travellogger.com
+0.0.0.0 ads.travellogger.com #[server down?]
 0.0.0.0 dm.travelocity.com
 0.0.0.0 ad.triplemind.com
 0.0.0.0 engine.trklnks.com
@@ -2035,7 +2035,7 @@
 0.0.0.0 adclient1.tucows.com
 0.0.0.0 counts.tucows.com
 0.0.0.0 google.tucows.com
-0.0.0.0 ads.tunenerve.com
+0.0.0.0 ads.tunenerve.com #[server down?]
 0.0.0.0 stats.tunt.lv
 0.0.0.0 d.turn.com
 0.0.0.0 presentation-atl1.turn.com
@@ -2054,7 +2054,7 @@
 0.0.0.0 cnt.tyxo.bg #[WebBug]
 # [U]
 0.0.0.0 adv.uauaclub.it
-0.0.0.0 mde.ubid.com #[RealMedia]
+0.0.0.0 mde.ubid.com #[RealMedia][server down?]
 0.0.0.0 a.ucoz.net
 0.0.0.0 s212.ucoz.net
 0.0.0.0 credity.ucoz.ru
@@ -2176,7 +2176,7 @@
 0.0.0.0 ads.webkinz.com
 0.0.0.0 ads2.weblogssl.com
 0.0.0.0 counter.web-marketolog.ru
-0.0.0.0 webmarketing3x.net
+0.0.0.0 webmarketing3x.net #[server down?]
 0.0.0.0 banners.webmasterplan.com #[WebBug]
 0.0.0.0 ebayrelevancead.webmasterplan.com
 0.0.0.0 partners.webmasterplan.com
@@ -2210,7 +2210,7 @@
 0.0.0.0 cacheserve.williamhill.com
 0.0.0.0 serve.williamhill.com
 0.0.0.0 d1.windows8downloads.com #[Win32/InstallCore.NE]
-0.0.0.0 windows-check.com-----scanner.club #[ScamFraudAlert.Antispyware]
+0.0.0.0 windows-check.com-----scanner.club #[ScamFraudAlert.Antispyware][server down?]
 0.0.0.0 banner-server.winecountry.com
 0.0.0.0 ads.wineenthusiast.com
 0.0.0.0 win-spy.com
@@ -2309,8 +2309,8 @@
 0.0.0.0 banner.0catch.com
 0.0.0.0 bannerimages.0catch.com #[dist.belnk.com]
 0.0.0.0 stattrack.0catch.com
-0.0.0.0 0c9d8370d.se
-0.0.0.0 0427d7.se
+0.0.0.0 0c9d8370d.se #[server down?]
+0.0.0.0 0427d7.se #[server down?]
 0.0.0.0 www.1-1ads.com
 0.0.0.0 1bg.net
 0.0.0.0 100webads.com
@@ -2338,7 +2338,7 @@
 0.0.0.0 imgad3.3conline.com
 0.0.0.0 ads.3sfmedia.com
 0.0.0.0 guannan.3322.net
-0.0.0.0 openx.359gsm.com
+0.0.0.0 openx.359gsm.com #[server down?]
 0.0.0.0 ads.4tube.com
 0.0.0.0 cdn1.adspace.4tube.com
 0.0.0.0 adserver.4clicks.org
@@ -2355,7 +2355,7 @@
 0.0.0.0 adserver.71i.de
 0.0.0.0 7-i.org
 0.0.0.0 www.777tool.com
-0.0.0.0 85dcf732d593.se
+0.0.0.0 85dcf732d593.se #[server down?]
 # [O2.pl Ltd][AS31080][193.17.41.0 - 193.17.41.255]
 0.0.0.0 ads.o2.pl
 0.0.0.0 adserver.o2.pl
@@ -2509,9 +2509,9 @@
 0.0.0.0 f.about.com
 0.0.0.0 home.about.com
 0.0.0.0 images.about.com
-0.0.0.0 lunafetch.about.com
-0.0.0.0 pixel3.about.com
-0.0.0.0 sprinks-clicks.about.com
+0.0.0.0 lunafetch.about.com #[server down?]
+0.0.0.0 pixel3.about.com #[server down?]
+0.0.0.0 sprinks-clicks.about.com #[server down?]
 # [Accretive / Flying Crocodile][AS11608][207.246.128.0 - 207.246.159.255]
 0.0.0.0 2001positions.com
 0.0.0.0 ifa.empflixlive.com
@@ -2815,7 +2815,7 @@
 0.0.0.0 www.glxgroup.com
 0.0.0.0 ad.iloveinterracial.com
 0.0.0.0 cdn.mirageads.net
-0.0.0.0 www.myshovel.com
+0.0.0.0 www.myshovel.com #[server down?]
 0.0.0.0 st.ad.smaclick.com
 0.0.0.0 teens24h.com
 0.0.0.0 upads.info
@@ -3007,7 +3007,7 @@
 0.0.0.0 akamai.t.axf8.net
 0.0.0.0 content.bannerconnect.net
 0.0.0.0 cdn.bidvertiser.com
-0.0.0.0 static-cdn.labs.burstnet.com
+0.0.0.0 static-cdn.labs.burstnet.com #[server down?]
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 ip.casalemedia.com
 0.0.0.0 ads.cdnslate.com
