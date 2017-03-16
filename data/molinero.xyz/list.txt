@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Tue Mar 14 06:01:50 UTC 2017
-# Blacklisted domains: 62769
+# Last updated:        Wed Mar 15 06:01:00 UTC 2017
+# Blacklisted domains: 62776
 
 # <header>
 127.0.0.1       localhost 
@@ -14948,6 +14948,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 clientes.spainismore.com
 0.0.0.0 clientesdemarkting.com
 0.0.0.0 clientesugagogo.com.br
+0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clients-espacesoff.com
 0.0.0.0 clients-recouvrement-free-mobile.com
 0.0.0.0 clients.bluecava.com
@@ -17108,6 +17109,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 d9.zedo.com
 0.0.0.0 d989123.u-telcom.net
 0.0.0.0 d99q.cn
+0.0.0.0 d9ae99824.se
 0.0.0.0 d9d0e0.r.axf8.net
 0.0.0.0 d9k99.com
 0.0.0.0 da.2000888.com
@@ -27061,6 +27063,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.18yzmj.top
 0.0.0.0 hjhqmbxyinislkkt.19b6nk.top
 0.0.0.0 hjhqmbxyinislkkt.1a8u1r.top
+0.0.0.0 hjhqmbxyinislkkt.1aajb7.top
 0.0.0.0 hjhqmbxyinislkkt.1aamtz.top
 0.0.0.0 hjhqmbxyinislkkt.1accfa.top
 0.0.0.0 hjhqmbxyinislkkt.1acfka.top
@@ -39458,6 +39461,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.15rnwa.top
 0.0.0.0 p27dokhpz2n7nvgr.15wmdx.top
 0.0.0.0 p27dokhpz2n7nvgr.16ay2s.top
+0.0.0.0 p27dokhpz2n7nvgr.16bwhs.top
 0.0.0.0 p27dokhpz2n7nvgr.16fohp.top
 0.0.0.0 p27dokhpz2n7nvgr.16qpet.top
 0.0.0.0 p27dokhpz2n7nvgr.173w9w.top
@@ -41972,6 +41976,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 privatedni.com
 0.0.0.0 privaterealestatelending.com
 0.0.0.0 privatewealthgroup.asia
+0.0.0.0 privatkunden.datapipe9271.com
 0.0.0.0 privdog.com
 0.0.0.0 prive-parool.nl
 0.0.0.0 priveclub.de
@@ -43705,6 +43710,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 remowindowsnow.com
 0.0.0.0 remstirmash42.ru
 0.0.0.0 remyyadan.online.fr
+0.0.0.0 renaulrtcenturytrick.top
 0.0.0.0 rencontreavenue.com
 0.0.0.0 rencontreparis.org
 0.0.0.0 reneeshop1.com
@@ -48190,6 +48196,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sseal.ru
 0.0.0.0 ssend.microad.jp
 0.0.0.0 ssivendorinformation.com
+0.0.0.0 ssl-6582datamanager.de
 0.0.0.0 ssl-compass.oewabox.at
 0.0.0.0 ssl-drive-drop-com.deltastatelottery.com
 0.0.0.0 ssl-geizhals.oewabox.at
