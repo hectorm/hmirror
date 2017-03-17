@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 13 Mar 2017 at 08:11:20 GMT
+# Last updated: Fri, 17 Mar 2017 at 04:13:28 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1973,6 +1973,7 @@
 127.0.0.1 a.oix.net
 127.0.0.1 a.openinternetexchange.com
 127.0.0.1 a.phormlabs.com
+127.0.0.1 apple.com-onlinesupport.site
 127.0.0.1 apple.com-safetyalert.com
 127.0.0.1 apple.com-scan-virus-detected.com
 127.0.0.1 apple.com-store.me
@@ -8763,6 +8764,7 @@
 127.0.0.1 pick-savings.com
 127.0.0.1 pickytime.com
 127.0.0.1 p.ic.tynt.com
+127.0.0.1 ping.chartbeat.net
 127.0.0.1 pingfore.qq.com
 127.0.0.1 pingfore.soso.com
 127.0.0.1 pink.habralab.ru
