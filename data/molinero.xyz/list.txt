@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Thu Mar 16 06:01:12 UTC 2017
-# Blacklisted domains: 60428
+# Last updated:        Fri Mar 17 06:00:42 UTC 2017
+# Blacklisted domains: 60430
 
 # <header>
 127.0.0.1       localhost 
@@ -8446,6 +8446,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 apple.com------support.host
 0.0.0.0 apple.com-----scanner.club
 0.0.0.0 apple.com-onlinesupport.host
+0.0.0.0 apple.com-onlinesupport.site
 0.0.0.0 apple.com-safetyalert.com
 0.0.0.0 apple.com-scan-virus-detected.com
 0.0.0.0 apple.com-store.me
@@ -18920,7 +18921,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 edcm1ebill.caroeirn.com
 0.0.0.0 eddamedia.linkpulse.com
 0.0.0.0 eddamedia.tns-cs.net
-0.0.0.0 eddenya.com
 0.0.0.0 edelmiranda.com
 0.0.0.0 edelweiss-secretariat.com
 0.0.0.0 edemalucia.net
@@ -26065,6 +26065,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.1q7pwb.top
 0.0.0.0 hjhqmbxyinislkkt.1qjl23.top
 0.0.0.0 hjhqmbxyinislkkt.1qk2un.top
+0.0.0.0 hjhqmbxyinislkkt.1w5iy8.top
 0.0.0.0 hjhqmbxyinislkkt.1xynaz.top
 0.0.0.0 hjkjhkhjkhj.xyz
 0.0.0.0 hjnvren.com
@@ -37961,6 +37962,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.1967qy.top
 0.0.0.0 p27dokhpz2n7nvgr.1a7ivn.top
 0.0.0.0 p27dokhpz2n7nvgr.1aghep.top
+0.0.0.0 p27dokhpz2n7nvgr.1ajohk.top
 0.0.0.0 p27dokhpz2n7nvgr.1apkjn.top
 0.0.0.0 p27dokhpz2n7nvgr.1aweql.top
 0.0.0.0 p27dokhpz2n7nvgr.1axzcw.top
@@ -45967,7 +45969,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 soulmemory.org
 0.0.0.0 soulscooter.com
 0.0.0.0 soundclouddownloader.info
-0.0.0.0 soundcomputers.net
 0.0.0.0 soundcontrolservices.co.uk
 0.0.0.0 soundfyles.eloyed.com
 0.0.0.0 souqalburj.pk
@@ -50861,6 +50862,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ubfiles.com
 0.0.0.0 ubike.tourstogo.us
 0.0.0.0 ubiquitoushacking.com
+0.0.0.0 ubisortdasert.top
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 ubranis.info
 0.0.0.0 ubs-login.com
