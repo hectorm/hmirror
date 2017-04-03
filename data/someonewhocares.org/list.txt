@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 01 Apr 2017 at 23:59:11 GMT
+# Last updated: Mon, 03 Apr 2017 at 04:19:59 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8200,6 +8200,7 @@
 127.0.0.1 madadsmedia.com
 127.0.0.1 m.adbridge.de
 127.0.0.1 m.admob.com
+127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 mads.aol.com
 127.0.0.1 mads.cnet.com
 127.0.0.1 mail.radar.imgsmail.ru

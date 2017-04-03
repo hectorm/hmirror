@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Apr  1 06:00:38 UTC 2017
-# Blacklisted domains: 61376
+# Last updated:        Sun Apr  2 06:00:52 UTC 2017
+# Blacklisted domains: 61379
 
 # <header>
 127.0.0.1       localhost 
@@ -409,6 +409,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 2.marketbanker.com
 0.0.0.0 2.rubanners.com
 0.0.0.0 2.s09.flagcounter.com
+0.0.0.0 2.speedknow.co
 0.0.0.0 20-pn-installer.com
 0.0.0.0 20-yrs-1.info
 0.0.0.0 2000greetings.com
@@ -43568,6 +43569,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rxgssllt.cn
 0.0.0.0 rxhealthprescriptions.com
 0.0.0.0 rxrgjjjtdj.rudeliver.top
+0.0.0.0 ry.znvzzptgblovers.download
 0.0.0.0 rya.rockyou.com
 0.0.0.0 ryanrange.com
 0.0.0.0 ryanrhodes.net
@@ -57932,6 +57934,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.nu26.com
 0.0.0.0 www.nubijlage.nl
 0.0.0.0 www.nutabuse.com
+0.0.0.0 www.nutaku.com
 0.0.0.0 www.nutten-verzeichnis.cxa.de
 0.0.0.0 www.nuvon.com
 0.0.0.0 www.nwhomecare.co.uk
