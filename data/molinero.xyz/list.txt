@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Fri Apr 14 07:29:35 UTC 2017
-# Blacklisted domains: 61999
+# Last updated:        Sat Apr 15 06:00:53 UTC 2017
+# Blacklisted domains: 62000
 
 # <header>
 127.0.0.1       localhost 
@@ -61973,6 +61973,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 zuzim.xyz
 0.0.0.0 zuzzer5.com
 0.0.0.0 zuzzuna.eu
+0.0.0.0 zv1.november-lax.com
 0.0.0.0 zvezda-group.ru
 0.0.0.0 zviframe.biz
 0.0.0.0 zvobgo.top
