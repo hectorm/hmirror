@@ -1,6 +1,6 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Apr 15 06:00:53 UTC 2017
+# Last updated:        Sun Apr 16 06:00:51 UTC 2017
 # Blacklisted domains: 62000
 
 # <header>
@@ -1141,7 +1141,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 51steel.org
 0.0.0.0 51web8.net
 0.0.0.0 51winjob.cn
-0.0.0.0 51xcedu.com
 0.0.0.0 51xingming.com
 0.0.0.0 51yes.com
 0.0.0.0 51yirong.com
@@ -20290,6 +20289,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 epicgenerators.com
 0.0.0.0 epichackz.com
 0.0.0.0 epickeys.com
+0.0.0.0 epicld.com
 0.0.0.0 epicmovieshd.com
 0.0.0.0 epicproductgiveaway.com
 0.0.0.0 epiplagrafeiou.com.gr
