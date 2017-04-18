@@ -32,6 +32,7 @@
   {"name": "ransomwaretracker.abuse.ch",         "enabled": true,  "url": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"},
   {"name": "someonewhocares.org",                "enabled": true,  "url": "http://someonewhocares.org/hosts/hosts"},
   {"name": "spam404.com",                        "enabled": true,  "url": "https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt"},
+  {"name": "stopforumspam.com",                  "enabled": true,  "url": "https://stopforumspam.com/downloads/toxic_domains_whole.txt"},
   {"name": "winhelp2002.mvps.org",               "enabled": true,  "url": "http://winhelp2002.mvps.org/hosts.txt"},
   {"name": "zeustracker.abuse.ch",               "enabled": true,  "url": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist"}
 ]}
