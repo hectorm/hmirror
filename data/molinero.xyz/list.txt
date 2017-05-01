@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Apr 29 06:00:38 UTC 2017
-# Blacklisted domains: 62927
+# Last updated:        Sun Apr 30 06:00:38 UTC 2017
+# Blacklisted domains: 62940
 
 # <header>
 127.0.0.1       localhost 
@@ -27348,12 +27348,14 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.14klmz.top
 0.0.0.0 hjhqmbxyinislkkt.14stvt.top
 0.0.0.0 hjhqmbxyinislkkt.14yppf.top
+0.0.0.0 hjhqmbxyinislkkt.15e8hv.top
 0.0.0.0 hjhqmbxyinislkkt.16ke1t.top
 0.0.0.0 hjhqmbxyinislkkt.18f5bw.top
 0.0.0.0 hjhqmbxyinislkkt.18nepv.top
 0.0.0.0 hjhqmbxyinislkkt.18yzmj.top
 0.0.0.0 hjhqmbxyinislkkt.19b6nk.top
 0.0.0.0 hjhqmbxyinislkkt.19hj4f.top
+0.0.0.0 hjhqmbxyinislkkt.19xvyd.top
 0.0.0.0 hjhqmbxyinislkkt.1a2xx3.top
 0.0.0.0 hjhqmbxyinislkkt.1a8u1r.top
 0.0.0.0 hjhqmbxyinislkkt.1aajb7.top
@@ -27369,7 +27371,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.1eagrj.top
 0.0.0.0 hjhqmbxyinislkkt.1eeyaj.top
 0.0.0.0 hjhqmbxyinislkkt.1efxa8.top
+0.0.0.0 hjhqmbxyinislkkt.1fnjrj.top
 0.0.0.0 hjhqmbxyinislkkt.1fy93v.top
+0.0.0.0 hjhqmbxyinislkkt.1fygsg.top
 0.0.0.0 hjhqmbxyinislkkt.1fzz7a.top
 0.0.0.0 hjhqmbxyinislkkt.1grvue.top
 0.0.0.0 hjhqmbxyinislkkt.1gswwp.top
@@ -27378,6 +27382,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.1gxfxt.top
 0.0.0.0 hjhqmbxyinislkkt.1gzjuc.top
 0.0.0.0 hjhqmbxyinislkkt.1hapca.top
+0.0.0.0 hjhqmbxyinislkkt.1j43kf.top
 0.0.0.0 hjhqmbxyinislkkt.1jnhdc.top
 0.0.0.0 hjhqmbxyinislkkt.1jwuaa.top
 0.0.0.0 hjhqmbxyinislkkt.1kge5a.top
@@ -27385,6 +27390,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.1mee2x.top
 0.0.0.0 hjhqmbxyinislkkt.1mswjm.top
 0.0.0.0 hjhqmbxyinislkkt.1mvku2.top
+0.0.0.0 hjhqmbxyinislkkt.1mwvgh.top
 0.0.0.0 hjhqmbxyinislkkt.1nm62r.top
 0.0.0.0 hjhqmbxyinislkkt.1npg9s.top
 0.0.0.0 hjhqmbxyinislkkt.1ntyds.top
@@ -39639,6 +39645,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.17g6gc.top
 0.0.0.0 p27dokhpz2n7nvgr.17m14u.top
 0.0.0.0 p27dokhpz2n7nvgr.17ryrs.top
+0.0.0.0 p27dokhpz2n7nvgr.17u2yg.top
 0.0.0.0 p27dokhpz2n7nvgr.18dawg.top
 0.0.0.0 p27dokhpz2n7nvgr.18kkhl.top
 0.0.0.0 p27dokhpz2n7nvgr.18kmtt.top
@@ -39682,6 +39689,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.1eeb86.top
 0.0.0.0 p27dokhpz2n7nvgr.1em2j4.top
 0.0.0.0 p27dokhpz2n7nvgr.1enbyr.top
+0.0.0.0 p27dokhpz2n7nvgr.1evjph.top
 0.0.0.0 p27dokhpz2n7nvgr.1fqwek.top
 0.0.0.0 p27dokhpz2n7nvgr.1gnlsi.top
 0.0.0.0 p27dokhpz2n7nvgr.1gqqsc.top
@@ -39698,6 +39706,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.1kja1j.top
 0.0.0.0 p27dokhpz2n7nvgr.1kq4l8.top
 0.0.0.0 p27dokhpz2n7nvgr.1ktjse.top
+0.0.0.0 p27dokhpz2n7nvgr.1kyjw7.top
 0.0.0.0 p27dokhpz2n7nvgr.1l4zyd.top
 0.0.0.0 p27dokhpz2n7nvgr.1lcteo.top
 0.0.0.0 p27dokhpz2n7nvgr.1lt2pn.top
@@ -39707,11 +39716,14 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.1mwipu.top
 0.0.0.0 p27dokhpz2n7nvgr.1nhkou.top
 0.0.0.0 p27dokhpz2n7nvgr.1nmrtq.top
+0.0.0.0 p27dokhpz2n7nvgr.1nprob.top
+0.0.0.0 p27dokhpz2n7nvgr.1pbfky.top
 0.0.0.0 p27dokhpz2n7nvgr.1pbu64.top
 0.0.0.0 p27dokhpz2n7nvgr.1pglcs.top
 0.0.0.0 p27dokhpz2n7nvgr.1plugt.top
 0.0.0.0 p27dokhpz2n7nvgr.1psts4.top
 0.0.0.0 p27dokhpz2n7nvgr.1vjnyh.top
+0.0.0.0 p27dokhpz2n7nvgr.1wmvk2.top
 0.0.0.0 p2esummit.com
 0.0.0.0 p2nindonesia.com
 0.0.0.0 p2p.adv.vz.ru
@@ -54027,6 +54039,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 uttarakhandcrafts.com
 0.0.0.0 utube.ml
 0.0.0.0 utytoplljkstcrja.us
+0.0.0.0 uuianqwjmdmn.eu
 0.0.0.0 uunyadgda1.doubleclick.net
 0.0.0.0 uunyadgds1.doubleclick.net
 0.0.0.0 uusee.com
