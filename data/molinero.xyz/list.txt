@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Mon May  1 09:34:25 UTC 2017
-# Blacklisted domains: 62938
+# Last updated:        Tue May  2 06:00:48 UTC 2017
+# Blacklisted domains: 62943
 
 # <header>
 127.0.0.1       localhost 
@@ -646,6 +646,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 2spyware.us.intellitxt.com
 0.0.0.0 2xinfinito.com.br
 0.0.0.0 2xt.cn
+0.0.0.0 2ymh2gnnbg6pgq2r.winregion.tw
 0.0.0.0 3.adbrite.com
 0.0.0.0 3.aqa.rs
 0.0.0.0 3.cennter.com
@@ -7765,6 +7766,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 amazon-deineeinkaufswelt.com
 0.0.0.0 amazon-hotline.com
 0.0.0.0 amazon-prirne.com
+0.0.0.0 amazon-sicherheit.kunden-ueberpruefung.xyz
 0.0.0.0 amazon.account.need-update.tk
 0.0.0.0 amazon.co.uk.security-check.ga
 0.0.0.0 amazon.de-kundencenter-konto1065188.com
@@ -27339,6 +27341,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.12bsy8.top
 0.0.0.0 hjhqmbxyinislkkt.12bxp9.top
 0.0.0.0 hjhqmbxyinislkkt.12zucf.top
+0.0.0.0 hjhqmbxyinislkkt.13bcem.top
 0.0.0.0 hjhqmbxyinislkkt.13eymq.top
 0.0.0.0 hjhqmbxyinislkkt.13fmby.top
 0.0.0.0 hjhqmbxyinislkkt.13kn4l.top
@@ -27373,6 +27376,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.1fnjrj.top
 0.0.0.0 hjhqmbxyinislkkt.1fy93v.top
 0.0.0.0 hjhqmbxyinislkkt.1fygsg.top
+0.0.0.0 hjhqmbxyinislkkt.1fzjn3.top
 0.0.0.0 hjhqmbxyinislkkt.1fzz7a.top
 0.0.0.0 hjhqmbxyinislkkt.1grvue.top
 0.0.0.0 hjhqmbxyinislkkt.1gswwp.top
@@ -39615,6 +39619,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.12a63k.top
 0.0.0.0 p27dokhpz2n7nvgr.12c8ff.top
 0.0.0.0 p27dokhpz2n7nvgr.12gzrv.top
+0.0.0.0 p27dokhpz2n7nvgr.12hxjv.top
 0.0.0.0 p27dokhpz2n7nvgr.12smak.top
 0.0.0.0 p27dokhpz2n7nvgr.12t3rn.top
 0.0.0.0 p27dokhpz2n7nvgr.12ulcz.top
