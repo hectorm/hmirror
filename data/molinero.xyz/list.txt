@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Fri May  5 06:00:48 UTC 2017
-# Blacklisted domains: 63404
+# Last updated:        Sat May  6 06:00:36 UTC 2017
+# Blacklisted domains: 63408
 
 # <header>
 127.0.0.1       localhost 
@@ -502,6 +502,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 247discountshop.com
 0.0.0.0 247gamerz.com
 0.0.0.0 247media.com
+0.0.0.0 247playz.com
 0.0.0.0 247support.adtech.fr
 0.0.0.0 247support.adtech.us
 0.0.0.0 247wallstreet.us.intellitxt.com
@@ -737,6 +738,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 373082.livecity.me
 0.0.0.0 3750santarosalia.com
 0.0.0.0 3765329.fls.doubleclick.net
+0.0.0.0 37kddsserrt.xyz
 0.0.0.0 384242.799866074.cn
 0.0.0.0 384756783900.cn
 0.0.0.0 385223-deutschland-gast-mitteilung-account.service-paypal-info.ml
@@ -26526,7 +26528,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 hack-planet.com
 0.0.0.0 hack-release.com
 0.0.0.0 hack-team.org
-0.0.0.0 hack-tool.com
 0.0.0.0 hack-tool.org
 0.0.0.0 hack-top-eleven.com
 0.0.0.0 hack-twitter.com
@@ -39939,6 +39940,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.12umzf.top
 0.0.0.0 p27dokhpz2n7nvgr.12vpkc.top
 0.0.0.0 p27dokhpz2n7nvgr.1321z6.top
+0.0.0.0 p27dokhpz2n7nvgr.133chr.top
 0.0.0.0 p27dokhpz2n7nvgr.13g2v9.top
 0.0.0.0 p27dokhpz2n7nvgr.13gmvm.top
 0.0.0.0 p27dokhpz2n7nvgr.13ixv2.top
@@ -41907,6 +41909,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 poggiosportvillage.it
 0.0.0.0 pogodowski.com
 0.0.0.0 pogruz.wanyizhao.net
+0.0.0.0 poimoiyreque5.pw
 0.0.0.0 poinhoki.com
 0.0.0.0 pointclicktrack.com
 0.0.0.0 pointcodes4free.com
@@ -57958,6 +57961,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.blacksnake.com
 0.0.0.0 www.blasphemysfhs.info
 0.0.0.0 www.blatant8jh.info
+0.0.0.0 www.blazingtrader.biz
 0.0.0.0 www.blenz-me.net
 0.0.0.0 www.blizzard-wow-mail-us.com
 0.0.0.0 www.blizzard-wow-sa-us-battle.com
