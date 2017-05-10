@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Mon May  8 06:00:40 UTC 2017
-# Blacklisted domains: 63401
+# Last updated:        Tue May  9 06:01:15 UTC 2017
+# Blacklisted domains: 63438
 
 # <header>
 127.0.0.1       localhost 
@@ -2429,6 +2429,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 account-suspicious.com
 0.0.0.0 account-transaction.com
 0.0.0.0 account-unauthorized.unusualaccount.co.vu
+0.0.0.0 account-update-login.com
 0.0.0.0 account-update.nl
 0.0.0.0 account-updatelimited.com
 0.0.0.0 account-veification-step.org
@@ -8965,12 +8966,14 @@ ff02::3         ip6-allhosts
 0.0.0.0 applersupporter.com
 0.0.0.0 apples-securitmy-wupdate.applenextnew.com
 0.0.0.0 applesecured-webapps.com
+0.0.0.0 applesecuremyaccount.com
 0.0.0.0 applesecuritysupport.com
 0.0.0.0 appleservice.com.e-matcom.com
 0.0.0.0 applesg-iphone.com
 0.0.0.0 applesnoutsthings.bid
 0.0.0.0 applesponsor.info
 0.0.0.0 applesstore.top
+0.0.0.0 applestore-verification.com
 0.0.0.0 applestore.com-mobile.gift
 0.0.0.0 applestorejwnvmbc80ql.sapphirecomedyhour.com
 0.0.0.0 applesupport.club
@@ -9004,6 +9007,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 apprecovery.pe.hu
 0.0.0.0 appredeem.com
 0.0.0.0 apprep.smartscreen.microsoft.com
+0.0.0.0 appresolution.info
 0.0.0.0 approstar.com
 0.0.0.0 approvedhacks.com
 0.0.0.0 apps-hacks.com
@@ -9037,9 +9041,12 @@ ff02::3         ip6-allhosts
 0.0.0.0 appsrv1.madserving.cn
 0.0.0.0 appssecureloginacctime.com
 0.0.0.0 appsservicehelpcenter.de
+0.0.0.0 appstore-centers-i.cloud
+0.0.0.0 appstore-confirmation.com
 0.0.0.0 appsunlocker.com
 0.0.0.0 apptap.scripps.com
 0.0.0.0 apptera.com
+0.0.0.0 apptunes-appleid.info
 0.0.0.0 appular.com
 0.0.0.0 appz.com.au
 0.0.0.0 appz4u.xyz
@@ -9489,6 +9496,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 assistantbilling.in
 0.0.0.0 assistenza-cliente.it
 0.0.0.0 assistenza.login-appleit-apple.com-support.itilprot.com
+0.0.0.0 assistenzapaypa.altervista.org
 0.0.0.0 assistonglobal.com
 0.0.0.0 assitecacrowd.net
 0.0.0.0 assoc-amazon.com
@@ -15833,6 +15841,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 com-sevicedaccountintl.com
 0.0.0.0 com-sign-inresolving.com
 0.0.0.0 com-signin-code102-9319230.biz
+0.0.0.0 com-signin-page.info
 0.0.0.0 com-signin-transactionsupport.com
 0.0.0.0 com-signin-verify-info.com
 0.0.0.0 com-store.store
@@ -15847,6 +15856,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 com-t0p.net
 0.0.0.0 com-unauthorised.com
 0.0.0.0 com-unblockid7616899.info
+0.0.0.0 com-unlockedid778823.info
 0.0.0.0 com-update-awsbilling.com
 0.0.0.0 com-update-webketipu.net
 0.0.0.0 com-updateidxs.info
@@ -16142,7 +16152,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 consumofinal.com.br
 0.0.0.0 conswealthng.com
 0.0.0.0 contact-apples.com
+0.0.0.0 contact-securemyaccount.com
 0.0.0.0 contact-supportid.com
+0.0.0.0 contactcostumer-service.com
 0.0.0.0 contactmusic.uk.intellitxt.com
 0.0.0.0 contactmusic.us.intellitxt.com
 0.0.0.0 contactsupport-authentic.com
@@ -16213,6 +16225,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 contintanorte.com.ar
 0.0.0.0 continuumdownload.com
 0.0.0.0 contniental.com
+0.0.0.0 contopaypal.info
 0.0.0.0 contour.isthebe.st
 0.0.0.0 contractordaytonabeach.com
 0.0.0.0 contratosdemarkting.com
@@ -17164,6 +17177,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cubeworldhacks.net
 0.0.0.0 cubeworldpcgame.com
 0.0.0.0 cubics.com
+0.0.0.0 cuboacores.com
 0.0.0.0 cucdn.genesismedia.com
 0.0.0.0 cudacorp.com
 0.0.0.0 cudaminer.com
@@ -17662,6 +17676,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 data-smierci-sprawdz.wirtualnie.pl
 0.0.0.0 data-smierci.wirtualnie.pl
 0.0.0.0 data-soren.dk
+0.0.0.0 data-validmember.info
 0.0.0.0 data.abebooks.com
 0.0.0.0 data.ads.t-online.de
 0.0.0.0 data.adsrvr.org
@@ -27560,6 +27575,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.13eymq.top
 0.0.0.0 hjhqmbxyinislkkt.13fmby.top
 0.0.0.0 hjhqmbxyinislkkt.13kn4l.top
+0.0.0.0 hjhqmbxyinislkkt.13ydzv.top
 0.0.0.0 hjhqmbxyinislkkt.142djp.top
 0.0.0.0 hjhqmbxyinislkkt.14dr1s.top
 0.0.0.0 hjhqmbxyinislkkt.14klmz.top
@@ -27588,6 +27604,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.1eagrj.top
 0.0.0.0 hjhqmbxyinislkkt.1eeyaj.top
 0.0.0.0 hjhqmbxyinislkkt.1efxa8.top
+0.0.0.0 hjhqmbxyinislkkt.1fgsmc.top
 0.0.0.0 hjhqmbxyinislkkt.1fnjrj.top
 0.0.0.0 hjhqmbxyinislkkt.1fy93v.top
 0.0.0.0 hjhqmbxyinislkkt.1fygsg.top
@@ -28559,6 +28576,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 icloudverified.com
 0.0.0.0 icloudza.com
 0.0.0.0 icludio5.beget.tech
+0.0.0.0 icluodx.info
 0.0.0.0 ico.freelogs.com
 0.0.0.0 icodecrypt.com
 0.0.0.0 icoderx.com
@@ -29343,6 +29361,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 incwellsfargo.myjino.ru
 0.0.0.0 indas.com.au
 0.0.0.0 index.isthebe.st
+0.0.0.0 indexapps-summary.info
 0.0.0.0 indexhu.adocean.pl
 0.0.0.0 indexjs.ru
 0.0.0.0 indexportal.nl
@@ -29660,6 +29679,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 integratedidea.com
 0.0.0.0 integratedlogs.com
 0.0.0.0 integritybusinessvaluation.com
+0.0.0.0 intekyapi.com.tr
 0.0.0.0 intela.com
 0.0.0.0 intelcorpchan.112.2o7.net
 0.0.0.0 intelcorpcim.112.2o7.net
@@ -30174,6 +30194,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 itunes.freecodes.us
 0.0.0.0 itunes.music2716-sudis-appleid.vrs-gravsdelectronic-electronicalverification.arteirapatchwork.com.br
 0.0.0.0 itunes.rechnung.ch.storie-22.net.185-101-158-5.513.hosttech.eu
+0.0.0.0 itunesapplenvoice.info
 0.0.0.0 itunesboss.com
 0.0.0.0 itunescardsfree.com
 0.0.0.0 itunescardsnew.dlcodes.com
@@ -31030,7 +31051,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 jtti.net
 0.0.0.0 jualsabunberas.com
 0.0.0.0 juanadearco.com.uy
-0.0.0.0 juancarlo.ph
 0.0.0.0 juancarlosalvarezdelvalle.com
 0.0.0.0 juandavidcocina.com
 0.0.0.0 juanmagamazo.com
@@ -32926,6 +32946,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 lnads.osdn.com
 0.0.0.0 lnfo.eu
 0.0.0.0 lnhxwmhoyjxqmtgn9u.com
+0.0.0.0 lnkdadmin.com
 0.0.0.0 lnked.org
 0.0.0.0 lnkgo.com
 0.0.0.0 lnkgt.com
@@ -33006,6 +33027,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 lockdoctorlv.com
 0.0.0.0 locked-account-services.com
 0.0.0.0 locked-n-erbalist.com
+0.0.0.0 locked-page.com
 0.0.0.0 locked.one
 0.0.0.0 lockergnome.us.intellitxt.com
 0.0.0.0 lockredirect.com
@@ -33117,6 +33139,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 logiciel-pour-pirater-un-compte-facebook.com
 0.0.0.0 logicielslibrespirater.com
 0.0.0.0 login-applecom.org
+0.0.0.0 login-appleid.info
 0.0.0.0 login-appleit-assistenza-apple.com-support.itilprot.com
 0.0.0.0 login-cancelorder.info
 0.0.0.0 login-customer.info.support-paypl-account.gq
@@ -36855,6 +36878,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 myaccount-verificatiion.com
 0.0.0.0 myaccount-webapps-edit.com
 0.0.0.0 myaccountapple.com
+0.0.0.0 myaccounts-pyspl.com
 0.0.0.0 myaccountsservice.ml
 0.0.0.0 myaccountsupport-cgibin.net
 0.0.0.0 myaccountverifyncsustate.my-free.website
@@ -40013,6 +40037,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.1gqqsc.top
 0.0.0.0 p27dokhpz2n7nvgr.1gvql3.top
 0.0.0.0 p27dokhpz2n7nvgr.1h23cc.top
+0.0.0.0 p27dokhpz2n7nvgr.1hkjl3.top
 0.0.0.0 p27dokhpz2n7nvgr.1hpvzl.top
 0.0.0.0 p27dokhpz2n7nvgr.1hw36d.top
 0.0.0.0 p27dokhpz2n7nvgr.1jemdr.top
@@ -44793,6 +44818,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ronittextile.com
 0.0.0.0 roniynn.com
 0.0.0.0 ronjaapplegallery.net16.net
+0.0.0.0 roofgreen.in.ua
 0.0.0.0 roomairbnbnet.altervista.org
 0.0.0.0 roomaxx.ie
 0.0.0.0 roomcheats.com
@@ -47477,6 +47503,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 signin-ebaay.alnadafood.com
 0.0.0.0 signin-ebay-com-ws-ebayisapi-dll-signin-webscr.ocom.pl
 0.0.0.0 signin-ebay.ml
+0.0.0.0 signin-pp-acc99808768-barokahin.com
 0.0.0.0 signin-resolutionauthpolicyagreement.com
 0.0.0.0 signin-resolutionauthzpolicyagreements.com
 0.0.0.0 signin-secur0pp-payment-intlpay-service9987023125.com
@@ -47737,6 +47764,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 skinsgang.com
 0.0.0.0 skinskonkurs.pl
 0.0.0.0 skinslegends.com
+0.0.0.0 skintrade24.com
 0.0.0.0 skinykonkurs.pl
 0.0.0.0 skip.oewabox.at
 0.0.0.0 skipp-hacks.net
@@ -48276,6 +48304,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 soloecuador.com
 0.0.0.0 solos-r-us.com
 0.0.0.0 solubaba.tk
+0.0.0.0 solutation-update.com
 0.0.0.0 solutino.com
 0.0.0.0 solution-istoreweb.com
 0.0.0.0 solution.weborama.fr
@@ -53734,6 +53763,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 unlimitedupdate.com
 0.0.0.0 unlink.altitude.lv
 0.0.0.0 unlock-device.net
+0.0.0.0 unlock-myaccount-i.cloud
 0.0.0.0 unlock-step-verification.com
 0.0.0.0 unlocked-accountid.com
 0.0.0.0 unlocked-appiclouds.com
@@ -54069,6 +54099,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 updatenninformation.com
 0.0.0.0 updatenowpro.com
 0.0.0.0 updateoinformation.com
+0.0.0.0 updatepolicedverif1id.net
 0.0.0.0 updater-account-service.com
 0.0.0.0 updateremain.com
 0.0.0.0 updatermationservice.info
@@ -54082,6 +54113,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 updatesmith55.net16.net
 0.0.0.0 updatesnowonline.com
 0.0.0.0 updatetrmconf.com
+0.0.0.0 updateverification-service.com
 0.0.0.0 updateversion-log.com
 0.0.0.0 updatewellsfargo.amvesys.com.au
 0.0.0.0 updatework.updaterightnow.com
@@ -54807,6 +54839,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 verify.pressnaija.com
 0.0.0.0 verify.security.google-policy.us.equipamentosac.com.br
 0.0.0.0 verify.start.ms11.net
+0.0.0.0 verify2nd.com
 0.0.0.0 verifyaccount-paypal-account.bioflowls.com
 0.0.0.0 verifyaccount-service.com
 0.0.0.0 verifyaccount-support.com
@@ -56089,9 +56122,11 @@ ff02::3         ip6-allhosts
 0.0.0.0 webapp-myaccount-settings.com
 0.0.0.0 webapp-myaccount-signin.com
 0.0.0.0 webapp.parkingpage.production.flippa.com
+0.0.0.0 webapps-account.com
 0.0.0.0 webapps-accountsecure.com
 0.0.0.0 webapps-accountslimited.com
 0.0.0.0 webapps-home.com
+0.0.0.0 webapps-loginscure.com
 0.0.0.0 webapps-mpp-home-limited.com
 0.0.0.0 webapps-myactivity.com
 0.0.0.0 webapps-notices.com
@@ -57750,6 +57785,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.apple-updates.com
 0.0.0.0 www.apple-xid.com
 0.0.0.0 www.apple.com-redirect-authenticatio-accountid.info
+0.0.0.0 www.apple.com-servwork.info
 0.0.0.0 www.applefindtwios.com
 0.0.0.0 www.appleid-passwords.com
 0.0.0.0 www.appleid-top.com
@@ -61487,6 +61523,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.zytpirwai.net
 0.0.0.0 www.zywawoda.pl
 0.0.0.0 www.zyxyfy.com
+0.0.0.0 www1-apple.store
 0.0.0.0 www1.777mnz.com
 0.0.0.0 www1.ad.tomshardware.com
 0.0.0.0 www1.addfreestats.com
