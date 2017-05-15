@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat May 13 06:00:38 UTC 2017
-# Blacklisted domains: 64434
+# Last updated:        Sun May 14 06:00:41 UTC 2017
+# Blacklisted domains: 64433
 
 # <header>
 127.0.0.1       localhost 
@@ -18398,7 +18398,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 dentalkang.com
 0.0.0.0 dentalwitakril.com
 0.0.0.0 dentalxl.com
-0.0.0.0 dentastyle.ro
 0.0.0.0 denverfilmdigitalmedia.cn
 0.0.0.0 denverpost.112.2o7.net
 0.0.0.0 deonixion.com
