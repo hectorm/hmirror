@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sun May 14 06:00:41 UTC 2017
-# Blacklisted domains: 64433
+# Last updated:        Mon May 15 06:00:37 UTC 2017
+# Blacklisted domains: 64432
 
 # <header>
 127.0.0.1       localhost 
@@ -1796,7 +1796,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 803.stats.misstrends.com
 0.0.0.0 804460-germany-verbraucher-mitteilung-konto_identity.sicher-vorbeugung.tk
 0.0.0.0 805678.com
-0.0.0.0 80887.com
 0.0.0.0 81182479.com
 0.0.0.0 81266966.com
 0.0.0.0 814988-deutschland-verbraucher-sicher-konto-identity.sicherheitsabwehr-pro.cf
