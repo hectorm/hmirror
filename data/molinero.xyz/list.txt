@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Thu May 18 06:00:38 UTC 2017
-# Blacklisted domains: 65149
+# Last updated:        Fri May 19 06:00:40 UTC 2017
+# Blacklisted domains: 65150
 
 # <header>
 127.0.0.1       localhost 
@@ -43712,6 +43712,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 prizemeter.com
 0.0.0.0 prizeraffles.net
 0.0.0.0 prizes.co.uk
+0.0.0.0 prizestohandle.club
 0.0.0.0 prjcq.com
 0.0.0.0 prk.firstconf.3gb.biz
 0.0.0.0 prm-ext.phorm.com
