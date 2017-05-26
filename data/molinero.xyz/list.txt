@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Wed May 24 06:00:42 UTC 2017
-# Blacklisted domains: 66532
+# Last updated:        Thu May 25 06:00:51 UTC 2017
+# Blacklisted domains: 66540
 
 # <header>
 127.0.0.1       localhost 
@@ -2229,6 +2229,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 aasc.or.jp
 0.0.0.0 aaukqiooaseseuke.org
 0.0.0.0 aavaanautica.com
+0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -8459,6 +8460,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 anotherwayof.be
 0.0.0.0 anotherwayrehabandchiro.com
 0.0.0.0 anothicago.top
+0.0.0.0 anouslab.cmail20.com
 0.0.0.0 anpdoznp8eghparb1xha.perfectoptical.com.my
 0.0.0.0 anphugia.com.vn
 0.0.0.0 anrtx.tacoda.net
@@ -28825,6 +28827,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.1c1ajf.top
 0.0.0.0 hjhqmbxyinislkkt.1cdqfv.top
 0.0.0.0 hjhqmbxyinislkkt.1cnkik.top
+0.0.0.0 hjhqmbxyinislkkt.1dq6nd.top
 0.0.0.0 hjhqmbxyinislkkt.1eagrj.top
 0.0.0.0 hjhqmbxyinislkkt.1eeyaj.top
 0.0.0.0 hjhqmbxyinislkkt.1efxa8.top
@@ -28845,6 +28848,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.1j43kf.top
 0.0.0.0 hjhqmbxyinislkkt.1jnhdc.top
 0.0.0.0 hjhqmbxyinislkkt.1jwuaa.top
+0.0.0.0 hjhqmbxyinislkkt.1k6bas.top
 0.0.0.0 hjhqmbxyinislkkt.1kge5a.top
 0.0.0.0 hjhqmbxyinislkkt.1khwro.top
 0.0.0.0 hjhqmbxyinislkkt.1kraqn.top
@@ -41322,6 +41326,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 onlinksoft.org
 0.0.0.0 only-valium.go.to
 0.0.0.0 only-valium.shengen.ru
+0.0.0.0 only.best-games.today
 0.0.0.0 only.onecinema.us
 0.0.0.0 only2date.com
 0.0.0.0 onlyfiles.net
@@ -41903,6 +41908,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.12t3rn.top
 0.0.0.0 p27dokhpz2n7nvgr.12ulcz.top
 0.0.0.0 p27dokhpz2n7nvgr.12umzf.top
+0.0.0.0 p27dokhpz2n7nvgr.12uzfa.top
 0.0.0.0 p27dokhpz2n7nvgr.12vpkc.top
 0.0.0.0 p27dokhpz2n7nvgr.1321z6.top
 0.0.0.0 p27dokhpz2n7nvgr.133chr.top
@@ -56871,6 +56877,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 update.shwar3na.com
 0.0.0.0 update.soft2download.online
 0.0.0.0 update.sunnsand.biz
+0.0.0.0 update.theplacetoupdating.pw
 0.0.0.0 update.timstackleshop.es
 0.0.0.0 update.vaccinehelper.co.kr
 0.0.0.0 update.wellsfargo.vote4miguel.com
@@ -61380,6 +61387,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.copyright-reform.info
 0.0.0.0 www.coreclickhoo.com
 0.0.0.0 www.coreglead.co.uk
+0.0.0.0 www.cornomase.win
 0.0.0.0 www.cortesidesign.com
 0.0.0.0 www.cosmeticscentre.uk.com
 0.0.0.0 www.costumers-serviced.info
