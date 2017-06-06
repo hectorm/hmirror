@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 02 Jun 2017 at 05:55:52 GMT
+# Last updated: Mon, 05 Jun 2017 at 22:59:58 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -712,6 +712,7 @@
 127.0.0.1 data.coremetrics.com
 127.0.0.1 data.webads.co.nz
 127.0.0.1 data2.perf.overture.com
+127.0.0.1 dc43.s290.meetrics.net
 127.0.0.1 dclk.haaretz.co.il
 127.0.0.1 dclk.themarker.com
 127.0.0.1 dclk.themarketer.com
@@ -732,6 +733,7 @@
 127.0.0.1 ds.amateurmatch.com
 127.0.0.1 dv-fw-a-nat.iovation.com
 127.0.0.1 dwclick.com
+127.0.0.1 dyn.emetriq.de
 127.0.0.1 e-2dj6wfk4ehd5afq.stats.esomniture.com
 127.0.0.1 e-2dj6wfk4ggdzkbo.stats.esomniture.com
 127.0.0.1 e-2dj6wfk4gkcpiep.stats.esomniture.com
@@ -1175,6 +1177,7 @@
 127.0.0.1 s27.sitemeter.com
 127.0.0.1 s28.sitemeter.com
 127.0.0.1 s29.sitemeter.com
+127.0.0.1 s290.mxcdn.net
 127.0.0.1 s3.hit.stat.pl
 127.0.0.1 s30.sitemeter.com
 127.0.0.1 s31.sitemeter.com
@@ -6035,6 +6038,7 @@
 127.0.0.1 adshmmsg.qq.com
 127.0.0.1 adsim.sabah.com.tr
 127.0.0.1 adsinimages.com
+127.0.0.1 adsino24.com
 127.0.0.1 adsintl.starwave.com
 127.0.0.1 adslvfile.qq.com
 127.0.0.1 adslvseed.qq.com
@@ -7638,6 +7642,7 @@
 127.0.0.1 getacooltv.com
 127.0.0.1 getafreeiphone.org
 127.0.0.1 getagiftonline.com
+127.0.0.1 getmyads.com
 127.0.0.1 getmyads24.com
 127.0.0.1 getmyfreebabystuff.com
 127.0.0.1 getmyfreegear.com
@@ -10922,6 +10927,7 @@
 127.0.0.1 www.phoenixads.co.in
 127.0.0.1 www.phorm.com
 127.0.0.1 www.pick-savings.com
+127.0.0.1 www.placelocal.com
 127.0.0.1 www.plasmatv4free.com
 127.0.0.1 www.plasmatvreward.com
 127.0.0.1 www.politicalopinionsurvey.com
