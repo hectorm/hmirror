@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 06 Jun 2017 at 17:05:57 GMT
+# Last updated: Fri, 09 Jun 2017 at 08:29:56 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4008,6 +4008,7 @@
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-us-pdx.amazon-adsystem.com
+127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 ab-gb.mgid.com
 127.0.0.1 abcnews.footprint.net
 127.0.0.1 abrogatesdv.info
@@ -6705,6 +6706,7 @@
 127.0.0.1 c.admob.com
 127.0.0.1 c.adroll.com
 127.0.0.1 c.am10.ru
+127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c.anytrx.com
 127.0.0.1 c.ar.msn.com
 127.0.0.1 c.as-us.falkag.net
@@ -7462,6 +7464,7 @@
 127.0.0.1 floridat.app.ur.gcion.com
 127.0.0.1 flower.bg
 127.0.0.1 flowers-offer.com
+127.0.0.1 fls-na.amazon-adsystem.com
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 flu23.com
 127.0.0.1 fmads.osdn.com
@@ -8013,6 +8016,7 @@
 127.0.0.1 iq001.adtech.de
 127.0.0.1 iq001.adtech.fr
 127.0.0.1 iq001.adtech.us
+127.0.0.1 ir-de.amazon-adsystem.com
 127.0.0.1 ir-na.amazon-adsystem.com
 127.0.0.1 is.casalemedia.com
 127.0.0.1 isg01.casalemedia.com
@@ -9043,6 +9047,7 @@
 127.0.0.1 proximityads.flipcorp.com
 127.0.0.1 proxy.blogads.com
 127.0.0.1 prpops.com
+127.0.0.1 ps-us.amazon-adsystem.com
 127.0.0.1 pstatic.datafastguru.info
 127.0.0.1 pt.trafficjunky.net
 127.0.0.1 pt21na.com
@@ -9121,6 +9126,7 @@
 127.0.0.1 rcdna.gwallet.com
 127.0.0.1 rcm-images.amazon.com
 127.0.0.1 rcm-it.amazon.it
+127.0.0.1 rcm-na.amazon-adsystem.com
 127.0.0.1 rdsa2012.com
 127.0.0.1 re.directrev.com
 127.0.0.1 re.kontera.com
@@ -10271,6 +10277,8 @@
 127.0.0.1 wm.baidu.com
 127.0.0.1 wmedia.adk2x.com
 127.0.0.1 wmedia.rotator.hadj7.adjuggler.net
+127.0.0.1 wms-eu.amazon-adsystem.com
+127.0.0.1 wms-na.amazon-adsystem.com
 127.0.0.1 wonderlandads.com
 127.0.0.1 worden.samenresultaat.nl
 127.0.0.1 wordplaywhiz.com
@@ -10278,6 +10286,8 @@
 127.0.0.1 worry-free-savings.com
 127.0.0.1 wowanalytics.co.uk
 127.0.0.1 wppluginspro.com
+127.0.0.1 ws-ea.amazon-adsystem.com
+127.0.0.1 ws-na.amazon-adsystem.com
 127.0.0.1 ws.addthis.com
 127.0.0.1 wtp101.com
 127.0.0.1 ww251.smartadserver.com
