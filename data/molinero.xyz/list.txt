@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Fri Jun  9 06:03:53 UTC 2017
-# Blacklisted domains: 67274
+# Last updated:        Sat Jun 10 06:00:41 UTC 2017
+# Blacklisted domains: 67275
 
 # <header>
 127.0.0.1       localhost 
@@ -42377,6 +42377,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p27dokhpz2n7nvgr.1apkjn.top
 0.0.0.0 p27dokhpz2n7nvgr.1aweql.top
 0.0.0.0 p27dokhpz2n7nvgr.1axzcw.top
+0.0.0.0 p27dokhpz2n7nvgr.1azkux.top
 0.0.0.0 p27dokhpz2n7nvgr.1b3qjy.top
 0.0.0.0 p27dokhpz2n7nvgr.1bj4k9.top
 0.0.0.0 p27dokhpz2n7nvgr.1bniyw.top
@@ -56265,7 +56266,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 trenu.com
 0.0.0.0 trenz.pl
 0.0.0.0 treplikon.com
-0.0.0.0 treskainc.com
 0.0.0.0 tresmader.com
 0.0.0.0 treventuresonline.com
 0.0.0.0 trevorwilliams.co.za
@@ -60897,6 +60897,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 wrzuc-foteczke.bo.pl
 0.0.0.0 wrzucfote-znajomego.bo.pl
 0.0.0.0 wrzutkaplikow.pl
+0.0.0.0 ws-ea.amazon-adsystem.com
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.00zasdf.pw
