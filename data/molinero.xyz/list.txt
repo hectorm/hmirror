@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sun Jun 18 06:00:31 UTC 2017
-# Blacklisted domains: 67633
+# Last updated:        Mon Jun 19 06:00:46 UTC 2017
+# Blacklisted domains: 67646
 
 # <header>
 127.0.0.1       localhost 
@@ -26540,6 +26540,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 gethurry.com
 0.0.0.0 getitgoing.xyz
 0.0.0.0 getiton.com
+0.0.0.0 getleakedsnaps.com
 0.0.0.0 getlimitlessbook.com
 0.0.0.0 getlink.gq
 0.0.0.0 getmailcounter.com
@@ -29110,6 +29111,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.127axt.top
 0.0.0.0 hjhqmbxyinislkkt.12bsy8.top
 0.0.0.0 hjhqmbxyinislkkt.12bxp9.top
+0.0.0.0 hjhqmbxyinislkkt.12ct4c.top
 0.0.0.0 hjhqmbxyinislkkt.12gsjz.top
 0.0.0.0 hjhqmbxyinislkkt.12m58x.top
 0.0.0.0 hjhqmbxyinislkkt.12zucf.top
@@ -29163,10 +29165,12 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.1efxa8.top
 0.0.0.0 hjhqmbxyinislkkt.1fgsmc.top
 0.0.0.0 hjhqmbxyinislkkt.1fnjrj.top
+0.0.0.0 hjhqmbxyinislkkt.1fttxm.top
 0.0.0.0 hjhqmbxyinislkkt.1fy93v.top
 0.0.0.0 hjhqmbxyinislkkt.1fygsg.top
 0.0.0.0 hjhqmbxyinislkkt.1fzjn3.top
 0.0.0.0 hjhqmbxyinislkkt.1fzz7a.top
+0.0.0.0 hjhqmbxyinislkkt.1gjpzp.top
 0.0.0.0 hjhqmbxyinislkkt.1gqrpq.top
 0.0.0.0 hjhqmbxyinislkkt.1gredn.top
 0.0.0.0 hjhqmbxyinislkkt.1grvue.top
@@ -29183,9 +29187,11 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.1k6bas.top
 0.0.0.0 hjhqmbxyinislkkt.1kge5a.top
 0.0.0.0 hjhqmbxyinislkkt.1khwro.top
+0.0.0.0 hjhqmbxyinislkkt.1kjhhf.top
 0.0.0.0 hjhqmbxyinislkkt.1kraqn.top
 0.0.0.0 hjhqmbxyinislkkt.1kw51p.top
 0.0.0.0 hjhqmbxyinislkkt.1lqrja.top
+0.0.0.0 hjhqmbxyinislkkt.1ltyev.top
 0.0.0.0 hjhqmbxyinislkkt.1mat7v.top
 0.0.0.0 hjhqmbxyinislkkt.1mee2x.top
 0.0.0.0 hjhqmbxyinislkkt.1mqvsc.top
@@ -46190,7 +46196,12 @@ ff02::3         ip6-allhosts
 0.0.0.0 qenabled.com
 0.0.0.0 qerfhgkadhsfukhertgrpotgjpoidfg.ce.ms
 0.0.0.0 qertea.instanthq.com
+0.0.0.0 qfjhpgbefuhenjp7.17cwdi.top
+0.0.0.0 qfjhpgbefuhenjp7.18dwag.top
 0.0.0.0 qfjhpgbefuhenjp7.18ggbf.top
+0.0.0.0 qfjhpgbefuhenjp7.19ckzf.top
+0.0.0.0 qfjhpgbefuhenjp7.1jfjhb.top
+0.0.0.0 qfjhpgbefuhenjp7.1jrkyn.top
 0.0.0.0 qfsstesting.com
 0.0.0.0 qgmmrvbqwlouglqggi.com
 0.0.0.0 qgsruo.com
@@ -66465,6 +66476,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 xpantivirus.com
 0.0.0.0 xpath.syncrvprodist.com
 0.0.0.0 xpcs.ads.yahoo.com
+0.0.0.0 xpcx6erilkjced3j.16hwwh.top
+0.0.0.0 xpcx6erilkjced3j.1cgbcv.top
 0.0.0.0 xpipemotoring.top
 0.0.0.0 xpl.theadex.com
 0.0.0.0 xploitz.net
