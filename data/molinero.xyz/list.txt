@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Wed Jun 21 06:00:40 UTC 2017
-# Blacklisted domains: 68122
+# Last updated:        Thu Jun 22 06:00:51 UTC 2017
+# Blacklisted domains: 68123
 
 # <header>
 127.0.0.1       localhost 
@@ -415,6 +415,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 1smart.nu
 0.0.0.0 1stand2ndmortgage.com
 0.0.0.0 1stcongress.aspic.pt
+0.0.0.0 1stforcarhireitaly.com
 0.0.0.0 1taja.com
 0.0.0.0 1th.cqcounter.com
 0.0.0.0 1tr.cqcounter.com
@@ -27083,6 +27084,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 gmail-com-cgi-bin-data.info
 0.0.0.0 gmailhack.top
 0.0.0.0 gmailhackerpro.com
+0.0.0.0 gmailsecurityteam.com
 0.0.0.0 gmanetwork.info
 0.0.0.0 gmap-group.com
 0.0.0.0 gmcamino.com
@@ -51920,6 +51922,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 snoringthecure.com
 0.0.0.0 snorked.com
 0.0.0.0 snow-mirror.com
+0.0.0.0 snowdog1997.de
 0.0.0.0 snrav.cn
 0.0.0.0 snrp.uglyas.com
 0.0.0.0 snt-krivskoe.ru
@@ -65837,7 +65840,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.webhits.de
 0.0.0.0 www.webhostingcounter.com
 0.0.0.0 www.webmoblink.com
-0.0.0.0 www.webos.in
 0.0.0.0 www.webpaypal.com
 0.0.0.0 www.webservices-rewardpath.com
 0.0.0.0 www.webservis.gen.tr
@@ -68056,7 +68058,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 zreoip.com
 0.0.0.0 zriigruporubii.com
 0.0.0.0 zs.hniuzsjy.cn
-0.0.0.0 zs.technogatti.com
 0.0.0.0 zs1.zeroredirect1.com
 0.0.0.0 zs11.cnzz.com
 0.0.0.0 zs16.cnzz.com
