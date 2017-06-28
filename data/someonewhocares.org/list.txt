@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 26 Jun 2017 at 15:48:48 GMT
+# Last updated: Wed, 28 Jun 2017 at 00:35:33 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1999,6 +1999,7 @@
 127.0.0.1 apple.com-scan-virus-detected.com
 127.0.0.1 apple.com-store.me
 127.0.0.1 apple.com-supportcenter.website
+127.0.0.1 apple.com-webbrowsing-security.bid
 127.0.0.1 apple.com.virus-mac.com
 127.0.0.1 applestore.com-mobile.gift
 127.0.0.1 armsart.com
