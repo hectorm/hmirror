@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Fri Jun 30 05:22:55 UTC 2017
-# Blacklisted domains: 67955
+# Last updated:        Sat Jul  1 05:24:55 UTC 2017
+# Blacklisted domains: 67953
 
 # <header>
 127.0.0.1       localhost 
@@ -1588,7 +1588,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 58611.net
 0.0.0.0 5882.1158.blueseek.com
 0.0.0.0 588222-germany-nutzung-mitteilung-nachweis.sicherheitssystem-sicherheitshilfe.gq
-0.0.0.0 58tpw.com
 0.0.0.0 59-106-20-39.r-bl100.sakura.ne.jp
 0.0.0.0 591xietaoji.com
 0.0.0.0 599.stats.misstrends.com
@@ -1686,7 +1685,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 678496644.cn
 0.0.0.0 67www.com
 0.0.0.0 680.stats.misstrends.com
-0.0.0.0 681luanlun.com
 0.0.0.0 685.so
 0.0.0.0 687-ct.c3tag.com
 0.0.0.0 687549613.cn
@@ -9090,6 +9088,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 apple.com-supportcenter.pro
 0.0.0.0 apple.com-supportcenter.website
 0.0.0.0 apple.com-webbrowsing-security.bid
+0.0.0.0 apple.com-webbrowsing-security.download
 0.0.0.0 apple.com.clean-virus-mac.com
 0.0.0.0 apple.com.confiduration.clients.updating.service.foxdizi.net
 0.0.0.0 apple.com.icloud.billing.verifiy.9200938771663883991773817836476289732.valcla.com.br
@@ -11621,7 +11620,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 benuoska.com
 0.0.0.0 benyuanbaina.com
 0.0.0.0 benzino-fingers.com
-0.0.0.0 benztransport.com
 0.0.0.0 beonce-preez.ru
 0.0.0.0 beonce.ru
 0.0.0.0 beoncemay.ru
