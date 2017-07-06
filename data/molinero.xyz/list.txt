@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Tue Jul  4 05:19:49 UTC 2017
-# Blacklisted domains: 67969
+# Last updated:        Wed Jul  5 05:21:09 UTC 2017
+# Blacklisted domains: 67968
 
 # <header>
 127.0.0.1       localhost 
@@ -468,7 +468,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 2017contasinativas.kinghost.net
 0.0.0.0 2017pessoafisicaonline.com
 0.0.0.0 2017recover.esy.es
-0.0.0.0 201ddlyh.com
 0.0.0.0 2020closings.com
 0.0.0.0 20585485p.rfihub.com
 0.0.0.0 206938-deu-prob-mitteilung-benutzer.vorbeugung-sicher.gq
