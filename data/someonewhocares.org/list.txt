@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 03 Jul 2017 at 08:33:41 GMT
+# Last updated: Thu, 06 Jul 2017 at 07:22:39 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -405,7 +405,10 @@
 127.0.0.1 api.bizographics.com
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 api.infinario.com
+127.0.0.1 api.murdoog.com
 127.0.0.1 api.tumra.com
+127.0.0.1 api2.murdoog.com
+127.0.0.1 apis.murdoog.com
 127.0.0.1 app.yesware.com
 127.0.0.1 apple.com-onlinesupport.host
 127.0.0.1 apprep.smartscreen.microsoft.com
@@ -542,6 +545,7 @@
 127.0.0.1 clk.relestar.com
 127.0.0.1 cnn.entertainment.printthis.clickability.com
 127.0.0.1 cnt.xcounter.com
+127.0.0.1 code.murdoog.com
 127.0.0.1 collector.deepmetrix.com
 127.0.0.1 collector.newsx.cc
 127.0.0.1 connectionlead.com
@@ -710,6 +714,7 @@
 127.0.0.1 da.newstogram.com
 127.0.0.1 dap.digitalgov.gov
 127.0.0.1 data.coremetrics.com
+127.0.0.1 data.murdoog.com
 127.0.0.1 data.webads.co.nz
 127.0.0.1 data2.perf.overture.com
 127.0.0.1 dc43.s290.meetrics.net
@@ -1068,6 +1073,7 @@
 127.0.0.1 mtrcs.popcap.com
 127.0.0.1 mtv.247realmedia.com
 127.0.0.1 multi1.rmuk.co.uk
+127.0.0.1 murdoog.com
 127.0.0.1 mvs.mediavantage.de
 127.0.0.1 mvtracker.com
 127.0.0.1 mx.iesnare.com
@@ -1679,6 +1685,7 @@
 127.0.0.1 tracking.marketviaemail.net
 127.0.0.1 tracking.motleyfool.com
 127.0.0.1 tracking.msadcenter.msn.com
+127.0.0.1 tracking.murdoog.com
 127.0.0.1 tracking.myunidays.com
 127.0.0.1 tracking.nesox.com
 127.0.0.1 tracking.oceantidemedia.com
@@ -2536,6 +2543,7 @@
 127.0.0.1 vxiframe.biz
 127.0.0.1 w.oix.net
 127.0.0.1 w3facility.org
+127.0.0.1 wait3sec.org
 127.0.0.1 waldenfarms.com
 127.0.0.1 web-ccfr.tsinghua.edu.cn
 127.0.0.1 weblover.info
@@ -3926,6 +3934,7 @@
 127.0.0.1 7bpeople.data.7bpeople.com
 127.0.0.1 7cnbcnews.com
 127.0.0.1 7n0zz.300prize.7113879.com
+127.0.0.1 7xc4n.com
 127.0.0.1 829331534d183e7d1f6a-8d91cc88b27b979d0ea53a10ce8855ec.r96.cf5.rackcdn.com
 127.0.0.1 85103.hittail.com
 127.0.0.1 8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net
@@ -3983,6 +3992,7 @@
 127.0.0.1 a.ligatus.com
 127.0.0.1 a.ligatus.de
 127.0.0.1 a.mktw.net
+127.0.0.1 a.o333o.com
 127.0.0.1 a.prisacom.com
 127.0.0.1 a.rad.live.com
 127.0.0.1 a.rad.msn.com
@@ -4502,6 +4512,7 @@
 127.0.0.1 adclient-af.lp.uol.com.br
 127.0.0.1 adclient.uimserv.net
 127.0.0.1 adcode.adengage.com
+127.0.0.1 adconscious.com
 127.0.0.1 adcontent.gamespy.com
 127.0.0.1 adcontent.reedbusiness.com
 127.0.0.1 adcontent.videoegg.com
@@ -6342,6 +6353,7 @@
 127.0.0.1 app.scanscout.com
 127.0.0.1 app2.letmacwork.world
 127.0.0.1 app3.letmacwork.world
+127.0.0.1 app4.letslowbefast.site
 127.0.0.1 app4.letslowbefast.today
 127.0.0.1 apparel-offer.com
 127.0.0.1 apparelncs.com
@@ -6846,6 +6858,7 @@
 127.0.0.1 cdn.banners.scubl.com
 127.0.0.1 cdn.bestssaker.com
 127.0.0.1 cdn.carbonads.com
+127.0.0.1 cdn.classicdanube.info
 127.0.0.1 cdn.constafun.com
 127.0.0.1 cdn.cpmstar.com
 127.0.0.1 cdn.crowdignite.com
@@ -6962,6 +6975,7 @@
 127.0.0.1 choicesurveypanel.com
 127.0.0.1 christianbusinessadvertising.com
 127.0.0.1 cigape.net
+127.0.0.1 citepucevasuxuqesu.ga
 127.0.0.1 cithingy.info
 127.0.0.1 citrio.com
 127.0.0.1 citrix.market2lead.com
@@ -7129,6 +7143,7 @@
 127.0.0.1 corba.adtech.us
 127.0.0.1 core.adprotected.com
 127.0.0.1 core.insightexpressai.com
+127.0.0.1 core.royalads.net
 127.0.0.1 core.videoegg.com
 127.0.0.1 core.zontera.com
 127.0.0.1 core0.node12.top.mail.ru
@@ -7269,6 +7284,7 @@
 127.0.0.1 dg.specificclick.net
 127.0.0.1 dgm2.com
 127.0.0.1 dgmaustralia.com
+127.0.0.1 dichvuvesinhhanoi.com
 127.0.0.1 dietoftoday.ca.pn #security risk/fake news#
 127.0.0.1 diff1.smartadserver.com
 127.0.0.1 diff2.smartadserver.com
@@ -8279,6 +8295,7 @@
 127.0.0.1 macads.net
 127.0.0.1 maccleanersecurity.com
 127.0.0.1 macdamaged.tech
+127.0.0.1 macfix.life
 127.0.0.1 macfixingsoftware.space
 127.0.0.1 mackeeper-center.club
 127.0.0.1 mackeeperapp.mackeeper.com
@@ -8388,6 +8405,7 @@
 127.0.0.1 mediacharger.com
 127.0.0.1 mediafr.247realmedia.com
 127.0.0.1 medialand.relax.ru
+127.0.0.1 mediaoffers.click
 127.0.0.1 mediapst-images.adbureau.net
 127.0.0.1 mediapst.adbureau.net
 127.0.0.1 medias.clicks4ads.com
@@ -8964,6 +8982,7 @@
 127.0.0.1 pp2.pptv.com
 127.0.0.1 pq.stat.ku6.com
 127.0.0.1 pr.ydp.yahoo.com
+127.0.0.1 prefersurvey.net
 127.0.0.1 preland.softmonetize.com
 127.0.0.1 premium-reward-club.com
 127.0.0.1 premium.ascensionweb.com
@@ -9405,6 +9424,7 @@
 127.0.0.1 securemacfix.com
 127.0.0.1 securerr.com
 127.0.0.1 securerunner.com
+127.0.0.1 security60-e.com
 127.0.0.1 seduction-zone.com
 127.0.0.1 seemlessfixing.tech
 127.0.0.1 seks-partner.com
@@ -9750,6 +9770,7 @@
 127.0.0.1 sview.avenuea.com
 127.0.0.1 sweetsforfree.com
 127.0.0.1 swfhostltd.com
+127.0.0.1 swinon.site
 127.0.0.1 symbiosting.com
 127.0.0.1 syn.verticalacuity.com
 127.0.0.1 synad.nuffnang.com.sg
@@ -9894,6 +9915,7 @@
 127.0.0.1 track.adbooth.net
 127.0.0.1 track.adjal.com
 127.0.0.1 track.bigbrandpromotions.com
+127.0.0.1 track.dtnlyss.com
 127.0.0.1 track.e7r.com.br
 127.0.0.1 track.omgpl.com
 127.0.0.1 track.roularta.adhese.com
@@ -10306,6 +10328,7 @@
 127.0.0.1 ww251.smartadserver.com
 127.0.0.1 ww690.smartadserver.com
 127.0.0.1 wwbtads.com
+127.0.0.1 www.1-1ads.com
 127.0.0.1 www.123specialgifts.com
 127.0.0.1 www.2-art-coliseum.com
 127.0.0.1 www.2015rewardopportunities.com
@@ -10862,6 +10885,7 @@
 127.0.0.1 www.lpmxp2026.com
 127.0.0.1 www.lpmxp2027.com
 127.0.0.1 www.lucky-day-uk.com
+127.0.0.1 www.luckyday.world
 127.0.0.1 www.mac.com-w.net
 127.0.0.1 www.macombdisplayads.com
 127.0.0.1 www.market-buster.com
@@ -11297,6 +11321,7 @@
 127.0.0.1 xads.zedo.com
 127.0.0.1 xaxis.com
 127.0.0.1 xch.smrtgs.com
+127.0.0.1 xgames-04.com
 127.0.0.1 xkygmtrrjalx.com
 127.0.0.1 xlivehost.com
 127.0.0.1 xlonhcld.xlontech.net
@@ -11307,6 +11332,7 @@
 127.0.0.1 xml.adtech.fr
 127.0.0.1 xml.adtech.us
 127.0.0.1 xml.click9.com
+127.0.0.1 xml.explorads.com
 127.0.0.1 xmlheads.com
 127.0.0.1 xpantivirus.com
 127.0.0.1 xpcs.ads.yahoo.com
