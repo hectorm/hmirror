@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 06 Jul 2017 at 07:22:39 GMT
+# Last updated: Sun, 09 Jul 2017 at 03:49:09 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6365,6 +6365,7 @@
 127.0.0.1 apple.com-internet-security-review.review
 127.0.0.1 apple.com-onlinesupport.host
 127.0.0.1 apple.com-supportcenter.pro
+127.0.0.1 apple.com-webbrowsing-security.review
 127.0.0.1 apple.com.clean-virus-mac.com
 127.0.0.1 applicationpremium70.club
 127.0.0.1 applyfix.tech
