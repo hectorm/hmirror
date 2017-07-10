@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Jul  8 05:19:40 UTC 2017
-# Blacklisted domains: 68737
+# Last updated:        Sun Jul  9 05:19:30 UTC 2017
+# Blacklisted domains: 68740
 
 # <header>
 127.0.0.1       localhost 
@@ -9168,6 +9168,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 apple.com-supportcenter.website
 0.0.0.0 apple.com-webbrowsing-security.bid
 0.0.0.0 apple.com-webbrowsing-security.download
+0.0.0.0 apple.com-webbrowsing-security.review
 0.0.0.0 apple.com.clean-virus-mac.com
 0.0.0.0 apple.com.confiduration.clients.updating.service.foxdizi.net
 0.0.0.0 apple.com.icloud.billing.verifiy.9200938771663883991773817836476289732.valcla.com.br
@@ -29567,6 +29568,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.17kc8y.top
 0.0.0.0 hjhqmbxyinislkkt.17rm9b.top
 0.0.0.0 hjhqmbxyinislkkt.18f5bw.top
+0.0.0.0 hjhqmbxyinislkkt.18lmhb.top
 0.0.0.0 hjhqmbxyinislkkt.18nepv.top
 0.0.0.0 hjhqmbxyinislkkt.18yzmj.top
 0.0.0.0 hjhqmbxyinislkkt.19b6nk.top
@@ -46995,6 +46997,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 qenabled.com
 0.0.0.0 qerfhgkadhsfukhertgrpotgjpoidfg.ce.ms
 0.0.0.0 qertea.instanthq.com
+0.0.0.0 qfjhpgbefuhenjp7.12f53x.top
 0.0.0.0 qfjhpgbefuhenjp7.12u5fl.top
 0.0.0.0 qfjhpgbefuhenjp7.143kzi.top
 0.0.0.0 qfjhpgbefuhenjp7.17cwdi.top
