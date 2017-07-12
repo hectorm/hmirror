@@ -1,13 +1,14 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Mon Jul 10 05:19:44 UTC 2017
-# Blacklisted domains: 68740
+# Last updated:        Tue Jul 11 18:32:28 UTC 2017
+# Blacklisted domains: 68752
 
 # <header>
 127.0.0.1       localhost 
 255.255.255.255 broadcasthost
 ::1             localhost ip6-localhost ip6-loopback
-fe00::0         ip6-localnet ip6-mcastprefix
+fe00::0         ip6-localnet
+ff00::0         ip6-mcastprefix
 ff02::1         ip6-allnodes
 ff02::2         ip6-allrouters
 ff02::3         ip6-allhosts
@@ -69,7 +70,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 0571zxw.com
 0.0.0.0 0574-office.com
 0.0.0.0 0579i.cn
-0.0.0.0 0595jia.com
 0.0.0.0 05tz2e9.com
 0.0.0.0 061606084448.c.mystat-in.net
 0.0.0.0 06272002-dbase.hitcountz.net
@@ -15728,6 +15728,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cinamuse.com
 0.0.0.0 cindyhuynhssa.com
 0.0.0.0 cineble.com
+0.0.0.0 cinecs.pl
 0.0.0.0 cinema-strasbourg.com
 0.0.0.0 cinemabio.com
 0.0.0.0 cinemaden.com
@@ -19796,6 +19797,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 disable-uac.com
 0.0.0.0 disabledmatrimonial.com
 0.0.0.0 disablegoogleplussync.pythonanywhere.com
+0.0.0.0 disc-file.pl
 0.0.0.0 disccglobal.112.2o7.net
 0.0.0.0 disccstats.112.2o7.net
 0.0.0.0 dischannel.112.2o7.net
@@ -25835,6 +25837,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 fumadosdouro.pt
 0.0.0.0 fun-clix.com
 0.0.0.0 fun-e-cards.com
+0.0.0.0 fun-mobi.pl
 0.0.0.0 fun.lbn.ru
 0.0.0.0 fun2cell.net
 0.0.0.0 fun2me.pl
@@ -26978,6 +26981,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 getthis.pl
 0.0.0.0 gettingaccessrefund.is-a-geek.org
 0.0.0.0 gettothegoose.com
+0.0.0.0 gettpromos.com
 0.0.0.0 gettyimages.122.2o7.net
 0.0.0.0 geturbobit.biz
 0.0.0.0 getwhatsappforpc.com
@@ -29016,6 +29020,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hd-livetream.com
 0.0.0.0 hd-stream.pl
 0.0.0.0 hd-vod.pl
+0.0.0.0 hd.serial.h2g.pl
 0.0.0.0 hd8888.com
 0.0.0.0 hdchd.org
 0.0.0.0 hdfc.pp.ru
@@ -34296,6 +34301,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 konkurs6.com.pl
 0.0.0.0 konkursowe-smsy.pl
 0.0.0.0 konkursowo-24.pl
+0.0.0.0 konkursowyformularz.pl
 0.0.0.0 konkursy-24.pl
 0.0.0.0 konkursy.de
 0.0.0.0 konkursy24.ml
@@ -35213,6 +35219,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 lidaergroup.com
 0.0.0.0 liderkirici.com
 0.0.0.0 liders.biz
+0.0.0.0 lidl-pl.com
 0.0.0.0 lidlretargeting.adspirit.de
 0.0.0.0 liexser.cl
 0.0.0.0 life2forbag.com
@@ -42515,6 +42522,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 online-forex-trading-systems.blogspot.com
 0.0.0.0 online-forex.hut1.ru
 0.0.0.0 online-gaming.petrovka.info
+0.0.0.0 online-hd.pl
 0.0.0.0 online-job.petrovka.info
 0.0.0.0 online-loan.petrovka.info
 0.0.0.0 online-locationapple.com
@@ -43741,7 +43749,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 partners.popmatters.com
 0.0.0.0 partners.priceline.com
 0.0.0.0 partners.realgirlsmedia.com
-0.0.0.0 partners.salesforce.com
 0.0.0.0 partners.sprintrade.com
 0.0.0.0 partners.tremorhub.com
 0.0.0.0 partners.webmasterplan.com
@@ -45099,6 +45106,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pl-best-trading.com
 0.0.0.0 pl-engine.intextad.net
 0.0.0.0 pl-indonesia.com
+0.0.0.0 pl-vouchers.com
 0.0.0.0 pl.ads.justpremium.com
 0.0.0.0 pl.bbelements.com
 0.0.0.0 pl.betclic.com
@@ -48616,6 +48624,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 robertsplacements.ru
 0.0.0.0 robertsresorts.com
 0.0.0.0 robinheng.net
+0.0.0.0 robinkornett.com
 0.0.0.0 robints.us
 0.0.0.0 robinwoodcomics.org
 0.0.0.0 roblox.com-cheat.in
@@ -57714,6 +57723,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 trusearch.net
 0.0.0.0 truspace.co.za
 0.0.0.0 trust-s-b.com
+0.0.0.0 trustaffs.com
 0.0.0.0 trustedbestsites.com
 0.0.0.0 trustedbroker.net
 0.0.0.0 trustedfoevery.top
@@ -64699,6 +64709,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.libecki.net
 0.0.0.0 www.libo-conveyor.com
 0.0.0.0 www.liders.biz
+0.0.0.0 www.lidl.pl-vouchers.com
 0.0.0.0 www.lifeeverest.com
 0.0.0.0 www.lifeforminc.com
 0.0.0.0 www.lifelabs.vn
@@ -67171,6 +67182,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 wylosujgry.pl
 0.0.0.0 wyngatefarms.com
 0.0.0.0 wyniki-konkursu.eu
+0.0.0.0 wyniki-konkursu.pl
 0.0.0.0 wyniki-konkursu2017.eu
 0.0.0.0 wyniki-lista.pl
 0.0.0.0 wypad3k0.blogspot.com
@@ -67699,6 +67711,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 y2k.hitbox.com
 0.0.0.0 y3.ifengimg.com
 0.0.0.0 y439967.com
+0.0.0.0 y4681.6128786.com
 0.0.0.0 y4bxj.adozeuds.com
 0.0.0.0 y6543ewsdfghyt6ytr.is-a-personaltrainer.com
 0.0.0.0 y73shop.com
