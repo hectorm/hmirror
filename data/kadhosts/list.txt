@@ -1,7 +1,7 @@
 # KAD hosts file
 # Zalecany tylko dla zaawansowanych uzytkownikow
 # Niektore funkcje oferowane przez filtr nie sa dostepne w ponizszym pliku ze wzgledu na ograniczenia hosts.
-# Aktualizacja zbiorowa: H2017071001
+# Aktualizacja zbiorowa: H2017071201
 
 
 # Podejrzane i/lub polaczone z innymi przekretami
@@ -630,6 +630,13 @@
 0.0.0.0 lidl-pl.com
 0.0.0.0 pl-vouchers.com
 0.0.0.0 gettpromos.com
+0.0.0.0 secretdeal.club
+0.0.0.0 web-online.pl
+0.0.0.0 weon.pl
+0.0.0.0 we0n.pl
+0.0.0.0 becconet.com
+0.0.0.0 online-co.xyz
+0.0.0.0 cpm10.com
 
 # Strony z aliasami (lub podobne), ktore nie sa wspierane przez administratorow.
 0.0.0.0 rfv.pl
@@ -1340,6 +1347,13 @@
 0.0.0.0 premiumlink.7tools.eu
 0.0.0.0 y4681.6128786.com
 0.0.0.0 www.lidl.pl-vouchers.com
+0.0.0.0 winner.online-co.xyz
+0.0.0.0 www.cd.iphone7n.superserwisy.pl
+0.0.0.0 www.cpm10.com
+0.0.0.0 adsbtrk.com
+0.0.0.0 obbeg.adsbtrk.com
+0.0.0.0 ab4hr.com
+0.0.0.0 www.ab4hr.com
 
 # Przekrety
 0.0.0.0 disc-file.pl
