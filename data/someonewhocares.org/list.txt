@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 10 Jul 2017 at 19:45:09 GMT
+# Last updated: Mon, 17 Jul 2017 at 01:49:21 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2008,6 +2008,7 @@
 127.0.0.1 apple.com-supportcenter.website
 127.0.0.1 apple.com-webbrowsing-security.bid
 127.0.0.1 apple.com-webbrowsing-security.download
+127.0.0.1 apple.com-webbrowsing-security.science
 127.0.0.1 apple.com.virus-mac.com
 127.0.0.1 applestore.com-mobile.gift
 127.0.0.1 armsart.com
@@ -10087,6 +10088,7 @@
 127.0.0.1 vice-ads-cdn.vice.com
 127.0.0.1 vid.atm.youku.com
 127.0.0.1 video-game-rewards-central.com
+127.0.0.1 video.buzzintersection.com
 127.0.0.1 video.cynogage.com
 127.0.0.1 video.entertaintastic.com
 127.0.0.1 video.loudgames.com
