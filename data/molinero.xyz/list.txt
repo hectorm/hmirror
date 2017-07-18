@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sun Jul 16 05:19:32 UTC 2017
-# Blacklisted domains: 70125
+# Last updated:        Mon Jul 17 05:29:51 UTC 2017
+# Blacklisted domains: 70126
 
 # <header>
 127.0.0.1       localhost 
@@ -27558,7 +27558,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 ghacks.de.intellitxt.com
 0.0.0.0 ghalibaft.com
 0.0.0.0 ghaly.ae
-0.0.0.0 ghanadetails.pw
 0.0.0.0 ghantol.huntedhunter.com
 0.0.0.0 ghardixz.net
 0.0.0.0 gharibola.ru
@@ -30162,6 +30161,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.18lmhb.top
 0.0.0.0 hjhqmbxyinislkkt.18nepv.top
 0.0.0.0 hjhqmbxyinislkkt.18yzmj.top
+0.0.0.0 hjhqmbxyinislkkt.18zrup.top
 0.0.0.0 hjhqmbxyinislkkt.19b6nk.top
 0.0.0.0 hjhqmbxyinislkkt.19hj4f.top
 0.0.0.0 hjhqmbxyinislkkt.19s7gy.top
@@ -61253,6 +61253,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 video-pomp.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video.adaptv.advertising.com
+0.0.0.0 video.buzzintersection.com
 0.0.0.0 video.cynogage.com
 0.0.0.0 video.dmtracker.com
 0.0.0.0 video.entertaintastic.com
