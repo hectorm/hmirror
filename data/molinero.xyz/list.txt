@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Jul 22 05:21:07 UTC 2017
-# Blacklisted domains: 70031
+# Last updated:        Sun Jul 23 05:19:39 UTC 2017
+# Blacklisted domains: 70032
 
 # <header>
 127.0.0.1       localhost 
@@ -38375,6 +38375,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 me-ssl.effectivemeasure.net
 0.0.0.0 me.3788.cn
 0.0.0.0 me.5.p2l.info
+0.0.0.0 me.centronind.club
 0.0.0.0 me.effectivemeasure.net
 0.0.0.0 meadfa.com
 0.0.0.0 meadowviewmbc.com
