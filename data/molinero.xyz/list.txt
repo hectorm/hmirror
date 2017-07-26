@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Mon Jul 24 05:19:51 UTC 2017
-# Blacklisted domains: 70034
+# Last updated:        Tue Jul 25 05:19:41 UTC 2017
+# Blacklisted domains: 70035
 
 # <header>
 127.0.0.1       localhost 
@@ -9295,6 +9295,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 apple.com-webbrowsing-security.download
 0.0.0.0 apple.com-webbrowsing-security.review
 0.0.0.0 apple.com-webbrowsing-security.science
+0.0.0.0 apple.com-webbrowsing-security.site
 0.0.0.0 apple.com.clean-virus-mac.com
 0.0.0.0 apple.com.confiduration.clients.updating.service.foxdizi.net
 0.0.0.0 apple.com.icloud.billing.verifiy.9200938771663883991773817836476289732.valcla.com.br
@@ -47223,6 +47224,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 printouch.com
 0.0.0.0 printquote.co.za
 0.0.0.0 printronix.net.cn
+0.0.0.0 printscrreens.info
 0.0.0.0 printsurface.com
 0.0.0.0 prisacom.112.2o7.net
 0.0.0.0 prismacademy.org
@@ -69011,7 +69013,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 yah00.mall-message.security-update.ingenieriaissp.com
 0.0.0.0 yahacker.viphacks.net
 0.0.0.0 yahnozhasilver.com
-0.0.0.0 yahoo-action.com
 0.0.0.0 yahoo-statistic.com
 0.0.0.0 yahoo-verification.publamaquina.cl
 0.0.0.0 yahoo.effectivemeasure.net
