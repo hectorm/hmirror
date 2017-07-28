@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Wed Jul 26 05:19:38 UTC 2017
-# Blacklisted domains: 70092
+# Last updated:        Thu Jul 27 05:19:41 UTC 2017
+# Blacklisted domains: 70093
 
 # <header>
 127.0.0.1       localhost 
@@ -30283,6 +30283,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hjhqmbxyinislkkt.1gzjuc.top
 0.0.0.0 hjhqmbxyinislkkt.1hapca.top
 0.0.0.0 hjhqmbxyinislkkt.1j43kf.top
+0.0.0.0 hjhqmbxyinislkkt.1jmip6.top
 0.0.0.0 hjhqmbxyinislkkt.1jnhdc.top
 0.0.0.0 hjhqmbxyinislkkt.1jwuaa.top
 0.0.0.0 hjhqmbxyinislkkt.1k6bas.top
