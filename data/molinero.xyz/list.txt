@@ -1,10 +1,10 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sun Jul 30 05:20:09 UTC 2017
-# Blacklisted domains: 70460
+# Last updated:        Mon Jul 31 20:30:13 UTC 2017
+# Blacklisted domains: 70486
 
 # <header>
-127.0.0.1       localhost 
+127.0.0.1       localhost
 255.255.255.255 broadcasthost
 ::1             localhost ip6-localhost ip6-loopback
 fe00::0         ip6-localnet
@@ -1574,7 +1574,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 5362399.fls.doubleclick.net
 0.0.0.0 53server.com
 0.0.0.0 540591--nutzung-angabe-validierung.sicherheitshilfe-schutz.gq
-0.0.0.0 541658.com
 0.0.0.0 54321.zz.am
 0.0.0.0 548260.parkingcrew.net
 0.0.0.0 5486.winxp.primosearch.com
@@ -2306,6 +2305,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ab3olcpnel741247.webmobile.me
 0.0.0.0 ab44aa.r.axf8.net
 0.0.0.0 ab4hr.com
+0.0.0.0 ab913aa797e78b3.com
 0.0.0.0 ababaloka.com
 0.0.0.0 ababy.dragon.uaezvcvs.tk
 0.0.0.0 abacho.net
@@ -14189,6 +14189,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ca.cqcounter.com
 0.0.0.0 ca.pf.fcgab.com
 0.0.0.0 ca.service.enligne.credit-agricole.fr.stb.entreebam.inc-system.com
+0.0.0.0 ca4.revieworbit.com
 0.0.0.0 caaarss.us
 0.0.0.0 caalnt.com
 0.0.0.0 cabanasdomosmayling.cl
@@ -16970,6 +16971,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 code-freewifi.com
 0.0.0.0 code-gratuit.org
 0.0.0.0 code-huissier-92.fr
+0.0.0.0 code-new.com
 0.0.0.0 code-psn-gratuit.fr
 0.0.0.0 code-server.biz
 0.0.0.0 code.ad-gbn.com
@@ -18244,6 +18246,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cp53072.cloudhosting.lv
 0.0.0.0 cp53091.cloudhosting.lv
 0.0.0.0 cp864033.cpsite.ru
+0.0.0.0 cpabuild.com
 0.0.0.0 cpacampaigns.directtrack.com
 0.0.0.0 cpaclickoffer.com
 0.0.0.0 cpadoom.com
@@ -18396,6 +18399,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 crazy.trip-russia.com
 0.0.0.0 crazy2sales.com
 0.0.0.0 crazy4esports.com
+0.0.0.0 crazydeals.pl
 0.0.0.0 crazyegg.com
 0.0.0.0 crazymasya.com
 0.0.0.0 crazynews24.com
@@ -24773,6 +24777,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 file-dropbox.info
 0.0.0.0 file-folders.pl
 0.0.0.0 file-save.com
+0.0.0.0 file-share.pl
 0.0.0.0 file-share365.com
 0.0.0.0 file-site.com
 0.0.0.0 file-speedy.com
@@ -25066,6 +25071,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 finders.hopto.org
 0.0.0.0 findfavour.com
 0.0.0.0 findfreefbcredits.com
+0.0.0.0 findgiftcode.com
 0.0.0.0 findgmailpasswords.com
 0.0.0.0 findhelp24.com
 0.0.0.0 findicloudphones.com
@@ -25634,6 +25640,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 fotlu.brejk.pl
 0.0.0.0 foto-konkurs-zdjecie201.bo.pl
 0.0.0.0 foto-mania.bo.pl
+0.0.0.0 foto-mix.eu
 0.0.0.0 foto-nsk.ru
 0.0.0.0 foto-opisik.w8w.pl
 0.0.0.0 fotografiadecorativa.com
@@ -27706,6 +27713,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 getsnaps.pl
 0.0.0.0 getsomedownloads.com
 0.0.0.0 getspecialgifts.com
+0.0.0.0 getspinner.net
 0.0.0.0 getstatistics.se
 0.0.0.0 getsupport-icloud.com
 0.0.0.0 getsupport-pcypal.com
@@ -32773,6 +32781,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 instantdownloadsz.com
 0.0.0.0 instantfiles.net
 0.0.0.0 instantfreepsncodes.com
+0.0.0.0 instantgiftcodes.com
 0.0.0.0 instantmadness.com
 0.0.0.0 instantnortonsetup.com
 0.0.0.0 instantonlineverification.usaabank.verification.fajitaritas.com
@@ -32908,6 +32917,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 interyield.jmp9.com
 0.0.0.0 interyield.td553.com
 0.0.0.0 interyield.td563.com
+0.0.0.0 interyield.td573.com
 0.0.0.0 intext.billboard.cz
 0.0.0.0 intext.lookit.cz
 0.0.0.0 inthenameofcobain.cz
@@ -38725,6 +38735,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 media.popmarker.com
 0.0.0.0 media.popunder.com
 0.0.0.0 media.popuptraffic.com
+0.0.0.0 media.primalforce.net
 0.0.0.0 media.pussycash.com
 0.0.0.0 media.scanscout.com
 0.0.0.0 media.sexinyourcity.com
@@ -42569,6 +42580,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 now.ge
 0.0.0.0 nowa.ayz.pl
 0.0.0.0 nowalternatywa.cba.pl
+0.0.0.0 nowcheck.seethisamazinguogradeswinmacawesome.win
 0.0.0.0 nowdownloadhack.com
 0.0.0.0 nowedoladowanie.pl
 0.0.0.0 nowema.borec.cz
@@ -44092,6 +44104,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 oqgmav.com
 0.0.0.0 oqsqmsiizpzoiwx.com
 0.0.0.0 oqtemoshoje.com.br
+0.0.0.0 oqwygprskqv65j72.13gpqd.top
 0.0.0.0 or.5.p2l.info
 0.0.0.0 oracle.112.2o7.net
 0.0.0.0 oraclecom.112.2o7.net
@@ -46058,6 +46071,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 photomatch100.96.lt
 0.0.0.0 photomegnum0423.000webhostapp.com
 0.0.0.0 photomoa.co.kr
+0.0.0.0 photook.vxm.pl
 0.0.0.0 photopf.it
 0.0.0.0 photorealist.ca
 0.0.0.0 photos-ic.com
@@ -46784,6 +46798,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pobieranko.eu
 0.0.0.0 pobierz-123.pl
 0.0.0.0 pobierz-plik.com.pl
+0.0.0.0 pobierz-plik24.pl
 0.0.0.0 pobierz-to.pl
 0.0.0.0 pobierz.biz
 0.0.0.0 pobierz.shop.pl
@@ -48574,6 +48589,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 quiz-fun.com.my
 0.0.0.0 quiznow.pl
 0.0.0.0 quizzitch.net
+0.0.0.0 quizzstar.com
 0.0.0.0 quoteschronicle.com
 0.0.0.0 quotidiennokoue.com
 0.0.0.0 qupimo.com
@@ -48995,6 +49011,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rdmadrasah.edu.bd
 0.0.0.0 rdmquex.pw
 0.0.0.0 rdovicia.my-tube-expert.ru
+0.0.0.0 rdraff.com-app1.site
 0.0.0.0 rdsa.elenaprono.com.py
 0.0.0.0 rdsa2012.com
 0.0.0.0 rdsvkag.com
@@ -49050,6 +49067,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 realestateidealsolutions.com
 0.0.0.0 realfreeproducts.com
 0.0.0.0 realgfsbucks.com
+0.0.0.0 realgift.men
 0.0.0.0 realgrown.co
 0.0.0.0 realitatea.count.brat-online.ro
 0.0.0.0 realitateadro.hit.gemius.pl
@@ -49393,6 +49411,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 reinvigorate.net
 0.0.0.0 reishus.de
 0.0.0.0 rejestrowanko.com.pl
+0.0.0.0 rejestruj-sie.pl
 0.0.0.0 rejtjel.hu
 0.0.0.0 rek.adtotal.pl
 0.0.0.0 rek.www.wp.pl
@@ -49816,6 +49835,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rhrhrhrhereo.cn
 0.0.0.0 rhtag.com
 0.0.0.0 rhtercume.com
+0.0.0.0 rhtrfhjrtfh.pl
 0.0.0.0 rhwndkf45.codns.com
 0.0.0.0 rhythmauto.com
 0.0.0.0 rhythmnewmedia.com
@@ -52889,6 +52909,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sharenewfile.com
 0.0.0.0 shareonlinefile.com
 0.0.0.0 sharepointads.com
+0.0.0.0 shares.com.pl
 0.0.0.0 sharest.org
 0.0.0.0 sharestudio.net
 0.0.0.0 sharesuper.info
@@ -55881,6 +55902,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sugiatun.co.id
 0.0.0.0 sugoi.com.co
 0.0.0.0 sugoicounter.com
+0.0.0.0 suhprdfb.bid
 0.0.0.0 suisscard.ch.webapp.securecode.smart-arcot.info
 0.0.0.0 suisscards.ch.arcot6.alpha-cruise.net
 0.0.0.0 suitablyhierarchies.ru
@@ -56043,6 +56065,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 supersonicads.com
 0.0.0.0 superstats.com
+0.0.0.0 supersuper.com.pl
 0.0.0.0 supersupermall.ru
 0.0.0.0 supersweetgifts.com
 0.0.0.0 supertop.ru
@@ -56572,7 +56595,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 szokinfor24.blogspot.com
 0.0.0.0 szoknews221.freetzi.com
 0.0.0.0 szookinfoo244.freetzi.com
-0.0.0.0 szort.pl
 0.0.0.0 szpiegfriend.pl
 0.0.0.0 szpiegofon.pl
 0.0.0.0 szpieguj.com
@@ -57422,7 +57444,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 testinteligencji.bo.pl
 0.0.0.0 testitest.tarifzauber.de
 0.0.0.0 testmyantivirus.xyz
+0.0.0.0 testo.5v.pl
 0.0.0.0 testometr.ru
+0.0.0.0 testony.com
 0.0.0.0 testossteron.ru
 0.0.0.0 testowanietwojegoiq.blogspot.com
 0.0.0.0 testowoiq.5v.pl
@@ -58164,6 +58188,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 todacell.com
 0.0.0.0 today-newday.cn
 0.0.0.0 todayinfos.us
+0.0.0.0 todayresearch.com
 0.0.0.0 todaysfunda.com
 0.0.0.0 todayshow.us.intellitxt.com
 0.0.0.0 todaytime.net
@@ -64796,6 +64821,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.anycracks.com
 0.0.0.0 www.aoopoerope.top
 0.0.0.0 www.apmebf.com
+0.0.0.0 www.appafile.com
 0.0.0.0 www.apparel-offer.com
 0.0.0.0 www.apparelncs.com
 0.0.0.0 www.appfindr.org
