@@ -1,10 +1,10 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Mon Jul 31 20:30:13 UTC 2017
-# Blacklisted domains: 70486
+# Last updated:        Tue Aug  1 20:35:39 UTC 2017
+# Blacklisted domains: 70490
 
 # <header>
-127.0.0.1       localhost
+127.0.0.1       localhost 
 255.255.255.255 broadcasthost
 ::1             localhost ip6-localhost ip6-loopback
 fe00::0         ip6-localnet
@@ -27822,6 +27822,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 giftcards4fans.com
 0.0.0.0 giftcards4free.net
 0.0.0.0 giftcardsbay.com
+0.0.0.0 giftcardsforu.com
 0.0.0.0 giftcardsurveys.us.com
 0.0.0.0 giftcode.pl
 0.0.0.0 giftcodes4u.com
@@ -27901,6 +27902,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 gitloinvestbud.com
 0.0.0.0 gitmovies.com
 0.0.0.0 gitybdjgbxd.nl
+0.0.0.0 giu9aab.bid
 0.0.0.0 giuliana-rancic-pregnant.appspot.com
 0.0.0.0 giustramedical.org
 0.0.0.0 give-aways.net
@@ -32292,6 +32294,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 impoexgo.com
 0.0.0.0 impoged.com
 0.0.0.0 impordoc.esy.es
+0.0.0.0 import.globalsources.com
 0.0.0.0 import188.com
 0.0.0.0 important-servicewebapps.com
 0.0.0.0 importante.ddns.net
@@ -44105,6 +44108,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 oqsqmsiizpzoiwx.com
 0.0.0.0 oqtemoshoje.com.br
 0.0.0.0 oqwygprskqv65j72.13gpqd.top
+0.0.0.0 oqwygprskqv65j72.1hbdbx.top
 0.0.0.0 or.5.p2l.info
 0.0.0.0 oracle.112.2o7.net
 0.0.0.0 oraclecom.112.2o7.net
