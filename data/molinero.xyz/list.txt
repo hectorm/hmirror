@@ -1,6 +1,6 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Aug  5 05:55:30 UTC 2017
+# Last updated:        Sun Aug  6 05:20:07 UTC 2017
 # Blacklisted domains: 71112
 
 # <header>
@@ -6952,6 +6952,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 advertisement.bg
 0.0.0.0 advertisementnl.112.2o7.net
 0.0.0.0 advertisers.federatedmedia.net
+0.0.0.0 advertiserurl.com
 0.0.0.0 advertisespace.com
 0.0.0.0 advertising.aol.com
 0.0.0.0 advertising.apple.com
@@ -43953,7 +43954,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 oldicbrnevents.com
 0.0.0.0 oldloverfg.top
 0.0.0.0 oldmilllmarketplace.com
-0.0.0.0 oldpour.com
 0.0.0.0 oldrich-novak.cz
 0.0.0.0 oldschool-runescape.co
 0.0.0.0 oldsite.jandrautorepair.com
