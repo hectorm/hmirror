@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sun Aug  6 05:20:07 UTC 2017
-# Blacklisted domains: 71112
+# Last updated:        Mon Aug  7 05:19:59 UTC 2017
+# Blacklisted domains: 71117
 
 # <header>
 127.0.0.1       localhost 
@@ -2009,6 +2009,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ___id___.c.mystat-in.net
 0.0.0.0 a-ads.com
 0.0.0.0 a-bankieren.com
+0.0.0.0 a-blog.eu
 0.0.0.0 a-c-sky.rzb.ir
 0.0.0.0 a-cave.net
 0.0.0.0 a-cave.org
@@ -33453,6 +33454,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 iron7.facemark123.com
 0.0.0.0 ironcustapps.com
 0.0.0.0 irondel.swisshost.by
+0.0.0.0 ironevenger.com
 0.0.0.0 ironforcehack.com
 0.0.0.0 ironhidecheats.com
 0.0.0.0 ironlux.es
@@ -37595,6 +37597,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 lunarads.com
 0.0.0.0 lunaticjazz.com
 0.0.0.0 lupytehoq.com
+0.0.0.0 lurdinha.psc.br
 0.0.0.0 luredtocostarica.com
 0.0.0.0 lusciouslingerie.com.au
 0.0.0.0 lushantouzi.com
@@ -57225,6 +57228,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 t1.trackalyzer.com
 0.0.0.0 t13.intelliad.de
 0.0.0.0 t1ny.in
+0.0.0.0 t2.junbi-tracker.com
 0.0.0.0 t2.softonicads.com
 0.0.0.0 t2.trackalyzer.com
 0.0.0.0 t23.intelliad.de
@@ -59690,6 +59694,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 traffic.adxprts.com
 0.0.0.0 traffic.buyservices.com
+0.0.0.0 traffic.focuusing.com
 0.0.0.0 traffic.getmyads.com
 0.0.0.0 traffic.lagos-streets.eu
 0.0.0.0 traffic.liveuniversenetwork.com
