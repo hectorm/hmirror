@@ -1,6 +1,6 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Tue Aug 15 08:12:47 UTC 2017
+# Last updated:        Wed Aug 16 05:20:10 UTC 2017
 # Blacklisted domains: 72815
 
 # <header>
@@ -39619,6 +39619,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 maskedwarriordlc.sharezips.info
 0.0.0.0 maskedwarriordlc.sharezips.net
 0.0.0.0 maskepp.hu
+0.0.0.0 masoic.com.ng
 0.0.0.0 masonharman.com
 0.0.0.0 maspedmeasled.bogotatraveller.info
 0.0.0.0 mass-traffic.com
@@ -53736,7 +53737,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 secure.uac.advertising.com
 0.0.0.0 secure.updates.preferenc.cgi-bin.webscr.cmd-login-submit.dispatch.6785d80a13c0db15d80a13c0db1114821217568496849684968484654654s1.veganhedonist.com
 0.0.0.0 secure.vidhack.com
-0.0.0.0 secure.vxsbill.com
 0.0.0.0 secure.w3track.com
 0.0.0.0 secure.webconnect.net
 0.0.0.0 secure.webresint.com
