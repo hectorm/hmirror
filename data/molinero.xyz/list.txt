@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Fri Aug 18 05:21:09 UTC 2017
-# Blacklisted domains: 73338
+# Last updated:        Sat Aug 19 05:21:08 UTC 2017
+# Blacklisted domains: 73343
 
 # <header>
 127.0.0.1       localhost 
@@ -9270,6 +9270,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 app-verificationupdate.org
 0.0.0.0 app-verify-id.com
 0.0.0.0 app.activetrail.com
+0.0.0.0 app.adblockhyper.us
 0.0.0.0 app.adsbrook.com
 0.0.0.0 app.beanstalkdata.com
 0.0.0.0 app.datafastguru.info
@@ -9292,6 +9293,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 app.yesware.com
 0.0.0.0 app.yieldify.com
 0.0.0.0 app2.letmacwork.world
+0.0.0.0 app2.letslowbefast.life
 0.0.0.0 app2.salesmanago.pl
 0.0.0.0 app3.letmacwork.world
 0.0.0.0 app3.rutarget.ru
@@ -24641,6 +24643,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 f16.smaato.net
 0.0.0.0 f17.smaato.net
 0.0.0.0 f18.smaato.net
+0.0.0.0 f18085.privacy4browsers.com
 0.0.0.0 f19.smaato.net
 0.0.0.0 f2.p0y.com
 0.0.0.0 f20.smaato.net
@@ -37637,6 +37640,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 lgndlokm.com
 0.0.0.0 lgntrk66511.000webhostapp.com
 0.0.0.0 lgtebre.cat
+0.0.0.0 lguwrnmpmgsetproh.pw
 0.0.0.0 lgwryglje.com
 0.0.0.0 lhallsellshomes.com
 0.0.0.0 lhc818.com
@@ -51313,6 +51317,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 redlinks.cl
 0.0.0.0 redmas.com
 0.0.0.0 redoanrony.com
+0.0.0.0 redonetype.com
 0.0.0.0 redoperabwo.ru
 0.0.0.0 redoubt.dwmclient.co.uk
 0.0.0.0 redpandail.com
