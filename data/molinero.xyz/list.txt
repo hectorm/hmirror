@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sun Aug 27 05:22:06 UTC 2017
-# Blacklisted domains: 73639
+# Last updated:        Mon Aug 28 11:06:33 UTC 2017
+# Blacklisted domains: 73641
 
 # <header>
 127.0.0.1       localhost 
@@ -9588,6 +9588,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 apple.com-supportcenter.pro
 0.0.0.0 apple.com-supportcenter.website
 0.0.0.0 apple.com-verify-my-account-information.allrounddesigner.com
+0.0.0.0 apple.com-web-security-analysis.win
 0.0.0.0 apple.com-webbrowsing-security.accountant
 0.0.0.0 apple.com-webbrowsing-security.bid
 0.0.0.0 apple.com-webbrowsing-security.download
@@ -35170,6 +35171,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 jasontaplin.com
 0.0.0.0 jasonthelenshop.com
 0.0.0.0 jaspervanderwel.nl
+0.0.0.0 jat01.iwantyourightnow.info
 0.0.0.0 jathwmjpxarkrthufujc.com
 0.0.0.0 jatservis.co.id
 0.0.0.0 jatukarm-30.com
