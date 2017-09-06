@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Mon Sep  4 05:21:25 UTC 2017
-# Blacklisted domains: 74914
+# Last updated:        Tue Sep  5 05:21:44 UTC 2017
+# Blacklisted domains: 74916
 
 # <header>
 127.0.0.1       localhost 
@@ -9076,6 +9076,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ao-mall.com
 0.0.0.0 ao.backlinksystem.com
 0.0.0.0 aobarulho.com.br
+0.0.0.0 aobc.com.br
 0.0.0.0 aodtobjtcenturycustomughtsboctobrhsouehoms.com
 0.0.0.0 aoexibilekberforcigecmanreasr.com
 0.0.0.0 aofmfaoc.com
@@ -29469,6 +29470,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 giftcardsforu.com
 0.0.0.0 giftcardsurveys.us.com
 0.0.0.0 giftcode.pl
+0.0.0.0 giftcodes.online
 0.0.0.0 giftcodes4u.com
 0.0.0.0 giftrewardzone.com
 0.0.0.0 gifts-are-us.co.uk
