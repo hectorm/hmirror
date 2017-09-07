@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 06 Sep 2017 at 00:11:39 GMT
+# Last updated: Wed, 06 Sep 2017 at 21:05:34 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4212,6 +4212,7 @@
 127.0.0.1 ad.linksynergy.com
 127.0.0.1 ad.livere.co.kr
 127.0.0.1 ad.lyricswire.com
+127.0.0.1 ad.mail.ru
 127.0.0.1 ad.mainichi.jp
 127.0.0.1 ad.maist.jp
 127.0.0.1 ad.mangareader.net
@@ -4858,6 +4859,7 @@
 127.0.0.1 ads.belointeractive.com
 127.0.0.1 ads.beta.itravel2000.com
 127.0.0.1 ads.betanews.com
+127.0.0.1 ads.betweendigital.com
 127.0.0.1 ads.bfast.com
 127.0.0.1 ads.bfm.valueclick.net
 127.0.0.1 ads.bianca.com
@@ -6815,6 +6817,7 @@
 127.0.0.1 cache.addthis.com
 127.0.0.1 cache.addthiscdn.com
 127.0.0.1 cache.adm.cnzz.net
+127.0.0.1 cache.betweendigital.com
 127.0.0.1 cache.blogads.com
 127.0.0.1 cache.unicast.com
 127.0.0.1 cacheserve.eurogrand.com
@@ -7336,6 +7339,7 @@
 127.0.0.1 dl.ncbuy.com
 127.0.0.1 dl.neodownload.webcam
 127.0.0.1 dlvr.readserver.net
+127.0.0.1 dmp.vihub.ru
 127.0.0.1 dnads.directnic.com
 127.0.0.1 dnps.com
 127.0.0.1 dnse.linkpulse.com
@@ -7448,6 +7452,7 @@
 127.0.0.1 etype.adbureau.net
 127.0.0.1 eu-pn4.adserver.yahoo.com
 127.0.0.1 eu-sonar.sociomantic.com
+127.0.0.1 eu.track.digitaladsystems.com
 127.0.0.1 eu.xtms.net
 127.0.0.1 eu1.recompenses.win
 127.0.0.1 eu2.madsone.com
@@ -8374,6 +8379,7 @@
 127.0.0.1 marriottinternationa.tt.omtrdc.net
 127.0.0.1 mashinkhabar.com
 127.0.0.1 mastertracks.be
+127.0.0.1 match.ads.betweendigital.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 matomy.adk2.co
 127.0.0.1 matrix.mediavantage.de
@@ -9679,6 +9685,7 @@
 127.0.0.1 sspcash.adxcore.com
 127.0.0.1 st.blogads.com
 127.0.0.1 st.marketgid.com
+127.0.0.1 st.targetix.net
 127.0.0.1 st.valueclick.com
 127.0.0.1 st.videojam.tv
 127.0.0.1 st.vq.ku6.cn
@@ -9816,7 +9823,11 @@
 127.0.0.1 syn.verticalacuity.com
 127.0.0.1 synad.nuffnang.com.sg
 127.0.0.1 synad2.nuffnang.com.cn
+127.0.0.1 sync-eu.exe.bid
+127.0.0.1 sync.audtd.com
+127.0.0.1 sync.credebat.com
 127.0.0.1 sync.mathtag.com
+127.0.0.1 sync.upravel.com
 127.0.0.1 syncaccess.net
 127.0.0.1 syndicated.mondominishows.com
 127.0.0.1 syndication.exdynsrv.com
