@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 06 Sep 2017 at 21:05:34 GMT
+# Last updated: Thu, 07 Sep 2017 at 22:00:59 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6358,6 +6358,7 @@
 127.0.0.1 api.admob.com
 127.0.0.1 api.affinesystems.com
 127.0.0.1 api.airpush.com
+127.0.0.1 api.content-ad.net
 127.0.0.1 api.content.ad
 127.0.0.1 api.linkgist.com
 127.0.0.1 api.linkz.net
