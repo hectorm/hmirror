@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Sep  9 05:22:41 UTC 2017
-# Blacklisted domains: 76610
+# Last updated:        Sun Sep 10 05:23:00 UTC 2017
+# Blacklisted domains: 76612
 
 # <header>
 127.0.0.1       localhost 
@@ -22561,6 +22561,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 downgradepc.update-plus.net
 0.0.0.0 downhack.net
 0.0.0.0 downholic.com
+0.0.0.0 downlaod.tuizhong.com
 0.0.0.0 downlaod.vstart.net
 0.0.0.0 downlaod.xiaocen.com
 0.0.0.0 downlaod1.vstart.net
@@ -65204,6 +65205,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tuhintourism.com
 0.0.0.0 tui.intelli-direct.com
 0.0.0.0 tuininfo.nl
+0.0.0.0 tuizhong.com
 0.0.0.0 tukangunduh.com
 0.0.0.0 tukejrh.angelfire.com
 0.0.0.0 tuknuk.com
