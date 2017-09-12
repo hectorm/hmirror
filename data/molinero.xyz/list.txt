@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sun Sep 10 05:23:00 UTC 2017
-# Blacklisted domains: 76612
+# Last updated:        Mon Sep 11 05:23:19 UTC 2017
+# Blacklisted domains: 76613
 
 # <header>
 127.0.0.1       localhost 
@@ -9478,6 +9478,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 app2.salesmanago.pl
 0.0.0.0 app3.letmacwork.world
 0.0.0.0 app3.rutarget.ru
+0.0.0.0 app4.letslowbefast.life
 0.0.0.0 app4.letslowbefast.site
 0.0.0.0 app4.letslowbefast.today
 0.0.0.0 app4.makeitworkfaster.world

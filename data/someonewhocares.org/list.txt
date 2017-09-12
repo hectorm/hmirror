@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 11 Sep 2017 at 03:37:49 GMT
+# Last updated: Mon, 11 Sep 2017 at 08:09:04 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7476,6 +7476,7 @@
 127.0.0.1 f.as-eu.falkag.net
 127.0.0.1 f.qstatic.com
 127.0.0.1 f1.p0y.com
+127.0.0.1 f11098.privacy4browsers.com
 127.0.0.1 f2.p0y.com
 127.0.0.1 f3.p0y.com
 127.0.0.1 f4.p0y.com
