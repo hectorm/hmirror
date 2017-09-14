@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Tue Sep 12 05:22:13 UTC 2017
-# Blacklisted domains: 76634
+# Last updated:        Wed Sep 13 05:23:24 UTC 2017
+# Blacklisted domains: 76636
 
 # <header>
 127.0.0.1       localhost 
@@ -2010,6 +2010,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 995-health.com-4us.net
 0.0.0.0 999001outlookapp.myfreesites.net
 0.0.0.0 9991.com
+0.0.0.0 99976.com
 0.0.0.0 999fitness.com
 0.0.0.0 999ways.blogspot.co.uk
 0.0.0.0 99bthgc.me
@@ -25476,6 +25477,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 eyeblaster.com
 0.0.0.0 eyecatchercharters.isthebe.st
 0.0.0.0 eyelle.cn
+0.0.0.0 eyeota.net
 0.0.0.0 eyereact.eyereturn.com
 0.0.0.0 eyeremember.ca
 0.0.0.0 eyereturn.com
