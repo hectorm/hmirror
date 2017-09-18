@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Sep 16 05:23:13 UTC 2017
-# Blacklisted domains: 75031
+# Last updated:        Sun Sep 17 05:23:27 UTC 2017
+# Blacklisted domains: 75034
 
 # <header>
 127.0.0.1       localhost 
@@ -1717,7 +1717,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 67563234657665890432.win
 0.0.0.0 676-fitness.com-4us.net
 0.0.0.0 678-health.com-4us.net
-0.0.0.0 67www.com
 0.0.0.0 680.stats.misstrends.com
 0.0.0.0 685.so
 0.0.0.0 687-ct.c3tag.com
@@ -19689,6 +19688,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgofortunes.com
 0.0.0.0 csgofrozl.com
 0.0.0.0 csgofrozy.com
+0.0.0.0 csgofuncase.com
 0.0.0.0 csgofunfun.com
 0.0.0.0 csgofunspin.com
 0.0.0.0 csgofurious.net
@@ -20718,6 +20718,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 deadwalking.tv
 0.0.0.0 dealdotcom.com
 0.0.0.0 dealfancy.com
+0.0.0.0 dealing.com.ng
 0.0.0.0 dealist.solutions
 0.0.0.0 dealitright.click
 0.0.0.0 dealmasstitch.com
@@ -47166,6 +47167,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 oqgmav.com
 0.0.0.0 oqsqmsiizpzoiwx.com
 0.0.0.0 oqtemoshoje.com.br
+0.0.0.0 oqwygprskqv65j72.12kb9j.top
 0.0.0.0 oqwygprskqv65j72.13gpqd.top
 0.0.0.0 oqwygprskqv65j72.13rdvu.top
 0.0.0.0 oqwygprskqv65j72.14jqyo.top
@@ -47175,6 +47177,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 oqwygprskqv65j72.1dofqx.top
 0.0.0.0 oqwygprskqv65j72.1fdlhn.top
 0.0.0.0 oqwygprskqv65j72.1fs9pz.top
+0.0.0.0 oqwygprskqv65j72.1gam57.top
 0.0.0.0 oqwygprskqv65j72.1gqj8x.top
 0.0.0.0 oqwygprskqv65j72.1hbdbx.top
 0.0.0.0 oqwygprskqv65j72.1j1x2b.top
@@ -58403,6 +58406,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 spinmedia-d.openx.net
+0.0.0.0 spinxmoney.com
 0.0.0.0 spir.hit.gemius.pl
 0.0.0.0 spiritofmorris.com
 0.0.0.0 spiritussanctus.com
@@ -68990,7 +68994,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.52209997.com
 0.0.0.0 www.58tpw.com
 0.0.0.0 www.5thavenue.com
-0.0.0.0 www.67www.com
 0.0.0.0 www.688ooo.com
 0.0.0.0 www.7218.pl
 0.0.0.0 www.7500.com
