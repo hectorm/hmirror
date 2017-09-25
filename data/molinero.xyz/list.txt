@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Sep 23 05:22:24 UTC 2017
-# Blacklisted domains: 72101
+# Last updated:        Sun Sep 24 05:22:40 UTC 2017
+# Blacklisted domains: 72102
 
 # <header>
 127.0.0.1       localhost 
@@ -35683,6 +35683,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 keystone.opendatamalta.org
 0.0.0.0 keytarget.adnet.lt
 0.0.0.0 keyupgrade.stableupdate.space
+0.0.0.0 keyupgrade.thecentral2updating.bid
 0.0.0.0 keyways.pt
 0.0.0.0 keywordblocks.com
 0.0.0.0 keywordmax.com
