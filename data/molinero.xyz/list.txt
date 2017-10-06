@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Wed Oct  4 05:19:56 UTC 2017
-# Blacklisted domains: 69763
+# Last updated:        Thu Oct  5 05:20:00 UTC 2017
+# Blacklisted domains: 69767
 
 # <header>
 127.0.0.1       localhost 
@@ -3717,6 +3717,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adextensioncontrol.tudou.com
 0.0.0.0 adf.ly
 0.0.0.0 adfactor.nl
+0.0.0.0 adfactor.nl.invalid
 0.0.0.0 adfarm.mediaplex.com
 0.0.0.0 adfarm.mserve.ca
 0.0.0.0 adfarm1.adition.com
@@ -18917,6 +18918,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
 0.0.0.0 d4.cumshots.ws
 0.0.0.0 d4.zedo.com
+0.0.0.0 d4n.platformd.com
 0.0.0.0 d5.zedo.com
 0.0.0.0 d5h.pl
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
@@ -29833,7 +29835,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 heuting-administratie.nl
 0.0.0.0 hewitwolensky.com
 0.0.0.0 hexadl.line55.net
-0.0.0.0 hexavftjc.pw
 0.0.0.0 hexi100.com
 0.0.0.0 hexus.uk.intellitxt.com
 0.0.0.0 hexusads.fluent.ltd.uk
@@ -36203,6 +36204,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 live.rads.msn.com
 0.0.0.0 live.sekindo.com
 0.0.0.0 live.streams24.tv
+0.0.0.0 liveadexchanger.com
 0.0.0.0 livebox-troisconsultationboitevocale.000webhostapp.com
 0.0.0.0 livecamgirls.streamray.com
 0.0.0.0 livecams.nl
@@ -48241,6 +48243,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 qfjhpgbefuhenjp7.1mnsg6.top
 0.0.0.0 qfntxytqmvaj.com
 0.0.0.0 qfsstesting.com
+0.0.0.0 qfuxosx.eu
 0.0.0.0 qgjyhrjbajjj.com
 0.0.0.0 qgmmrvbqwlouglqggi.com
 0.0.0.0 qgsmsc.com
@@ -60651,6 +60654,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 uuthouse.ru
 0.0.0.0 uuthuyo.net
 0.0.0.0 uuu822.com
+0.0.0.0 uuwflbmjmi.eu
 0.0.0.0 uvadovale.com
 0.0.0.0 uvatech.co.uk
 0.0.0.0 uvcmlfca.biz
