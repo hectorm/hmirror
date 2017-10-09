@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Oct  7 05:19:45 UTC 2017
-# Blacklisted domains: 69769
+# Last updated:        Sun Oct  8 05:19:46 UTC 2017
+# Blacklisted domains: 69773
 
 # <header>
 127.0.0.1       localhost 
@@ -239,6 +239,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 123counter.mycomputer.com
 0.0.0.0 123counter.superstats.com
 0.0.0.0 123found.com
+0.0.0.0 123freeavatars.com
 0.0.0.0 123go.com
 0.0.0.0 123greetings.com
 0.0.0.0 123mdw.com
@@ -3706,6 +3707,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adexboutique.com.ng
 0.0.0.0 adexc.net
 0.0.0.0 adexchange.guru
+0.0.0.0 adexchangegate.com
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 adexcite.com
 0.0.0.0 adexpansion.com
@@ -46783,6 +46785,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 poldk.nuggad.net
 0.0.0.0 pole.6rooms.com
 0.0.0.0 polestargroupbd.com
+0.0.0.0 police-fbi.securityservice.review
 0.0.0.0 police11.provenprotection.net
 0.0.0.0 policy-updatos.com
 0.0.0.0 policyforlife.com
@@ -54185,6 +54188,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 specialist-marineservices.com
 0.0.0.0 specialistpmc.com.au
 0.0.0.0 specialistups.com
+0.0.0.0 specially4u.net
 0.0.0.0 specialoffers.aol.com
 0.0.0.0 specialonlinegifts.com
 0.0.0.0 specialplaceinhell.com
