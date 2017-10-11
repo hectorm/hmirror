@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Mon Oct  9 05:19:50 UTC 2017
-# Blacklisted domains: 69777
+# Last updated:        Tue Oct 10 05:19:47 UTC 2017
+# Blacklisted domains: 69783
 
 # <header>
 127.0.0.1       localhost 
@@ -15701,6 +15701,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 check-your-iq.ru
 0.0.0.0 check.autentificationpage.cf
 0.0.0.0 check.browser.cruxinfra.com
+0.0.0.0 check.goodroundtoupdates.date
 0.0.0.0 check.identity.intpaypal.designsymphony.com
 0.0.0.0 check24.setting4upgradefreshandforyou.site
 0.0.0.0 checkaccountid.ml
@@ -18893,6 +18894,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2nq0f8d9ofdwv.cloudfront.net
+0.0.0.0 d2o9ozfswytaqz.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2vg62nuq66wql.cloudfront.net
@@ -32576,6 +32578,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 interac-supportinternational-information.pariso27.beget.tech
 0.0.0.0 interac.clients-valo.com
 0.0.0.0 interac.onlinebanking.ca.etrnasfer.deposit.payment.ca.bolingbrookchiropractor.com
+0.0.0.0 interac.refund-canada.com
 0.0.0.0 interac.solutions
 0.0.0.0 interace-transfer.abbainformatica.com.br
 0.0.0.0 interace-transfer.panku.in
@@ -58241,6 +58244,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 track.enviodemails.com
 0.0.0.0 track.exclusivecpa.com
 0.0.0.0 track.eyeviewads.com
+0.0.0.0 track.flexlinks.com
+0.0.0.0 track.flexlinkspro.com
 0.0.0.0 track.fling.com
 0.0.0.0 track.ft.com
 0.0.0.0 track.futureshop.ca
@@ -62998,6 +63003,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 whenisaymaid.com
 0.0.0.0 whentheyopened.com
 0.0.0.0 whenu.com
+0.0.0.0 whenvideoup.thebigandfreesystemupdate.website
 0.0.0.0 whenvideoup.thebigandfreesystemupdating.date
 0.0.0.0 whenyoufightforwhatisrightfarming.com
 0.0.0.0 whepgbwulfnbw.com
