@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sun Oct 15 05:19:46 UTC 2017
-# Blacklisted domains: 65114
+# Last updated:        Mon Oct 16 05:34:01 UTC 2017
+# Blacklisted domains: 65115
 
 # <header>
 127.0.0.1       localhost 
@@ -45669,6 +45669,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 redhotdirectory.com
 0.0.0.0 redhotfreebies.co.uk
 0.0.0.0 rediffenterprisepro.net
+0.0.0.0 redinvestor.com
 0.0.0.0 redir.adap.tv
 0.0.0.0 redir.adsonar.com
 0.0.0.0 redir.juicyads.com
