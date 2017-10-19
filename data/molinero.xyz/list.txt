@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Tue Oct 17 05:18:00 UTC 2017
-# Blacklisted domains: 65123
+# Last updated:        Wed Oct 18 06:10:12 UTC 2017
+# Blacklisted domains: 65125
 
 # <header>
 127.0.0.1       localhost 
@@ -1123,6 +1123,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 51mogui.com
 0.0.0.0 51sedy.com
 0.0.0.0 51she.info
+0.0.0.0 51shengyi.com
 0.0.0.0 51web8.net
 0.0.0.0 51winjob.cn
 0.0.0.0 51xingming.com
@@ -14083,6 +14084,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdn.pubexchange.com
 0.0.0.0 cdn.publicidad.net
 0.0.0.0 cdn.qbaka.net
+0.0.0.0 cdn.qm75.com
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 cdn.radiatewheel.info
 0.0.0.0 cdn.redlightcenter.com
@@ -32470,6 +32472,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 kittenstork.com
 0.0.0.0 kittrellglass.com
 0.0.0.0 kivpkvtgbkcqewmmbxt.la
+0.0.0.0 kiwifarms.net
 0.0.0.0 kiwigolfpool.com
 0.0.0.0 kiwionlinesupport.com
 0.0.0.0 kiwire.ipnoc.net.my
@@ -53160,6 +53163,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 thecompanyown.com
 0.0.0.0 theconroysflorist.com
 0.0.0.0 thecounter.com
+0.0.0.0 thecounter.com.invalid
 0.0.0.0 thecountryboy.com.au
 0.0.0.0 thecrow.com.br
 0.0.0.0 thecullomfamily.com
@@ -56287,7 +56291,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 utm2.smileycentral.com
 0.0.0.0 utmtrk2.smileycentral.com
 0.0.0.0 utnibyfjjmmegjs.la
-0.0.0.0 utopia-muenchen.de
 0.0.0.0 utopialingerie.com.au
 0.0.0.0 utopies.com
 0.0.0.0 utoypia.com.au
@@ -62526,7 +62529,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.suckdude.com
 0.0.0.0 www.sudokuwhiz.com
 0.0.0.0 www.sugarsync.com
-0.0.0.0 www.sumterswebdesign.com
 0.0.0.0 www.sunbrehden.top
 0.0.0.0 www.sunidaytravel.co.uk
 0.0.0.0 www.sunonsunday.co.uk
