@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Thu Oct 19 05:19:39 UTC 2017
-# Blacklisted domains: 63163
+# Last updated:        Fri Oct 20 05:19:51 UTC 2017
+# Blacklisted domains: 63159
 
 # <header>
 127.0.0.1       localhost 
@@ -633,7 +633,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 30280827a.l2m.net
 0.0.0.0 302br.net
 0.0.0.0 30811.hittail.com
-0.0.0.0 3084.com
 0.0.0.0 308888.com
 0.0.0.0 312.1d27c9b8fb.com
 0.0.0.0 31335.hittail.com
@@ -7143,7 +7142,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 aikanpinglun.com
 0.0.0.0 aikyu.ru
 0.0.0.0 aileronx.com
-0.0.0.0 ailian.cc
 0.0.0.0 ailincey.com
 0.0.0.0 ailvgo.com
 0.0.0.0 aim4media.com
@@ -12506,7 +12504,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 buzzwall.digital-forerunners.com
 0.0.0.0 bvalphaserver.com
 0.0.0.0 bvpah.info
-0.0.0.0 bvpdf9.u9a.wentserver.com
 0.0.0.0 bvtcgroup.com
 0.0.0.0 bw.ads.t-online.de
 0.0.0.0 bw1q.ccisisl.top
@@ -17187,7 +17184,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 czwndl.com
 0.0.0.0 czyjtonumertel.pl
 0.0.0.0 czyszczeniekarcherem.poznan.pl
-0.0.0.0 czzcjlb.com
 0.0.0.0 d-cache.microad.jp
 0.0.0.0 d-cache.microadinc.com
 0.0.0.0 d-track.send.microad.jp
@@ -27930,6 +27926,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hrgde.adocean.pl
 0.0.0.0 hrived1.com
 0.0.0.0 hriwwmrlommoni.me
+0.0.0.0 hrrqtoy.pw
 0.0.0.0 hruner.com
 0.0.0.0 hryspan.cn
 0.0.0.0 hryspap.cn
@@ -33618,6 +33615,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 lv-home.net
 0.0.0.0 lv.adocean.pl
 0.0.0.0 lv.hit.gemius.pl
+0.0.0.0 lvanwwbyabcfevyi.pw
 0.0.0.0 lvctmusxcyz.com
 0.0.0.0 lvrnetstswflrspowm.la
 0.0.0.0 lvs.truehits.in.th
@@ -57740,7 +57738,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.afterdownload.com
 0.0.0.0 www.agkn.com
 0.0.0.0 www.ahwydljt.com
-0.0.0.0 www.ailian.cc
 0.0.0.0 www.aim4media.com
 0.0.0.0 www.aimes.com
 0.0.0.0 www.aintdoinshit.com
@@ -62715,7 +62712,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 z3us1.z-ed.info
 0.0.0.0 z5x.net
 0.0.0.0 z7752.com
-0.0.0.0 z8822.com
 0.0.0.0 z8x.pl
 0.0.0.0 z9x.pl
 0.0.0.0 za-cdn.effectivemeasure.net

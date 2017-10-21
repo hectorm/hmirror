@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 17 Oct 2017 at 03:07:46 GMT
+# Last updated: Sat, 21 Oct 2017 at 02:30:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2650,6 +2650,7 @@
 127.0.0.1 www.lomalindasda.org			# Facebook trojan
 127.0.0.1 www.lovecouple.ru
 127.0.0.1 www.lovetrust.ru
+127.0.0.1 www.macaheadapps.com
 127.0.0.1 www.mikras.nl
 127.0.0.1 www.monkeyball.osa.pl
 127.0.0.1 www.monsonis.net
