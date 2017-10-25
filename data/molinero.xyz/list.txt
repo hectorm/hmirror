@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Mon Oct 23 05:19:36 UTC 2017
-# Blacklisted domains: 63366
+# Last updated:        Tue Oct 24 05:19:40 UTC 2017
+# Blacklisted domains: 63374
 
 # <header>
 127.0.0.1       localhost 
@@ -8702,6 +8702,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 apple.com------support.host
 0.0.0.0 apple.com-----scanner.club
 0.0.0.0 apple.com--validation.systems
+0.0.0.0 apple.com-analysis-safety-antimalware-support.accountant
 0.0.0.0 apple.com-internet-security-review.info
 0.0.0.0 apple.com-internet-security-review.review
 0.0.0.0 apple.com-onlinesupport.host
@@ -16907,6 +16908,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgoletswin.com
 0.0.0.0 csgoletwin.com
 0.0.0.0 csgolightspot.com
+0.0.0.0 csgolounge.trade
 0.0.0.0 csgoluckywheel.com
 0.0.0.0 csgomakeyourbet.com
 0.0.0.0 csgomezo.com
@@ -16917,6 +16919,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgoperry.com
 0.0.0.0 csgoplaytowin.com
 0.0.0.0 csgoproskins.com
+0.0.0.0 csgoranger.com
 0.0.0.0 csgoravebet.com
 0.0.0.0 csgorealwin.com
 0.0.0.0 csgorider.com
@@ -18559,6 +18562,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 dkispsyddjursdk.myfreesites.net
 0.0.0.0 dklmgdmadrasha.edu.bd
 0.0.0.0 dkoipg.pw
+0.0.0.0 dkspqpprnsmmte.com
 0.0.0.0 dkvihklu.com
 0.0.0.0 dkwm.suwan.co.id
 0.0.0.0 dl-apple.com
@@ -22850,6 +22854,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 flebologiaestetica.com.br
 0.0.0.0 fleshlightcash.com
 0.0.0.0 flevorhythm.nl
+0.0.0.0 flex.comonwealthplc.com
 0.0.0.0 flex.msn.com
 0.0.0.0 flexbanner.com
 0.0.0.0 flexeril.1.p2l.info
@@ -27099,6 +27104,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 helios.fvn.no
 0.0.0.0 helium.us.intellitxt.com
 0.0.0.0 hell-trade.com
+0.0.0.0 hellcase.money
 0.0.0.0 hellemod.beget.tech
 0.0.0.0 hellenicevaluation.org
 0.0.0.0 hellish807.ru
@@ -27110,6 +27116,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hellonepalkorea.com
 0.0.0.0 hellonwheelsthemovie.com
 0.0.0.0 hellpoint.net
+0.0.0.0 hellswap.com
 0.0.0.0 helltrades.com
 0.0.0.0 helltraffic.com
 0.0.0.0 hellwert.biz
@@ -52873,6 +52880,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 trada247.net
 0.0.0.0 tradbox.net
 0.0.0.0 trade-cs.com
+0.0.0.0 trade4real.org
 0.0.0.0 trade4real.pro
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradearabia.advertserve.com
