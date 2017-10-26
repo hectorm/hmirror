@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Tue Oct 24 05:19:40 UTC 2017
-# Blacklisted domains: 63374
+# Last updated:        Wed Oct 25 05:19:50 UTC 2017
+# Blacklisted domains: 63379
 
 # <header>
 127.0.0.1       localhost 
@@ -3532,6 +3532,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 adforce.imgis.com
 0.0.0.0 adforce.ru
 0.0.0.0 adform.com
+0.0.0.0 adform.net
+0.0.0.0 adformdsp.net
 0.0.0.0 adfrut.cl
 0.0.0.0 adfu.blockstackers.com
 0.0.0.0 adfun.ru
@@ -29775,6 +29777,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 inytbd.com
 0.0.0.0 inzerillo.it
 0.0.0.0 io21.ru
+0.0.0.0 ioam.de
 0.0.0.0 ioc-africa.org
 0.0.0.0 iocdn.coremetrics.com
 0.0.0.0 ioit.iovation.com
@@ -30153,6 +30156,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ivitrine.buscape.com
 0.0.0.0 ivkchpxinkonlhu.la
 0.0.0.0 ivox.socratos.net
+0.0.0.0 ivwbox.de
 0.0.0.0 ivxcsystncfp.cigarnervous.ru
 0.0.0.0 ivy.it
 0.0.0.0 ivykiosk.com
@@ -42966,6 +42970,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 promo.awempire.com
 0.0.0.0 promo.badoink.com
 0.0.0.0 promo.begun.ru
+0.0.0.0 promo.betcity.net
 0.0.0.0 promo.bongacash.com
 0.0.0.0 promo.cams.com
 0.0.0.0 promo.cityads.ru

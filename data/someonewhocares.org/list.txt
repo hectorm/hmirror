@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 24 Oct 2017 at 08:50:10 GMT
+# Last updated: Thu, 26 Oct 2017 at 02:46:56 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2009,6 +2009,7 @@
 127.0.0.1 apple.com-onlinesupport.site
 127.0.0.1 apple.com-safetyalert.com
 127.0.0.1 apple.com-scan-virus-detected.com
+127.0.0.1 apple.com-security-desktop-antimalware-support.download
 127.0.0.1 apple.com-store.me
 127.0.0.1 apple.com-supportcenter.website
 127.0.0.1 apple.com-web-security-analysis.win
@@ -2137,6 +2138,7 @@
 127.0.0.1 feedbackexplorer.com
 127.0.0.1 fengyixin.com
 127.0.0.1 filosvybfimpsv.ru.gg
+127.0.0.1 filter.mediacpc.com
 127.0.0.1 fr.apple.com-services-assistance-recuperations-des-comptes.com
 127.0.0.1 freedailydownload.com
 127.0.0.1 froling.bee.pl
