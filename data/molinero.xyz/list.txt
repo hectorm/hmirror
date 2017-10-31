@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sun Oct 29 05:19:38 UTC 2017
-# Blacklisted domains: 61652
+# Last updated:        Mon Oct 30 05:20:03 UTC 2017
+# Blacklisted domains: 61658
 
 # <header>
 127.0.0.1       localhost 
@@ -3461,6 +3461,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adexchange.guru
 0.0.0.0 adexchangegate.com
 0.0.0.0 adexchangeprediction.com
+0.0.0.0 adexchangetracker.com
 0.0.0.0 adexcite.com
 0.0.0.0 adexpansion.com
 0.0.0.0 adexpose.com
@@ -21888,6 +21889,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 filadestor.co.za
 0.0.0.0 filcoa.com
 0.0.0.0 file-dropbox.info
+0.0.0.0 file-error-09x38.gq
 0.0.0.0 file-folders.pl
 0.0.0.0 file-save.com
 0.0.0.0 file-share.pl
@@ -38350,6 +38352,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 onclasrv.com
 0.0.0.0 onclickads.net
 0.0.0.0 onclicklook.ru
+0.0.0.0 onclickprediction.com
 0.0.0.0 onclickpredictiv.com
 0.0.0.0 onclkds.com
 0.0.0.0 oncocenter.tj
@@ -41436,6 +41439,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 predatorhacks.com
 0.0.0.0 predfe.com
 0.0.0.0 predictad.com
+0.0.0.0 predictiondisplay.com
+0.0.0.0 predictivadnetwork.com
 0.0.0.0 predictivesearch.com
 0.0.0.0 predioplus.com
 0.0.0.0 preeqlultgfifg.pw
@@ -53337,6 +53342,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ventergy.com
 0.0.0.0 ventivmedia.com
 0.0.0.0 ventricuncut.nfcfhosting.com
+0.0.0.0 venturead.com
 0.0.0.0 venturesindia.co.in
 0.0.0.0 venus.goclick.com
 0.0.0.0 ver-auto-service.com
