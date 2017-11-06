@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Nov  4 22:43:33 UTC 2017
-# Blacklisted domains: 58750
+# Last updated:        Sun Nov  5 05:19:45 UTC 2017
+# Blacklisted domains: 58749
 
 # <header>
 127.0.0.1       localhost 
@@ -17118,7 +17118,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 diamonstar.cn
 0.0.0.0 dianagar.cz.cc
 0.0.0.0 dianepiette.co.uk
-0.0.0.0 diankan.cc
 0.0.0.0 dianomi.com
 0.0.0.0 diansp.com
 0.0.0.0 diapi.webgains.com
