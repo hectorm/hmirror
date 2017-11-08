@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Mon Nov  6 05:19:46 UTC 2017
-# Blacklisted domains: 58751
+# Last updated:        Tue Nov  7 05:19:46 UTC 2017
+# Blacklisted domains: 58773
 
 # <header>
 127.0.0.1       localhost 
@@ -1855,6 +1855,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 a-cave.net
 0.0.0.0 a-counter.kiev.ua
 0.0.0.0 a-msedge.net
+0.0.0.0 a-nj.1rx.io
 0.0.0.0 a-scrip.org
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 a-velo.at
@@ -1961,6 +1962,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 a.phormlabs.com
 0.0.0.0 a.pokerplayermagazine.co.uk
 0.0.0.0 a.postrelease.com
+0.0.0.0 a.predictvideo.com
 0.0.0.0 a.press24.mk
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
@@ -2167,6 +2169,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 abonnementxbox-live.fr
 0.0.0.0 abonnementxboxlive.net
 0.0.0.0 abonosvivos.net
+0.0.0.0 abourselfi.com
 0.0.0.0 aboutads.quantcast.com
 0.0.0.0 aboutconvert.ru
 0.0.0.0 aboutharrypotter.fasthost.tv
@@ -7880,6 +7883,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 anon.doubleclick.speedera.net
 0.0.0.0 anonymous-hacks.com
 0.0.0.0 anonymouscheaters.com
+0.0.0.0 anonymousdemographics.com
 0.0.0.0 anonymousf.info
 0.0.0.0 anonymoushack.com
 0.0.0.0 anonymousproxy.tk
@@ -8205,14 +8209,17 @@ ff02::3         ip6-allhosts
 0.0.0.0 app1.letitbefaster.life
 0.0.0.0 app1.letitbefaster.website
 0.0.0.0 app1.letmacworkfaster.site
+0.0.0.0 app1.letslowbefast.site
 0.0.0.0 app2.letitbefaster.life
 0.0.0.0 app2.letitbefaster.website
 0.0.0.0 app2.letmacwork.world
 0.0.0.0 app2.letslowbefast.life
+0.0.0.0 app2.letslowbefast.site
 0.0.0.0 app2.salesmanago.pl
 0.0.0.0 app3.letitbefaster.life
 0.0.0.0 app3.letitbefaster.website
 0.0.0.0 app3.letmacwork.world
+0.0.0.0 app3.letslowbefast.site
 0.0.0.0 app3.rutarget.ru
 0.0.0.0 app4.letitbefaster.life
 0.0.0.0 app4.letitbefaster.website
@@ -8223,6 +8230,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 app4com.codecheckgroup.com
 0.0.0.0 app5.letitbefaster.life
 0.0.0.0 app5.letitbefaster.website
+0.0.0.0 app5.letslowbefast.site
 0.0.0.0 appads.com
 0.0.0.0 appall.biz
 0.0.0.0 apparel-offer.com
@@ -10493,6 +10501,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 bestfiles.org
 0.0.0.0 bestfilesdownload.com
 0.0.0.0 bestfilmlife.cn
+0.0.0.0 bestframingnailerreview.com
 0.0.0.0 bestfree-hacks24.com
 0.0.0.0 bestfreecodes.com
 0.0.0.0 bestfreehacks.com
@@ -13557,6 +13566,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 check.browser.cruxinfra.com
 0.0.0.0 check.goodroundtoupdates.date
 0.0.0.0 check.identity.intpaypal.designsymphony.com
+0.0.0.0 check.thealwaysnewandfreeupdating.stream
 0.0.0.0 check24.setting4upgradefreshandforyou.site
 0.0.0.0 checkaccountid.ml
 0.0.0.0 checkapi.xyz
@@ -15109,6 +15119,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 conversion.7search.com
 0.0.0.0 conversionruler.com
 0.0.0.0 convertro.com
+0.0.0.0 convnjmp.basebanner.com
 0.0.0.0 convoiurgencesapprobationsde.it
 0.0.0.0 convusmp.admailtiser.com
 0.0.0.0 conxibit.com
@@ -29389,7 +29400,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 kjfjjjiy.beget.tech
 0.0.0.0 kjhkgh.skroc.pl
 0.0.0.0 kjkdndskjl.info
-0.0.0.0 kjkdnhgfdvbhgdskjl.info
 0.0.0.0 kjkwjqvqrjocpi.xyz
 0.0.0.0 kjmzcixgi.com
 0.0.0.0 kkc-cases.info
@@ -30107,6 +30117,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 letsee.courtindental.com
 0.0.0.0 letsfinder.com
 0.0.0.0 letsgodigital.uk.intellitxt.com
+0.0.0.0 letslowbefast.site
 0.0.0.0 letsrun.us.intellitxt.com
 0.0.0.0 letssearch.com
 0.0.0.0 letsupload.net
@@ -31295,6 +31306,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 m-vk.urmas.tk
 0.0.0.0 m.2mdn.net
 0.0.0.0 m.adbridge.de
+0.0.0.0 m.addthis.com
+0.0.0.0 m.addthisedge.com
 0.0.0.0 m.admedia.com
 0.0.0.0 m.admob.com
 0.0.0.0 m.adnxs.com
@@ -32696,6 +32709,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 melemusa.com
 0.0.0.0 melevamotoetaxi.com
 0.0.0.0 melissaolsonmarketing.com
+0.0.0.0 mellowads.com
 0.0.0.0 meltdsp.com
 0.0.0.0 members-usaa.economicfigures.com
 0.0.0.0 members.commissionmonster.com
@@ -32755,6 +32769,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 messages-your-rec0very.atspace.cc
 0.0.0.0 messagetag.com
 0.0.0.0 messagia.adcentric.proximi-t.com
+0.0.0.0 messardu.com
 0.0.0.0 messenger.zango.com
 0.0.0.0 messsengerr.com
 0.0.0.0 mesterads.com
@@ -35017,6 +35032,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 newbetakey.com
 0.0.0.0 newbetakeys.com
 0.0.0.0 newbie.com
+0.0.0.0 newbritmoneymethod.com
 0.0.0.0 newbrowse.livehelper.com
 0.0.0.0 newbs.hutz.co.il
 0.0.0.0 newburyscaffolding.co.uk
@@ -41936,6 +41952,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rzss2zfue73dfvmj.truewargame.ch
 0.0.0.0 s-161978.abc188.com
 0.0.0.0 s-295606.abc188.com
+0.0.0.0 s-39.predictvideo.com
 0.0.0.0 s-a-n-t-a-n-d-e-r-08225050525.000webhostapp.com
 0.0.0.0 s-adserver.cxad.cxense.com
 0.0.0.0 s-adserver.sandbox.cxad.cxense.com
@@ -42732,6 +42749,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 scripts.demandbase.com
 0.0.0.0 scripts.host.bannerflow.com
 0.0.0.0 scripts.kataweb.it
+0.0.0.0 scripts.kiosked.com
 0.0.0.0 scripts.kissmetrics.com
 0.0.0.0 scripts.linkz.net
 0.0.0.0 scripts.mofos.com
@@ -46280,6 +46298,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 superdon.h16.ru
 0.0.0.0 superegler.net
 0.0.0.0 superelectronicsindia.com
+0.0.0.0 superfastcdn.com
 0.0.0.0 superficial.crwdcntrl.net
 0.0.0.0 superficialsink.com
 0.0.0.0 superforexrobot.com
@@ -46577,6 +46596,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sync.adkernel.com
 0.0.0.0 sync.atomex.net
 0.0.0.0 sync.audtd.com
+0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.cmedia.s3.amazonaws.com
 0.0.0.0 sync.credebat.com
 0.0.0.0 sync.darikweb.com
@@ -47228,7 +47248,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 tel.geenstijl.nl
 0.0.0.0 tel3adv.112.2o7.net
 0.0.0.0 telagospel.net
-0.0.0.0 telaron.eu
 0.0.0.0 tele.oewabox.at
 0.0.0.0 tele2nl.112.2o7.net
 0.0.0.0 teleam.com
@@ -48800,6 +48819,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 traffic.acwebconnecting.com
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 traffic.adxprts.com
+0.0.0.0 traffic.adxprtz.com
 0.0.0.0 traffic.buyservices.com
 0.0.0.0 traffic.focuusing.com
 0.0.0.0 traffic.getmyads.com
@@ -50665,6 +50685,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 velcomshop.com
 0.0.0.0 velds.com.br
 0.0.0.0 veljipsons.com
+0.0.0.0 velocecdn.com
 0.0.0.0 velocityrodandcycle.com
 0.0.0.0 velti.com
 0.0.0.0 vempracaixa.info
@@ -55282,6 +55303,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.megagiftcity.com
 0.0.0.0 www.megastats.com
 0.0.0.0 www.meiluziai.info
+0.0.0.0 www.mellowads.com
 0.0.0.0 www.memeva.com
 0.0.0.0 www.menshealthweb.co
 0.0.0.0 www.merchantapp.com
