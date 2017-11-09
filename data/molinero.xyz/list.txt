@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Tue Nov  7 05:19:46 UTC 2017
-# Blacklisted domains: 58773
+# Last updated:        Wed Nov  8 05:19:39 UTC 2017
+# Blacklisted domains: 58776
 
 # <header>
 127.0.0.1       localhost 
@@ -728,6 +728,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 3cw.ru
 0.0.0.0 3d-download.org
 0.0.0.0 3d3scan.com
+0.0.0.0 3ddianshiji.com
 0.0.0.0 3ddown.com
 0.0.0.0 3dk1.co.cc
 0.0.0.0 3dlilydesign.com
@@ -3783,6 +3784,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adp.adview.pl
 0.0.0.0 adp.gazeta.pl
 0.0.0.0 adpacks.com
+0.0.0.0 adpenguin.biz
 0.0.0.0 adpepper.dk
 0.0.0.0 adpepper.nl
 0.0.0.0 adperium.com
@@ -44285,6 +44287,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 skywebprotection.com
 0.0.0.0 sl-retargeting.adsonar.com
 0.0.0.0 slanted.excelonlinereader.services
+0.0.0.0 slap.alliancekl.com
 0.0.0.0 slashfilm.us.intellitxt.com
 0.0.0.0 slashphone.us.intellitxt.com
 0.0.0.0 slate-ad-scripts.s3.amazonaws.com
