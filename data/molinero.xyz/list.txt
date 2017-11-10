@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Wed Nov  8 05:19:39 UTC 2017
-# Blacklisted domains: 58776
+# Last updated:        Thu Nov  9 05:19:41 UTC 2017
+# Blacklisted domains: 58781
 
 # <header>
 127.0.0.1       localhost 
@@ -472,6 +472,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 24-verygoods.ru
 0.0.0.0 243029-18685.link.iwanttodeliver.com
 0.0.0.0 244657-12903.link.iwanttodeliver.com
+0.0.0.0 2468.go2cloud.org
 0.0.0.0 24725.hittail.com
 0.0.0.0 247590.r.axf8.net
 0.0.0.0 247adbiz.net
@@ -3100,6 +3101,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ad2digital.checkm8.com
 0.0.0.0 ad2flash.com
 0.0.0.0 ad2games.com
+0.0.0.0 ad2games.com.invalid
 0.0.0.0 ad2play.ftv-publicite.fr
 0.0.0.0 ad3.adfarm1.adition.com
 0.0.0.0 ad3.bannerbank.ru
@@ -7884,6 +7886,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 anocars.com
 0.0.0.0 anon.doubleclick.speedera.net
 0.0.0.0 anonymous-hacks.com
+0.0.0.0 anonymous-net.com
 0.0.0.0 anonymouscheaters.com
 0.0.0.0 anonymousdemographics.com
 0.0.0.0 anonymousf.info
@@ -39762,6 +39765,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 protal.discover.com-account-security.prolecare.com
 0.0.0.0 proteccao24h.pt
 0.0.0.0 protect-x.com
+0.0.0.0 protect-your-privacy.net
 0.0.0.0 protect.advancedcleaner.com
 0.0.0.0 protectfillaccount.com
 0.0.0.0 protection.alpolice.com
@@ -45444,6 +45448,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 stathat.com
 0.0.0.0 static-bp.kameleoon.com
 0.0.0.0 static-shareaholic.s3.amazonaws.com
+0.0.0.0 static-ssl.exoclick.com
 0.0.0.0 static-trackers.adtarget.me
 0.0.0.0 static-uk.addynamo.net
 0.0.0.0 static.2mdn.net
