@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sun Nov 12 05:19:46 UTC 2017
-# Blacklisted domains: 58180
+# Last updated:        Mon Nov 13 05:19:41 UTC 2017
+# Blacklisted domains: 58179
 
 # <header>
 127.0.0.1       localhost 
@@ -2242,7 +2242,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 acces.hub-login.com
 0.0.0.0 acces.streaming-direct.co
 0.0.0.0 accesoriosmarinos.com
-0.0.0.0 accesscountry.com
 0.0.0.0 accessdocument.info
 0.0.0.0 accessinternetuserapp.gotdns.org
 0.0.0.0 accessinvestment.net
