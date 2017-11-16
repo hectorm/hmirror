@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Tue Nov 14 05:19:53 UTC 2017
-# Blacklisted domains: 58201
+# Last updated:        Wed Nov 15 05:19:51 UTC 2017
+# Blacklisted domains: 58204
 
 # <header>
 127.0.0.1       localhost 
@@ -6404,6 +6404,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adv.merlin.co.il
 0.0.0.0 adv.netinfo.bg
 0.0.0.0 adv.netshelter.net
+0.0.0.0 adv.nexthardware.com
 0.0.0.0 adv.novinar.bg
 0.0.0.0 adv.p2pbg.com
 0.0.0.0 adv.publy.net
@@ -6545,6 +6546,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
 0.0.0.0 advertwizard.com
+0.0.0.0 advfromnwl.com
 0.0.0.0 advice-ads-cdn.vice.com
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 advice.hit.gemius.pl
@@ -39309,6 +39311,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 promoferta.pl
 0.0.0.0 promofferte.com
 0.0.0.0 promontime.com
+0.0.0.0 promos.bwin.it
 0.0.0.0 promos.camsoda.com
 0.0.0.0 promos.fling.com
 0.0.0.0 promos.meetlocals.com
