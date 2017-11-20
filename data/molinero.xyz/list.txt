@@ -1,7 +1,7 @@
 # Author:              Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:          https://github.com/zant95/hBlock
-# Last updated:        Sat Nov 18 05:19:50 UTC 2017
-# Blacklisted domains: 58759
+# Last updated:        Sun Nov 19 05:19:48 UTC 2017
+# Blacklisted domains: 58761
 
 # <header>
 127.0.0.1       localhost 
@@ -6848,6 +6848,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 agnieszkapudlo-dekoracje.pl
 0.0.0.0 agpaving.com
 0.0.0.0 agrasainschool.com
+0.0.0.0 agreemand.com
 0.0.0.0 agreement4.gdmachinery.net
 0.0.0.0 agreement7.gdmachinery.net
 0.0.0.0 agri-show.co.za
@@ -15700,6 +15701,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 crediblegfj.info
 0.0.0.0 credicomercio.com.ve
 0.0.0.0 credipersonal.com.ve
+0.0.0.0 credishe.com
 0.0.0.0 credit-card-application.now-cash.com
 0.0.0.0 credit-card.message27.com
 0.0.0.0 credit-cards.shengen.ru
