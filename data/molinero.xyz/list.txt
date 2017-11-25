@@ -1,7 +1,7 @@
-# Author:              Héctor Molinero Fernández <hector@molinero.xyz>
-# Repository:          https://github.com/zant95/hBlock
-# Last updated:        Thu Nov 23 05:19:34 UTC 2017
-# Blacklisted domains: 58328
+# Author:          Héctor Molinero Fernández <hector@molinero.xyz>
+# Repository:      https://github.com/zant95/hblock
+# Last updated:    Fri Nov 24 05:19:45 UTC 2017
+# Blocked domains: 58327
 
 # <header>
 127.0.0.1       localhost 
@@ -2202,7 +2202,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 accounts.craigslist.org.svrrc.com
 0.0.0.0 accounts.google.c0m.juhaszpiroska.hu
 0.0.0.0 accounts.mx
-0.0.0.0 accounts.pkr.com.invalid
 0.0.0.0 accountsettings317651.000webhostapp.com
 0.0.0.0 accountslogs.com
 0.0.0.0 accountsmaccing.com
@@ -11303,7 +11302,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 brave.ebod.co.uk
 0.0.0.0 bravefrontiercheats.com
 0.0.0.0 bravenet.com
-0.0.0.0 bravenet.com.invalid
 0.0.0.0 bravetools.net
 0.0.0.0 bravo.israelinfo.ru
 0.0.0.0 bravodemo.com
@@ -23297,6 +23295,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 getfreesteamgamesnow.com
 0.0.0.0 getfreesteamwalletcodes.com
 0.0.0.0 getgamecheats.com
+0.0.0.0 getgamegifts.com
 0.0.0.0 getget.rs
 0.0.0.0 getgiftcardcodes.com
 0.0.0.0 getgiftcards.org
@@ -28487,6 +28486,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 jonathonschad.com
 0.0.0.0 joneanu.com
 0.0.0.0 jonesboatengministries.net
+0.0.0.0 joneself.com
 0.0.0.0 jonglpan.it
 0.0.0.0 jonpelimited.com
 0.0.0.0 joojin.com
@@ -42932,7 +42932,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 seekultimatestorm.com
 0.0.0.0 seelkqtkkqxvq.click
 0.0.0.0 seemlessfixing.tech
-0.0.0.0 seeq.com.invalid
 0.0.0.0 seeques.com
 0.0.0.0 seet10.jino.ru
 0.0.0.0 seethisinaction.com
