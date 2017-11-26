@@ -1,6 +1,6 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Fri Nov 24 05:19:45 UTC 2017
+# Last updated:    Sat Nov 25 05:19:39 UTC 2017
 # Blocked domains: 58327
 
 # <header>
@@ -3743,6 +3743,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adrotate.se
 0.0.0.0 adrotator.com
 0.0.0.0 adrotator.se
+0.0.0.0 adrotic.girlonthenet.com
 0.0.0.0 adrs.hit.gemius.pl
 0.0.0.0 adrta.com
 0.0.0.0 adrunnr.com
@@ -24456,7 +24457,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 guruads.de
 0.0.0.0 gurucheats.com
 0.0.0.0 gurugiftcards.com
-0.0.0.0 gus.host
 0.0.0.0 gustafsonpools.com
 0.0.0.0 guthyrenker.112.2o7.net
 0.0.0.0 guthyrenker.tt.omtrdc.net
