@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Fri Dec 15 05:19:49 UTC 2017
-# Blocked domains: 58552
+# Last updated:    Sat Dec 16 05:39:25 UTC 2017
+# Blocked domains: 58554
 
 # <header>
 127.0.0.1       localhost 
@@ -37912,6 +37912,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 perlabsshipping.com
 0.0.0.0 perlssend.com
 0.0.0.0 permissioninteractiv.tt.omtrdc.net
+0.0.0.0 permutive.com
 0.0.0.0 perpetualfitness.ca
 0.0.0.0 perpinshop.com
 0.0.0.0 perronicoach.com.br
@@ -50874,6 +50875,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 video.theparentingvillage.com
 0.0.0.0 video.unrulymedia.com
 0.0.0.0 video1.adprimemedia.com
+0.0.0.0 videoadex.com
 0.0.0.0 videobox.com
 0.0.0.0 videoclick.ru
 0.0.0.0 videocodezone.us.intellitxt.com
