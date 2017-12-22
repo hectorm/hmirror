@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 20 Dec 2017 at 01:47:26 GMT
+# Last updated: Thu, 21 Dec 2017 at 06:29:55 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -480,6 +480,7 @@
 127.0.0.1 cdns.gigya.com
 127.0.0.1 cdn-social.janrain.com
 127.0.0.1 cdn.taboolasyndication.com
+127.0.0.1 cdn.zarget.com
 127.0.0.1 cdxbin.vulnerap.com
 127.0.0.1 cf.addthis.com
 127.0.0.1 cgicounter.onlinehome.de

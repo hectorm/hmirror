@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Wed Dec 20 05:20:05 UTC 2017
-# Blocked domains: 58582
+# Last updated:    Thu Dec 21 05:21:59 UTC 2017
+# Blocked domains: 58584
 
 # <header>
 127.0.0.1       localhost 
@@ -15749,6 +15749,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgoguesswin.com
 0.0.0.0 csgohead.pro
 0.0.0.0 csgohypetrade.com
+0.0.0.0 csgoinrate.com
 0.0.0.0 csgoioung.com
 0.0.0.0 csgoitems.trading
 0.0.0.0 csgoiunge.com
@@ -45794,6 +45795,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 steak-frite250.gq
 0.0.0.0 steakhousehollister.com
 0.0.0.0 steam-cards.com
+0.0.0.0 steam-coin.us
 0.0.0.0 steam-deal.com
 0.0.0.0 steam-free-games.com
 0.0.0.0 steam-games-free.net
