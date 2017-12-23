@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Thu Dec 21 05:21:59 UTC 2017
-# Blocked domains: 58584
+# Last updated:    Fri Dec 22 05:19:40 UTC 2017
+# Blocked domains: 58585
 
 # <header>
 127.0.0.1       localhost 
@@ -12856,6 +12856,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdn.yieldmedia.net
 0.0.0.0 cdn.yldbt.com
 0.0.0.0 cdn.yottos.com
+0.0.0.0 cdn.zarget.com
 0.0.0.0 cdn.zeusclicks.com
 0.0.0.0 cdn1.adadvisor.net
 0.0.0.0 cdn1.adexprt.com
@@ -13353,7 +13354,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 cheatsbar.com
 0.0.0.0 cheatsbasis.com
 0.0.0.0 cheatsbomb.com
-0.0.0.0 cheatsbuddy.com
 0.0.0.0 cheatscastle.com
 0.0.0.0 cheatscave.com
 0.0.0.0 cheatsclashofclans.com
@@ -15762,6 +15762,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgoleep.com
 0.0.0.0 csgoletswin.com
 0.0.0.0 csgoletwin.com
+0.0.0.0 csgolevar.com
 0.0.0.0 csgolightspot.com
 0.0.0.0 csgolounge.trade
 0.0.0.0 csgoluckywheel.com
