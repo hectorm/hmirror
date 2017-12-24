@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Fri Dec 22 05:19:40 UTC 2017
-# Blocked domains: 58585
+# Last updated:    Sat Dec 23 05:20:32 UTC 2017
+# Blocked domains: 58589
 
 # <header>
 127.0.0.1       localhost 
@@ -101,6 +101,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 0leaf.supportpaypal.secure-sessionlogin.com
 0.0.0.0 0membres.getforge.io
 0.0.0.0 0nline.23welsfargo39.com.al4all.co.za
+0.0.0.0 0pencase.com
 0.0.0.0 0pichincha1.webcindario.com
 0.0.0.0 0pn.ru
 0.0.0.0 0qizz.super-promo.hoxo.info
@@ -33067,6 +33068,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 minero.pw
 0.0.0.0 minerva.healthcentral.com
 0.0.0.0 ming-dun.com.tw
+0.0.0.0 minglecase.com
 0.0.0.0 mingxinjj.com
 0.0.0.0 mingxuanhl.com
 0.0.0.0 minhacola.com
@@ -45791,6 +45793,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 steaacommunity.com
 0.0.0.0 steacommnuiity.com
 0.0.0.0 steacommunlity.com
+0.0.0.0 steacommurity.com
 0.0.0.0 steadfastindia.com
 0.0.0.0 steadyhealth.us.intellitxt.com
 0.0.0.0 steak-frite250.gq
@@ -58113,6 +58116,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 yue.uaesoa.net
 0.0.0.0 yuejinjx.com
 0.0.0.0 yueqi360.com
+0.0.0.0 yuertao.pw
 0.0.0.0 yugege.f3322.net
 0.0.0.0 yuilop.com
 0.0.0.0 yuirehijoj.vilayer.me

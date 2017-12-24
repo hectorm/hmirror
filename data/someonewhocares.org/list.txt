@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 21 Dec 2017 at 06:29:55 GMT
+# Last updated: Sun, 24 Dec 2017 at 03:50:37 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1114,6 +1114,7 @@
 127.0.0.1 pix02.revsci.net
 127.0.0.1 pix03.revsci.net
 127.0.0.1 pix04.revsci.net
+127.0.0.1 pixel.bilinmedia.net
 127.0.0.1 pixel-geo.prfct.co
 127.0.0.1 pixel.invitemedia.com
 127.0.0.1 pixel.tapad.com
