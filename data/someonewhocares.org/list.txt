@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 24 Dec 2017 at 03:50:37 GMT
+# Last updated: Thu, 28 Dec 2017 at 00:44:12 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2073,6 +2073,8 @@
 127.0.0.1 callbling.com
 127.0.0.1 cambonanza.com
 127.0.0.1 ccudl.com
+127.0.0.1 cdn1.minestat.biz
+127.0.0.1 cdn2.minestat.biz
 127.0.0.1 cdn.radiatewheel.info
 127.0.0.1 changduk26.com			# Facebook trojan
 127.0.0.1 check.goodroundtoupdates.date
@@ -2309,6 +2311,7 @@
 127.0.0.1 minero-proxy-03.now.sh
 127.0.0.1 minero.pw
 127.0.0.1 miner.pr0gramm.com
+127.0.0.1 minestat.biz
 127.0.0.1 mipsa.ciae.ac.cn
 127.0.0.1 mn.mn.co.cu
 127.0.0.1 monitor.phorm.com
@@ -4341,6 +4344,7 @@
 127.0.0.1 ad.bannerbank.ru
 127.0.0.1 ad.bannerconnect.net
 127.0.0.1 adbers.com
+127.0.0.1 adbetnet.advertserve.com
 127.0.0.1 adb.fling.com
 127.0.0.1 adbg.hit.gemius.pl
 127.0.0.1 adbit.co
@@ -9552,6 +9556,7 @@
 127.0.0.1 rubyfortune.com
 127.0.0.1 rubylan.net
 127.0.0.1 rubytag.net
+127.0.0.1 runtime.lemonpi.io
 127.0.0.1 ru.redtram.com
 127.0.0.1 RUSpolice.com
 127.0.0.1 RUSpolice.net
