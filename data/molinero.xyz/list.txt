@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Wed Dec 27 05:19:31 UTC 2017
-# Blocked domains: 58659
+# Last updated:    Thu Dec 28 05:20:37 UTC 2017
+# Blocked domains: 58666
 
 # <header>
 127.0.0.1       localhost 
@@ -12883,6 +12883,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdn1.crispadvertising.com
 0.0.0.0 cdn1.eyewonder.com
 0.0.0.0 cdn1.inner-active.mobi
+0.0.0.0 cdn1.minestat.biz
 0.0.0.0 cdn1.mysearchresults.com
 0.0.0.0 cdn1.rmgserving.com
 0.0.0.0 cdn1.skinected.com
@@ -12899,6 +12900,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdn2.amateurmatch.com
 0.0.0.0 cdn2.crispadvertising.com
 0.0.0.0 cdn2.emediate.eu
+0.0.0.0 cdn2.minestat.biz
 0.0.0.0 cdn2sitescout-a.akamaihd.net
 0.0.0.0 cdn3.adexprts.com
 0.0.0.0 cdn3.emediate.eu
@@ -12964,7 +12966,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 celebrity-numbers.com
 0.0.0.0 celebrity-phone-numbers.com
 0.0.0.0 celebrity-rightpundits.us.intellitxt.com
-0.0.0.0 celebritygag.com
 0.0.0.0 celebritygirlfriend.co.uk
 0.0.0.0 celebritygruop.com
 0.0.0.0 celebritymound.us.intellitxt.com
@@ -15725,6 +15726,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgo2you.com
 0.0.0.0 csgoaimbot.com
 0.0.0.0 csgoallbets.com
+0.0.0.0 csgoarizona.com
 0.0.0.0 csgobeach.com
 0.0.0.0 csgobest-trade.online
 0.0.0.0 csgobestskinschoice.pl
@@ -15783,6 +15785,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgoletwin.com
 0.0.0.0 csgolevar.com
 0.0.0.0 csgolightspot.com
+0.0.0.0 csgolounge.money
 0.0.0.0 csgolounge.trade
 0.0.0.0 csgoluckywheel.com
 0.0.0.0 csgolympia.com
@@ -17542,6 +17545,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 dota2exchange.online
 0.0.0.0 dota2maphack.org
 0.0.0.0 dota2money.ru
+0.0.0.0 dota2swap.site
 0.0.0.0 dota2tool.su
 0.0.0.0 dota2trade.online
 0.0.0.0 dota2trade.pro
@@ -22614,6 +22618,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 galatransmisja.pe.hu
 0.0.0.0 galaxien.com
 0.0.0.0 galaxy-case.com
+0.0.0.0 galaxydrop.top
 0.0.0.0 galaxygiveaways.com
 0.0.0.0 galaxyinvi.com
 0.0.0.0 galb.hit.gemius.pl
@@ -22866,7 +22871,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 gamezrock.com
 0.0.0.0 gamezterror.com
 0.0.0.0 gamhack.com
-0.0.0.0 gaming-blog.com
 0.0.0.0 gaming-gangsters.com
 0.0.0.0 gaming-online.petrovka.info
 0.0.0.0 gamingcitadel.com
@@ -24395,7 +24399,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 gta5fastmoney.net
 0.0.0.0 gta5freebeta.com
 0.0.0.0 gta5glitches.com
-0.0.0.0 gta5gratuit.com
 0.0.0.0 gta5gratuit.fr
 0.0.0.0 gta5hack.com
 0.0.0.0 gta5hacked.com
@@ -31505,6 +31508,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 magentofa.com
 0.0.0.0 maggiekeenan.com
 0.0.0.0 magic-deals.us
+0.0.0.0 magic-exchange.com
 0.0.0.0 magicaidwebmart.ru
 0.0.0.0 magical-connection.com
 0.0.0.0 magicbestcompany.ru
@@ -33109,6 +33113,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 minero-proxy-03.now.sh
 0.0.0.0 minero.pw
 0.0.0.0 minerva.healthcentral.com
+0.0.0.0 minestat.biz
 0.0.0.0 ming-dun.com.tw
 0.0.0.0 minglecase.com
 0.0.0.0 mingxinjj.com
@@ -41859,6 +41864,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 runandgunpack.sharezips.info
 0.0.0.0 rundll.co.in
 0.0.0.0 runslin.com
+0.0.0.0 runtime.lemonpi.io
 0.0.0.0 runzemaoye.com
 0.0.0.0 rupantareco-tourism.com
 0.0.0.0 rupeewiz.com
@@ -47606,7 +47612,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 thegreenshoppingchannel.com
 0.0.0.0 thegroup.112.2o7.net
 0.0.0.0 thehackerportal.net
-0.0.0.0 thehackfacebook.com
 0.0.0.0 thehackonline.com
 0.0.0.0 thehacks.us
 0.0.0.0 thehackspot.com
@@ -48835,12 +48840,14 @@ ff02::3         ip6-allhosts
 0.0.0.0 trada247.net
 0.0.0.0 tradbox.net
 0.0.0.0 trade-cs.com
+0.0.0.0 trade4real.net
 0.0.0.0 trade4real.org
 0.0.0.0 trade4real.pro
 0.0.0.0 tradeadexchange.com
 0.0.0.0 tradearabia.advertserve.com
 0.0.0.0 tradebot.cc
 0.0.0.0 tradebot.online
+0.0.0.0 tradebot.top
 0.0.0.0 tradecars1.us
 0.0.0.0 tradecharm.lt
 0.0.0.0 tradecsgo.online
