@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Thu Dec 28 05:20:37 UTC 2017
-# Blocked domains: 58666
+# Last updated:    Fri Dec 29 05:19:41 UTC 2017
+# Blocked domains: 58688
 
 # <header>
 127.0.0.1       localhost 
@@ -15718,6 +15718,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgo-sweetwin.com
 0.0.0.0 csgo-sxe.net
 0.0.0.0 csgo-tournament.com
+0.0.0.0 csgo.ae
 0.0.0.0 csgo.steamanaylst.com
 0.0.0.0 csgo2casino.com
 0.0.0.0 csgo2happy.com
@@ -15733,6 +15734,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgobigbet.com
 0.0.0.0 csgobong.com
 0.0.0.0 csgoboom.net
+0.0.0.0 csgobot.store
 0.0.0.0 csgobulls.com
 0.0.0.0 csgocake.com
 0.0.0.0 csgocasefun.com
@@ -15752,6 +15754,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgoelemental.com
 0.0.0.0 csgoexc.com
 0.0.0.0 csgofast.trade
+0.0.0.0 csgofastrade.com
 0.0.0.0 csgofine.com
 0.0.0.0 csgofireboom.com
 0.0.0.0 csgofirewin.com
@@ -15767,6 +15770,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgoguesswin.com
 0.0.0.0 csgohall.com
 0.0.0.0 csgohead.pro
+0.0.0.0 csgohunt.trade
 0.0.0.0 csgohypetrade.com
 0.0.0.0 csgoinrate.com
 0.0.0.0 csgoioung.com
@@ -15785,9 +15789,11 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgoletwin.com
 0.0.0.0 csgolevar.com
 0.0.0.0 csgolightspot.com
+0.0.0.0 csgolounge.exchange
 0.0.0.0 csgolounge.money
 0.0.0.0 csgolounge.trade
 0.0.0.0 csgoluckywheel.com
+0.0.0.0 csgoluxetrade.com
 0.0.0.0 csgolympia.com
 0.0.0.0 csgomagnatcase.com
 0.0.0.0 csgomakeyourbet.com
@@ -15831,7 +15837,11 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgotape.com
 0.0.0.0 csgotopplay.com
 0.0.0.0 csgotoptrader.pro
+0.0.0.0 csgotrade.zone
 0.0.0.0 csgotradearea.com
+0.0.0.0 csgotradefly.com
+0.0.0.0 csgotradegun.com
+0.0.0.0 csgotradejet.com
 0.0.0.0 csgotrader.deals
 0.0.0.0 csgottr.com
 0.0.0.0 csgoturbobets.com
@@ -17539,7 +17549,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 dosugcz.biz
 0.0.0.0 dot.wp.pl
 0.0.0.0 dota-money24.com
+0.0.0.0 dota2-exchanger.online
 0.0.0.0 dota2-shop.biz
+0.0.0.0 dota2.money
 0.0.0.0 dota2betakeys.hasbeenhacked.org
 0.0.0.0 dota2betakeys.org
 0.0.0.0 dota2exchange.online
@@ -19867,6 +19879,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ezloaded.com
 0.0.0.0 ezoporady24.com.pl
 0.0.0.0 ezoteryka24h.pl
+0.0.0.0 ezskins.trade
 0.0.0.0 ezsolutionspk.com
 0.0.0.0 eztalmodtam.hu
 0.0.0.0 eztexting.com
@@ -24603,6 +24616,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 h148.cn
 0.0.0.0 h1666015.stratoserver.net
 0.0.0.0 h1z1echange.com
+0.0.0.0 h1z1trade.online
 0.0.0.0 h21.ru
 0.0.0.0 h3ds4.maconslab.com
 0.0.0.0 h43.pl
@@ -25276,6 +25290,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 helios.fvn.no
 0.0.0.0 helium.us.intellitxt.com
 0.0.0.0 hell-trade.com
+0.0.0.0 hellcase.io
 0.0.0.0 hellcase.money
 0.0.0.0 hellifieldvillagehall.org.uk
 0.0.0.0 hellish807.ru
@@ -30845,6 +30860,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 loudtalk.net
 0.0.0.0 louisvil.app.ur.gcion.com
 0.0.0.0 louisvil.ur.gcion.com
+0.0.0.0 loungebots.com
 0.0.0.0 lourencinisupermercados.com.br
 0.0.0.0 lousecn.cn
 0.0.0.0 love.magicsites.ru
@@ -38624,6 +38640,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 play.traffpartners.com
 0.0.0.0 play.videosongplayer.com
 0.0.0.0 play4traffic.com
+0.0.0.0 playbattlegrounds.trade
 0.0.0.0 playbetshere.com
 0.0.0.0 playcapt.com
 0.0.0.0 playcinema.stream80.com
@@ -43766,6 +43783,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 shariqacorner.com
 0.0.0.0 sharjeasoon.ir
 0.0.0.0 shark-hack.xyz
+0.0.0.0 sharkcase.net
 0.0.0.0 sharkreviews.com
 0.0.0.0 sharp-marine.com
 0.0.0.0 sharpdealerdelhi.com
@@ -46549,6 +46567,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sweed-viki.ru
 0.0.0.0 sweepstakesandcontestsinfo.com
 0.0.0.0 sweepstakesandcontestsnow.com
+0.0.0.0 sweet-loot.com
 0.0.0.0 sweet55ium55.com
 0.0.0.0 sweetideasbysusan.co.uk
 0.0.0.0 sweetsforfree.com
@@ -48840,6 +48859,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 trada247.net
 0.0.0.0 tradbox.net
 0.0.0.0 trade-cs.com
+0.0.0.0 trade-kniwes.com
 0.0.0.0 trade4real.net
 0.0.0.0 trade4real.org
 0.0.0.0 trade4real.pro
@@ -48847,6 +48867,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tradearabia.advertserve.com
 0.0.0.0 tradebot.cc
 0.0.0.0 tradebot.online
+0.0.0.0 tradebot.site
 0.0.0.0 tradebot.top
 0.0.0.0 tradecars1.us
 0.0.0.0 tradecharm.lt
@@ -48854,6 +48875,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tradecsgo.top
 0.0.0.0 tradedoubler.com
 0.0.0.0 tradedoubler.sonvideopro.com
+0.0.0.0 tradefastskin.com
 0.0.0.0 tradefx.advertserve.com
 0.0.0.0 tradego.pro
 0.0.0.0 tradego.store

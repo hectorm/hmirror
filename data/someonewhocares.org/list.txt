@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 28 Dec 2017 at 00:44:12 GMT
+# Last updated: Sat, 30 Dec 2017 at 02:17:50 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -393,6 +393,7 @@
 127.0.0.1 apac.rel.msn.com
 127.0.0.1 api2.murdoog.com
 127.0.0.1 api.adsymptotic.com
+127.0.0.1 api.behavioralengine.com
 127.0.0.1 api.bizographics.com
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 api.infinario.com
@@ -1302,6 +1303,7 @@
 127.0.0.1 statcounter.com
 127.0.0.1 stat-counter.tass-online.ru
 127.0.0.1 stat.discogs.com
+127.0.0.1 static.audienceinsights.net
 127.0.0.1 static.kibboko.com
 127.0.0.1 static.smni.com		# Santa Monica - popunders
 127.0.0.1 statik.topica.com
