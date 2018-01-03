@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sun Dec 31 05:20:19 UTC 2017
-# Blocked domains: 58704
+# Last updated:    Tue Jan  2 05:20:43 UTC 2018
+# Blocked domains: 58708
 
 # <header>
 127.0.0.1       localhost 
@@ -15729,6 +15729,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgo2you.com
 0.0.0.0 csgoaimbot.com
 0.0.0.0 csgoallbets.com
+0.0.0.0 csgoalley.com
 0.0.0.0 csgoarizona.com
 0.0.0.0 csgobeach.com
 0.0.0.0 csgobest-trade.online
@@ -17564,6 +17565,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 dota2betakeys.hasbeenhacked.org
 0.0.0.0 dota2betakeys.org
 0.0.0.0 dota2exchange.online
+0.0.0.0 dota2lut.com
 0.0.0.0 dota2maphack.org
 0.0.0.0 dota2money.ru
 0.0.0.0 dota2swap.site
@@ -26224,6 +26226,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hugde.adocean.pl
 0.0.0.0 hugebestbuy.cn
 0.0.0.0 hugefileshare.com
+0.0.0.0 hugeskins.com
 0.0.0.0 hugetopnonfat.cn
 0.0.0.0 hugoguar.com
 0.0.0.0 hugovaldebenito.cl
@@ -44281,6 +44284,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 skins-hot.com
 0.0.0.0 skinsbeast.com
 0.0.0.0 skinsbit.com
+0.0.0.0 skinsboom.com
 0.0.0.0 skinsbrain.com
 0.0.0.0 skinscastle.com
 0.0.0.0 skinscheck.com
@@ -44291,6 +44295,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 skinshub.net
 0.0.0.0 skinskonkurs.pl
 0.0.0.0 skinslegends.com
+0.0.0.0 skinsmagic.com
 0.0.0.0 skinsmath.com
 0.0.0.0 skinspolygon.com
 0.0.0.0 skinspositive.com
@@ -53545,7 +53550,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.arcadebanners.com
 0.0.0.0 www.arcadefree.com
 0.0.0.0 www.archigate.it
-0.0.0.0 www.archtopmakers.com
 0.0.0.0 www.areadiprova.eu
 0.0.0.0 www.areasnap.com
 0.0.0.0 www.arecio.work
