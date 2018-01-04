@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 02 Jan 2018 at 06:01:24 GMT
+# Last updated: Wed, 03 Jan 2018 at 18:00:26 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -347,6 +347,7 @@
 127.0.0.1 3ps.go.com
 127.0.0.1 4-counter.com
 127.0.0.1 a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
+127.0.0.1 abclnks.com
 127.0.0.1 abscbn.spinbox.net
 127.0.0.1 accountlock-demo.iovation.com
 127.0.0.1 activity.serving-sys.com	#eyeblaster.com
@@ -373,6 +374,7 @@
 127.0.0.1 adult.foxcounter.com
 127.0.0.1 affiliate.ab1trk.com
 127.0.0.1 affiliate.irotracker.com
+127.0.0.1 affpool.com
 127.0.0.1 ai062.insightexpress.com
 127.0.0.1 ai078.insightexpressai.com
 127.0.0.1 ai087.insightexpress.com
@@ -431,6 +433,8 @@
 127.0.0.1 bigdata.advmob.cn
 127.0.0.1 bilbo.counted.com
 127.0.0.1 bin.clearspring.com
+127.0.0.1 bindedge.com
+127.0.0.1 bindfast.com
 127.0.0.1 birta.stats.is
 127.0.0.1 bkrtx.com
 127.0.0.1 bluekai.com
@@ -496,6 +500,7 @@
 127.0.0.1 ci-snare.iovation.com
 127.0.0.1 citrix.tradedoubler.com
 127.0.0.1 cjt1.net
+127.0.0.1 clckcloud.com
 127.0.0.1 click.atdmt.com
 127.0.0.1 clickauditor.net
 127.0.0.1 click.fivemtn.com
@@ -537,6 +542,7 @@
 127.0.0.1 clit9.sextracker.com
 127.0.0.1 clk.aboxdeal.com
 127.0.0.1 clk.relestar.com
+127.0.0.1 clkrtrkr.com
 127.0.0.1 cnn.entertainment.printthis.clickability.com
 127.0.0.1 cnt.xcounter.com
 127.0.0.1 code.murdoog.com
@@ -703,6 +709,7 @@
 127.0.0.1 c.thecounter.de
 127.0.0.1 ctrack07.optin-global.net
 127.0.0.1 ctrack.optin-global.net
+127.0.0.1 customtrck.com
 127.0.0.1 cw.nu
 127.0.0.1 cyseal.cyveillance.com
 127.0.0.1 cz3.clickzs.com
@@ -726,6 +733,7 @@
 127.0.0.1 digistats.westjet.com
 127.0.0.1 dimeprice.com		# "spam bugs"
 127.0.0.1 directads.mcafee.com
+127.0.0.1 diskager.com
 127.0.0.1 dkb01.webtrekk.net
 127.0.0.1 dotcomsecrets.com
 127.0.0.1 dpbolvw.net
@@ -814,6 +822,7 @@
 127.0.0.1 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 127.0.0.1 es.optimost.com
 127.0.0.1 extremereach.com
+127.0.0.1 eztrck.com
 127.0.0.1 fastcounter.bcentral.com
 127.0.0.1 fastcounter.com
 127.0.0.1 fastcounter.linkexchange.com
@@ -928,6 +937,7 @@
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 jsonlinecollect.247realmedia.com
 127.0.0.1 js.revsci.net
+127.0.0.1 justtrck.com
 127.0.0.1 kissmetrics.com
 127.0.0.1 kqzyfj.com
 127.0.0.1 kt4.kliptracker.com
@@ -982,6 +992,7 @@
 127.0.0.1 mailtrack1313.com
 127.0.0.1 mailtrack.me
 127.0.0.1 mama128.valuehost.ru
+127.0.0.1 marketaff.com
 127.0.0.1 marketscore.com
 127.0.0.1 mature.xxxcounter.com
 127.0.0.1 mbox5.offermatica.com
@@ -1060,6 +1071,7 @@
 127.0.0.1 metrics.yousendit.com
 127.0.0.1 metric.thenation.com
 127.0.0.1 mktg.actonsoftware.com
+127.0.0.1 mktrkr.com
 127.0.0.1 mmstat.com
 127.0.0.1 mng1.clickalyzer.com
 127.0.0.1 monetizer.com-01.site
@@ -1084,6 +1096,7 @@
 127.0.0.1 net-radar.com
 127.0.0.1 network.leadpub.com
 127.0.0.1 nextgenstats.com
+127.0.0.1 nexttrk.com
 127.0.0.1 nht-2.extreme-dm.com
 127.0.0.1 nl.nedstatbasic.net
 #127.0.0.1 nl.sitestat.com	# may interfere with duo.nl
@@ -1107,6 +1120,7 @@
 127.0.0.1 paxito.sitetracker.com
 127.0.0.1 paycounter.com
 127.0.0.1 pei-ads.thesmokingjacket.com
+127.0.0.1 performancetrck.com
 127.0.0.1 perso.estat.com
 127.0.0.1 pf.tradedoubler.com
 127.0.0.1 photobox-tracking.adalyser.com
@@ -1141,6 +1155,7 @@
 127.0.0.1 p.twitter.com
 127.0.0.1 quantserve.com #: Ad Tracking, JavaScript, etc.
 127.0.0.1 quareclk.com
+127.0.0.1 quicktrck.com
 127.0.0.1 raw.oggifinogi.com
 127.0.0.1 r.clickdensity.com
 127.0.0.1 remotrk.com
@@ -1209,6 +1224,7 @@
 127.0.0.1 sact.atdmt.com
 127.0.0.1 sa.jumptap.com
 127.0.0.1 s.clickability.com
+127.0.0.1 sclk.org
 127.0.0.1 scorecardresearch.com
 127.0.0.1 scribe.twitter.com
 127.0.0.1 scrooge.channelcincinnati.com
@@ -1264,6 +1280,7 @@
 127.0.0.1 showads.pubmatic.com
 127.0.0.1 showcount.honest.com
 127.0.0.1 sideshow.directtrack.com
+127.0.0.1 simpletrck.com
 127.0.0.1 sitestat.com
 127.0.0.1 sitestats.tiscali.co.uk
 127.0.0.1 sm1.sitemeter.com
@@ -1720,8 +1737,11 @@
 127.0.0.1 trafficopen.com
 127.0.0.1 traffic-stats.streamsolutions.co.uk
 127.0.0.1 trax.gamespot.com
+127.0.0.1 trckaction.com
+127.0.0.1 trcko.com
 127.0.0.1 trc.taboolasyndication.com
 127.0.0.1 trk.kissmetrics.com
+127.0.0.1 trkrpoint.com
 127.0.0.1 trk.tidaltv.com
 127.0.0.1 true-counter.com
 127.0.0.1 truehits1.gits.net.th
@@ -1957,6 +1977,7 @@
 127.0.0.1 xcnn.com
 127.0.0.1 xxxcounter.com
 127.0.0.1 xyz.freelogs.com
+127.0.0.1 zsisk.com
 127.0.0.1 zz.cqcounter.com
 #</spyware-sites>
 #<malware-sites>
@@ -7033,7 +7054,6 @@
 127.0.0.1 cdn.stat.easydate.biz
 127.0.0.1 cdn.stickyadstv.com
 127.0.0.1 cdn.syn.verticalacuity.com
-127.0.0.1 cdn.tabnak.ir
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.trafficstars.com
 127.0.0.1 cdnt.yottos.com
