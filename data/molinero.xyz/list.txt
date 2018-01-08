@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sat Jan  6 05:20:50 UTC 2018
-# Blocked domains: 59137
+# Last updated:    Sun Jan  7 05:19:42 UTC 2018
+# Blocked domains: 59142
 
 # <header>
 127.0.0.1       localhost 
@@ -611,7 +611,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 3241.hittail.com
 0.0.0.0 3262111.com
 0.0.0.0 32e1dff65ea4eb3627ed-f1ecc94c86a56d3e42e512fcfd192886.r6.cf1.rackcdn.com
-0.0.0.0 32hy.com
 0.0.0.0 32kl2rwsjvqjeui7.onion.cab
 0.0.0.0 32kl2rwsjvqjeui7.onion.to
 0.0.0.0 32kl2rwsjvqjeui7.tor2web.org
@@ -11208,6 +11207,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 booshare.net
 0.0.0.0 boost-my-game.com
 0.0.0.0 boost-my-pr.de
+0.0.0.0 boostgamble.com
 0.0.0.0 boostmobile.112.2o7.net
 0.0.0.0 boostmycredit-help.com
 0.0.0.0 boostphone.gq
@@ -16834,6 +16834,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 delhicakesngifts.com
 0.0.0.0 delhioneresidences.net
 0.0.0.0 deliber.ru
+0.0.0.0 delicatecase.com
 0.0.0.0 delightdriving.com
 0.0.0.0 delighted.ml
 0.0.0.0 delightful.112.2o7.net
@@ -20027,6 +20028,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ez-trade.org
 0.0.0.0 ezadguf.net
 0.0.0.0 ezboard.bigbangmedia.com
+0.0.0.0 ezcase.net
 0.0.0.0 ezdownloadpro.info
 0.0.0.0 ezeedl.com
 0.0.0.0 ezeek.ru
@@ -33360,6 +33362,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 minestat.biz
 0.0.0.0 minfins.com
 0.0.0.0 ming-dun.com.tw
+0.0.0.0 mingle-case.com
 0.0.0.0 minglecase.com
 0.0.0.0 minglecase.net
 0.0.0.0 minglecase.pro
@@ -42528,6 +42531,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 s4.hit.stat24.com
 0.0.0.0 s4.shinystat.com
 0.0.0.0 s4.shinystat.it
+0.0.0.0 s40.n250.n204.n199.static.myhostcenter.com
 0.0.0.0 s40.sitemeter.com
 0.0.0.0 s41.sitemeter.com
 0.0.0.0 s42.cpmaffiliation.com
@@ -44643,6 +44647,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 skinslegends.com
 0.0.0.0 skinsmagic.com
 0.0.0.0 skinsmath.com
+0.0.0.0 skinsplays.com
 0.0.0.0 skinspolygon.com
 0.0.0.0 skinspositive.com
 0.0.0.0 skinsregal.com
