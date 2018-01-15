@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sat Jan 13 05:20:25 UTC 2018
-# Blocked domains: 60728
+# Last updated:    Sun Jan 14 05:20:21 UTC 2018
+# Blocked domains: 60730
 
 # <header>
 127.0.0.1       localhost 
@@ -53199,6 +53199,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 vkongakte.com
 0.0.0.0 vkont.bos.ru
 0.0.0.0 vkontckte.ru
+0.0.0.0 vkonte.club
+0.0.0.0 vkonte.live
 0.0.0.0 vktr073.net
 0.0.0.0 vlabcep.net
 0.0.0.0 vlabcop.com
