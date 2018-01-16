@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 15 Jan 2018 at 03:10:05 GMT
+# Last updated: Mon, 15 Jan 2018 at 05:31:49 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8844,6 +8844,7 @@
 127.0.0.1 newsblock.marketgid.com
 127.0.0.1 news-finances.com
 127.0.0.1 new.smartcontext.pl
+127.0.0.1 newsreport.com-alerts.info
 127.0.0.1 newssourceoftoday.com #security risk/fake news#
 127.0.0.1 newsterminalvelocity.com
 127.0.0.1 newt1.adultadworld.com
