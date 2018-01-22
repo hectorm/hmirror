@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sat Jan 20 05:20:31 UTC 2018
-# Blocked domains: 61664
+# Last updated:    Sun Jan 21 05:20:27 UTC 2018
+# Blocked domains: 61665
 
 # <header>
 127.0.0.1       localhost 
@@ -16542,6 +16542,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgousp.com
 0.0.0.0 csgovex.com
 0.0.0.0 csgovulcan.net
+0.0.0.0 csgovulcano.online
 0.0.0.0 csgowake.net
 0.0.0.0 csgoweaponskins.net
 0.0.0.0 csgowild.com
@@ -16552,6 +16553,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgowrap.pro
 0.0.0.0 csgoyourbets.com
 0.0.0.0 csgoyourpots.com
+0.0.0.0 csgozone.co.uk
 0.0.0.0 csgreatwin.com
 0.0.0.0 csground.com
 0.0.0.0 csground.net
@@ -54132,7 +54134,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 vmn.net
 0.0.0.0 vmpp.comule.com
 0.0.0.0 vmrinternational.com
-0.0.0.0 vms.boldchat.com
 0.0.0.0 vmxzr.com
 0.0.0.0 vmyetherwallet.com
 0.0.0.0 vn.grab-credit4u.com
