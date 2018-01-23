@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sun Jan 21 05:20:27 UTC 2018
-# Blocked domains: 61665
+# Last updated:    Mon Jan 22 05:19:28 UTC 2018
+# Blocked domains: 61669
 
 # <header>
 127.0.0.1       localhost 
@@ -741,6 +741,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 3gupload.112.2o7.net
 0.0.0.0 3guys1hammer.ws
 0.0.0.0 3kmf.pl
+0.0.0.0 3lift.com
 0.0.0.0 3n4.pl
 0.0.0.0 3omrelk.com
 0.0.0.0 3ps.go.com
@@ -45549,6 +45550,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 segling.org
 0.0.0.0 segment-data.zqtk.net
 0.0.0.0 segment-pixel.invitemedia.com
+0.0.0.0 segment.com
 0.0.0.0 segments.adaptv.advertising.com
 0.0.0.0 segob.gob.mx
 0.0.0.0 segredodoslucros.com
@@ -50508,6 +50510,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 thymetogrowessentials.com
 0.0.0.0 ti.tradetracker.net
 0.0.0.0 ti.tradetracker.nl
+0.0.0.0 tia.timeinc.net
 0.0.0.0 tiads.essence.com
 0.0.0.0 tiads.ew.com
 0.0.0.0 tiads.health.com
@@ -54802,6 +54805,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 watchhdmovie.biz
 0.0.0.0 watchhigh.net
 0.0.0.0 watchingmovie21.com
+0.0.0.0 watchingthat.com
 0.0.0.0 watchitallnow.com
 0.0.0.0 watchitonline.info
 0.0.0.0 watchmovieonlinefull.com
