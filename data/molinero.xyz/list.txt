@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sat Feb  3 06:20:37 UTC 2018
-# Blocked domains: 59401
+# Last updated:    Sun Feb  4 05:30:16 UTC 2018
+# Blocked domains: 59400
 
 # <header>
 127.0.0.1       localhost 
@@ -59,7 +59,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 0564666.com
 0.0.0.0 0571jjw.com
 0.0.0.0 0571zxw.com
-0.0.0.0 0579i.cn
 0.0.0.0 05tz2e9.com
 0.0.0.0 061606084448.c.mystat-in.net
 0.0.0.0 06272002-dbase.hitcountz.net
@@ -9928,6 +9927,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 barnesandnoble.bfast.com
 0.0.0.0 barnesgatti.legal
 0.0.0.0 baroox.ga
+0.0.0.0 barouropreto.com.br
 0.0.0.0 barristers.ru
 0.0.0.0 barristersydney.com
 0.0.0.0 barriving.ga
@@ -10063,7 +10063,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 bbouw.com
 0.0.0.0 bbpama.com
 0.0.0.0 bbs.bjchun.com
-0.0.0.0 bbs.nxdushi.com
 0.0.0.0 bbs.tiens.net.cn
 0.0.0.0 bbs.ws
 0.0.0.0 bbs.zgfhl.com
