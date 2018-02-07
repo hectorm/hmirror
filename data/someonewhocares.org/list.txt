@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 05 Feb 2018 at 02:46:55 GMT
+# Last updated: Tue, 06 Feb 2018 at 07:42:33 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2002,6 +2002,7 @@
 127.0.0.1 acim.moqhixoz.cn
 127.0.0.1 acnenomor.com
 127.0.0.1 adexchangetracker.com
+127.0.0.1 ad.g-content.bid
 127.0.0.1 adn.plxnt.com
 127.0.0.1 adshufffle.com
 127.0.0.1 adwitty.com
@@ -2108,7 +2109,9 @@
 127.0.0.1 ccudl.com
 127.0.0.1 cdn1.minestat.biz
 127.0.0.1 cdn2.minestat.biz
+127.0.0.1 cdn.jquery-uim.download
 127.0.0.1 cdn.radiatewheel.info
+127.0.0.1 cdn.static-cnt.bid
 127.0.0.1 changduk26.com			# Facebook trojan
 127.0.0.1 check.goodroundtoupdates.date
 127.0.0.1 chelick.net				# Facebook trojan
@@ -2123,6 +2126,7 @@
 127.0.0.1 clien.net
 127.0.0.1 cnbc.com-article906773.us
 127.0.0.1 cnhv.co
+127.0.0.1 cnt.statistic.date
 127.0.0.1 co8vd.cn
 127.0.0.1 codeexplain.com
 127.0.0.1 codegur.com
@@ -2132,6 +2136,7 @@
 127.0.0.1 coin-have.com
 127.0.0.1 coin-hive.com
 127.0.0.1 coinhive.com
+127.0.0.1 coinimp.com
 127.0.0.1 c.oix.com
 127.0.0.1 c.oix.net
 127.0.0.1 coldcertainchannel.com
@@ -2144,6 +2149,7 @@
 127.0.0.1 cra-arc.gc.ca.bioder.com.tr
 127.0.0.1 cra-arc-gc-ca.noads.biz
 127.0.0.1 crypto-loot.com
+127.0.0.1 cryptoloot.pro
 127.0.0.1 custom3hurricanedigitalmedia.com
 127.0.0.1 c.webwise.com
 127.0.0.1 c.webwise.net
@@ -2195,6 +2201,7 @@
 127.0.0.1 filosvybfimpsv.ru.gg
 127.0.0.1 filter.mediacpc.com
 127.0.0.1 fr.apple.com-services-assistance-recuperations-des-comptes.com
+127.0.0.1 freecontent.bid
 127.0.0.1 freedailydownload.com
 127.0.0.1 froling.bee.pl
 127.0.0.1 fromru.su
@@ -2222,6 +2229,8 @@
 127.0.0.1 hackerz.ir
 127.0.0.1 hakerzy.net
 127.0.0.1 hakuba.janis.or.jp
+127.0.0.1 hallaert.online
+127.0.0.1 hashing.win
 127.0.0.1 hatrecord.ru				# Facebook trojan
 127.0.0.1 hcg82f2b.com
 127.0.0.1 hellwert.biz
@@ -2358,6 +2367,7 @@
 127.0.0.1 minero.pw
 127.0.0.1 miner.pr0gramm.com
 127.0.0.1 minestat.biz
+127.0.0.1 minr.pw
 127.0.0.1 mipsa.ciae.ac.cn
 127.0.0.1 mn.mn.co.cu
 127.0.0.1 mobile-antivirus.club
@@ -2684,6 +2694,7 @@
 127.0.0.1 wait3sec.org
 127.0.0.1 waldenfarms.com
 127.0.0.1 waudeesestew.com
+127.0.0.1 webassembly.stream
 127.0.0.1 web-ccfr.tsinghua.edu.cn
 127.0.0.1 weblover.info
 127.0.0.1 webnavegador.com.br
@@ -2745,8 +2756,10 @@
 127.0.0.1 www.cambonanza.com
 127.0.0.1 www.caramail.com
 127.0.0.1 www.chelick.net			# Facebook trojan
+127.0.0.1 www.coinimp.com
 127.0.0.1 www.commercialclientsgroup.ru
 127.0.0.1 www.compufixshop.com
+127.0.0.1 www.cryptoloot.pro
 127.0.0.1 www.didata.bw
 127.0.0.1 www.dietsecret.ru
 127.0.0.1 www.eroyear.ru
@@ -2755,6 +2768,7 @@
 127.0.0.1 www.feaecebook.com
 127.0.0.1 www.fictioncinema.com
 127.0.0.1 www.fischereszter.hu
+127.0.0.1 www.freecontent.bid
 127.0.0.1 www.freedailydownload.com
 127.0.0.1 www.froling.bee.pl
 127.0.0.1 www.gacatl.com
@@ -2764,7 +2778,9 @@
 127.0.0.1 www.gozatar.com
 127.0.0.1 www.grouphappy.com
 127.0.0.1 www.hakerzy.net
+127.0.0.1 www.hallaert.online
 127.0.0.1 www.haoyunlaid.com
+127.0.0.1 www.hashing.win
 127.0.0.1 www.icecars.com
 127.0.0.1 www.indesignstudioinfo.com
 127.0.0.1 www.infopaypal.com
@@ -2780,6 +2796,7 @@
 127.0.0.1 www.lovetrust.ru
 127.0.0.1 www.macaheadapps.com
 127.0.0.1 www.mikras.nl
+127.0.0.1 www.minr.pw
 127.0.0.1 www.monkeyball.osa.pl
 127.0.0.1 www.monsonis.net
 127.0.0.1 www.movie-port.ru
@@ -2802,6 +2819,7 @@
 127.0.0.1 www.picture-uploads.com
 127.0.0.1 www.portaldimensional.com
 127.0.0.1 www.poxudeli.ru
+127.0.0.1 www.ppoi.org
 127.0.0.1 www.proflashdata.com			# Facebook trojan
 127.0.0.1 www.puush.in
 127.0.0.1 www.randki-sex.com
@@ -2833,6 +2851,7 @@
 127.0.0.1 www.videostan.ru
 127.0.0.1 www.vippotexa.ru
 127.0.0.1 www.wantsfly.com
+127.0.0.1 www.webassembly.stream
 127.0.0.1 www.webpaypal.com
 127.0.0.1 www.webwise.com
 127.0.0.1 www.webwise.net
@@ -10075,7 +10094,6 @@
 127.0.0.1 storage.trafic.ro
 127.0.0.1 streamate.com
 127.0.0.1 streamate.doublepimp.com
-127.0.0.1 streamillimité.com
 127.0.0.1 st.targetix.net
 127.0.0.1 stts.rbc.ru
 127.0.0.1 st.valueclick.com
