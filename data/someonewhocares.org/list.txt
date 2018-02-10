@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 06 Feb 2018 at 07:42:33 GMT
+# Last updated: Fri, 09 Feb 2018 at 19:05:34 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -918,6 +918,7 @@
 127.0.0.1 impit.tradedoubler.com
 127.0.0.1 impnl.tradedoubler.com
 127.0.0.1 impno.tradedoubler.com
+127.0.0.1 imprammp.taboola.com
 127.0.0.1 impse.tradedoubler.com
 127.0.0.1 impsnare.iesnare.com
 127.0.0.1 in.paycounter.com
@@ -1789,6 +1790,8 @@
 127.0.0.1 velocecdn.com
 127.0.0.1 vertical-stats.huffpost.com
 127.0.0.1 video-stats.video.google.com
+127.0.0.1 vidstatb.taboola.com
+127.0.0.1 vidstat.taboola.com
 127.0.0.1 vip.clickzs.com
 127.0.0.1 virtualbartendertrack.beer.com
 127.0.0.1 visit.theglobeandmail.com # Visits to theglobeandmail.com
@@ -4055,6 +4058,7 @@
 127.0.0.1 123specialgifts.com
 127.0.0.1 130.211.230.53
 #127.0.0.1 140cc.v.fwmrm.net	#interferes with Comedy Central videos
+127.0.0.1 15.basebanner.com
 127.0.0.1 17003124.xyz
 127.0.0.1 1.adbrite.com
 127.0.0.1 1.allyes.com.cn
@@ -10690,6 +10694,7 @@
 127.0.0.1 welcome.faptitans.com
 127.0.0.1 welcome.pussysaga.com
 127.0.0.1 werkenbijliones.nl
+127.0.0.1 wf.basebanner.com
 127.0.0.1 w.ic.tynt.com
 127.0.0.1 widespace.com
 127.0.0.1 widget3.linkwithin.com
