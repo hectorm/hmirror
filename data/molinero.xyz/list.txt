@@ -1,10 +1,10 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sat Feb 10 05:19:31 UTC 2018
-# Blocked domains: 58460
+# Last updated:    Sun Feb 11 12:40:57 UTC 2018
+# Blocked domains: 58465
 
 # <header>
-127.0.0.1       localhost 
+127.0.0.1       localhost mars
 255.255.255.255 broadcasthost
 ::1             localhost ip6-localhost ip6-loopback
 fe00::0         ip6-localnet
@@ -442,6 +442,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 24809.hittail.com
 0.0.0.0 24counter.com
 0.0.0.0 24exchange.org
+0.0.0.0 24exchange.pro
 0.0.0.0 24game7.com
 0.0.0.0 24hinvestment.net
 0.0.0.0 24hkgame.com
@@ -26729,6 +26730,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 images2.laih.com
 0.0.0.0 images3.linkwithin.com
 0.0.0.0 images4you.net
+0.0.0.0 imagescaptures.pictures
 0.0.0.0 imagescroll.detik.com
 0.0.0.0 imageserv.adtech.de
 0.0.0.0 imageserv.adtech.fr
@@ -38080,6 +38082,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pictures-screens.net
 0.0.0.0 picturesave.net
 0.0.0.0 picturescreenstroy.ru
+0.0.0.0 picturesjpg.tech
 0.0.0.0 pidginindialanguagesolutions.com
 0.0.0.0 piedmontranches.com
 0.0.0.0 pierrel2.beget.tech
@@ -41298,6 +41301,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rolerxunitywsto.top
 0.0.0.0 rolespcx.ru
 0.0.0.0 roll-skins.com
+0.0.0.0 roll4skins.com
 0.0.0.0 roll4tune.com
 0.0.0.0 rollingscissors.com
 0.0.0.0 rollma.it
@@ -44091,6 +44095,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 skinschecker.com
 0.0.0.0 skinscores.com
 0.0.0.0 skinsdouble.net
+0.0.0.0 skinsflare.com
 0.0.0.0 skinsforce.com
 0.0.0.0 skinsfree.win
 0.0.0.0 skinsgang.com
@@ -48720,6 +48725,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tradesalex.su
 0.0.0.0 tradeservise.com
 0.0.0.0 tradetracker.net
+0.0.0.0 tradingcsgo.com
 0.0.0.0 traduzparainglescom.domainsleads.org
 0.0.0.0 traf.street-info.com
 0.0.0.0 trafbe1.be
@@ -53862,7 +53868,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.conduit.com
 0.0.0.0 www.congratulations.website
 0.0.0.0 www.connectionlead.com
-0.0.0.0 www.constructiveopinions.com
 0.0.0.0 www.consumer-org.com
 0.0.0.0 www.consumeralternatives.org
 0.0.0.0 www.consumergiftcenter.com
