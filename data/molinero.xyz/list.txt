@@ -1,10 +1,10 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sun Feb 11 12:40:57 UTC 2018
-# Blocked domains: 58465
+# Last updated:    Mon Feb 12 19:02:23 UTC 2018
+# Blocked domains: 58481
 
 # <header>
-127.0.0.1       localhost mars
+127.0.0.1       localhost 
 255.255.255.255 broadcasthost
 ::1             localhost ip6-localhost ip6-loopback
 fe00::0         ip6-localnet
@@ -14326,7 +14326,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 cochindivinesmillenniumsingers.com
 0.0.0.0 cochinpropertymart.com
 0.0.0.0 cochlaus.com
-0.0.0.0 coco-tech.net
 0.0.0.0 coconuts.boy.jp
 0.0.0.0 cocukbakici.biz
 0.0.0.0 cocukbakicisi.web.tr
@@ -15649,6 +15648,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgodarkness.com
 0.0.0.0 csgodawg.com
 0.0.0.0 csgodc.com
+0.0.0.0 csgodino.net
 0.0.0.0 csgodolo.com
 0.0.0.0 csgodrugs.com
 0.0.0.0 csgoeasy.money
@@ -15729,6 +15729,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgoranger.com
 0.0.0.0 csgoravebet.com
 0.0.0.0 csgorealwin.com
+0.0.0.0 csgoretailer.com
 0.0.0.0 csgorider.com
 0.0.0.0 csgoroll.cash
 0.0.0.0 csgoroll.trade
@@ -15740,6 +15741,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgoshuffle.co.uk
 0.0.0.0 csgoshuffle.in
 0.0.0.0 csgoshuffle.su
+0.0.0.0 csgosign.net
 0.0.0.0 csgoskinsz.com
 0.0.0.0 csgoskrill.com
 0.0.0.0 csgoskulls.com
@@ -16124,6 +16126,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 d2nq0f8d9ofdwv.cloudfront.net
 0.0.0.0 d2o9ozfswytaqz.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
+0.0.0.0 d2sweet.com
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2vg62nuq66wql.cloudfront.net
 0.0.0.0 d2vig74li2resi.cloudfront.net
@@ -17838,6 +17841,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 droboxlounges.com
 0.0.0.0 droid-upgrade.com
 0.0.0.0 droidacid.com
+0.0.0.0 drop-case.eu
 0.0.0.0 drop-cases.pro
 0.0.0.0 drop.box.com-shared231.comicfish.com
 0.0.0.0 drop.clubedamaturidade.org.br
@@ -29845,6 +29849,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 les-terrasses-de-saint-paul.net
 0.0.0.0 lesbian-erotica.hitbox.com
 0.0.0.0 lesechos.ezakus.net
+0.0.0.0 leskins.com
 0.0.0.0 leslascarsgays.fr
 0.0.0.0 lesorientes.com
 0.0.0.0 lessims4crack.com
@@ -40174,6 +40179,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ragalaheri.com
 0.0.0.0 raganinfotech.com
 0.0.0.0 ragebooter.net
+0.0.0.0 ragegamble.com
 0.0.0.0 rahmadillahi.id
 0.0.0.0 rahpublications.com
 0.0.0.0 rahulthehacker.tk
@@ -41392,6 +41398,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 roxio.112.2o7.net
 0.0.0.0 roxr.net
 0.0.0.0 royal-cases.net
+0.0.0.0 royal-skin.net
 0.0.0.0 royalair.koom.ma
 0.0.0.0 royalapparels.com
 0.0.0.0 royalbankpacific.com
@@ -43500,6 +43507,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 shc-rebates.com
 0.0.0.0 shchaoneng.cn
 0.0.0.0 shcpa2011.com
+0.0.0.0 sheapercsgo.com
 0.0.0.0 shebudgets.us.intellitxt.com
 0.0.0.0 shecamewithabrabus.com
 0.0.0.0 shecanseeyou.info
@@ -44066,6 +44074,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 skimresources.com
 0.0.0.0 skin-care.1.p2l.info
 0.0.0.0 skin-konkurs.pl
+0.0.0.0 skin4jackpot.com
 0.0.0.0 skinanalysts.com
 0.0.0.0 skincodesgiveaway.com
 0.0.0.0 skincrate.net
@@ -44103,6 +44112,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 skinshub.net
 0.0.0.0 skinskonkurs.pl
 0.0.0.0 skinslegends.com
+0.0.0.0 skinsmade.com
 0.0.0.0 skinsmagic.com
 0.0.0.0 skinsmath.com
 0.0.0.0 skinsplays.com
@@ -44113,6 +44123,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 skinsrise.com
 0.0.0.0 skinstradefast.com
 0.0.0.0 skinstrue.com
+0.0.0.0 skinswhite.com
 0.0.0.0 skinswisdom.com
 0.0.0.0 skinsycs.89.pl
 0.0.0.0 skintrad.es
@@ -44486,6 +44497,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 snkforklift.com
 0.0.0.0 snoobi.com
 0.0.0.0 snore.sabreasiapacific.com
+0.0.0.0 snow-case.net
 0.0.0.0 snproductions.net
 0.0.0.0 snrav.cn
 0.0.0.0 snrp.uglyas.com
@@ -48751,6 +48763,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 traffic.revenuedirect.com
 0.0.0.0 traffic.ru
 0.0.0.0 traffic.shareaholic.com
+0.0.0.0 traffic.spot.im
 0.0.0.0 traffic.tcmagnet.com
 0.0.0.0 trafficadept.com
 0.0.0.0 trafficads.com
@@ -49296,6 +49309,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 twinaherbert.org
 0.0.0.0 twinklelittleteepee.com.au
 0.0.0.0 twinspack.com
+0.0.0.0 twirlskins.com
 0.0.0.0 twistpub.com.br
 0.0.0.0 twitchguru.us.intellitxt.com
 0.0.0.0 twitchloot.com
@@ -56015,6 +56029,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.sports-offer.com
 0.0.0.0 www.sports-offer.net
 0.0.0.0 www.sports-premiumblvd.com
+0.0.0.0 www.spot.im
 0.0.0.0 www.spotsniper.ru
 0.0.0.0 www.spreadyourtentacles.com
 0.0.0.0 www.spris.com
@@ -57457,6 +57472,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 xn--ryptopa-lza8w.eu
 0.0.0.0 xn--steamcmnunily-glb.com
 0.0.0.0 xn--steamcommunlity-vpb.com
+0.0.0.0 xn--steamcommunlt-lse6412i.com
 0.0.0.0 xn--stemcmmunily-09a608b.com
 0.0.0.0 xn--takipikasabilirsin-cvb.com
 0.0.0.0 xnat.pt
