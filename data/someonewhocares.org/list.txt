@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 16 Feb 2018 at 03:27:25 GMT
+# Last updated: Wed, 21 Feb 2018 at 08:29:37 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -409,6 +409,7 @@
 127.0.0.1 app.yesware.com
 127.0.0.1 a.predictvideo.com
 127.0.0.1 arbo.hit.gemius.pl
+127.0.0.1 asdfanlli-jdna.org
 127.0.0.1 a-ssl.ligatus.com
 127.0.0.1 au052.insightexpress.com
 127.0.0.1 aus-mec-tracking.adalyser.com
@@ -1103,6 +1104,7 @@
 127.0.0.1 nht-2.extreme-dm.com
 127.0.0.1 nl.nedstatbasic.net
 #127.0.0.1 nl.sitestat.com	# may interfere with duo.nl
+127.0.0.1 noticias.life
 127.0.0.1 o.addthis.com
 127.0.0.1 objects.tremormedia.com
 127.0.0.1 okcounter.com
@@ -1982,6 +1984,7 @@
 127.0.0.1 www.xxxcounter.com
 127.0.0.1 x.cb.kount.com
 127.0.0.1 xcnn.com
+127.0.0.1 xtrasizeoriginal.com.br
 127.0.0.1 xxxcounter.com
 127.0.0.1 xyz.freelogs.com
 127.0.0.1 zsisk.com
@@ -10382,7 +10385,6 @@
 127.0.0.1 ttarget.adbureau.net
 127.0.0.1 ttnet.yandex.com.tr
 127.0.0.1 ttuk.offers4u.mobi
-127.0.0.1 tupperware.ipapercms.dk
 127.0.0.1 turn.com
 127.0.0.1 turnerapac.d1.sc.omtrdc.net
 127.0.0.1 tv2no.linkpulse.com
