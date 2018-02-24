@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Thu Feb 22 05:25:17 UTC 2018
-# Blocked domains: 59898
+# Last updated:    Fri Feb 23 05:25:15 UTC 2018
+# Blocked domains: 59897
 
 # <header>
 127.0.0.1       localhost 
@@ -57431,7 +57431,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.sports-offer.com
 0.0.0.0 www.sports-offer.net
 0.0.0.0 www.sports-premiumblvd.com
-0.0.0.0 www.spot.im
 0.0.0.0 www.spotsniper.ru
 0.0.0.0 www.spreadyourtentacles.com
 0.0.0.0 www.spris.com
