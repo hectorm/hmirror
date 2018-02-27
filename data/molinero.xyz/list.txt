@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sun Feb 25 05:25:17 UTC 2018
-# Blocked domains: 60429
+# Last updated:    Mon Feb 26 05:25:14 UTC 2018
+# Blocked domains: 60449
 
 # <header>
 127.0.0.1       localhost 
@@ -12645,6 +12645,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 case.edu.nayakgroup.co.in
 0.0.0.0 casejar.ae
 0.0.0.0 casejar.io
+0.0.0.0 casejar.net
 0.0.0.0 casemaster-cs.com
 0.0.0.0 caseopening.store
 0.0.0.0 cases-zone.com
@@ -16071,6 +16072,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgo-drop.com
 0.0.0.0 csgo-explosion.com
 0.0.0.0 csgo-fierce.com
+0.0.0.0 csgo-gamble.net
 0.0.0.0 csgo-hacks.com
 0.0.0.0 csgo-inject.com
 0.0.0.0 csgo-injected.com
@@ -16114,17 +16116,21 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgocake.com
 0.0.0.0 csgocasefun.com
 0.0.0.0 csgocasino-winning.su
+0.0.0.0 csgocasino.pro
 0.0.0.0 csgocasino.su
 0.0.0.0 csgocoat.com
+0.0.0.0 csgocoinbet.com
 0.0.0.0 csgocolt.com
 0.0.0.0 csgocoolcase.com
 0.0.0.0 csgocute.com
+0.0.0.0 csgodady.com
 0.0.0.0 csgodang.com
 0.0.0.0 csgodarkness.com
 0.0.0.0 csgodawg.com
 0.0.0.0 csgodc.com
 0.0.0.0 csgodino.net
 0.0.0.0 csgodolo.com
+0.0.0.0 csgodrone.net
 0.0.0.0 csgodrugs.com
 0.0.0.0 csgoeasy.money
 0.0.0.0 csgoelect.com
@@ -16264,10 +16270,12 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgottr.com
 0.0.0.0 csgotunes.com
 0.0.0.0 csgoturbobets.com
+0.0.0.0 csgoultras.com
 0.0.0.0 csgouno.com
 0.0.0.0 csgoup.gg
 0.0.0.0 csgouranus.com
 0.0.0.0 csgousp.com
+0.0.0.0 csgovenge.com
 0.0.0.0 csgovex.com
 0.0.0.0 csgovulcan.net
 0.0.0.0 csgovulcano.online
@@ -16300,6 +16308,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csmail.iggcn.com
 0.0.0.0 csmoney.cc
 0.0.0.0 csmoney.money
+0.0.0.0 csmoney.pub
 0.0.0.0 csmoney1.ru
 0.0.0.0 csmoney24.com
 0.0.0.0 csnation.us.intellitxt.com
@@ -22956,6 +22965,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 fullmoviesinhd.us
 0.0.0.0 fullpcgames.xyz
 0.0.0.0 fullplayer.pl
+0.0.0.0 fullstory.com
 0.0.0.0 fullvideo-watch-here.org
 0.0.0.0 fullysoftware.com
 0.0.0.0 fuluandcleo.co.za
@@ -23138,6 +23148,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 gaat.hit.gemius.pl
 0.0.0.0 gaba.hit.gemius.pl
 0.0.0.0 gabe.hit.gemius.pl
+0.0.0.0 gabecsgo.com
 0.0.0.0 gabg.hit.gemius.pl
 0.0.0.0 gabikabrinzik.com
 0.0.0.0 gabriellerosephotography.com
@@ -23178,6 +23189,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 galatransmisja.pe.hu
 0.0.0.0 galaxien.com
 0.0.0.0 galaxy-case.com
+0.0.0.0 galaxy-deals.com
 0.0.0.0 galaxydrop.top
 0.0.0.0 galaxygiveaways.com
 0.0.0.0 galaxyinvi.com
@@ -26720,6 +26732,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 howhack.info
 0.0.0.0 howhackgamefree.com
 0.0.0.0 howl.money
+0.0.0.0 howl.one
 0.0.0.0 howler.shareaholic.com
 0.0.0.0 howtobuildsoftware.com
 0.0.0.0 howtobypasssurveys.com
@@ -31848,7 +31861,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 lpmxp2025.com
 0.0.0.0 lpmxp2026.com
 0.0.0.0 lpmxp2027.com
-0.0.0.0 lpwangzhan.com
 0.0.0.0 lqlonqihgkco.kwik.to
 0.0.0.0 lrbcontracting.ca
 0.0.0.0 lrdavjagraon.com
@@ -37816,6 +37828,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 operationoverdrive.net
 0.0.0.0 opercase.com
 0.0.0.0 opienetwork.com
+0.0.0.0 opinionstage.com
 0.0.0.0 opiopiopi.000webhostapp.com
 0.0.0.0 opixib.bid
 0.0.0.0 oponypolanica.eu
@@ -45777,6 +45790,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 skinsbins.com
 0.0.0.0 skinsbird.com
 0.0.0.0 skinsbit.com
+0.0.0.0 skinsblur.com
 0.0.0.0 skinsboom.com
 0.0.0.0 skinsbrain.com
 0.0.0.0 skinsbrawl.com
@@ -45801,15 +45815,20 @@ ff02::3         ip6-allhosts
 0.0.0.0 skinsmade.com
 0.0.0.0 skinsmagic.com
 0.0.0.0 skinsmath.com
+0.0.0.0 skinsnature.com
 0.0.0.0 skinsplays.com
 0.0.0.0 skinspolygon.com
 0.0.0.0 skinspositive.com
 0.0.0.0 skinsprime.com
+0.0.0.0 skinspuzzle.com
 0.0.0.0 skinsregal.com
+0.0.0.0 skinsrevenge.com
 0.0.0.0 skinsrise.com
 0.0.0.0 skinsteria.com
+0.0.0.0 skinsteria.net
 0.0.0.0 skinstradefast.com
 0.0.0.0 skinstrooper.com
+0.0.0.0 skinstroopers.com
 0.0.0.0 skinstrue.com
 0.0.0.0 skinswhite.com
 0.0.0.0 skinswisdom.com
@@ -50808,6 +50827,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tritratrullala.gekitzelt.de
 0.0.0.0 triumphrat.us.intellitxt.com
 0.0.0.0 trix.net
+0.0.0.0 trixcase.com
 0.0.0.0 trk.ablogica.com
 0.0.0.0 trk.alskeip.com
 0.0.0.0 trk.atomex.net
