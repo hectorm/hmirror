@@ -4,10 +4,7 @@
 # Repository: https://github.com/zant95/hMirror
 # License:    MIT, https://opensource.org/licenses/MIT
 
-# Exit on errors
 set -eu
-
-# Globals
 export LC_ALL=C
 
 # Methods
@@ -27,7 +24,15 @@ fetchUrl() {
 	curl -fsSL -A 'Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0' -- "$@"
 }
 
-# Process
+adblockToPlain() {
+	domainRegex='([0-9a-z_-]{1,63}\.){1,}[a-z][0-9a-z_-]{1,62}'
+	filterOptionsRegex='(third-party|popup|subdocument|websocket)'
+	filterSkipRegex='(?!domain=)'
+	printf -- '%s' "$1" | \
+		grep -oP "(?<=^\\|\\|)${domainRegex}(?=\\^((?=\\\$(.+,)?${filterOptionsRegex}(,|$))${filterSkipRegex}|$))" | \
+		sort -u
+}
+
 main() {
 	sourceList=$(jq -c '.sources|map(select(.enabled))' sources.json)
 	sourceCount=$(printf -- '%s' "$sourceList" | jq '.|length-1')
@@ -38,6 +43,7 @@ main() {
 	for i in $(seq 0 "$sourceCount"); do
 		entry=$(printf -- '%s' "$sourceList" | jq ".[$i]")
 		name=$(printf -- '%s' "$entry" | jq -r '.name')
+		format=$(printf -- '%s' "$entry" | jq -r '.format')
 		url=$(printf -- '%s' "$entry" | jq -r '.url')
 
 		printInfo "$url"
@@ -45,6 +51,10 @@ main() {
 
 		if [ -n "$content" ]; then
 			rm -rf "$name" && mkdir "$name" && cd "$name"
+
+			if [ "$format" = 'adblock' ]; then
+				content=$(adblockToPlain "$content")
+			fi
 
 			printf -- '%s\n' "$content" > list.txt
 			sha256sum list.txt > list.txt.sha256
@@ -59,4 +69,3 @@ main() {
 }
 
 main
-
