@@ -21,7 +21,7 @@ printError() {
 }
 
 fetchUrl() {
-	curl -fsSL -A 'Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0' -- "$@"
+	curl -fsSL -A 'Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0' -- "$@"
 }
 
 adblockToPlain() {
