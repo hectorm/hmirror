@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Tue Feb 27 05:25:15 UTC 2018
-# Blocked domains: 60916
+# Last updated:    Wed Feb 28 05:25:16 UTC 2018
+# Blocked domains: 60917
 
 # <header>
 127.0.0.1       localhost 
@@ -29,7 +29,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 007.free-counter.co.uk
 0.0.0.0 008.free-counter.co.uk
 0.0.0.0 008.free-counters.co.uk
-0.0.0.0 009blog.com
 0.0.0.0 00fun.com
 0.0.0.0 00game.net
 0.0.0.0 0101011.com
@@ -16683,6 +16682,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 czbaoyu.com
 0.0.0.0 czgtgj.com
 0.0.0.0 czhjln.com
+0.0.0.0 czmlfc.sxtm30.badudns.cc
 0.0.0.0 cznshuya.ivnet.ru
 0.0.0.0 cznylsf.cn
 0.0.0.0 czqmc.com
@@ -53138,6 +53138,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 viacomedycentralrl.112.2o7.net
 0.0.0.0 viacomedyde.112.2o7.net
 0.0.0.0 viadocc.info
+0.0.0.0 viafoura.co
 0.0.0.0 viagametrailers.112.2o7.net
 0.0.0.0 viagra-online.petrovka.info
 0.0.0.0 viagra-pill.blogspot.com
