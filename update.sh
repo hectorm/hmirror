@@ -25,11 +25,9 @@ fetchUrl() {
 }
 
 adblockToPlain() {
-	domainRegex='([0-9a-z_-]{1,63}\.){1,}[a-z][0-9a-z_-]{1,62}'
-	filterOptionsRegex='(third-party|popup|subdocument|websocket)'
-	filterSkipRegex='(?!domain=)'
 	printf -- '%s' "$1" | \
-		grep -oP "(?<=^\\|\\|)${domainRegex}(?=\\^((?=\\\$(.+,)?${filterOptionsRegex}(,|$))${filterSkipRegex}|$))" | \
+		tr -d '\r' | tr '[:upper:]' '[:lower:]' | \
+		grep -oP '(?<=^\|\|)(?:[0-9a-z_-]{1,63}\.){1,}[a-z][0-9a-z_-]{1,62}(?=\^(?:$|\$(?:(?!domain=).)*$))' | \
 		sort -u
 }
 
