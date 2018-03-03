@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Thu Mar  1 05:25:17 UTC 2018
-# Blocked domains: 61410
+# Last updated:    Fri Mar  2 05:25:16 UTC 2018
+# Blocked domains: 61409
 
 # <header>
 127.0.0.1       localhost 
@@ -603,7 +603,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 31335.hittail.com
 0.0.0.0 314.hittail.com
 0.0.0.0 314151.com
-0.0.0.0 315-cha.cn
 0.0.0.0 3151.77152.blueseek.com
 0.0.0.0 3165.tm.zedo.com
 0.0.0.0 31870.hittail.com
