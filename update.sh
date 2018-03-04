@@ -62,7 +62,7 @@ main() {
 			printError 'Download failed'
 		fi
 
-		unset entry name url content
+		unset entry name format url content
 	done
 }
 
