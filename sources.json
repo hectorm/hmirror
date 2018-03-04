@@ -1,5 +1,6 @@
 {"sources": [
   {"name": "adaway.org",                         "enabled": true,  "format": "plain",   "url": "https://adaway.org/hosts.txt"},
+  {"name": "adblock-nocoin-list",                "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"},
   {"name": "adguard-simplified",                 "enabled": true,  "format": "adblock", "url": "https://filters.adtidy.org/extension/chromium/filters/15.txt"},
   {"name": "blocklist.kowabit.de",               "enabled": true,  "format": "plain",   "url": "https://blocklist.kowabit.de/list.txt"},
   {"name": "disconnect.me-ad",                   "enabled": true,  "format": "plain",   "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"},
@@ -11,6 +12,7 @@
   {"name": "dshield.org-medium",                 "enabled": true,  "format": "plain",   "url": "https://www.dshield.org/feeds/suspiciousdomains_Medium.txt"},
   {"name": "easylist",                           "enabled": true,  "format": "adblock", "url": "https://easylist.to/easylist/easylist.txt"},
   {"name": "easyprivacy",                        "enabled": true,  "format": "adblock", "url": "https://easylist.to/easylist/easyprivacy.txt"},
+  {"name": "eth-phishing-detect",                "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt"},
   {"name": "fademind-add.2o7net",                "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts"},
   {"name": "fademind-add.dead",                  "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts"},
   {"name": "fademind-add.risk",                  "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts"},
@@ -39,6 +41,7 @@
   {"name": "ransomwaretracker.abuse.ch",         "enabled": true,  "format": "plain",   "url": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"},
   {"name": "someonewhocares.org",                "enabled": true,  "format": "plain",   "url": "http://someonewhocares.org/hosts/hosts"},
   {"name": "spam404.com",                        "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt"},
+  {"name": "stevenblack",                        "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts"},
   {"name": "stopforumspam.com",                  "enabled": true,  "format": "plain",   "url": "https://stopforumspam.com/downloads/toxic_domains_whole.txt"},
   {"name": "winhelp2002.mvps.org",               "enabled": true,  "format": "plain",   "url": "http://winhelp2002.mvps.org/hosts.txt"},
   {"name": "zerodot1-coinblockerlists",          "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts"},
