@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sat Mar 10 05:30:15 UTC 2018
-# Blocked domains: 60881
+# Last updated:    Sun Mar 11 05:30:22 UTC 2018
+# Blocked domains: 60883
 
 # <header>
 127.0.0.1       localhost 
@@ -47322,6 +47322,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 stage105.hitbox.com
 0.0.0.0 stagetruck.co.za
 0.0.0.0 staging.elemental-id.com
+0.0.0.0 staging.nextgengifting.com
 0.0.0.0 staging.schoolsleuth.org
 0.0.0.0 staging.snip.answers.com
 0.0.0.0 stags.bluekai.com
@@ -52356,6 +52357,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 upgrade-sign.000webhostapp.com
 0.0.0.0 upgrade.questscantwo.com
 0.0.0.0 upgrade4life.inlineonlinesafeupdates.org
+0.0.0.0 upgradeget.thegreatforupdatesafemove.download
 0.0.0.0 upgradenote.checkupdateslive.net
 0.0.0.0 upgradenote.enterbestforupdating.bid
 0.0.0.0 upgradenow24.com
