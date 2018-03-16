@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Wed Mar 14 05:30:22 UTC 2018
-# Blocked domains: 61380
+# Last updated:    Thu Mar 15 05:30:13 UTC 2018
+# Blocked domains: 61379
 
 # <header>
 127.0.0.1       localhost 
@@ -8271,6 +8271,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 app.onlinecustomer-home-service.app.update-help.desk.app.juergenson.com
 0.0.0.0 app.onlinecustomer-home-service.app.update-help.desk.app.vhamg.com
 0.0.0.0 app.onlinecustomer-home-service.app.update.ten-four.com
+0.0.0.0 app.pendo.io
 0.0.0.0 app.pho8.com
 0.0.0.0 app.pubserver.adhood.com
 0.0.0.0 app.scanscout.com
@@ -39822,7 +39823,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 pempoo.com
 0.0.0.0 pencil-portrait-artist.com
 0.0.0.0 pending-secure-account-inc.hematech.co.id
-0.0.0.0 pendo.io
 0.0.0.0 pendontorients.menolak-lupakan.com
 0.0.0.0 pendulum-wall-clocks.com
 0.0.0.0 penelo90.beget.tech
@@ -53582,7 +53582,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 viacomedyde.112.2o7.net
 0.0.0.0 viadim.com
 0.0.0.0 viadocc.info
-0.0.0.0 viafoura.co
 0.0.0.0 viagametrailers.112.2o7.net
 0.0.0.0 viagra-online.petrovka.info
 0.0.0.0 viagra-pill.blogspot.com
