@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sun Mar 25 04:30:43 UTC 2018
-# Blocked domains: 62671
+# Last updated:    Mon Mar 26 04:30:34 UTC 2018
+# Blocked domains: 62673
 
 # <header>
 127.0.0.1       localhost 
@@ -8737,6 +8737,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 apronconsulting.com
 0.0.0.0 aproveiteja.com
 0.0.0.0 aproxtrack2.com
+0.0.0.0 aps.hearstnp.com
 0.0.0.0 aps.media.adrevolver.com
 0.0.0.0 apsalar.com
 0.0.0.0 apsdsoverese.it
@@ -47924,6 +47925,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 smestudio.com.uy
 0.0.0.0 smetrics.att.com
 0.0.0.0 smetrics.creditreport.com
+0.0.0.0 smetrics.ctv.ca
 0.0.0.0 smetrics.freecreditreport.com
 0.0.0.0 smetrics.walgreens.com
 0.0.0.0 smetrics.yellowbook.com
