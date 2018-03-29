@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Tue Mar 27 04:30:27 UTC 2018
-# Blocked domains: 62822
+# Last updated:    Wed Mar 28 04:30:35 UTC 2018
+# Blocked domains: 62823
 
 # <header>
 127.0.0.1       localhost 
@@ -12080,6 +12080,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 btcom.112.2o7.net
 0.0.0.0 btfile.mycosmetiks.fr
 0.0.0.0 bthacks.us
+0.0.0.0 btlsurvey.com
 0.0.0.0 btn.clickability.com
 0.0.0.0 btn.counter.weather.ca
 0.0.0.0 btprmnav.com
@@ -26183,7 +26184,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 gyroscooter86.ru
 0.0.0.0 gzdywz.com
 0.0.0.0 gzhbnz.com
-0.0.0.0 gzjjtz.com
 0.0.0.0 gzknx.com
 0.0.0.0 gzqell.com
 0.0.0.0 gztianfu.net
@@ -38006,6 +38006,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 nowdownloadhack.com
 0.0.0.0 nowepliki.pl
 0.0.0.0 nowfunnygame.com
+0.0.0.0 nowgetsoft.pushingnewforcontentsafeload.download
 0.0.0.0 nowicki.olsztyn.pl
 0.0.0.0 nowina.info
 0.0.0.0 nowinstallupgrade.clickforultimateandbest2updatingpc.top
