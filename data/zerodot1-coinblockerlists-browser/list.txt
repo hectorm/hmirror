@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://goo.gl/RRoPcu Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 27 03 2018 04:41
+# Last modified: 30 03 2018 17:02
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0x1f4b0.com
@@ -418,6 +418,7 @@
 0.0.0.0 get.webxmr.com
 0.0.0.0 getcryptotab.com
 0.0.0.0 global.crypto.csgocpu.com
+0.0.0.0 gnrdomimplementation.com
 0.0.0.0 go.bestmobiworld.com
 0.0.0.0 go.megabanners.cf
 0.0.0.0 go2.mercy.ga
@@ -482,6 +483,7 @@
 0.0.0.0 jqcdn2.herokuapp.com
 0.0.0.0 jquery-cdn.download
 0.0.0.0 jquery-uim.download
+0.0.0.0 jqwww.download
 0.0.0.0 jroqvbvw.info
 0.0.0.0 js.coinhive.com
 0.0.0.0 jsccnn.com
@@ -527,7 +529,9 @@
 0.0.0.0 m.pr0gramm.com
 0.0.0.0 m001.monerise.com
 0.0.0.0 m1.monerise.com
+0.0.0.0 m1.streaming.estream.to
 0.0.0.0 m1.videos.vidto.me
+0.0.0.0 m2.streaming.estream.to
 0.0.0.0 m2.videos.vidto.me
 0.0.0.0 machieved.com
 0.0.0.0 mail.coinhive-manager.com
@@ -620,6 +624,7 @@
 0.0.0.0 nathetsof.com
 0.0.0.0 nddmcconmqsy.ru
 0.0.0.0 nebabrop.com
+0.0.0.0 nerohut.com
 0.0.0.0 never.ovh
 0.0.0.0 new.minr.pw
 0.0.0.0 newark01.monero.hashvault.pro
@@ -665,8 +670,12 @@
 0.0.0.0 p.estream.to
 0.0.0.0 p.hemnes.win
 0.0.0.0 p.tidafors.xyz
+0.0.0.0 p1.assetscdn.stream
+0.0.0.0 p1.gnrdomimplementation.com
 0.0.0.0 p1.interestingz.pw
+0.0.0.0 p2.assetscdn.stream
 0.0.0.0 p2.interestingz.pw
+0.0.0.0 p3.assetscdn.stream
 0.0.0.0 p3.interestingz.pw
 0.0.0.0 pan.whathyx.com
 0.0.0.0 panelsave.com
@@ -756,12 +765,15 @@
 0.0.0.0 s002.monerise.com
 0.0.0.0 s003.monerise.com
 0.0.0.0 s003.papoto.com
+0.0.0.0 s1.vidtod.me
 0.0.0.0 s2.analytics.blue
 0.0.0.0 s2.appelamule.com
+0.0.0.0 s2.vidtod.me
 0.0.0.0 s23.crypto-loot.com
 0.0.0.0 s3.analytics.blue
 0.0.0.0 s3.gasolina.ml
 0.0.0.0 s3.minexmr.com
+0.0.0.0 s3.vidtod.me
 0.0.0.0 sa.monerise.com
 0.0.0.0 saas.webmine.pro
 0.0.0.0 safelinkconverter.com
@@ -1087,6 +1099,7 @@
 0.0.0.0 ws019.hemnes.win
 0.0.0.0 ws019.ws.tidafors.xyz
 0.0.0.0 ws019.www.datasecu.download
+0.0.0.0 ws01cn.streamplay.to
 0.0.0.0 ws02.1q2w3.me
 0.0.0.0 ws02.1q2w3.website
 0.0.0.0 ws02.coinnebula.com
@@ -1150,6 +1163,7 @@
 0.0.0.0 ws029.coinhive.com
 0.0.0.0 ws029.hemnes.win
 0.0.0.0 ws029.ws.tidafors.xyz
+0.0.0.0 ws02cn.streamplay.to
 0.0.0.0 ws03.1q2w3.me
 0.0.0.0 ws03.1q2w3.website
 0.0.0.0 ws03.coinnebula.com
@@ -1169,6 +1183,7 @@
 0.0.0.0 ws032.hemnes.win
 0.0.0.0 ws032.ws.tidafors.xyz
 0.0.0.0 ws035.coinhive.com
+0.0.0.0 ws03cn.streamplay.to
 0.0.0.0 ws04.crypto-loot.com
 0.0.0.0 ws05.crypto-loot.com
 0.0.0.0 ws05.crypto.csgocpu.com
@@ -1355,6 +1370,7 @@
 0.0.0.0 www.adminer.com
 0.0.0.0 www.ajcryptominer.com
 0.0.0.0 www.analytics.blue
+0.0.0.0 www.assetscdn.stream
 0.0.0.0 www.authedmine.com
 0.0.0.0 www.bablace.com
 0.0.0.0 www.baiduccdn1.com

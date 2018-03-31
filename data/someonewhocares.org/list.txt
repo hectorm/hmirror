@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 29 Mar 2018 at 04:49:25 GMT
+# Last updated: Fri, 30 Mar 2018 at 20:54:35 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -402,6 +402,7 @@
 127.0.0.1 api.bizographics.com
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 api.infinario.com
+127.0.0.1 api.intentiq.com
 127.0.0.1 api.murdoog.com
 127.0.0.1 apis.murdoog.com
 127.0.0.1 api.tumra.com
@@ -732,6 +733,7 @@
 127.0.0.1 delivery.loopingclick.com
 127.0.0.1 de.sitestat.com
 127.0.0.1 detectorcarecenter.in
+127.0.0.1 de.tynt.com
 127.0.0.1 dgit.com
 127.0.0.1 didtheyreadit.com		# email bugs
 127.0.0.1 digistats.westjet.com
@@ -825,6 +827,7 @@
 127.0.0.1 e-n.y-1shz2prbmdj6wvny-1sez2pra2dj6wjmyepdzadpwudj6x9ny-1seq-2-2.stats.esomniture.com
 127.0.0.1 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 127.0.0.1 es.optimost.com
+127.0.0.1 exch.quantserve.com
 127.0.0.1 extremereach.com
 127.0.0.1 eztrck.com
 127.0.0.1 fastcounter.bcentral.com
@@ -868,6 +871,7 @@
 127.0.0.1 gostats.com
 127.0.0.1 grafix.xxxcounter.com
 127.0.0.1 gscounters.us1.gigya.com
+127.0.0.1 gslbeacon.lijit.com
 127.0.0.1 gtcc1.acecounter.com
 127.0.0.1 g-wizzads.net
 127.0.0.1 hc2.humanclick.com
@@ -891,6 +895,7 @@
 127.0.0.1 htm.freelogs.com
 127.0.0.1 http300.edge.ru4.com
 127.0.0.1 iccee.com
+127.0.0.1 ic.tynt.com
 127.0.0.1 idm.hit.gemius.pl
 127.0.0.1 ieplugin.com
 127.0.0.1 iesnare.com		# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
@@ -954,6 +959,7 @@
 127.0.0.1 linktrack.bravenet.com
 127.0.0.1 livestats.atlanta-airport.com
 #127.0.0.1 ll.a.hulu.com	# Uncomment to block Hulu.
+127.0.0.1 loadus.exelator.com
 127.0.0.1 loc1.hitsprocessor.com
 127.0.0.1 log1.countomat.com
 127.0.0.1 log4.quintelligence.com
@@ -1014,6 +1020,7 @@
 127.0.0.1 metrics.al.com
 127.0.0.1 metrics.att.com
 127.0.0.1 metrics.boston.com
+127.0.0.1 metrics.brightcove.com
 127.0.0.1 metrics.cbc.ca
 127.0.0.1 metrics.cleveland.com
 127.0.0.1 metrics.cnn.com
@@ -1134,9 +1141,11 @@
 127.0.0.1 pix02.revsci.net
 127.0.0.1 pix03.revsci.net
 127.0.0.1 pix04.revsci.net
+127.0.0.1 pixel.advertising.com
 127.0.0.1 pixel.bilinmedia.net
 127.0.0.1 pixel-geo.prfct.co
 127.0.0.1 pixel.invitemedia.com
+127.0.0.1 pixel.staticworld.net
 127.0.0.1 pixel.tapad.com
 127.0.0.1 pmg.ad-logics.com
 127.0.0.1 pn2.adserver.yahoo.com
@@ -1158,6 +1167,7 @@
 127.0.0.1 proxy.sj3.marketscore.com
 127.0.0.1 proxy.sj4.marketscore.com
 127.0.0.1 p.twitter.com
+127.0.0.1 quantcast584928381.s.moatpixel.com
 127.0.0.1 quantserve.com #: Ad Tracking, JavaScript, etc.
 127.0.0.1 quareclk.com
 127.0.0.1 quicktrck.com
@@ -1444,6 +1454,7 @@
 127.0.0.1 s.youtube.com				# Blocking this will interfere with video watching history
 127.0.0.1 systweak.com
 #127.0.0.1 t2.hulu.com		# Uncomment to block Hulu.
+127.0.0.1 tag.crsspxl.com
 127.0.0.1 tagging.outrider.com
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 talkcity.realtracker.com
@@ -4212,6 +4223,7 @@
 127.0.0.1 ac.tynt.com
 127.0.0.1 acvs.mediaonenetwork.net
 127.0.0.1 acvsrv.mediaonenetwork.net
+127.0.0.1 ad
 127.0.0.1 ad001.ru
 127.0.0.1 ad01.adonspot.com
 127.0.0.1 ad01.focalink.com
@@ -5042,6 +5054,7 @@
 127.0.0.1 ads.adroar.com
 127.0.0.1 ads.adsag.com
 127.0.0.1 ads.adsbookie.com
+127.0.0.1 ads-adseast.yldbt.com
 127.0.0.1 ads.adshareware.net
 127.0.0.1 ads.adsinimages.com
 127.0.0.1 ads.adsonar.com
@@ -5473,6 +5486,7 @@
 127.0.0.1 adserver-images.adikteev.com
 127.0.0.1 adserver.infinit.net
 127.0.0.1 adserver.infotiger.com
+127.0.0.1 adserver.intentiq.com
 127.0.0.1 adserver.interfree.it
 127.0.0.1 adserver.inwind.it
 127.0.0.1 adserver.ision.de
@@ -5604,6 +5618,8 @@
 127.0.0.1 adserv.free6.com
 127.0.0.1 adserv.geocomm.com
 127.0.0.1 adserv.iafrica.com
+127.0.0.1 adservice.google.ca
+127.0.0.1 adservice.google.com
 127.0.0.1 adservices.google.com
 127.0.0.1 adservices.picadmedia.com
 127.0.0.1 adservicestats.com
@@ -6058,6 +6074,7 @@
 127.0.0.1 ads.scabee.com
 127.0.0.1 ads.schwabtrader.com
 127.0.0.1 ads.scifi.com
+127.0.0.1 ads.scorecardresearch.com
 127.0.0.1 ads.scott-sports.com
 127.0.0.1 ads.scottusa.com
 127.0.0.1 ads.seattletimes.com
@@ -6487,6 +6504,7 @@
 127.0.0.1 ak.maxserving.com
 127.0.0.1 ako.cc
 127.0.0.1 ak.p.openx.net
+127.0.0.1 ak.sail-horizon.com
 127.0.0.1 aksdk-images.adikteev.com
 127.0.0.1 aktif.haberx.com
 127.0.0.1 al1.sharethis.com
@@ -6550,6 +6568,7 @@
 127.0.0.1 api.sagent.io
 127.0.0.1 api.shoppingminds.net
 127.0.0.1 api.viglink.com
+127.0.0.1 ap.lijit.com
 127.0.0.1 apopt.hbmediapro.com
 127.0.0.1 app1.letitbefaster.life
 127.0.0.1 app1.letitbefaster.website
@@ -6877,6 +6896,7 @@
 127.0.0.1 b.grabo.bg
 127.0.0.1 bhclicks.com
 127.0.0.1 bidclix.net
+127.0.0.1 bid.contextweb.com
 127.0.0.1 bid.openx.net
 127.0.0.1 bidsystem.com
 127.0.0.1 bidtraffic.com
@@ -7125,6 +7145,7 @@
 127.0.0.1 cdn.freelac.com
 127.0.0.1 cdn.freelev.com
 127.0.0.1 cdn.geni.us
+127.0.0.1 cdn.getsmartcontent.com
 127.0.0.1 cdn.go.arbo.bbelements.com
 127.0.0.1 cdn.go.arbopl.bbelements.com
 127.0.0.1 cdn.go.cz.bbelements.com
@@ -7171,12 +7192,14 @@
 127.0.0.1 cdnw.ringtonepartner.com
 127.0.0.1 cdn.wwwpromoter.com
 127.0.0.1 cdn.yieldmedia.net
+127.0.0.1 cdn.yldbt.com
 127.0.0.1 cdn.yottos.com
 127.0.0.1 cdn.zeusclicks.com
 127.0.0.1 cds.adecn.com
 127.0.0.1 c.eblastengine.com
 127.0.0.1 cecash.com
 127.0.0.1 ced.sascdn.com
+127.0.0.1 ce.lijit.com
 127.0.0.1 cell-phone-giveaways.com
 127.0.0.1 cellphoneincentives.com
 127.0.0.1 cent.adbureau.net
@@ -7384,6 +7407,7 @@
 127.0.0.1 context5.kanoodle.com
 127.0.0.1 contextad.pl
 127.0.0.1 context.adshadow.net
+127.0.0.1 contextual.media.net
 127.0.0.1 contextweb.com
 127.0.0.1 conv.adengage.com
 127.0.0.1 conversantmedia.com
@@ -7620,6 +7644,7 @@
 127.0.0.1 downloads.larivieracasino.com
 127.0.0.1 downloads.mytvandmovies.com
 127.0.0.1 download.yesmessenger.com
+127.0.0.1 dp1.33across.com
 127.0.0.1 dqs001.adtech.de
 127.0.0.1 dqs001.adtech.fr
 127.0.0.1 dqs001.adtech.us
@@ -7632,6 +7657,7 @@
 127.0.0.1 ds.onet.pl
 127.0.0.1 ds.serving-sys.com
 127.0.0.1 d.sspcash.adxcore.com
+127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dt.linkpulse.com
 127.0.0.1 dtm.advertising.com
 127.0.0.1 dub.mobileads.msn.com
@@ -7732,6 +7758,7 @@
 127.0.0.1 eu.xtms.net
 127.0.0.1 eveley.club
 127.0.0.1 event-log.videe.tv
+127.0.0.1 events.kiosked.com
 127.0.0.1 events.streamrail.net
 127.0.0.1 eventtracker.videostrip.com
 127.0.0.1 excellent.michaelanthonyrobinson.com
@@ -7875,6 +7902,7 @@
 127.0.0.1 functional-business.com
 127.0.0.1 funtabsafe.com
 127.0.0.1 Fvid.atm.youku.com
+127.0.0.1 fw.adsafeprotected.com
 127.0.0.1 fwdservice.com
 #127.0.0.1 fwmrm.net	#may interfere with nhl.com
 127.0.0.1 fw.qq.com
@@ -7885,6 +7913,7 @@
 127.0.0.1 gadgeteer.pdamart.com
 127.0.0.1 g.admob.com
 127.0.0.1 g.adnxs.com
+127.0.0.1 gads.pubmatic.com
 127.0.0.1 gahu.hit.gemius.pl
 127.0.0.1 gam.adnxs.com
 127.0.0.1 game0516.cdn8-traffic68-server10.top
@@ -8259,6 +8288,7 @@
 127.0.0.1 images.trafficmp.com
 127.0.0.1 imarker.com
 127.0.0.1 imarker.ru
+127.0.0.1 imasdk.googleapis.com
 127.0.0.1 im.banner.t-online.de
 127.0.0.1 imc.l.qq.com
 127.0.0.1 i.media.cz
@@ -8407,6 +8437,7 @@
 127.0.0.1 j3safetyismyname.com
 127.0.0.1 j.adlooxtracking.com
 127.0.0.1 j.admob.com
+127.0.0.1 jadserve.postrelease.com
 127.0.0.1 jambocast.com
 127.0.0.1 jb9clfifs6.s.ad6media.fr
 127.0.0.1 jcarter.spinbox.net
@@ -8477,6 +8508,7 @@
 127.0.0.1 keywordblocks.com
 127.0.0.1 keywords.adtlgc.com
 127.0.0.1 khalto.info
+127.0.0.1 kiosked-d.openx.net
 127.0.0.1 kitaramarketplace.com
 127.0.0.1 kitaramedia.com
 127.0.0.1 kitaratrk.com
@@ -8829,6 +8861,7 @@
 127.0.0.1 mjx.ads.nwsource.com
 127.0.0.1 mklik.gazeta.pl
 127.0.0.1 mktg-offer.com
+127.0.0.1 ml314.com
 127.0.0.1 mlntracker.com
 127.0.0.1 mlvc4zzw.space
 127.0.0.1 mm1.vip.sc1.admob.com
@@ -9485,6 +9518,7 @@
 127.0.0.1 proxy.blogads.com
 127.0.0.1 prpops.com
 127.0.0.1 pr.ydp.yahoo.com
+127.0.0.1 ps.eyeota.net
 127.0.0.1 pstatic.datafastguru.info
 127.0.0.1 ps-us.amazon-adsystem.com
 127.0.0.1 pt21na.com
@@ -9522,6 +9556,7 @@
 127.0.0.1 push-ad.com
 127.0.0.1 pussl22.com
 127.0.0.1 px10.net
+127.0.0.1 px.moatads.com
 127.0.0.1 q.admob.com
 127.0.0.1 q.azcentral.com
 127.0.0.1 q.b.h.cltomedia.info
@@ -9537,6 +9572,7 @@
 127.0.0.1 quickupdateserv.com
 127.0.0.1 quik-serv.com
 127.0.0.1 quizzitch.net
+127.0.0.1 qxxru.linknotification.com
 127.0.0.1 r1-ads.ace.advertising.com
 127.0.0.1 r2.adwo.com
 127.0.0.1 r7mediar.com
@@ -9994,6 +10030,7 @@
 127.0.0.1 sn.baventures.com
 127.0.0.1 snip.answers.com
 127.0.0.1 snipjs.answcdn.com
+127.0.0.1 s.ntv.io
 127.0.0.1 sobar.baidu.com
 127.0.0.1 sobartop.baidu.com
 127.0.0.1 sochr.com
@@ -10218,6 +10255,7 @@
 127.0.0.1 sync.credebat.com
 127.0.0.1 sync-eu.exe.bid
 127.0.0.1 sync.mathtag.com
+127.0.0.1 sync.pulseradius.com
 127.0.0.1 sync.upravel.com
 127.0.0.1 syndicated.mondominishows.com
 127.0.0.1 syndication.exdynsrv.com
@@ -10318,6 +10356,7 @@
 127.0.0.1 titan-gel-extra.com
 127.0.0.1 tk.baidu.com
 127.0.0.1 tkweb.baidu.com
+127.0.0.1 tlx.3lift.com
 127.0.0.1 t.mdn2015x1.com
 127.0.0.1 t.mdn2015x3.com
 127.0.0.1 tmp3.nexac.com
@@ -10526,6 +10565,7 @@
 127.0.0.1 usr.marketgid.com
 127.0.0.1 usswrite.com
 127.0.0.1 us-topsites.com
+127.0.0.1 us-u.openx.net
 127.0.0.1 ut.addthis.com
 127.0.0.1 utarget.ru
 127.0.0.1 utility.baidu.com
@@ -10779,6 +10819,7 @@
 127.0.0.1 welcome.pussysaga.com
 127.0.0.1 werkenbijliones.nl
 127.0.0.1 wf.basebanner.com
+127.0.0.1 whatishotnow.net
 127.0.0.1 w.ic.tynt.com
 127.0.0.1 widespace.com
 127.0.0.1 widget3.linkwithin.com
@@ -11025,6 +11066,7 @@
 127.0.0.1 www.allosponsor.com
 127.0.0.1 www.amazing-opportunities.info
 127.0.0.1 www.annuaire-autosurf.com
+127.0.0.1 www.anrdoezrs.net
 127.0.0.1 www.appafile.com
 127.0.0.1 www.apparelncs.com
 127.0.0.1 www.apparel-offer.com
