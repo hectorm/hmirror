@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Fri Mar 30 04:30:19 UTC 2018
-# Blocked domains: 63152
+# Last updated:    Sat Mar 31 04:30:17 UTC 2018
+# Blocked domains: 63201
 
 # <header>
 127.0.0.1       localhost 
@@ -3931,6 +3931,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adrunnr.com
 0.0.0.0 ads-a-darwin.hulu.com
 0.0.0.0 ads-a.juicyads.com
+0.0.0.0 ads-adseast.yldbt.com
 0.0.0.0 ads-by.madadsmedia.com
 0.0.0.0 ads-by.yieldselect.com
 0.0.0.0 ads-click.com
@@ -5959,6 +5960,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adserver.ilounge.com
 0.0.0.0 adserver.infinit.net
 0.0.0.0 adserver.infotiger.com
+0.0.0.0 adserver.intentiq.com
 0.0.0.0 adserver.interfree.it
 0.0.0.0 adserver.inwind.it
 0.0.0.0 adserver.iprom.net
@@ -6172,6 +6174,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 adserversolutions.com
 0.0.0.0 adserverus.info
 0.0.0.0 adservice.aliexpress.com
+0.0.0.0 adservice.google.ca
+0.0.0.0 adservice.google.com
 0.0.0.0 adservicedomain.info
 0.0.0.0 adservices.google.com
 0.0.0.0 adservices.picadmedia.com
@@ -8297,6 +8301,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.infinario.com
 0.0.0.0 api.intensifier.de
+0.0.0.0 api.intentiq.com
 0.0.0.0 api.inwemo.com
 0.0.0.0 api.iperceptions.com
 0.0.0.0 api.ipinfodb.com
@@ -12064,6 +12069,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 broadspring.com
 0.0.0.0 broadtech.co
 0.0.0.0 broadwaygroup.in
+0.0.0.0 brokdrop.com
 0.0.0.0 brokeneagledlc.goblogz.net
 0.0.0.0 brokeneagledlc.sharezips.info
 0.0.0.0 brokenheartart.net
@@ -13171,6 +13177,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cases500.com
 0.0.0.0 casesbite.com
 0.0.0.0 casesfarm.com
+0.0.0.0 caseslot.org
 0.0.0.0 casespolygon.net
 0.0.0.0 casespolygon.pro
 0.0.0.0 caseyarchitecturallighting.com
@@ -13501,6 +13508,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdn.freelev.com
 0.0.0.0 cdn.g.promosrv.com
 0.0.0.0 cdn.geni.us
+0.0.0.0 cdn.getsmartcontent.com
 0.0.0.0 cdn.go.arbo.bbelements.com
 0.0.0.0 cdn.go.arbopl.bbelements.com
 0.0.0.0 cdn.go.cz.bbelements.com
@@ -13556,6 +13564,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdn.oas-c17.adnxs.com
 0.0.0.0 cdn.oggifinogi.com
 0.0.0.0 cdn.onescreen.net
+0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.onscroll.com
 0.0.0.0 cdn.opensubcontent.com
 0.0.0.0 cdn.optimatic.com
@@ -13706,6 +13715,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdxbin.vulnerap.com
 0.0.0.0 cdxninteractive.blueadvertise.com
 0.0.0.0 cdynwt.com
+0.0.0.0 ce.lijit.com
 0.0.0.0 ce.wielkaniespodzianka.pl
 0.0.0.0 ce7.org
 0.0.0.0 ce84062.tmweb.ru
@@ -16745,6 +16755,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgo-drop.com
 0.0.0.0 csgo-explosion.com
 0.0.0.0 csgo-fierce.com
+0.0.0.0 csgo-fortune.com
 0.0.0.0 csgo-gamble.net
 0.0.0.0 csgo-hacks.com
 0.0.0.0 csgo-illusion.net
@@ -16783,8 +16794,10 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgobestskinschoice.pl
 0.0.0.0 csgobetlegion.com
 0.0.0.0 csgobigbet.com
+0.0.0.0 csgobigcash.com
 0.0.0.0 csgobong.com
 0.0.0.0 csgoboom.net
+0.0.0.0 csgobora.pro
 0.0.0.0 csgobot.store
 0.0.0.0 csgobulls.com
 0.0.0.0 csgobuster.com
@@ -16841,6 +16854,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgograys.com
 0.0.0.0 csgoguesswin.com
 0.0.0.0 csgoguncase.com
+0.0.0.0 csgogunfire.com
 0.0.0.0 csgohall.com
 0.0.0.0 csgohaste.com
 0.0.0.0 csgohead.pro
@@ -16863,6 +16877,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgojackpot.su
 0.0.0.0 csgojagger.com
 0.0.0.0 csgokeystrade.online
+0.0.0.0 csgoknife.top
 0.0.0.0 csgolaurel.com
 0.0.0.0 csgolden.com
 0.0.0.0 csgoldluck.com
@@ -16892,6 +16907,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgomuscles.com
 0.0.0.0 csgoneo.top
 0.0.0.0 csgonight.pro
+0.0.0.0 csgonyx.com
 0.0.0.0 csgoocher.com
 0.0.0.0 csgooneitems.com
 0.0.0.0 csgopassion.com
@@ -16933,11 +16949,13 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgospare.com
 0.0.0.0 csgospice.com
 0.0.0.0 csgospiner.com
+0.0.0.0 csgostage.com
 0.0.0.0 csgosteamanalyst.eu.com
 0.0.0.0 csgostix.com
 0.0.0.0 csgoswapper.online
 0.0.0.0 csgoswaps.top
 0.0.0.0 csgosxe.com
+0.0.0.0 csgoszone.net
 0.0.0.0 csgotakeoff.com
 0.0.0.0 csgotape.com
 0.0.0.0 csgotaunt.com
@@ -16962,6 +16980,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 csgoupgrader.info
 0.0.0.0 csgouranus.com
 0.0.0.0 csgousp.com
+0.0.0.0 csgovabank.com
 0.0.0.0 csgovenge.com
 0.0.0.0 csgovex.com
 0.0.0.0 csgovulcan.net
@@ -17781,6 +17800,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 de.mediaplayercodecpack.com
 0.0.0.0 de.sitestat.com
 0.0.0.0 de.ssl-paypalservice.com
+0.0.0.0 de.tynt.com
 0.0.0.0 de007.net
 0.0.0.0 de1.frosmo.com
 0.0.0.0 de1.pl
@@ -19091,6 +19111,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 dp.dpessoal.com
 0.0.0.0 dp.g.doubleclick.net
 0.0.0.0 dp.specificclick.net
+0.0.0.0 dp1.33across.com
 0.0.0.0 dp2.specificclick.net
 0.0.0.0 dpbolvw.net
 0.0.0.0 dpboxspace.com-ref48932409389434.teckolobsters.co.uk
@@ -19179,6 +19200,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 drcoray.com
 0.0.0.0 drdobbs.us.intellitxt.com
 0.0.0.0 dream-file.com
+0.0.0.0 dream1well.com
 0.0.0.0 dreamad.org
 0.0.0.0 dreambrides.co.za
 0.0.0.0 dreamchaser1.org
@@ -21007,6 +21029,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 events.foreseeresults.com
 0.0.0.0 events.indyloyaltyclub.com
 0.0.0.0 events.kalooga.com
+0.0.0.0 events.kiosked.com
 0.0.0.0 events.streamrail.net
 0.0.0.0 events.webflowmetrics.com
 0.0.0.0 eventtracker.videostrip.com
@@ -21080,6 +21103,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 excellenthacks.com
 0.0.0.0 excellentmovies.net
 0.0.0.0 excelwebs.net
+0.0.0.0 exch.quantserve.com
 0.0.0.0 exchange-it.com
 0.0.0.0 exchange.adswizz.com
 0.0.0.0 exchange.bg
@@ -21573,6 +21597,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 facegamecheat.com
 0.0.0.0 facehacks.com
 0.0.0.0 faceinstant.com
+0.0.0.0 faceit-cases.org
 0.0.0.0 facemagicbool.000webhostapp.com
 0.0.0.0 facemail.com
 0.0.0.0 faceoff.112.2o7.net
@@ -21795,6 +21820,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 fastpopunder.com
 0.0.0.0 fastrade.net
 0.0.0.0 fastseascape.ru
+0.0.0.0 fastskins4you.com
 0.0.0.0 fastwebcounter.com
 0.0.0.0 fat-jaguar.info
 0.0.0.0 fat7e23.toko-ku.org
@@ -22703,6 +22729,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 firehorny.com
 0.0.0.0 firehouse651.com
 0.0.0.0 firenzesalon.net
+0.0.0.0 fireskins.net
 0.0.0.0 firest0rm.net
 0.0.0.0 firesub.pl
 0.0.0.0 fireupload.org
@@ -24175,6 +24202,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 gadk.hit.gemius.pl
 0.0.0.0 gadminwebb.com
 0.0.0.0 gadnet.hit.gemius.pl
+0.0.0.0 gads.pubmatic.com
 0.0.0.0 gadzet9999.atwebpages.com
 0.0.0.0 gae.caspion.com
 0.0.0.0 gaee.hit.gemius.pl
@@ -26049,6 +26077,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 gsiworld.neostrada.pl
 0.0.0.0 gskindia.co.in
 0.0.0.0 gskpresident.tk
+0.0.0.0 gslbeacon.lijit.com
 0.0.0.0 gsm-mobile-phone.beesearch.info
 0.0.0.0 gsm.biz.id
 0.0.0.0 gsmarena.us.intellitxt.com
@@ -28862,6 +28891,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 imarker.com
 0.0.0.0 imarker.ru
 0.0.0.0 imarketservices.com
+0.0.0.0 imasdk.googleapis.com
 0.0.0.0 imatmobile.com
 0.0.0.0 imauli.cf
 0.0.0.0 imax3d.info
@@ -31442,6 +31472,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 kikrijanaopae.com
 0.0.0.0 kiks.yandex.ru
 0.0.0.0 kiler96l.beget.tech
+0.0.0.0 kill-case.ru
 0.0.0.0 killa-hacks.com
 0.0.0.0 killcase.ru
 0.0.0.0 killcsgo.com
@@ -31888,6 +31919,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 l.springmetrics.com
 0.0.0.0 l.yieldmanager.net
 0.0.0.0 l.zeroredirect.com
+0.0.0.0 l00t.farm
 0.0.0.0 l0gin-area.ml
 0.0.0.0 l1.cdn.qnsr.com
 0.0.0.0 l1.qsstats.com
@@ -39570,6 +39602,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 opserver01.iti.net.pk
 0.0.0.0 opskins.com.bz
 0.0.0.0 opskins.com.pe
+0.0.0.0 opskins.gg
 0.0.0.0 opskins.net.in
 0.0.0.0 opskins.network
 0.0.0.0 opskins.pp.ua
@@ -42313,6 +42346,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pp-user-security-eu.cf
 0.0.0.0 pp-verifizierung.info
 0.0.0.0 pp.free.fr
+0.0.0.0 pp.lp4.io
 0.0.0.0 pp.nrelate.com
 0.0.0.0 pp.pplproblems.com
 0.0.0.0 pp1108725401z.esy.es
@@ -43459,6 +43493,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 quallpac.com
 0.0.0.0 quangl3m.beget.tech
 0.0.0.0 quantcast.com
+0.0.0.0 quantcast584928381.s.moatpixel.com
 0.0.0.0 quanticausinagem.com.br
 0.0.0.0 quantserve.com
 0.0.0.0 quantumbinaries.com
@@ -43542,6 +43577,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 qwestfull.112.2o7.net
 0.0.0.0 qwiklnk.com
 0.0.0.0 qwplvisnjturjnwoab.com
+0.0.0.0 qxxru.linknotification.com
 0.0.0.0 qxyl.date
 0.0.0.0 qy.corrmedic.ru
 0.0.0.0 qybabit.com
@@ -47976,6 +48012,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 skins-white.com
 0.0.0.0 skinsacademy.com
 0.0.0.0 skinsamazing.com
+0.0.0.0 skinsbaron.com
 0.0.0.0 skinsbarter.com
 0.0.0.0 skinsbasket.com
 0.0.0.0 skinsbeast.com
@@ -47985,6 +48022,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 skinsblur.com
 0.0.0.0 skinsboom.com
 0.0.0.0 skinsbrain.com
+0.0.0.0 skinsbrave.com
 0.0.0.0 skinsbrawl.com
 0.0.0.0 skinscage.com
 0.0.0.0 skinscastle.com
@@ -48001,7 +48039,10 @@ ff02::3         ip6-allhosts
 0.0.0.0 skinsfury.com
 0.0.0.0 skinsgang.com
 0.0.0.0 skinshelper.com
+0.0.0.0 skinshowl.com
 0.0.0.0 skinshub.net
+0.0.0.0 skinsjar-trade.net
+0.0.0.0 skinsjar.gg
 0.0.0.0 skinsknight.com
 0.0.0.0 skinskonkurs.pl
 0.0.0.0 skinslegends.com
@@ -48024,6 +48065,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 skinstrooper.com
 0.0.0.0 skinstroopers.com
 0.0.0.0 skinstrue.com
+0.0.0.0 skinstwice.com
 0.0.0.0 skinswhite.com
 0.0.0.0 skinswisdom.com
 0.0.0.0 skinswood.com
@@ -48053,6 +48095,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sktrades.000webhostapp.com
 0.0.0.0 skuawill.com
 0.0.0.0 skuawillbil.com
+0.0.0.0 skull-bets.io
 0.0.0.0 skumari.objectives.ws
 0.0.0.0 skuteczna-dieta.co.pl
 0.0.0.0 skutecznesrodki-tabletkinapotencje.ovh
@@ -49751,6 +49794,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 steamanaylst.com
 0.0.0.0 steamaommunity.com
 0.0.0.0 steamcammunitu.com
+0.0.0.0 steamcamrnunitty.com
 0.0.0.0 steamchristmas.com
 0.0.0.0 steamco.de
 0.0.0.0 steamcode.org
@@ -49804,6 +49848,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 steamkeygengeneratorpro.com
 0.0.0.0 steamkeygiveaway.com
 0.0.0.0 steamkeysfree.com
+0.0.0.0 steammarketcap.com
 0.0.0.0 steammcomunnitty.ru
 0.0.0.0 steammoneyhack.com
 0.0.0.0 steamskins.ru
@@ -49820,6 +49865,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 steamwallethack.org
 0.0.0.0 steamwallethacks.net
 0.0.0.0 steamyommunity.com
+0.0.0.0 steanncomnnunity.com
 0.0.0.0 steannconnmunity.com
 0.0.0.0 stearncormmunity.com
 0.0.0.0 stearndommunity.com
@@ -50625,6 +50671,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sync.go.sonobi.com
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.monarchads.com
+0.0.0.0 sync.pulseradius.com
 0.0.0.0 sync.rhythmxchange.com
 0.0.0.0 sync.richmetrics.com
 0.0.0.0 sync.search.spotxchange.com
@@ -52031,6 +52078,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tlidjenegroup.000webhostapp.com
 0.0.0.0 tljchc.org
 0.0.0.0 tlvmedia.com
+0.0.0.0 tlx.3lift.com
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tmakinternational.com
 0.0.0.0 tmcnet.us.intellitxt.com
@@ -52080,7 +52128,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 todaytime.net
 0.0.0.0 todayveriys.com
 0.0.0.0 toddrussellelectric.com
-0.0.0.0 toddscarwash.com
 0.0.0.0 toddschneider.com
 0.0.0.0 todolize.com
 0.0.0.0 todped.com
@@ -56805,6 +56852,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 whatdosquirrelseat.net
 0.0.0.0 whatdslrtobuy.co.uk
 0.0.0.0 whatdslrtobuy.com
+0.0.0.0 whatishotnow.net
 0.0.0.0 whatisthebestecig.com
 0.0.0.0 whatsadh.beget.tech
 0.0.0.0 whatsapp-app.com
@@ -61732,6 +61780,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 x.imwx.com
 0.0.0.0 x.interia.pl
 0.0.0.0 x.mochiads.com
+0.0.0.0 x.onaudience.com
 0.0.0.0 x.saponsroyale.com
 0.0.0.0 x.zeroredirect.com
 0.0.0.0 x0a.in
