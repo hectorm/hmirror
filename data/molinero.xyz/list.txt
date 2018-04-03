@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sun Apr  1 04:30:25 UTC 2018
-# Blocked domains: 63325
+# Last updated:    Mon Apr  2 04:29:48 UTC 2018
+# Blocked domains: 63327
 
 # <header>
 127.0.0.1       localhost 
@@ -13387,6 +13387,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdinterior.com.sg
 0.0.0.0 cdjconsultants.com
 0.0.0.0 cdltraininghub.com
+0.0.0.0 cdm.unnoticeablegangrene.com
 0.0.0.0 cdmswj.com
 0.0.0.0 cdn-01.yumenetworks.com
 0.0.0.0 cdn-1.convertexperiments.com
@@ -39218,6 +39219,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 omeriwajhasy.com
 0.0.0.0 ometrics.netapp.com
 0.0.0.0 ometrics.warnerbros.com
+0.0.0.0 omfgskins.com
 0.0.0.0 omgates.com
 0.0.0.0 omgfiles.biz
 0.0.0.0 omgnickinews.com
