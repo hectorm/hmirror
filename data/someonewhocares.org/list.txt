@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 02 Apr 2018 at 17:05:50 GMT
+# Last updated: Wed, 04 Apr 2018 at 03:24:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -459,6 +459,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 bserver.blick.com
 127.0.0.1 bstats.adbrite.com
 127.0.0.1 b.stats.paypal.com
+127.0.0.1 buy.tinypass.com
 127.0.0.1 by.optimost.com
 127.0.0.1 c0.adalyser.com
 127.0.0.1 c10.statcounter.com
@@ -833,6 +834,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 127.0.0.1 es.optimost.com
 127.0.0.1 exch.quantserve.com
+127.0.0.1 experience.tinypass.com
 127.0.0.1 extremereach.com
 127.0.0.1 eztrck.com
 127.0.0.1 fastcounter.bcentral.com
@@ -2508,6 +2510,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 outerinfo.com
 127.0.0.1 outlets-online.pl
 127.0.0.1 outweb.nudt.edu.cn
+127.0.0.1 pacificnet.xyz
 127.0.0.1 paincake.yoll.net
 127.0.0.1 p.algovid.com
 127.0.0.1 pchealthcheckup.net
@@ -2751,6 +2754,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 wenda.io
 127.0.0.1 west.05tz2e9.com
 127.0.0.1 wewillrocknow.com
+127.0.0.1 whenupgrade.yourmainsourceforcontentprepared.win
 127.0.0.1 whenvideoup.thebigandfreesystemupdate.website
 127.0.0.1 whenvideoup.thebigandfreesystemupdating.date
 127.0.0.1 wikidevs.com
@@ -4172,6 +4176,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 a5.websponsors.com
 127.0.0.1 a7cleaner.com
 127.0.0.1 a98spolicies.com
+127.0.0.1 aa.agkn.com
 127.0.0.1 a.adexchangemachine.com
 127.0.0.1 a.admaxserver.com
 127.0.0.1 a.admob.com
@@ -5553,6 +5558,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 adserver.portalofevil.com
 127.0.0.1 adserver.portal.pl
 127.0.0.1 adserver.portugalmail.pt
+127.0.0.1 adserver.pressboard.ca
 127.0.0.1 adserver.prodigy.net
 127.0.0.1 adserver.proteinos.com
 127.0.0.1 adserver.radio-canada.ca
