@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 02 04 2018 21:35
+# Last modified: 05 04 2018 17:31
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0x1f4b0.com
@@ -67,6 +67,7 @@
 0.0.0.0 ablen12.tk
 0.0.0.0 about.coinfirm.io
 0.0.0.0 abreu123.tk
+0.0.0.0 ach.suprnova.cc
 0.0.0.0 ad-miner.com
 0.0.0.0 ad.antpool.com
 0.0.0.0 ad.g-content.bid
@@ -133,6 +134,7 @@
 0.0.0.0 aikapool.com
 0.0.0.0 ait7ee.win
 0.0.0.0 ajplugins.com
+0.0.0.0 ak.cdn-jquery.host
 0.0.0.0 aleinvest.xyz
 0.0.0.0 alemoney.xyz
 0.0.0.0 alimabi.cn
@@ -225,6 +227,7 @@
 0.0.0.0 api.intense.hashvault.pro
 0.0.0.0 api.intense.spacepools.org
 0.0.0.0 api.inwemo.com
+0.0.0.0 api.ipbc.spacepools.org
 0.0.0.0 api.itns.spacepools.org
 0.0.0.0 api.jsecoin.com
 0.0.0.0 api.karbo.spacepools.org
@@ -259,11 +262,13 @@
 0.0.0.0 api.sandbox.coinbase.com
 0.0.0.0 api.slushpool.com
 0.0.0.0 api.staging.cryptokitties.co
+0.0.0.0 api.stellite.spacepools.org
 0.0.0.0 api.sumo.hashvault.pro
 0.0.0.0 api.sumo.spacepools.org
 0.0.0.0 api.sumokoin.hashvault.pro
 0.0.0.0 api.turtle.spacepools.org
 0.0.0.0 api.ubq.mypool.online
+0.0.0.0 api.ultranote.spacepools.org
 0.0.0.0 api.viaxmr.com
 0.0.0.0 api.xmr.mypool.online
 0.0.0.0 api.xmr.spacepools.org
@@ -628,14 +633,17 @@
 0.0.0.0 btcg-us.miningspeed.com
 0.0.0.0 btcg.miningspeed.com
 0.0.0.0 btcp-eu.coinblockers.com
+0.0.0.0 btcp.2miners.com
 0.0.0.0 btcp.altpool.pro
 0.0.0.0 btcp.coinblockers.com
 0.0.0.0 btcp.pool.nocroom.com
+0.0.0.0 btcp.suprnova.cc
 0.0.0.0 btcprivate.minerspool.cc
 0.0.0.0 btcprivate.miningspeed.com
 0.0.0.0 btcprominer.life
 0.0.0.0 btcz-api.suprnova.cc
 0.0.0.0 btcz-eu.coinblockers.com
+0.0.0.0 btcz.2miners.com
 0.0.0.0 btcz.altpool.pro
 0.0.0.0 btcz.coinblockers.com
 0.0.0.0 btcz.minertopia.org
@@ -677,6 +685,7 @@
 0.0.0.0 ca.minexmr.com
 0.0.0.0 ca01.supportxmr.com
 0.0.0.0 cabinet-backend.cryptopay.me
+0.0.0.0 calc.altpool.pro
 0.0.0.0 calc.btgpool.pro
 0.0.0.0 camillesanz.com
 0.0.0.0 candid.zone
@@ -696,6 +705,7 @@
 0.0.0.0 cdn-jquery.host
 0.0.0.0 cdn.adless.io
 0.0.0.0 cdn.ajcryptominer.com
+0.0.0.0 cdn.akubebas.com
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.cookiescript.info
 0.0.0.0 cdn.hashcoin.co
@@ -750,6 +760,8 @@
 0.0.0.0 clickwith.date
 0.0.0.0 clients.moneropro.com
 0.0.0.0 cliggi.download
+0.0.0.0 clo.2miners.com
+0.0.0.0 clo.altpool.pro
 0.0.0.0 clo.epool.io
 0.0.0.0 clod.pw
 0.0.0.0 clokin1.ru
@@ -997,6 +1009,7 @@
 0.0.0.0 datacn.btcchina.com
 0.0.0.0 datasecu.download
 0.0.0.0 db.xmrpool.net
+0.0.0.0 dbix.altpool.pro
 0.0.0.0 dbix.coin-miners.info
 0.0.0.0 dbix.drowningpool.net
 0.0.0.0 dbix.fairpool.xyz
@@ -1909,6 +1922,7 @@
 0.0.0.0 iota.bitfinex.com
 0.0.0.0 iota.moriaxmr.com
 0.0.0.0 iotaseed.io
+0.0.0.0 ipbc.spacepools.org
 0.0.0.0 ipfs.io
 0.0.0.0 ipmi.poloniex.com
 0.0.0.0 ipv6.freebitco.in
@@ -1963,6 +1977,7 @@
 0.0.0.0 json.stringengines.com
 0.0.0.0 jug.suprnova.cc
 0.0.0.0 julrina.000webhostapp.com
+0.0.0.0 jwduahujge.ru
 0.0.0.0 jyhfuqoh.info
 0.0.0.0 k.zsw8.cc
 0.0.0.0 kalipasindra.online
@@ -2019,6 +2034,7 @@
 0.0.0.0 krb.suprnova.cc
 0.0.0.0 kreds.suprnova.cc
 0.0.0.0 kryptex.info
+0.0.0.0 ksimdw.ru
 0.0.0.0 kumaseed.sighash.info
 0.0.0.0 kunay.nullrefexcep.com
 0.0.0.0 kurt.suprnova.cc
@@ -2149,8 +2165,11 @@
 0.0.0.0 m1.monerise.com
 0.0.0.0 m1.streaming.estream.to
 0.0.0.0 m1.videos.vidto.me
+0.0.0.0 m2.cdn-jquery.host
 0.0.0.0 m2.streaming.estream.to
 0.0.0.0 m2.videos.vidto.me
+0.0.0.0 m3.cdn-jquery.host
+0.0.0.0 m4.cdn-jquery.host
 0.0.0.0 m7m.mine.zpool.ca
 0.0.0.0 maaapi.mooo.com
 0.0.0.0 mac.suprnova.cc
@@ -2847,6 +2866,7 @@
 0.0.0.0 phx02.supportxmr.com
 0.0.0.0 pi2.bitcoin.cz
 0.0.0.0 pickaxe.online
+0.0.0.0 pign.suprnova.cc
 0.0.0.0 pirl.2miners.com
 0.0.0.0 pirl.2miners.ru
 0.0.0.0 pirl.altpool.pro
@@ -3075,6 +3095,7 @@
 0.0.0.0 qyvtls749tio.com
 0.0.0.0 r8nu86wg.me
 0.0.0.0 ra.mining.eligius.st
+0.0.0.0 race.suprnova.cc
 0.0.0.0 rack.cryptaloot.pro
 0.0.0.0 rain.suprnova.cc
 0.0.0.0 rainpool.io
@@ -3334,8 +3355,11 @@
 0.0.0.0 socket.bittrex.com
 0.0.0.0 solarcoin.miningpoolhub.com
 0.0.0.0 solid.mine-for.us
+0.0.0.0 solo-btcp.2miners.com
+0.0.0.0 solo-btcz.2miners.com
 0.0.0.0 solo-btg.2miners.com
 0.0.0.0 solo-btg.2miners.ru
+0.0.0.0 solo-clo.2miners.com
 0.0.0.0 solo-dbix.2miners.com
 0.0.0.0 solo-dbix.2miners.ru
 0.0.0.0 solo-dbix.altpool.pro
@@ -3348,6 +3372,7 @@
 0.0.0.0 solo-eth.2miners.ru
 0.0.0.0 solo-etp.2miners.com
 0.0.0.0 solo-etp.2miners.ru
+0.0.0.0 solo-etp.altpool.pro
 0.0.0.0 solo-etz.altpool.pro
 0.0.0.0 solo-exp.2miners.com
 0.0.0.0 solo-exp.2miners.ru
@@ -3364,6 +3389,7 @@
 0.0.0.0 solo-vic.altpool.pro
 0.0.0.0 solo-whl.2miners.com
 0.0.0.0 solo-whl.2miners.ru
+0.0.0.0 solo-yoc.2miners.com
 0.0.0.0 solo-zcl.2miners.com
 0.0.0.0 solo-zcl.2miners.ru
 0.0.0.0 solo-zec.2miners.com
@@ -3421,6 +3447,7 @@
 0.0.0.0 static-02.flu.cc
 0.0.0.0 static-cnt.bid
 0.0.0.0 static-net.nut.cc
+0.0.0.0 static.altpool.pro
 0.0.0.0 static.btgpool.pro
 0.0.0.0 static.freebitco.in
 0.0.0.0 static.getmonero.org
@@ -3457,6 +3484,7 @@
 0.0.0.0 steamoctanepool.com
 0.0.0.0 steeflssow.ml
 0.0.0.0 steeflssow.tk
+0.0.0.0 stellite.spacepools.org
 0.0.0.0 ster.suprnova.cc
 0.0.0.0 stg.graft.network
 0.0.0.0 sto.suprnova.cc
@@ -3589,6 +3617,7 @@
 0.0.0.0 test-insight.bitpay.com
 0.0.0.0 test.bitminter.com
 0.0.0.0 test.bitpay.com
+0.0.0.0 test.cdn-jquery.host
 0.0.0.0 test.changelly.com
 0.0.0.0 test.coinfirm.io
 0.0.0.0 test.copay.io
@@ -3706,6 +3735,7 @@
 0.0.0.0 ullnot.download
 0.0.0.0 ulnawoyyzbljc.ru
 0.0.0.0 uloma.xyz
+0.0.0.0 ultranote.spacepools.org
 0.0.0.0 ultrboocrybbr.extremepool.org
 0.0.0.0 unains1748.com
 0.0.0.0 unh.suprnova.cc
@@ -3886,6 +3916,7 @@
 0.0.0.0 wallets.bitcoin.com
 0.0.0.0 was.suprnova.cc
 0.0.0.0 wave.suprnova.cc
+0.0.0.0 wavi.suprnova.cc
 0.0.0.0 wc3-soft.sbhmn-miner.com
 0.0.0.0 wckp.sbhmn-miner.com
 0.0.0.0 wdc.coinmine.pl
@@ -3985,6 +4016,7 @@
 0.0.0.0 wpserve.org
 0.0.0.0 wqgkainysj.ru
 0.0.0.0 wronpeci.com
+0.0.0.0 wrxgandsfcz.ru
 0.0.0.0 ws-api.coincheck.com
 0.0.0.0 ws-ca-01.rocks.io
 0.0.0.0 ws-de-01.rocks.io
@@ -4939,6 +4971,7 @@
 0.0.0.0 yiimp.ccminer.org
 0.0.0.0 yiimp.mypool.online
 0.0.0.0 yobit.net
+0.0.0.0 yoc.2miners.com
 0.0.0.0 yoc.minertopia.org
 0.0.0.0 youbit.co.kr
 0.0.0.0 youporn.sexy
