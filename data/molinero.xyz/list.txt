@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Thu Apr  5 04:30:21 UTC 2018
-# Blocked domains: 104802
+# Last updated:    Fri Apr  6 04:29:27 UTC 2018
+# Blocked domains: 104810
 
 # <header>
 127.0.0.1       localhost 
@@ -568,7 +568,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 19d12dd9de1.com
 0.0.0.0 19degrees.org
 0.0.0.0 19free.org
-0.0.0.0 19xs.com
 0.0.0.0 1a-consultants.com
 0.0.0.0 1a-teensbilder.de
 0.0.0.0 1a03774d65e18ec71.space
@@ -10182,6 +10181,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ak-gb.marketgid.com
 0.0.0.0 ak.5.p2l.info
 0.0.0.0 ak.buyservices.com
+0.0.0.0 ak.cdn-jquery.host
 0.0.0.0 ak.imgfarm.com
 0.0.0.0 ak.maxserving.com
 0.0.0.0 ak.p.openx.net
@@ -20945,6 +20945,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdn.advertserve.com
 0.0.0.0 cdn.ajcryptominer.com
 0.0.0.0 cdn.ajillionmax.com
+0.0.0.0 cdn.akubebas.com
 0.0.0.0 cdn.alleliteads.com
 0.0.0.0 cdn.altitudeplatform.com
 0.0.0.0 cdn.amateurmatch.com
@@ -50773,6 +50774,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 jw4u.com
 0.0.0.0 jwaavsze.com
 0.0.0.0 jwbuxywauut.com
+0.0.0.0 jwduahujge.ru
 0.0.0.0 jwebbsense.cjt1.net
 0.0.0.0 jwelleryfair.xyz
 0.0.0.0 jwfdyujffrzt.com
@@ -52260,6 +52262,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 kshc-ev.de
 0.0.0.0 ksiazka-telefoniczna-online.pl
 0.0.0.0 ksiegowyroku.pl
+0.0.0.0 ksimdw.ru
 0.0.0.0 ksjdkjh.ru
 0.0.0.0 ksk-vuktil.ru
 0.0.0.0 kslgvaexlw.com
@@ -55757,6 +55760,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 m2.be.2mdn.net
 0.0.0.0 m2.br.2mdn.net
 0.0.0.0 m2.ca.2mdn.net
+0.0.0.0 m2.cdn-jquery.host
 0.0.0.0 m2.cn.2mdn.net
 0.0.0.0 m2.cn.doubleclick.net
 0.0.0.0 m2.de.2mdn.net
@@ -55793,6 +55797,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 m3.be.2mdn.net
 0.0.0.0 m3.br.2mdn.net
 0.0.0.0 m3.ca.2mdn.net
+0.0.0.0 m3.cdn-jquery.host
 0.0.0.0 m3.cn.2mdn.net
 0.0.0.0 m3.de.2mdn.net
 0.0.0.0 m3.dk.2mdn.net
@@ -55824,6 +55829,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 m4.be.2mdn.net
 0.0.0.0 m4.br.2mdn.net
 0.0.0.0 m4.ca.2mdn.net
+0.0.0.0 m4.cdn-jquery.host
 0.0.0.0 m4.cn.2mdn.net
 0.0.0.0 m4.de.2mdn.net
 0.0.0.0 m4.dk.2mdn.net
@@ -86345,6 +86351,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 test-traffic.narod.ru
 0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 test.alojamentouniversitario.com
+0.0.0.0 test.cdn-jquery.host
 0.0.0.0 test.com
 0.0.0.0 test.coremetrics.com
 0.0.0.0 test.cryptonoter.com
@@ -96308,6 +96315,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 wrqjwrrpsnnm.com
 0.0.0.0 wrtnetixxrmg.com
 0.0.0.0 wrubyjtvqhxaqkh.pw
+0.0.0.0 wrxgandsfcz.ru
 0.0.0.0 ws-164-87.clok.creative.com
 0.0.0.0 ws-ca-01.rocks.io
 0.0.0.0 ws-de-01.rocks.io
