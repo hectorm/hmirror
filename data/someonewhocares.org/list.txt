@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 12 Apr 2018 at 02:54:00 GMT
+# Last updated: Fri, 13 Apr 2018 at 06:44:53 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9237,6 +9237,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 p3p.alibaba.com
 127.0.0.1 p3p.mmstat.com
 127.0.0.1 p4psearch.china.alibaba.com
+127.0.0.1 pacificnet.host
 127.0.0.1 paclitor.com
 127.0.0.1 p.admob.com
 127.0.0.1 p.adpdx.com
@@ -11978,6 +11979,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 zlothonline.info
 127.0.0.1 z.moatads.com
 127.0.0.1 z-na.amazon-adsystem.com
+127.0.0.1 zrh.bewilderinglyalbumin.com
 127.0.0.1 zu1.november-lax.com
 127.0.0.1 zuzzer5.com
 127.0.0.1 zytpirwai.net
