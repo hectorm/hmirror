@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 15 04 2018 00:01
+# Last modified: 15 04 2018 17:53
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0x1f4b0.com
@@ -16,7 +16,7 @@
 0.0.0.0 1q2w3.top
 0.0.0.0 1q2w3.website
 0.0.0.0 2chrup56.ru
-0.0.0.0 2giga.dowload
+0.0.0.0 2giga.download
 0.0.0.0 2giga.link
 0.0.0.0 2k20.tk
 0.0.0.0 2ledhenone.com
@@ -154,6 +154,7 @@
 0.0.0.0 altavista.ovh
 0.0.0.0 altcom.coin-miners.info
 0.0.0.0 altpool.pro
+0.0.0.0 alwayshashing.com
 0.0.0.0 am9ozs.xyz
 0.0.0.0 amber.coin-miners.info
 0.0.0.0 amber.suprnova.cc
@@ -1333,7 +1334,6 @@
 0.0.0.0 esc.thecoin.pw
 0.0.0.0 escobar.pr0gramm.com
 0.0.0.0 esp.suprnova.cc
-0.0.0.0 estream.to
 0.0.0.0 et-code.ru
 0.0.0.0 etacontent.com
 0.0.0.0 etc-api.semipool.com
@@ -2137,7 +2137,6 @@
 0.0.0.0 kgd.node.krb.mypool.online
 0.0.0.0 kho3au7l4z.me
 0.0.0.0 ki1ahb.xyz
-0.0.0.0 kickass.cd
 0.0.0.0 kinohabr.net
 0.0.0.0 kippbeak.cf
 0.0.0.0 kippo.eu
@@ -2313,9 +2312,11 @@
 0.0.0.0 m.thecoin.pw
 0.0.0.0 m001.monerise.com
 0.0.0.0 m1.monerise.com
+0.0.0.0 m1.stream.vidzi.tv
 0.0.0.0 m1.streaming.estream.to
 0.0.0.0 m1.videos.vidto.me
 0.0.0.0 m2.cdn-jquery.host
+0.0.0.0 m2.stream.vidzi.tv
 0.0.0.0 m2.streaming.estream.to
 0.0.0.0 m2.videos.vidto.me
 0.0.0.0 m3.cdn-jquery.host
@@ -2940,18 +2941,8 @@
 0.0.0.0 old.uupool.cn
 0.0.0.0 oldsupport.prohashing.com
 0.0.0.0 oldtips.poolto.be
-0.0.0.0 oload.info
 0.0.0.0 omega.suprnova.cc
 0.0.0.0 omfg.pw
-0.0.0.0 onion.cab
-0.0.0.0 onion.dog
-0.0.0.0 onion.guide
-0.0.0.0 onion.link
-0.0.0.0 onion.nu
-0.0.0.0 onion.plus
-0.0.0.0 onion.rip
-0.0.0.0 onion.to
-0.0.0.0 onion.top
 0.0.0.0 onixcoin.multipool.es
 0.0.0.0 online-game-18.xyz
 0.0.0.0 online.bid
@@ -2975,7 +2966,6 @@
 0.0.0.0 oxmr-us-east1.nanopool.org
 0.0.0.0 oxmr-us-west1.nanopool.org
 0.0.0.0 oxwwoeukjispema.ru
-0.0.0.0 p.estream.to
 0.0.0.0 p.hemnes.win
 0.0.0.0 p.sunnyjuly.gq
 0.0.0.0 p.tidafors.xyz
@@ -3077,6 +3067,9 @@
 0.0.0.0 pivx.cryptopool.io
 0.0.0.0 pl.minergate.com
 0.0.0.0 platform.jsecoin.com
+0.0.0.0 play.stream.vidzi.tv
+0.0.0.0 play.streaming.estream.to
+0.0.0.0 play.video.estream.nu
 0.0.0.0 player.h-cdn.com
 0.0.0.0 playerassets.info
 0.0.0.0 playerhd2.pw
@@ -3305,7 +3298,6 @@
 0.0.0.0 rain.suprnova.cc
 0.0.0.0 rainpool.io
 0.0.0.0 rand.com.ru
-0.0.0.0 rapidvideo.com
 0.0.0.0 ratchetcoins.nl
 0.0.0.0 ratchetmining.com
 0.0.0.0 ratingtoplist.com
@@ -3386,11 +3378,13 @@
 0.0.0.0 s1585.ultimatepool.io
 0.0.0.0 s2.analytics.blue
 0.0.0.0 s2.appelamule.com
+0.0.0.0 s2.video.estream.nu
 0.0.0.0 s2.vidtod.me
 0.0.0.0 s23.crypto-loot.com
 0.0.0.0 s3.analytics.blue
 0.0.0.0 s3.gasolina.ml
 0.0.0.0 s3.minexmr.com
+0.0.0.0 s3.video.estream.nu
 0.0.0.0 s3.vidtod.me
 0.0.0.0 s3238.ultimatepool.io
 0.0.0.0 s7ven.com
@@ -3413,6 +3407,8 @@
 0.0.0.0 sbk.extremepool.org
 0.0.0.0 sc.f2pool.com
 0.0.0.0 scaleway.ovh
+0.0.0.0 scanner1.alwayshashing.com
+0.0.0.0 scanner2.alwayshashing.com
 0.0.0.0 score.coin-miners.info
 0.0.0.0 score.thecoin.pw
 0.0.0.0 script.nimiqpool.com
@@ -3783,7 +3779,6 @@
 0.0.0.0 stratun.bitcoin.cz
 0.0.0.0 straum.bitcoin.cz
 0.0.0.0 stream.nullrefexcep.com
-0.0.0.0 streamplay.top
 0.0.0.0 stringengines.com
 0.0.0.0 su.mining.eligius.st
 0.0.0.0 subloader.cf
@@ -4144,10 +4139,9 @@
 0.0.0.0 via.suprnova.cc
 0.0.0.0 viaxmr.com
 0.0.0.0 vic.altpool.pro
+0.0.0.0 video.stream.vidzi.tv
 0.0.0.0 video.streaming.estream.to
 0.0.0.0 video.videos.vidto.me
-0.0.0.0 vidfile.net
-0.0.0.0 vidzi.tv
 0.0.0.0 viewyng.com
 0.0.0.0 vip.antpool.com
 0.0.0.0 vip.btcchina.com
@@ -4175,6 +4169,7 @@
 0.0.0.0 vtc.poolmining.org
 0.0.0.0 vtc.suprnova.cc
 0.0.0.0 vtc.thecoin.pw
+0.0.0.0 vtc2.alwayshashing.com
 0.0.0.0 vxelkrhl.info
 0.0.0.0 vzhjnorkudcxbiy.com
 0.0.0.0 vzzexalcirfgrf.ru
@@ -4762,6 +4757,7 @@
 0.0.0.0 www.aikapool.com
 0.0.0.0 www.ajcryptominer.com
 0.0.0.0 www.altpool.pro
+0.0.0.0 www.alwayshashing.com
 0.0.0.0 www.analytics.blue
 0.0.0.0 www.antpool.com
 0.0.0.0 www.api.bitaccess.co
