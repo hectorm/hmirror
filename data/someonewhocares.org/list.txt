@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 16 Apr 2018 at 02:03:36 GMT
+# Last updated: Wed, 18 Apr 2018 at 03:29:37 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -459,7 +459,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 bserver.blick.com
 127.0.0.1 bstats.adbrite.com
 127.0.0.1 b.stats.paypal.com
-127.0.0.1 buy.tinypass.com
 127.0.0.1 by.optimost.com
 127.0.0.1 c0.adalyser.com
 127.0.0.1 c10.statcounter.com
@@ -834,7 +833,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 127.0.0.1 es.optimost.com
 127.0.0.1 exch.quantserve.com
-127.0.0.1 experience.tinypass.com
 127.0.0.1 extremereach.com
 127.0.0.1 eztrck.com
 127.0.0.1 fastcounter.bcentral.com
@@ -2885,6 +2883,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.servertasarimbu.com
 127.0.0.1 www.sexytiger.ru
 127.0.0.1 www.shinilchurch.net	# domain was hacked and had a trojan installed
+127.0.0.1 www.simplyhelper.com
 127.0.0.1 www.sinera.org
 127.0.0.1 www.siom.ac.cn
 127.0.0.1 www.speedtestbeta.com
@@ -6450,6 +6449,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ad.yadro.ru
 127.0.0.1 ad.yemeksepeti.com
 127.0.0.1 ad.yieldmanager.com
+127.0.0.1 a.dynad.net
 127.0.0.1 adz.afterdawn.net
 127.0.0.1 ad.zaman.com
 127.0.0.1 ad.zaman.com.tr
@@ -7211,6 +7211,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cdn.yottos.com
 127.0.0.1 cdn.zeusclicks.com
 127.0.0.1 cds.adecn.com
+127.0.0.1 c.dynad.net
 127.0.0.1 c.eblastengine.com
 127.0.0.1 cecash.com
 127.0.0.1 ced.sascdn.com
@@ -9861,6 +9862,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 s.di.com.pl
 127.0.0.1 sdk.streamrail.com
 127.0.0.1 s.domob.cn
+127.0.0.1 s.dynad.net
 127.0.0.1 se.adserver.yahoo.com
 127.0.0.1 search.addthis.com
 127.0.0.1 search.freeonline.com
@@ -10320,6 +10322,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 tdameritrade.tt.omtrdc.net
 127.0.0.1 tdc.advertorials.dk
 127.0.0.1 tdkads.ads.dk
+127.0.0.1 t.dynad.net
 127.0.0.1 team4heat.net
 127.0.0.1 teatac4bath.com
 127.0.0.1 techasiamusicsvr.com
@@ -11959,6 +11962,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 zc1.zeroredirect11.com
 127.0.0.1 z.ceotrk.com
 127.0.0.1 zdads.e-media.com
+127.0.0.1 z.dynad.net
 127.0.0.1 zeevex-online.com
 127.0.0.1 zemgo.com
 127.0.0.1 zeroredirect10.com
