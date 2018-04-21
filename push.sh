@@ -4,22 +4,22 @@
 # Repository: https://github.com/zant95/hMirror
 # License:    MIT, https://opensource.org/licenses/MIT
 
-# Exit on errors
 set -eu
-
-# Globals
 export LC_ALL=C
 
-# Process
+scriptDir=$(dirname "$(readlink -f "$0")")
+
 main() {
 	username="$1"
 	password="$2"
 	shift 2
 
-	git add ./data
-	git commit -m 'Update sources'
-	git push "https://${username}:${password}@github.com/zant95/hMirror.git" master
+	updatedSources=$(git ls-files --modified --other "$scriptDir"/data/ | sed -n 's|.*/\(.*\)/list\.txt$|* \1|p')
+	commitMsg=$(printf -- '%s\n%s' 'Updated sources:' "$updatedSources")
+
+	git add "$scriptDir"/data/
+	git commit -m "$commitMsg"
+	git push "https://${username}:${password}@github.com/zant95/hmirror.git" master
 }
 
 main "$@"
-
