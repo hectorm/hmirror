@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 18 Apr 2018 at 03:29:37 GMT
+# Last updated: Fri, 20 Apr 2018 at 10:23:40 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -395,6 +395,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 amer.rel.msn.com
 127.0.0.1 analytics.msnbc.msn.com
 127.0.0.1 analytics.prx.org
+127.0.0.1 analytics.publitas.com
 127.0.0.1 a-nj.1rx.io
 127.0.0.1 anm.intelli-direct.com
 127.0.0.1 an.mlb.com
@@ -2583,6 +2584,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 rd.alphabirdnetwork.com
 127.0.0.1 reacherinst.com
 127.0.0.1 readheadstick.biz
+127.0.0.1 readyupdate.thelatestmostreadytocontentgetnowfast.top
 127.0.0.1 regardens.info
 127.0.0.1 reward-survey.net
 127.0.0.1 rickrolling.com
@@ -5633,6 +5635,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 adserv.iafrica.com
 127.0.0.1 adservice.google.ca
 127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.com.au
 127.0.0.1 adservices.google.com
 127.0.0.1 adservices.picadmedia.com
 127.0.0.1 adservicestats.com
@@ -6982,6 +6985,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 bsads.looksmart.com
 #127.0.0.1 b.scorecardresearch.com	# interferes with Huffington Post slideshows
 127.0.0.1 bs.israelinfo.ru
+127.0.0.1 bsnj.eyeblaster.akadns.net
 127.0.0.1 bs.serving-sys.com	#eyeblaster.com
 127.0.0.1 bt.linkpulse.com
 127.0.0.1 bumerangshowsites.hurriyet.com.tr
