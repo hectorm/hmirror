@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sat Apr 21 04:30:15 UTC 2018
-# Blocked domains: 105154
+# Last updated:    Sun Apr 22 04:31:15 UTC 2018
+# Blocked domains: 105174
 
 # <header>
 127.0.0.1       localhost 
@@ -8445,6 +8445,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adservhere.com
 0.0.0.0 adservice.aliexpress.com
 0.0.0.0 adservice.google.ca
+0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.au
 0.0.0.0 adservicedomain.info
@@ -12282,6 +12283,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 api.mobojoy.baidu.com
 0.0.0.0 api.mobula.ds.duapps.com
 0.0.0.0 api.mobula.sdk.duapps.com
+0.0.0.0 api.moengage.com
 0.0.0.0 api.monerise.com
 0.0.0.0 api.monero.hashvault.pro
 0.0.0.0 api.moneroocean.stream
@@ -12363,6 +12365,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 apishops.ru
 0.0.0.0 apispringsmartne-a.akamaihd.net
 0.0.0.0 apiv2.moengage.com
+0.0.0.0 apiv3.moengage.com
 0.0.0.0 apiwebwebgetcom-a.akamaihd.net
 0.0.0.0 apiwoodensealcom-a.akamaihd.net
 0.0.0.0 apkandroidhack.com
@@ -13490,6 +13493,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 asdkasid.knowsitall.info
 0.0.0.0 asdorka.com
 0.0.0.0 asdvolley2010.it
+0.0.0.0 ase.clmbtech.com
 0.0.0.0 aseadnet.com
 0.0.0.0 aseanstore.com
 0.0.0.0 asecurecraft.com
@@ -21020,6 +21024,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdn-my5.ru
 0.0.0.0 cdn-qc.coccoc.com
 0.0.0.0 cdn-rtb.sape.ru
+0.0.0.0 cdn-settings.segment.com
 0.0.0.0 cdn-social.janrain.com
 0.0.0.0 cdn-ssl-hosting.com
 0.0.0.0 cdn.8digits.com
@@ -21078,6 +21083,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdn.atlassbx.com
 0.0.0.0 cdn.atomex.net
 0.0.0.0 cdn.atwola.com
+0.0.0.0 cdn.auditude.com
 0.0.0.0 cdn.augur.io
 0.0.0.0 cdn.avmws.com
 0.0.0.0 cdn.banner.thumbplay.com
@@ -28072,6 +28078,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 decenttools.com
 0.0.0.0 decibelinsight.net
 0.0.0.0 decide-pay.idclothing.com.au
+0.0.0.0 decide.mixpanel.com
 0.0.0.0 decideinteractive.com
 0.0.0.0 decidesilver.net
 0.0.0.0 decisionmark.com
@@ -45572,6 +45579,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hotspot.cz
 0.0.0.0 hotspotint.dk
 0.0.0.0 hotspotshield.com
+0.0.0.0 hotstar.pubnub.net
 0.0.0.0 hotstar.worldgravity.com
 0.0.0.0 hotstats.gr
 0.0.0.0 hotstreams.de
@@ -47628,6 +47636,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 in-mailling.com
 0.0.0.0 in-ova.com.co
 0.0.0.0 in-star.videoplaza.tv
+0.0.0.0 in-starlive-preroll.videoplaza.tv
+0.0.0.0 in-starlive.videoplaza.tv
 0.0.0.0 in-t-h-e.cn
 0.0.0.0 in-vogue.de
 0.0.0.0 in.11zz.com
@@ -55059,6 +55069,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 logs.comics.com
 0.0.0.0 logs.eresmas.com
 0.0.0.0 logs.eresmas.net
+0.0.0.0 logs.gaana.com
 0.0.0.0 logs.loggly.com
 0.0.0.0 logs.sexy-parade.com
 0.0.0.0 logs.spilgames.com
@@ -74920,6 +74931,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 reporting.singlefeed.com
 0.0.0.0 reportingsales.com
 0.0.0.0 reportinstagram.com
+0.0.0.0 reports.crashlytics.com
 0.0.0.0 reports.extreme-dm.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 reportwebmaster.000webhostapp.com
@@ -79127,6 +79139,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 settings-identitas.000webhostapp.com
 0.0.0.0 settings-liverez.com
 0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.luckyorange.net
 0.0.0.0 settlecruise.org
 0.0.0.0 setup-32.co.in
@@ -82775,6 +82788,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sql-server-driver.beesearch.info
 0.0.0.0 sqliinfos.com
 0.0.0.0 sqlservercentral.us.intellitxt.com
+0.0.0.0 sqm.telemetry.microsoft.com
 0.0.0.0 sqmeinv.com
 0.0.0.0 sqmgckfapqpw.xyz
 0.0.0.0 sqnezuqjdbhe.com
@@ -83211,6 +83225,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 starz.122.2o7.net
 0.0.0.0 stast2.gq.com
 0.0.0.0 staswiselka.pl
+0.0.0.0 stat-c.maxthon.com
 0.0.0.0 stat-counter.tass-online.ru
 0.0.0.0 stat-tracker.net
 0.0.0.0 stat.4u.pl
@@ -83360,6 +83375,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 static.clickscloud.net
 0.0.0.0 static.clicktorrent.info
 0.0.0.0 static.clicktripz.com
+0.0.0.0 static.clmbtech.com
 0.0.0.0 static.contentabc.com
 0.0.0.0 static.cpalead.com
 0.0.0.0 static.crakbanner.com
@@ -85415,6 +85431,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 t.afftrackr.com
 0.0.0.0 t.analytics.blue
 0.0.0.0 t.app5.pw
+0.0.0.0 t.appsflyer.com
 0.0.0.0 t.atpanel.com
 0.0.0.0 t.bbtrack.net
 0.0.0.0 t.beanstalkdata.com
@@ -90676,6 +90693,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 udm.ri7.scorecardresearch.com
 0.0.0.0 udm.ri8.scorecardresearch.com
 0.0.0.0 udm.ri9.scorecardresearch.com
+0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmlkmzjkob.co
 0.0.0.0 udmserve.net
 0.0.0.0 udorik.com
@@ -92266,6 +92284,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 v1.extreme-dm.com
 0.0.0.0 v1.nedstatbasic.net
 0.0.0.0 v1.stat.ku6.com
+0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 v10.xmlsearch.miva.com
 0.0.0.0 v11lndpin.com
 0.0.0.0 v11media.com
@@ -93847,6 +93866,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 vorlagen-land.de
 0.0.0.0 voronezh.xrus.org
 0.0.0.0 voronezh136.ru
+0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex.dragonmastering.com
 0.0.0.0 vos-stars-nues.biz
