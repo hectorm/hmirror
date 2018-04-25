@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 20 Apr 2018 at 10:23:40 GMT
+# Last updated: Tue, 24 Apr 2018 at 15:24:47 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -394,6 +394,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 amer.hops.glbdns.microsoft.com
 127.0.0.1 amer.rel.msn.com
 127.0.0.1 analytics.msnbc.msn.com
+127.0.0.1 analytics.myfinances.com
 127.0.0.1 analytics.prx.org
 127.0.0.1 analytics.publitas.com
 127.0.0.1 a-nj.1rx.io
@@ -5623,6 +5624,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 adserver.wemnet.nl
 127.0.0.1 adserver.wietforum.nl
 127.0.0.1 adserver.x3.hu
+127.0.0.1 adserver.xpanama.net
 127.0.0.1 adserver.ya.com
 127.0.0.1 adserver.yahoo.com
 127.0.0.1 adserver.zaz.com.br
@@ -8337,6 +8339,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 immediadement-arretez-ezhez-identfcie-jasdasd1233-9057.com
 127.0.0.1 im.of.pl
 127.0.0.1 impact.cossette-webpact.com
+127.0.0.1 imp.admarketplace.net
 127.0.0.1 imp.adsmogo.com
 127.0.0.1 impbe.tradedoubler.com
 127.0.0.1 impl.onscroll.com
