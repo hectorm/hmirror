@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Wed Apr 25 04:30:58 UTC 2018
-# Blocked domains: 105646
+# Last updated:    Thu Apr 26 04:32:15 UTC 2018
+# Blocked domains: 105648
 
 # <header>
 127.0.0.1       localhost 
@@ -71541,6 +71541,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 premender.co
 0.0.0.0 premier-buildings.us
 0.0.0.0 premier-one.net
+0.0.0.0 premier-tennis.com
 0.0.0.0 premierfloraldesign.com
 0.0.0.0 premierleagueprizes.com
 0.0.0.0 premieroffice.com.vn
@@ -82462,6 +82463,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 solitaire-game.ru
 0.0.0.0 solitairetime.com
 0.0.0.0 soliternewsstar.eu
+0.0.0.0 solitudehotel.com
 0.0.0.0 solmarket.by
 0.0.0.0 solnplast.ru
 0.0.0.0 solo4sse.beget.tech
