@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Fri May  4 04:27:54 UTC 2018
-# Blocked domains: 106077
+# Last updated:    Sat May  5 04:27:42 UTC 2018
+# Blocked domains: 106084
 
 # <header>
 127.0.0.1       localhost 
@@ -33752,6 +33752,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 etggiddfdaqd.com
 0.0.0.0 etglnloj.com
 0.0.0.0 eth-giving.com
+0.0.0.0 eth-pocket.com
 0.0.0.0 eth-pocket.de
 0.0.0.0 ethan.wang
 0.0.0.0 ethanslayton.com
@@ -60145,6 +60146,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mobile.mng-ads.com
 0.0.0.0 mobile.navigation.video.sms13.de
 0.0.0.0 mobile.paypal.com.cgi-bin.artincolor.net
+0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 mobile.updatescotia.crystalls.com
 0.0.0.0 mobile333.com
@@ -62214,6 +62216,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mytomatosoup.com
 0.0.0.0 mytop-in.net
 0.0.0.0 mytop.az
+0.0.0.0 mytopf.com
 0.0.0.0 mytotalsearch.com
 0.0.0.0 mytradeclub.su
 0.0.0.0 mytraf.info
@@ -63509,10 +63512,12 @@ ff02::3         ip6-allhosts
 0.0.0.0 nextstepcapital.com.au
 0.0.0.0 nexttime.ovh
 0.0.0.0 nexttrk.com
+0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusconsultoriacontabil.com.br
 0.0.0.0 nexusghana.com
 0.0.0.0 nexusglobal.fr
 0.0.0.0 nexusproof.com
+0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 nexxxxi.com
 0.0.0.0 nexys404.us.intellitxt.com
 0.0.0.0 neymar.alphonso.tv
@@ -74960,6 +74965,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 recreation-leisure-rewardpath.com
 0.0.0.0 recreativ.com.ua
 0.0.0.0 recreativ.ru
+0.0.0.0 recrinsit.ru
 0.0.0.0 recruiter-talk.com
 0.0.0.0 recs.atgsvcs.com
 0.0.0.0 recs.richrelevance.com
@@ -87179,6 +87185,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 telekom-onlines.webs.com
 0.0.0.0 telekomtonline-updateaccount.rhcloud.com
 0.0.0.0 telemetry.appex.bing.net
+0.0.0.0 telemetry.firstpartyapps.oaspapps.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.layer.com
 0.0.0.0 telemetrytaxonomy.net
