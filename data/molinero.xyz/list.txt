@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Sat May  5 04:27:42 UTC 2018
-# Blocked domains: 106084
+# Last updated:    Sun May  6 04:27:46 UTC 2018
+# Blocked domains: 106085
 
 # <header>
 127.0.0.1       localhost 
@@ -8536,6 +8536,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adservr.de
 0.0.0.0 adserwer.afilo.pl
 0.0.0.0 adserwer.o2.pl
+0.0.0.0 adserwer.xwords.pl
 0.0.0.0 adsettings.com
 0.0.0.0 adseu.novem.pl
 0.0.0.0 adsfac.eu
