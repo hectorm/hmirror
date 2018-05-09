@@ -26,12 +26,25 @@ fetchUrl() {
 	curl -fsSL -A 'Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0' -- "$@"
 }
 
-adblockToPlain() {
-	# shellcheck disable=SC2016
-	printf -- '%s' "$1" | \
-		tr -d '\r' | tr '[:upper:]' '[:lower:]' | \
-		grep -oP '(?<=^\|\|)(?:[0-9a-z_-]{1,63}\.){1,}[a-z][0-9a-z_-]{1,62}(?=\^(?:$|\$(?:(?!domain=).)*$))' | \
-		sort -u
+adblockToHosts() {
+	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z_-]\{1,62\}'
+	rules=$(printf -- '%s' "$1" \
+		| tr -d '\r' \
+		| tr '[:upper:]' '[:lower:]' \
+		| grep -v '^!'
+	)
+	hosts=$(printf -- '%s' "$rules" \
+		| sed -n "s/^||\(${domainRegex}\)\^$/\1/p" \
+		| sort | uniq
+	)
+	exceptions=$(printf -- '%s' "$rules" \
+		| sed -n "s/^@@||\(${domainRegex}\).*/\1/p" \
+		| sort | uniq
+	)
+	for exception in ${exceptions}; do
+		hosts=$(printf -- '%s' "$hosts" | grep -vxF "$exception")
+	done
+	printf -- '%s\n' "$hosts"
 }
 
 main() {
@@ -54,7 +67,7 @@ main() {
 			cd -- "$scriptDir/data/$name"
 
 			if [ "$format" = 'adblock' ]; then
-				content=$(adblockToPlain "$content")
+				content=$(adblockToHosts "$content")
 			fi
 
 			printf -- '%s\n' "$content" > list.txt
