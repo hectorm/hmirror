@@ -31,7 +31,7 @@ adblockToHosts() {
 	rules=$(printf -- '%s' "$1" \
 		| tr -d '\r' \
 		| tr '[:upper:]' '[:lower:]' \
-		| grep -v '^!'
+		| grep -v '^!' || true
 	)
 	hosts=$(printf -- '%s' "$rules" \
 		| sed -n "s/^||\(${domainRegex}\)\^$/\1/p" \
@@ -42,7 +42,9 @@ adblockToHosts() {
 		| sort | uniq
 	)
 	for exception in ${exceptions}; do
-		hosts=$(printf -- '%s' "$hosts" | grep -vxF "$exception")
+		hosts=$(printf -- '%s' "$hosts" \
+			| grep -vxF "$exception" || true
+		)
 	done
 	printf -- '%s\n' "$hosts"
 }
