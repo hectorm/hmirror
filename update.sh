@@ -27,26 +27,29 @@ fetchUrl() {
 }
 
 adblockToHosts() {
-	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z_-]\{1,62\}'
 	rules=$(printf -- '%s' "$1" \
 		| tr -d '\r' \
-		| tr '[:upper:]' '[:lower:]' \
-		| grep -v '^!' || true
+		| tr '[:upper:]' '[:lower:]'
 	)
-	hosts=$(printf -- '%s' "$rules" \
+
+	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z_-]\{1,62\}'
+
+	hostsPipe=$(mktemp -u)
+	mkfifo -m 600 "$hostsPipe"
+	printf -- '%s' "$rules" \
 		| sed -n "s/^||\(${domainRegex}\)\^$/\1/p" \
-		| sort | uniq
-	)
-	exceptions=$(printf -- '%s' "$rules" \
+		| sort | uniq \
+	> "$hostsPipe" &
+
+	exceptionsPipe=$(mktemp -u)
+	mkfifo -m 600 "$exceptionsPipe"
+	printf -- '%s' "$rules" \
 		| sed -n "s/^@@||\(${domainRegex}\).*/\1/p" \
-		| sort | uniq
-	)
-	for exception in ${exceptions}; do
-		hosts=$(printf -- '%s' "$hosts" \
-			| grep -vxF "$exception" || true
-		)
-	done
-	printf -- '%s\n' "$hosts"
+		| sort | uniq \
+	> "$exceptionsPipe" &
+
+	comm -23 "$hostsPipe" "$exceptionsPipe"
+	rm -f "$hostsPipe" "$exceptionsPipe"
 }
 
 main() {
