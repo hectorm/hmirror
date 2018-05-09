@@ -35,7 +35,7 @@ adblockToPlain() {
 }
 
 main() {
-	sourceList=$(jq -c '.sources|map(select(.enabled))' sources.json)
+	sourceList=$(jq -c '.sources|map(select(.enabled))' "$scriptDir/sources.json")
 	sourceCount=$(printf -- '%s' "$sourceList" | jq '.|length-1')
 
 	logAction 'Downloading lists...'
