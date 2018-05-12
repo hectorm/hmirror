@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Fri May 11 00:00:14 UTC 2018
-# Blocked domains: 106129
+# Last updated:    Sat May 12 00:00:15 UTC 2018
+# Blocked domains: 106133
 
 # <header>
 127.0.0.1       localhost 
@@ -50997,7 +50997,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 jqmcbepfjgks.com
 0.0.0.0 jqobqwkcmhfvku.pw
 0.0.0.0 jqqrcwwd.com
-0.0.0.0 jqrcdn.download
 0.0.0.0 jqtsknmobyw.com
 0.0.0.0 jqtwygdajic.com
 0.0.0.0 jque.net
@@ -100297,8 +100296,13 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.josip-stadler.org
 0.0.0.0 www.jouwstats.nl
 0.0.0.0 www.joydownload.com
+0.0.0.0 www.jqassets.download
+0.0.0.0 www.jqcdn.download
+0.0.0.0 www.jqrcdn.download
 0.0.0.0 www.jque.net
+0.0.0.0 www.jquerrycdn.download
 0.0.0.0 www.jquery-cdn.download
+0.0.0.0 www.jqwww.download
 0.0.0.0 www.jsccnn.com
 0.0.0.0 www.jscdndel.com
 0.0.0.0 www.jscount.com

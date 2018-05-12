@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 06 May 2018 at 23:03:41 GMT
+# Last updated: Fri, 11 May 2018 at 03:59:12 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -339,6 +339,7 @@ ff02::3		ip6-allhosts
 #127.0.0.1 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
 #&lt;/maybe-spy&gt;
 
+127.0.0.1
 127.0.0.1 006.free-counter.co.uk
 127.0.0.1 006.freecounters.co.uk
 127.0.0.1 06272002-dbase.hitcountz.net # Web bugs in spam
