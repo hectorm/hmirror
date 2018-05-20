@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Fri May 18 02:30:14 UTC 2018
-# Blocked domains: 108336
+# Last updated:    Sat May 19 02:30:16 UTC 2018
+# Blocked domains: 108342
 
 # <header>
 127.0.0.1       localhost 
@@ -27745,6 +27745,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 czyjtonumertel.pl
 0.0.0.0 czyszczeniekrakow.pl
 0.0.0.0 d-agency.net
+0.0.0.0 d-and-h.com
 0.0.0.0 d-black.bz
 0.0.0.0 d-cache.microad.jp
 0.0.0.0 d-cache.microadinc.com
@@ -52540,6 +52541,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 k5evib.ru
 0.0.0.0 k5market.com
 0.0.0.0 k5zoom.com
+0.0.0.0 k6r.net
 0.0.0.0 k769943.com
 0.0.0.0 k77hof1z7k.com
 0.0.0.0 k9anf8bc.webcam
@@ -54070,6 +54072,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 kuhdi.com
 0.0.0.0 kuhni.kuhnisiblings.ru
 0.0.0.0 kuhnisister.ru
+0.0.0.0 kuikdelivery.com
 0.0.0.0 kuiler.com
 0.0.0.0 kuirfufo.ru
 0.0.0.0 kuizhai.com
@@ -56072,6 +56075,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 livetravelnews.com
 0.0.0.0 livetsomudvekslingstudent.bloggersdelight.dk
 0.0.0.0 liveuniversenetwork.com
+0.0.0.0 liveupdate.feednowforbrandnewcontestdistributor.win
 0.0.0.0 liveviewer.ez.no
 0.0.0.0 livewebstats.dk
 0.0.0.0 livewell.net
@@ -70848,7 +70852,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 ping.smyte.com
 0.0.0.0 ping.taplytics.com
 0.0.0.0 ping.tvmaze.com
-0.0.0.0 ping.ublock.org
 0.0.0.0 ping.xlmc.sandai.net
 0.0.0.0 ping1.unicast.com
 0.0.0.0 pingagenow.com
@@ -71101,6 +71104,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pixel.adsniper.ru
 0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 pixel.advertising.com
+0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.bild.de
 0.0.0.0 pixel.bilinmedia.net
 0.0.0.0 pixel.blog.hu
@@ -92560,6 +92564,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 trinusuras.net
 0.0.0.0 trinylium.com
 0.0.0.0 trion.od.ua
+0.0.0.0 tripan.me
 0.0.0.0 triphasepower.co.ke
 0.0.0.0 triphasil.1.p2l.info
 0.0.0.0 triphasil.3.p2l.info
@@ -103423,6 +103428,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.relaciones-pareja.com
 0.0.0.0 www.relevantknowledge.com
 0.0.0.0 www.relmaxtop.com
+0.0.0.0 www.remotepartition.com
 0.0.0.0 www.remotrk.com
 0.0.0.0 www.removearrest.com
 0.0.0.0 www.rempko.sk
