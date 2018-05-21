@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 18 May 2018 at 00:48:49 GMT
+# Last updated: Sun, 20 May 2018 at 21:14:25 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -822,6 +822,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 easy-web-stats.com
 127.0.0.1 ecestats.theglobeandmail.com
 127.0.0.1 economisttestcollect.insightfirst.com
+127.0.0.1 eds.ca.matchbox.maruhub.com
 127.0.0.1 educing.info
 127.0.0.1 ehg.fedex.com
 127.0.0.1 eitbglobal.ojdinteractiva.com
@@ -1160,6 +1161,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 pong.qubitproducts.com
 127.0.0.1 postclick.adcentriconline.com
 127.0.0.1 postgazettecollect.247realmedia.com
+127.0.0.1 postmedia.us.janrainsso.com
 127.0.0.1 precisioncounter.com
 127.0.0.1 p.reuters.com
 127.0.0.1 printmail.biz
@@ -2794,6 +2796,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www21.counsellor.gov.cn
 127.0.0.1 www4.gy7k.net
 127.0.0.1 www.abetterinternet.com
+127.0.0.1 www.activeindexer.com
 127.0.0.1 www.adshufffle.com
 127.0.0.1 www.adwords.google.lloymlincs.com
 127.0.0.1 www.afantispy.com
