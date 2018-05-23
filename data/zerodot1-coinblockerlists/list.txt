@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: If you like the CoinBlockerLists please support me, https://vk.cc/7TL5H2 Every donation helps me to continue the work on the CoinBlockerLists.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 20 05 2018 17:35
+# Last modified: 22 05 2018 20:37
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0x1f4b0.com
@@ -205,7 +205,6 @@
 0.0.0.0 api.bitaccess.co
 0.0.0.0 api.bitcoin.cz
 0.0.0.0 api.bitcoin.de
-0.0.0.0 api.bitfinex.com
 0.0.0.0 api.bitgrail.com
 0.0.0.0 api.bithumb.com
 0.0.0.0 api.blazepool.com
@@ -301,7 +300,6 @@
 0.0.0.0 api.zec.spacepools.org
 0.0.0.0 api.zergpool.com
 0.0.0.0 api2.bitcoin.cz
-0.0.0.0 api2.bitfinex.com
 0.0.0.0 api2.moriaxmr.com
 0.0.0.0 api2.poloniex.com
 0.0.0.0 apib.monerise.com
@@ -465,7 +463,6 @@
 0.0.0.0 bet.webcoin.us
 0.0.0.0 beta-mining.bitcoin.cz
 0.0.0.0 beta-zcash.flypool.org
-0.0.0.0 beta.bitfinex.com
 0.0.0.0 beta.coinbase.com
 0.0.0.0 beta.coinblind.com
 0.0.0.0 beta.coinrail.io
@@ -560,7 +557,6 @@
 0.0.0.0 bitcore.io
 0.0.0.0 bitcore.mine.zpool.ca
 0.0.0.0 bitcrush.info
-0.0.0.0 bitfinex.com
 0.0.0.0 bitgrail.com
 0.0.0.0 bithumb.com
 0.0.0.0 bitin.us
@@ -631,7 +627,6 @@
 0.0.0.0 blog.bitaccess.co
 0.0.0.0 blog.bitcoin.cz
 0.0.0.0 blog.bitcoin.de
-0.0.0.0 blog.bitfinex.com
 0.0.0.0 blog.bitpay.com
 0.0.0.0 blog.changelly.com
 0.0.0.0 blog.coinbase.com
@@ -941,7 +936,6 @@
 0.0.0.0 com-http.us
 0.0.0.0 commercium.lambomoon.club
 0.0.0.0 commercium.miningspeed.com
-0.0.0.0 community.bitfinex.com
 0.0.0.0 community.coinbase.com
 0.0.0.0 community.monerise.com
 0.0.0.0 comp.minertopia.org
@@ -1244,7 +1238,6 @@
 0.0.0.0 do69ifsly4.me
 0.0.0.0 doc.coinone.co.kr
 0.0.0.0 docker.f2pool.com
-0.0.0.0 docs.bitfinex.com
 0.0.0.0 docs.exchange.coinbase.com
 0.0.0.0 doge.coinsprofit.com
 0.0.0.0 doge.mastermining.net
@@ -1997,8 +1990,6 @@
 0.0.0.0 help.cryptopay.me
 0.0.0.0 help.minergate.com
 0.0.0.0 help.multiminerapp.com
-0.0.0.0 helpdesk.bitfinex.com
-0.0.0.0 helpdesk2.bitfinex.com
 0.0.0.0 helperprotectionext.biz
 0.0.0.0 helperprotectionff.biz
 0.0.0.0 hemnes.win
@@ -2115,7 +2106,6 @@
 0.0.0.0 io.bitpay.com
 0.0.0.0 io.litecoinpool.org
 0.0.0.0 iop.thecoin.pw
-0.0.0.0 iota.bitfinex.com
 0.0.0.0 iota.moriaxmr.com
 0.0.0.0 iotaseed.io
 0.0.0.0 ipbc.bohemianpool.com
@@ -2970,7 +2960,6 @@
 0.0.0.0 nomp.mastermining.net
 0.0.0.0 nord.adr.com.ua
 0.0.0.0 norespar.ru
-0.0.0.0 nostalgia.bitfinex.com
 0.0.0.0 note.thecoin.pw
 0.0.0.0 notices.miningrigrentals.com
 0.0.0.0 nova.mastermining.net
@@ -3929,7 +3918,6 @@
 0.0.0.0 support.2giga.link
 0.0.0.0 support.binance.com
 0.0.0.0 support.bitcoin.cz
-0.0.0.0 support.bitfinex.com
 0.0.0.0 support.bitpay.com
 0.0.0.0 support.bittrex.com
 0.0.0.0 support.coinbase.com
@@ -4397,7 +4385,6 @@
 0.0.0.0 whysoserius.club
 0.0.0.0 widgets.cointrend.club
 0.0.0.0 wijzeman.sbhmn-miner.com
-0.0.0.0 wiki.bitfinex.com
 0.0.0.0 wiki.multipool.us
 0.0.0.0 wildianing.ru
 0.0.0.0 willacrit.com
@@ -4461,7 +4448,6 @@
 0.0.0.0 ws-fr-03.rocks.io
 0.0.0.0 ws.bhzejltg.info
 0.0.0.0 ws.bitcoin.de
-0.0.0.0 ws.bitfinex.com
 0.0.0.0 ws.bitgrail.com
 0.0.0.0 ws.coinbase.com
 0.0.0.0 ws.coincheck.com
@@ -4935,7 +4921,6 @@
 0.0.0.0 www.bitcoinzguiding.ovh
 0.0.0.0 www.bitconnect.co
 0.0.0.0 www.bitcore.io
-0.0.0.0 www.bitfinex.com
 0.0.0.0 www.bitgrail.com
 0.0.0.0 www.bithumb.com
 0.0.0.0 www.bitminter.com
