@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 24 May 2018 at 07:36:07 GMT
+# Last updated: Sat, 26 May 2018 at 22:36:56 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -58,7 +58,7 @@
 #    ------------------
 # To convert the hosts file to a set of Cisco IOS commands for Cisco routers
 #   use this script by Jesse Baird:
-#   <A HREF="http://jebaird.com/blog/hosts-ip-host-generating-blocked-hosts-host-file-cisco-router">http://jebaird.com/blog/hosts-ip-host-generating-blocked-hosts-host-file-cisco-router</A>
+#   <A HREF="http://jebaird.com/2012/12/21/hosts-to-ip-host-generating-blocked-hosts-from-a-host-file-for-a-cisco-router.html">http://jebaird.com/2012/12/21/hosts-to-ip-host-generating-blocked-hosts-from-a-host-file-for-a-cisco-router.html</A>
 
 # If there is a domain name you would rather never see, simply add a line
 # that reads "127.0.0.1 machine.domain.tld". This will have the effect of

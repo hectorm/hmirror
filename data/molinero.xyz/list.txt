@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Fri May 25 02:30:16 UTC 2018
-# Blocked domains: 109176
+# Last updated:    Sat May 26 02:30:13 UTC 2018
+# Blocked domains: 109178
 
 # <header>
 127.0.0.1       localhost 
@@ -43156,6 +43156,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 google.tucows.com
 0.0.0.0 google20.net
 0.0.0.0 google4sex.com
+0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
@@ -43961,6 +43962,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 gssprt.jp
 0.0.0.0 gst-interac.com
 0.0.0.0 gstat.orange.fr
+0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gstats.cn
 0.0.0.0 gsthstreturns.com
 0.0.0.0 gstpgbhqzia.bid
