@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Author:     Héctor Molinero Fernández <hector@molinero.xyz>
-# Repository: https://github.com/zant95/hMirror
+# Repository: https://github.com/hectorm/hmirror
 # License:    MIT, https://opensource.org/licenses/MIT
 
 set -eu
@@ -19,7 +19,7 @@ main() {
 
 	git add "$scriptDir"/data/
 	git commit -m "$commitMsg"
-	git push "https://${username}:${password}@github.com/zant95/hmirror.git" master
+	git push "https://${username}:${password}@github.com/hectorm/hmirror.git" master
 }
 
 main "$@"
