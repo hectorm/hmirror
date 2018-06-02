@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/zant95/hblock
-# Last updated:    Thu May 31 02:30:14 UTC 2018
-# Blocked domains: 109293
+# Last updated:    Fri Jun  1 02:30:12 UTC 2018
+# Blocked domains: 109334
 
 # <header>
 127.0.0.1       localhost 
@@ -16,6 +16,7 @@ ff02::3         ip6-allhosts
 
 # <blocklist>
 0.0.0.0 0.r.msn.com
+0.0.0.0 000.0x1f4b0.com
 0.0.0.0 000.gaysexe.free.fr
 0.0.0.0 000007.ru
 0.0.0.0 0000mps.webpreview.dsl.net
@@ -27,20 +28,29 @@ ff02::3         ip6-allhosts
 0.0.0.0 000lp59.wcomhost.com
 0.0.0.0 000owamail0.000webhostapp.com
 0.0.0.0 000tristanprod.free.fr
+0.0.0.0 001.0x1f4b0.com
 0.0.0.0 001547.000webhostapp.com
 0.0.0.0 001wen.com
+0.0.0.0 002.0x1f4b0.com
+0.0.0.0 003.0x1f4b0.com
+0.0.0.0 004.0x1f4b0.com
 0.0.0.0 004b17a0c349157de.com
+0.0.0.0 005.0x1f4b0.com
 0.0.0.0 005.free-counter.co.uk
+0.0.0.0 006.0x1f4b0.com
 0.0.0.0 006.free-counter.co.uk
 0.0.0.0 006.freecounters.co.uk
 0.0.0.0 006a039c957c142bb.com
 0.0.0.0 007-gateway.com
+0.0.0.0 007.0x1f4b0.com
 0.0.0.0 007.free-counter.co.uk
 0.0.0.0 0073dd485d46d930dd9.com
 0.0.0.0 007angels.com
 0.0.0.0 007freepics.com
+0.0.0.0 008.0x1f4b0.com
 0.0.0.0 008.free-counter.co.uk
 0.0.0.0 008.free-counters.co.uk
+0.0.0.0 009.0x1f4b0.com
 0.0.0.0 00aaa2d81c1d174.com
 0.0.0.0 00author.com
 0.0.0.0 00bloggers.ru
@@ -1328,7 +1338,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 3dbluerayplayer.com
 0.0.0.0 3dcgfx.net
 0.0.0.0 3ddental.co.in
-0.0.0.0 3ddianshiji.com
 0.0.0.0 3ddoedowzv.kvksangrur.com
 0.0.0.0 3ddown.com
 0.0.0.0 3dfrsdwde.com
@@ -10094,6 +10103,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 agneskazmierczak.com
 0.0.0.0 agnieszkapudlo-dekoracje.pl
 0.0.0.0 agnusanddora.com
+0.0.0.0 agnznxaqd.com
 0.0.0.0 agoam.bid
 0.0.0.0 agoc.biz
 0.0.0.0 agoldringhotvip.la
@@ -23518,6 +23528,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cj2hosting.com
 0.0.0.0 cjbmanagement.com
 0.0.0.0 cjcajf.com
+0.0.0.0 cjhdmrcv.com
 0.0.0.0 cjhq.baidu.com
 0.0.0.0 cjlog.com
 0.0.0.0 cjmooter.xcache.kinxcdn.com
@@ -36819,6 +36830,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 fdehgchykmiqwdg.info
 0.0.0.0 fdepobamndfn.com
 0.0.0.0 fdetc.org
+0.0.0.0 fdeuykfnpdy.com
 0.0.0.0 fdf4.com
 0.0.0.0 fdf96bba78a9249ca4e.com
 0.0.0.0 fdff44.r.axf8.net
@@ -40514,6 +40526,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 g-stats.openhost.es
 0.0.0.0 g-wizzads.net
 0.0.0.0 g-zone.biz
+0.0.0.0 g.0x1f4b0.com
 0.0.0.0 g.3gl.net
 0.0.0.0 g.admedia.com
 0.0.0.0 g.admob.com
@@ -41348,6 +41361,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 gbub.com
 0.0.0.0 gbusa.saqibsiddiqui.com
 0.0.0.0 gbvvda.info
+0.0.0.0 gbwgrhjjwz.com
 0.0.0.0 gbwrjyntqsvr.com
 0.0.0.0 gc.gcl.ru
 0.0.0.0 gcabs.com.au
@@ -43463,6 +43477,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 gpapercareer.112.2o7.net
 0.0.0.0 gpapermom104.112.2o7.net
 0.0.0.0 gpavxommrba.com
+0.0.0.0 gpbqs.24590.space
 0.0.0.0 gpbznagpormpyusuxbvlpbuejqzwvspcyqjcxbqtbdtlixcgzp.com
 0.0.0.0 gpdjgkibngbrr.com
 0.0.0.0 gperzgnvuuyx.com
@@ -46470,6 +46485,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hmcjupvbxxyx.com
 0.0.0.0 hmdmvaxmmwoso.bid
 0.0.0.0 hmdocuments.com
+0.0.0.0 hmeojqyjoascs.com
 0.0.0.0 hmjtutipevtmg.com
 0.0.0.0 hmkrfmtra.bid
 0.0.0.0 hmlghvujrve.com
@@ -47885,6 +47901,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 iamnotageek.us.intellitxt.com
 0.0.0.0 iamogb.com
 0.0.0.0 iamsport.org
+0.0.0.0 iaoisfnac.com
 0.0.0.0 iapp-cp.nuggad.net
 0.0.0.0 iapphackstools.com
 0.0.0.0 iapplsslserviceupgrade.settingaccountsslsupport.com
@@ -50514,6 +50531,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 irkutsk.zrus.org
 0.0.0.0 irleti.com
 0.0.0.0 irmarketing.se
+0.0.0.0 irmfncjihlb.com
 0.0.0.0 irml.com
 0.0.0.0 irondel.swisshost.by
 0.0.0.0 ironforcehack.com
@@ -51007,6 +51025,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 iyuurrfdfd.gobnd.com
 0.0.0.0 iywexwhxwaczugu4qpjgbpcfkwebeawuef88wiz989.com
 0.0.0.0 iz319xlstbsqs34623cb.com
+0.0.0.0 iz682noju02ye5.com
 0.0.0.0 izac.com.br
 0.0.0.0 izbarin.info
 0.0.0.0 izdagda.ru
@@ -52695,6 +52714,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 jvlqkkutcpgjtwyu2atl.littlematchagirl.com.au
 0.0.0.0 jvlqkkutcpgjtwyu2atl.maherstcottage.com.au
 0.0.0.0 jvmiranda.com.br
+0.0.0.0 jvmuayuilxn.com
 0.0.0.0 jvnvvuveozfi.com
 0.0.0.0 jvodizomnxtg.com
 0.0.0.0 jvriybgxne.com
@@ -54292,6 +54312,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ksk-vuktil.ru
 0.0.0.0 kskhhsgcacaca.co.vu
 0.0.0.0 kslgvaexlw.com
+0.0.0.0 ksloibpah.com
 0.0.0.0 ksmodels.com
 0.0.0.0 ksnsse.com
 0.0.0.0 ksouyewwzudine.com
@@ -55367,6 +55388,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 legomarvelsuperheroes.sharezips.net
 0.0.0.0 legratuits.com
 0.0.0.0 legsandlegs.com
+0.0.0.0 legscare.ru
 0.0.0.0 legsfetish.blogspot.ca
 0.0.0.0 legsfetish.blogspot.ch
 0.0.0.0 legsfetish.blogspot.co.id
@@ -59938,6 +59960,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mediavine-d.openx.net
 0.0.0.0 mediavine.com
 0.0.0.0 mediavoice.com
+0.0.0.0 mediawayss.com
 0.0.0.0 mediawhirl.net
 0.0.0.0 mediax.angloinfo.com
 0.0.0.0 mediaxpart.com
@@ -62839,6 +62862,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mtv2.telemedia.la
 0.0.0.0 mtv3.spring-tns.net
 0.0.0.0 mtvbrazil-services.vimn.com
+0.0.0.0 mtveughs.com
 0.0.0.0 mtvn.112.2o7.net
 0.0.0.0 mtvn.demdex.net
 0.0.0.0 mtvnlatservices.com
@@ -63089,6 +63113,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mvumhltl.com
 0.0.0.0 mvvecbfomk.com
 0.0.0.0 mvxiui.com
+0.0.0.0 mvzfgknmmkjzx.com
 0.0.0.0 mvzmmcbxssgp.com
 0.0.0.0 mw2aimbot.filesforgames.com
 0.0.0.0 mw2godmode.filesforgames.com
@@ -65172,6 +65197,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ngecity.com
 0.0.0.0 ngentot18.ml
 0.0.0.0 ngesso.com.br
+0.0.0.0 ngkqlfcm.com
 0.0.0.0 ngl.kr
 0.0.0.0 nglmedia.com
 0.0.0.0 ngmckvucrjbnyybvgesxozxcwpgnaljhpedttelavqmpgvfsxg.com
@@ -67293,6 +67319,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ol7mpyv9avinq4litdv0.maherstcottage.com.au
 0.0.0.0 ola.pl
 0.0.0.0 olahecub.easyfreehosting.com
+0.0.0.0 olcqpdykme.com
 0.0.0.0 olctpejrnnfh.com
 0.0.0.0 old-darkroast.adknowledge.com
 0.0.0.0 old-rock.com
@@ -67910,6 +67937,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 onlywornonce.net
 0.0.0.0 onmobile.com
 0.0.0.0 onmops.com
+0.0.0.0 onndvfcettwt.com
 0.0.0.0 onocollect.247realmedia.com
 0.0.0.0 onomovie.xyz
 0.0.0.0 onrampadvertising.com
@@ -69575,6 +69603,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 partner.magna.ru
 0.0.0.0 partner.mediametrics.ru
 0.0.0.0 partner.pelikan.cz
+0.0.0.0 partner.pladform.ru
 0.0.0.0 partner.pobieraczek.pl
 0.0.0.0 partner.premiumdomains.com
 0.0.0.0 partner.sbaffiliates.com
@@ -73474,6 +73503,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pqaqnngeoyqejj.com
 0.0.0.0 pqdysthxgrpz.com
 0.0.0.0 pqoznetbeeza.com
+0.0.0.0 pqsfmcuzmoh.com
 0.0.0.0 pqshow.org
 0.0.0.0 pqtsordw.qhigh.com
 0.0.0.0 pqwaaocbzrob.com
@@ -74697,6 +74727,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ptano.cf
 0.0.0.0 ptano.gq
 0.0.0.0 ptarepjx.com
+0.0.0.0 ptawe.com
 0.0.0.0 ptberkat.co.id
 0.0.0.0 ptblqwjz.com
 0.0.0.0 ptcbristol.com
@@ -75508,6 +75539,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 qmamdjtoykgl.com
 0.0.0.0 qmginteractive.com
 0.0.0.0 qmjjvpoqhb.com
+0.0.0.0 qmotkiltrim.com
 0.0.0.0 qmutualportfolioacessment.000webhostapp.com
 0.0.0.0 qmutualportfolioffinancila.000webhostapp.com
 0.0.0.0 qmvzlx.com
@@ -75601,6 +75633,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 qsbfwgtedexirbyoq.pw
 0.0.0.0 qscefywopqfkm.com
 0.0.0.0 qservz.com
+0.0.0.0 qsfckfyv.com
 0.0.0.0 qsgiqllpfthg.com
 0.0.0.0 qshare.ru
 0.0.0.0 qshsaocjet.com
@@ -78194,6 +78227,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rochfashionstudio.com
 0.0.0.0 rociofashion.com
 0.0.0.0 rock.cryptaloot.pro
+0.0.0.0 rock.cryptoloot.pro
 0.0.0.0 rock.webmine.pro
 0.0.0.0 rockabox.co
 0.0.0.0 rockadillo.fi
@@ -80069,6 +80103,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 saskiasteele.net
 0.0.0.0 saspoo.com
 0.0.0.0 sass.cryptaloot.pro
+0.0.0.0 sass.cryptoloot.pro
 0.0.0.0 sass.webmine.pro
 0.0.0.0 sasson-cpa.co.il
 0.0.0.0 sassynslim.com
@@ -87238,6 +87273,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 stoltzfamily.co.za
 0.0.0.0 stomilolsztyn.pl
 0.0.0.0 stone.cryptaloot.pro
+0.0.0.0 stone.cryptoloot.pro
 0.0.0.0 stone.de
 0.0.0.0 stone.webmine.pro
 0.0.0.0 stoneagepk.com
@@ -91788,6 +91824,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tottaldomain.cn
 0.0.0.0 totu.info
 0.0.0.0 totvsaexihbe.com
+0.0.0.0 touayfftdwcd.com
 0.0.0.0 touch.media-serving.com
 0.0.0.0 touchads.com
 0.0.0.0 touchclarity.com
@@ -94372,6 +94409,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ufcundisputed3.console2pc.info
 0.0.0.0 uff5.to
 0.0.0.0 ufgtddsuhlo.com
+0.0.0.0 ufkdsnlvxoqw.com
 0.0.0.0 ufmnicckqyru.com
 0.0.0.0 ufmtevbllqbbxjit.info
 0.0.0.0 ufnzapqvrbyx.com
@@ -95306,6 +95344,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 upgradenote.checkupdateslive.net
 0.0.0.0 upgradenote.enterbestforupdating.bid
 0.0.0.0 upgradenow24.com
+0.0.0.0 upgraderservices.cf
 0.0.0.0 upgradeserver.support-customer.ml
 0.0.0.0 upgradestep.org
 0.0.0.0 upgrdprocess.com.ng
@@ -99713,6 +99752,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 whyblocks.com
 0.0.0.0 whysoserius.club
 0.0.0.0 whzbmdeypkrb.com
+0.0.0.0 whzizteutx.com
 0.0.0.0 wi-fitechnology.uk.intellitxt.com
 0.0.0.0 wi.5.p2l.info
 0.0.0.0 wiadomoscix8.pl
@@ -100281,6 +100321,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 wnsgbsb.com
 0.0.0.0 wnt-40.seeweb.it
 0.0.0.0 wnzxwgatxjuf.com
+0.0.0.0 wnzzxwysay.com
 0.0.0.0 wo-regnet-es.de
 0.0.0.0 wo15.coinhive.com
 0.0.0.0 woche.oewabox.at
@@ -102404,6 +102445,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.crowdgravity.com
 0.0.0.0 www.crowdignite.com
 0.0.0.0 www.crtasi.it
+0.0.0.0 www.cryptaloot.pro
 0.0.0.0 www.crypto-loot.com
 0.0.0.0 www.crypto-pool.fr
 0.0.0.0 www.cryptoloot.pro
@@ -107312,7 +107354,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 xz9u.com
 0.0.0.0 xzcnjs01s0-system.esy.es
 0.0.0.0 xzegarsmiercix.prv.pl
-0.0.0.0 xzheli.com
 0.0.0.0 xzhjv71tss.bradul.creatory.org
 0.0.0.0 xzipy.com
 0.0.0.0 xziqvbico.com
