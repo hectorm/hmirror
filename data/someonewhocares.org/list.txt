@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 06 Jun 2018 at 16:20:17 GMT
+# Last updated: Fri, 08 Jun 2018 at 05:36:27 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -11584,6 +11584,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.klikdirect.com
 127.0.0.1 www.kliksaya.com
 127.0.0.1 www.kmdl101.com
+127.0.0.1 www.konimkan.com
 127.0.0.1 www.kontera.com
 127.0.0.1 www.konversation.com
 127.0.0.1 www.kreaffiliation.com
