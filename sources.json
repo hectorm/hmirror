@@ -45,7 +45,8 @@
   {"name": "stevenblack",                        "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts"},
   {"name": "stopforumspam.com",                  "enabled": true,  "format": "plain",   "url": "https://stopforumspam.com/downloads/toxic_domains_whole.txt"},
   {"name": "winhelp2002.mvps.org",               "enabled": true,  "format": "plain",   "url": "http://winhelp2002.mvps.org/hosts.txt"},
-  {"name": "zerodot1-coinblockerlists",          "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts"},
-  {"name": "zerodot1-coinblockerlists-browser",  "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser"},
+  {"name": "zerodot1-coinblockerlists",          "enabled": true,  "format": "plain",   "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts"},
+  {"name": "zerodot1-coinblockerlists-browser",  "enabled": true,  "format": "plain",   "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser"},
+  {"name": "zerodot1-coinblockerlists-optional", "enabled": true,  "format": "plain",   "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional"},
   {"name": "zeustracker.abuse.ch",               "enabled": true,  "format": "plain",   "url": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist"}
 ]}
