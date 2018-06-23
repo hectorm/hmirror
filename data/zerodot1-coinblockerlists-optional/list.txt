@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2018-06-13 18:46
+# Last modified: 2018-06-22 18:45
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
@@ -41,6 +41,7 @@
 0.0.0.0 antminer-store.com
 0.0.0.0 api.binance.com
 0.0.0.0 api.bitfinex.com
+0.0.0.0 api.bithumb.com
 0.0.0.0 api.cryptoguiminer.com
 0.0.0.0 api.inwemo.com
 0.0.0.0 api.jaxx.io
@@ -68,6 +69,7 @@
 0.0.0.0 bitcore1.trezor.io
 0.0.0.0 bitcore3.trezor.io
 0.0.0.0 bitfinex.com
+0.0.0.0 bithumb.com
 0.0.0.0 blocked.mymonero.com
 0.0.0.0 blog.a-ads.com
 0.0.0.0 blog.jaxx.io
@@ -181,6 +183,7 @@
 0.0.0.0 mining-rig.de
 0.0.0.0 miningfarmasics.com
 0.0.0.0 mm.a-ads.com
+0.0.0.0 mobile-update.bithumb.com
 0.0.0.0 monero-miner.000webhostapp.com
 0.0.0.0 multipoolminer.io
 0.0.0.0 mx.peerhash.com
@@ -200,6 +203,7 @@
 0.0.0.0 p2pool.in
 0.0.0.0 pandaminer.co
 0.0.0.0 parthk.co.uk
+0.0.0.0 pay.bithumb.com
 0.0.0.0 peerhash.com
 0.0.0.0 pool.emercoin.com
 0.0.0.0 pool2.emercoin.com
@@ -208,6 +212,7 @@
 0.0.0.0 pop3.awesomeminer.com
 0.0.0.0 preorder.trezor.io
 0.0.0.0 pricing.jaxx.io
+0.0.0.0 pubapi.bithumb.com
 0.0.0.0 redmine.emercoin.com
 0.0.0.0 resource.binance.com
 0.0.0.0 resource2.binance.com
@@ -258,6 +263,7 @@
 0.0.0.0 wiki.trezor.io
 0.0.0.0 ws.bitfinex.com
 0.0.0.0 ws.ledgerwallet.com
+0.0.0.0 wss.bithumb.com
 0.0.0.0 www.803mine.com
 0.0.0.0 www.a-ads.com
 0.0.0.0 www.antminer-store.com
@@ -269,6 +275,7 @@
 0.0.0.0 www.binance.com
 0.0.0.0 www.bitcoin.org
 0.0.0.0 www.bitfinex.com
+0.0.0.0 www.bithumb.com
 0.0.0.0 www.blog.trezor.io
 0.0.0.0 www.coinadnet.com
 0.0.0.0 www.cointraffic.io
