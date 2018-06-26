@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Sun Jun 24 02:30:15 UTC 2018
-# Blocked domains: 111606
+# Last updated:    Mon Jun 25 02:30:12 UTC 2018
+# Blocked domains: 111652
 
 # <header>
 127.0.0.1       localhost 
@@ -9351,6 +9351,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adv.r7.com
 0.0.0.0 adv.riza.it
 0.0.0.0 adv.rockstar.bg
+0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 adv.sexcounter.com
 0.0.0.0 adv.speednet.bg
@@ -12830,6 +12831,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 api.branch.io
 0.0.0.0 api.browsermine.com
+0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.bttrack.com
 0.0.0.0 api.c.avazunativeads.com
 0.0.0.0 api.calq.io
@@ -12839,6 +12841,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 api.coin-hive.com
 0.0.0.0 api.coinerra.com
 0.0.0.0 api.coinhive.com
+0.0.0.0 api.collect.data.intl.miui.com
 0.0.0.0 api.conduit.com
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.content.ad
@@ -12857,6 +12860,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 api.gameofwhales.com
 0.0.0.0 api.gimbal.com
 0.0.0.0 api.grandonmedia.com
+0.0.0.0 api.hybrid.intl.xiaomi.com
 0.0.0.0 api.infinario.com
 0.0.0.0 api.instabug.com
 0.0.0.0 api.intense.hashvault.pro
@@ -12904,8 +12908,10 @@ ff02::3         ip6-allhosts
 0.0.0.0 api.rollbar.com
 0.0.0.0 api.safedk.com
 0.0.0.0 api.sagent.io
+0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
+0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.shoppingminds.net
 0.0.0.0 api.smartadv.ru
 0.0.0.0 api.splkmobile.com
@@ -14004,6 +14010,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 artteachers.drudesk.com
 0.0.0.0 arttest.thegoldenpath.biz
 0.0.0.0 arttoxfb.com
+0.0.0.0 artucripkzu.com
 0.0.0.0 artur-glowacki.pl
 0.0.0.0 arturtrack.com
 0.0.0.0 artvesu.com
@@ -14851,6 +14858,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 auth.ameli.assurance.maladie.moncompte.clients.crustiforme.net
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 auth.bz
+0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 authedmine.com
 0.0.0.0 authedmine.eu
 0.0.0.0 authedwebmine.cz
@@ -16910,6 +16918,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 bdlive.top
 0.0.0.0 bdnad1.bangornews.com
 0.0.0.0 bdog.info
+0.0.0.0 bdotqoqzxauf.com
 0.0.0.0 bdozkocgkljj.com
 0.0.0.0 bdros.com
 0.0.0.0 bdsm-bizarr-hardcore-teen-orgie-videa-fotky.superczech.com
@@ -22447,6 +22456,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdnmedia.xyz
 0.0.0.0 cdnnetwok.xyz
 0.0.0.0 cdnondemand.org
+0.0.0.0 cdnproviders.net
 0.0.0.0 cdnquality.com
 0.0.0.0 cdnrl.com
 0.0.0.0 cdns.amgdgt.com
@@ -26009,6 +26019,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 constatations-dereverse.com
 0.0.0.0 constech-rak.com
 0.0.0.0 conster.de
+0.0.0.0 constintptr.com
 0.0.0.0 constone.me
 0.0.0.0 construcad.com.ve
 0.0.0.0 constructgroundop.info
@@ -29260,6 +29271,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 data.queryly.com
 0.0.0.0 data.ritzcarlton.com
 0.0.0.0 data.ryanair.com
+0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 data.shipboardserviceberrysiltstone.info
 0.0.0.0 data.vtc.pw
@@ -33521,6 +33533,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 edestionfeu.com
 0.0.0.0 edf.fr.kfskz.com
 0.0.0.0 edfrimmel.com
+0.0.0.0 edfthzanlsyse.com
 0.0.0.0 edgarbleek.com
 0.0.0.0 edge-dl.andomedia.com
 0.0.0.0 edge.analytics.brightedge.com
@@ -37705,6 +37718,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 fengfengtie.com.cn
 0.0.0.0 fengfengtiecrv.com.cn
 0.0.0.0 fengfengtiessp.com.cn
+0.0.0.0 fengrtnoxuwwe.com
 0.0.0.0 fengshangtp.net
 0.0.0.0 fengshuijia.com.cn
 0.0.0.0 fengwutong.com
@@ -38829,6 +38843,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 flash.360edu.com
 0.0.0.0 flash.all-stars.pl
 0.0.0.0 flash.quantserve.com
+0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 flash4fun.com
 0.0.0.0 flash8.co.in
 0.0.0.0 flashadengine.com
@@ -43047,6 +43062,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ghooet.com
 0.0.0.0 ghost-team.info
 0.0.0.0 ghost8.cn
+0.0.0.0 ghosthis.review
 0.0.0.0 ghosts.sharezips.info
 0.0.0.0 ghostsbetakeys.com
 0.0.0.0 ghostshack.net
@@ -49272,6 +49288,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ieuezabolxphga.com
 0.0.0.0 ievad3rs.com
 0.0.0.0 ieve2ee.top
+0.0.0.0 iewsaprgerkjny.com
 0.0.0.0 iexam.info
 0.0.0.0 iexecplatform.com
 0.0.0.0 iexploremalaysia.com
@@ -53075,6 +53092,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 jogjadebatingforum.or.id
 0.0.0.0 jogjet.com
 0.0.0.0 jogpsoiyngua.com
+0.0.0.0 jogrgddvb.com
 0.0.0.0 johanbrekka.no
 0.0.0.0 johannesburgsingles.co.za
 0.0.0.0 johansenelectric.com
@@ -53735,6 +53753,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 jwebbsense.cjt1.net
 0.0.0.0 jwelleryfair.xyz
 0.0.0.0 jwfdyujffrzt.com
+0.0.0.0 jwjztdbakqqk.com
 0.0.0.0 jwmstats.com
 0.0.0.0 jwmyba.biz
 0.0.0.0 jworld.monlineserviceplc.com
@@ -68867,6 +68886,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 oms.nuggad.net
 0.0.0.0 omsama.info
 0.0.0.0 omsego.com
+0.0.0.0 omshdahhtt.com
 0.0.0.0 omsimplex.com
 0.0.0.0 omsk.xrus.org
 0.0.0.0 omt.honda.com
@@ -69882,6 +69902,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 osmos-android.org
 0.0.0.0 osmovie.xyz
 0.0.0.0 osmuryf.ru
+0.0.0.0 osniffer.pro
 0.0.0.0 osnn.work
 0.0.0.0 osnosa.info
 0.0.0.0 osnova3.ru
@@ -73483,6 +73504,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 plmatrix.com
 0.0.0.0 plmma26extra.streams24.tv
 0.0.0.0 plmuxaeyapbqxszavtsljaqvmlsuuvifznvttuuqfcxcbgqdnn.com
+0.0.0.0 plmythrza.com
 0.0.0.0 ploai.com
 0.0.0.0 ploaz54.com
 0.0.0.0 plocap.com
@@ -76568,14 +76590,19 @@ ff02::3         ip6-allhosts
 0.0.0.0 push-notification.tools
 0.0.0.0 push.poptm.com
 0.0.0.0 push2check.com
+0.0.0.0 pushame.com
 0.0.0.0 pushance.com
+0.0.0.0 pushbaddy.com
+0.0.0.0 pushbasic.com
 0.0.0.0 pushcloud.org
 0.0.0.0 pushdata.sendpulse.com
+0.0.0.0 pushdusk.com
 0.0.0.0 pushedwebnews.com
 0.0.0.0 pushengage.com
 0.0.0.0 pusherism.com
 0.0.0.0 pushfeeds.com
 0.0.0.0 pushfeeds.de
+0.0.0.0 pushimer.com
 0.0.0.0 pushnative.com
 0.0.0.0 pushnest.com
 0.0.0.0 pushno.com
@@ -77056,6 +77083,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 qjpxalhvenbt.com
 0.0.0.0 qjqlnnunyelcpslr.com
 0.0.0.0 qjskosdsxanp.com
+0.0.0.0 qjwanedlhedm.com
 0.0.0.0 qkalrmy.pw
 0.0.0.0 qkarmotdhhgeuy.com
 0.0.0.0 qkdywnhtmpgc.com
@@ -80628,6 +80656,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rva.outbrain.com
 0.0.0.0 rvcruqbk.com
 0.0.0.0 rveftfohdybpwv.bid
+0.0.0.0 rvfjbxzxaookgp.com
 0.0.0.0 rvmwyfvfxendw.bid
 0.0.0.0 rvnc72k.com
 0.0.0.0 rvoxndszxwmo.com
@@ -80710,6 +80739,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ryushare.com
 0.0.0.0 ryxpmonwqeg.com
 0.0.0.0 rzbbcjnrsbk.com
+0.0.0.0 rzbsvyigbwip.com
 0.0.0.0 rzcmcqljwxyy.com
 0.0.0.0 rzeczyzadarmo.bo.pl
 0.0.0.0 rzeczyzadarmo.pl
@@ -83092,6 +83122,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sejabemvindoaofuturo.com
 0.0.0.0 sejda.co
 0.0.0.0 sejoong.tourskorea.com
+0.0.0.0 sekajiwqmym.com
 0.0.0.0 sekel.ch
 0.0.0.0 sekindo.com
 0.0.0.0 sekolahrakyatindonesia.net
@@ -84532,6 +84563,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sgolden.site
 0.0.0.0 sgood.ru
 0.0.0.0 sgowntfjwkybawi.pw
+0.0.0.0 sgp.o2o.api.xiaomi.com
 0.0.0.0 sgpbbfdchy.com
 0.0.0.0 sgpes.trt11.jus.br
 0.0.0.0 sgqmhpqrstwzwd.com
@@ -87657,6 +87689,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 srkft.com
 0.0.0.0 srksyzqzcetq.com
 0.0.0.0 srlizvnqqzjmufi.com
+0.0.0.0 srlmbvfmvl.com
 0.0.0.0 srnartevent-lb.com
 0.0.0.0 sroomafp.allyes.com
 0.0.0.0 srppykbedhqp.com
@@ -92892,6 +92925,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tiptoporno.com
 0.0.0.0 tiqcdn.com
 0.0.0.0 tiqueabou.co.ke
+0.0.0.0 tirbxuopf.com
 0.0.0.0 tirerack.tt.omtrdc.net
 0.0.0.0 tirerackcom.112.2o7.net
 0.0.0.0 tirfadegem.com
@@ -95835,6 +95869,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tuu-mitsu.com
 0.0.0.0 tuvanmuanhagiare.com
 0.0.0.0 tuxdipdej.com
+0.0.0.0 tuxphjbzmjfuh.com
 0.0.0.0 tuxzictbrqietq.com
 0.0.0.0 tuzutvisi.com
 0.0.0.0 tv-adult.com
@@ -96658,6 +96693,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 umpfgcwqbunivs.xyz
 0.0.0.0 umqsrvdg.com
 0.0.0.0 umrefebaot.biz
+0.0.0.0 umrehhye.com
 0.0.0.0 ums.adtechus.com
 0.0.0.0 umsebentienterprise.co.za
 0.0.0.0 umsv-steyrtal.com
@@ -97915,6 +97951,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 uvidu.butlerelectricsupply.com
 0.0.0.0 uvimage.56.com
 0.0.0.0 uvirt3.active24.cz
+0.0.0.0 uvjvnbitjmvzgk.com
 0.0.0.0 uvmsfffedzzw.com
 0.0.0.0 uvouqyoirclpotc7s1bk1cmig4.review
 0.0.0.0 uvxaafcozjgh.com
@@ -98692,6 +98729,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 vferwqf.com
 0.0.0.0 vffyvridwaa.com
 0.0.0.0 vffzemb.tk
+0.0.0.0 vfhcrxlfm.com
 0.0.0.0 vfkfctmtgrtq.com
 0.0.0.0 vfm.org.uk
 0.0.0.0 vfnvsvxlgxbvndhgqqohfgdcfprvxqisiqhclfhdpnjzloctny.com
@@ -99967,6 +100005,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 vulging.pro
 0.0.0.0 vunetotbe.com
 0.0.0.0 vungle.com
+0.0.0.0 vunklcwiwpn.com
 0.0.0.0 vunwzlxfsogj.com
 0.0.0.0 vuokraovi.spring-tns.net
 0.0.0.0 vuonglaw.com
@@ -101165,6 +101204,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 webmasters.sextracker.com
 0.0.0.0 webmasters.tubealliance.com
 0.0.0.0 webmasters.videarn.com
+0.0.0.0 webmasterspub.com
 0.0.0.0 webmdcom.tt.omtrdc.net
 0.0.0.0 webmedia.co.il
 0.0.0.0 webmedica.cl
@@ -101689,6 +101729,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 wfreeporn.com
 0.0.0.0 wfussb.oewabox.at
 0.0.0.0 wfwh3mmwnuqp6lsymwhr70.review
+0.0.0.0 wfwtfgrzwsonh.com
 0.0.0.0 wfywchrzpic.com
 0.0.0.0 wg-gesucht.de.intellitxt.com
 0.0.0.0 wg21xijg43.ru
@@ -103950,6 +103991,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.anticlown.com
 0.0.0.0 www.anycracks.com
 0.0.0.0 www.aoredi.com
+0.0.0.0 www.api.ad.intl.xiaomi.com
 0.0.0.0 www.api.alphonso.tv
 0.0.0.0 www.apmebf.com
 0.0.0.0 www.appafile.com
@@ -108284,6 +108326,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 xara.hse24.de
 0.0.0.0 xaretiaomnld.info
 0.0.0.0 xarisma.ru
+0.0.0.0 xarnvfthbye.com
 0.0.0.0 xarxesnetworking.com
 0.0.0.0 xauylcgoqijqfmck.com
 0.0.0.0 xavierbier.com
@@ -108609,6 +108652,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 xl-partenariat.com
 0.0.0.0 xlavzhffzwgb.com
 0.0.0.0 xleebhxalb.com
+0.0.0.0 xlhhbtve.com
 0.0.0.0 xlivehost.com
 0.0.0.0 xlmassage.com
 0.0.0.0 xlmc.sec.miui.com
@@ -109294,6 +109338,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 xumabheajpiko.bid
 0.0.0.0 xuoitwefz.bid
 0.0.0.0 xuonginaz.com
+0.0.0.0 xurokykjwum.com
 0.0.0.0 xuvhyfu1.mvean.ml
 0.0.0.0 xuwptpzdwyaw.com
 0.0.0.0 xuwxbdafults.com
@@ -110944,6 +110989,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 zetporn.com
 0.0.0.0 zettapetta.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
+0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zeus.developershed.com
 0.0.0.0 zeus.qj.net
 0.0.0.0 zeusclicks.com

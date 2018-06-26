@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 19 Jun 2018 at 07:22:52 GMT
+# Last updated: Mon, 25 Jun 2018 at 02:18:27 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2916,6 +2916,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.thedatesafe.com			# Facebook trojan
 127.0.0.1 www.trucktirehotline.com
 127.0.0.1 www.tvshowslist.com
+127.0.0.1 www.upgradeexplorer.com
 127.0.0.1 www.upi6.pillsstore-c.com		# Facebook trojan
 127.0.0.1 www.uqz.com
 127.0.0.1 www.venturead.com
