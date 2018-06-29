@@ -1,5 +1,5 @@
 # This hosts file is brought to you by Dan Pollock and can be found at
-# <A HREF="http://someonewhocares.org/hosts/">http://someonewhocares.org/hosts/</A>
+# http://someonewhocares.org/hosts/
 # You are free to copy and distribute this file for non-commercial uses,
 # as long the original URL and attribution is included. 
 # 
@@ -19,7 +19,7 @@
 # internet. 
 
 # There is a version of this file that uses 0.0.0.0 instead of 127.0.0.1 
-# available at <A HREF="http://someonewhocares.org/hosts/zero/">http://someonewhocares.org/hosts/zero/</A>.
+# available at http://someonewhocares.org/hosts/zero/.
 # On some machines this may run minutely faster, however the zero version
 # may not be compatible with all systems. 
 
@@ -52,13 +52,13 @@
 #    TCP/IP control panel and click on "Select hosts file" to read it in.
 #    ------------------
 #    | As well, note that the format is different on old macs, so
-#    | please visit <A HREF="http://someonewhocares.org/hosts/mac/">http://someonewhocares.org/hosts/mac/</A> for mac format
+#    | please visit http://someonewhocares.org/hosts/mac/ for mac format
 # For Android place the file at "/system/etc/hosts". You will need root
 #   access on your device to do this.
 #    ------------------
 # To convert the hosts file to a set of Cisco IOS commands for Cisco routers
 #   use this script by Jesse Baird:
-#   <A HREF="http://jebaird.com/2012/12/21/hosts-to-ip-host-generating-blocked-hosts-from-a-host-file-for-a-cisco-router.html">http://jebaird.com/2012/12/21/hosts-to-ip-host-generating-blocked-hosts-from-a-host-file-for-a-cisco-router.html</A>
+#   http://jebaird.com/2012/12/21/hosts-to-ip-host-generating-blocked-hosts-from-a-host-file-for-a-cisco-router.html
 
 # If there is a domain name you would rather never see, simply add a line
 # that reads "127.0.0.1 machine.domain.tld". This will have the effect of
@@ -66,7 +66,7 @@
 # this will prevent your browser from downloading banner ads, or sending
 # your information back to a company.
 
-#&lt;localhost&gt;
+#<localhost>
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
 255.255.255.255	broadcasthost
@@ -79,13 +79,13 @@ ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 ff02::3		ip6-allhosts
 #fe80::1%lo0	localhost
-#&lt;/localhost&gt;
+#</localhost>
 
-#&lt;shock-sites&gt;
+#<shock-sites>
 # For example, to block unpleasant pages, try:
 127.0.0.1 goatse.cx       # More information on sites such as 
 127.0.0.1 www.goatse.cx   # these can be found in this article
-127.0.0.1 oralse.cx       # <A HREF="http://en.wikipedia.org/wiki/List_of_shock_sites">en.wikipedia.org/wiki/List_of_shock_sites</A>
+127.0.0.1 oralse.cx       # en.wikipedia.org/wiki/List_of_shock_sites
 127.0.0.1 www.oralse.cx
 127.0.0.1 goatse.ca
 127.0.0.1 www.goatse.ca
@@ -275,18 +275,18 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.zentastic.com
 127.0.0.1 youaresogay.com
 127.0.0.1 zentastic.com
-#&lt;/shock-sites&gt;
+#</shock-sites>
 
-#&lt;shortcut-examples&gt;
+#<shortcut-examples>
 # As well by specifying the ipaddress of a server, you can gain access
 #   to some of your favourite sites with a single letter, instead of
 #   using the whole domain name
 # It is perhaps a better solution to use Favourites/Bookmarks instead.
 #216.34.181.45   s        # slashdot.org
 #74.125.127.105	g        # google.com
-#&lt;/shortcut-examples&gt;
+#</shortcut-examples>
 
-#&lt;hijack-sites&gt;
+#<hijack-sites>
 # The sites ads234.com and ads345.com -- These sites hijack internet explorer 
 # and redirect all requests through their servers. You may need to use spyware 
 # removal programs such as SpyBotS&amp;D, AdAware or HijackThis to remove this 
@@ -298,10 +298,10 @@ ff02::3		ip6-allhosts
 127.0.0.1 ads345.com
 127.0.0.1 www.ads234.com
 127.0.0.1 www.ads345.com
-#&lt;/hijack-sites&gt;
+#</hijack-sites>
 
 
-#&lt;spyware-sites&gt;
+#<spyware-sites>
 # Spyware and user tracking
 # By entering domains here, it will prevent certain companies from
 # gathering information on your surfing habits. These servers do not
@@ -312,7 +312,7 @@ ff02::3		ip6-allhosts
 # Uncomment (remove the #) the lines that you wish to block, as some
 # may provide you with services you like.
 
-#&lt;maybe-spy&gt;
+#<maybe-spy>
 #127.0.0.1 auto.search.msn.com  # Microsoft uses this server to redirect
                                 # mistyped URLs to search engines. They
                                 # log all such errors.
@@ -337,7 +337,7 @@ ff02::3		ip6-allhosts
 					# problems with NPR.org
 #127.0.0.1 www.google-analytics.com		# breaks some sites
 #127.0.0.1 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
-#&lt;/maybe-spy&gt;
+#</maybe-spy>
 
 127.0.0.1 006.free-counter.co.uk
 127.0.0.1 006.freecounters.co.uk
@@ -2017,8 +2017,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 xyz.freelogs.com
 127.0.0.1 zsisk.com
 127.0.0.1 zz.cqcounter.com
-#&lt;/spyware-sites&gt;
-#&lt;malware-sites&gt;
+#</spyware-sites>
+#<malware-sites>
 
 # sites with known trojans, phishing, or other malware
 127.0.0.1 05tz2e9.com
@@ -2962,9 +2962,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 zip.er.cz
 127.0.0.1 ztrf.net
 127.0.0.1 zviframe.biz
-#&lt;/malware-sites&gt;
+#</malware-sites>
 
-#&lt;doubleclick-sites&gt;
+#<doubleclick-sites>
 
 127.0.0.1 3ad.doubleclick.net
 127.0.0.1 ad2.doubleclick.net
@@ -3274,9 +3274,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 uunyadgda1.doubleclick.net
 127.0.0.1 uunyadgds1.doubleclick.net
 127.0.0.1 www.ukrpts.net
-#&lt;/doubleclick-sites&gt;
+#</doubleclick-sites>
 
-#&lt;intellitxt-sites&gt;
+#<intellitxt-sites>
 
 127.0.0.1 1up.us.intellitxt.com
 127.0.0.1 5starhiphop.us.intellitxt.com
@@ -3382,9 +3382,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 warp2search.us.intellitxt.com
 127.0.0.1 wi-fitechnology.uk.intellitxt.com
 127.0.0.1 worldnetdaily.us.intellitxt.com
-#&lt;/intellitxt-sites&gt;
+#</intellitxt-sites>
 
-#&lt;red-sheriff-sites&gt;
+#<red-sheriff-sites>
 
 # Red Sheriff and imrworldwide.com  -- server side tracking
 127.0.0.1 devfw.imrworldwide.com
@@ -3439,9 +3439,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.imrworldwide.com
 127.0.0.1 www.imrworldwide.com.au
 127.0.0.1 www.redsheriff.com
-#&lt;/red-sheriff-sites&gt;
+#</red-sheriff-sites>
 
-#&lt;cydoor-sites&gt;
+#<cydoor-sites>
 
 # cydoor -- server side tracking
 127.0.0.1 cydoor.com
@@ -3509,9 +3509,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 jumcna.cjt1.net
 127.0.0.1 jwebbsense.cjt1.net
 127.0.0.1 www.cydoor.com
-#&lt;/cydoor-sites&gt;
+#</cydoor-sites>
 
-#&lt;2o7-sites&gt;
+#<2o7-sites>
 
 # 2o7.net -- server side tracking
 127.0.0.1 102.112.2o7.net
@@ -3974,9 +3974,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 yrkeve.112.2o7.net
 127.0.0.1 ziffdavisglobal.112.2o7.net
 127.0.0.1 ziffdavispennyarcade.112.2o7.net
-#&lt;/2o7-sites&gt;
+#</2o7-sites>
 
-#&lt;oewabox-sites&gt;
+#<oewabox-sites>
 
 # oewabox.at -- 'Austrian Webanalysis Society'
 127.0.0.1 1000ps.oewabox.at
@@ -4104,10 +4104,10 @@ ff02::3		ip6-allhosts
 127.0.0.1 woche.oewabox.at
 127.0.0.1 wohnnet.oewabox.at
 127.0.0.1 zfm.oewabox.at
-#&lt;/oewabox-sites&gt;
+#</oewabox-sites>
 
-#&lt;ad-sites&gt;
-#&lt;maybe-ads&gt;
+#<ad-sites>
+#<maybe-ads>
 #127.0.0.1 adfarm.mediaplex.com		# may interfere with ebay
 #127.0.0.1 ads.msn.com			#This may cause problems with zone.msn.com
 #127.0.0.1 ak.imgfarm.com		# may cause problems with iwon.com
@@ -4120,7 +4120,7 @@ ff02::3		ip6-allhosts
 #127.0.0.1 www.tkqlhce.com		#qksrv
 #127.0.0.1 ad.ca.doubleclick.net	#intereferes with video on globeandmail.com
 #127.0.0.1 transfer.go.com		#may interfere with Disney websites
-#&lt;/maybe-ads&gt;
+#</maybe-ads>
 
 # ads
 127.0.0.1 0101011.com
@@ -12096,10 +12096,10 @@ ff02::3		ip6-allhosts
 127.0.0.1 zuzzer5.com
 127.0.0.1 zytpirwai.net
 127.0.0.1 zzzrtrcm2.com
-#&lt;/ad-sites&gt;
+#</ad-sites>
 
 # https://securehomes.esat.kuleuven.be/~gacar/persistent/index.html
-#&lt;canvass-fingerprinting-sites&gt;
+#<canvass-fingerprinting-sites>
 127.0.0.1 admicro1.vcmedia.vn
 127.0.0.1 ct1.addthis.com
 127.0.0.1 cya2.net
@@ -12108,18 +12108,18 @@ ff02::3		ip6-allhosts
 127.0.0.1 shorte.st
 127.0.0.1 src.kitcode.net
 127.0.0.1 stat.ringier.cz
-#&lt;/canvass-fingerprinting-sites&gt;
+#</canvass-fingerprinting-sites>
 
-#&lt;evercookies-sites&gt;
+#<evercookies-sites>
 127.0.0.1 ar.hao123.com
 127.0.0.1 irs01.net
 127.0.0.1 kiks.yandex.ru
 127.0.0.1 simg.sinajs.cn
 127.0.0.1 tv.sohu.com
 127.0.0.1 y3.ifengimg.com
-#&lt;/evercookies-sites&gt;
+#</evercookies-sites>
 
-#&lt;yahoo-ad-sites&gt;
+#<yahoo-ad-sites>
 
 # yahoo banner ads
 127.0.0.1 eur.a1.yimg.com
@@ -12152,9 +12152,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 us.x1.yimg.com
 127.0.0.1 us.y1.yimg.com
 127.0.0.1 us.z1.yimg.com
-#&lt;/yahoo-ad-sites&gt;
+#</yahoo-ad-sites>
 
-#&lt;hitbox-sites&gt;
+#<hitbox-sites>
 
 # hitbox.com web bugs
 127.0.0.1 1cgi.hitbox.com
@@ -12521,9 +12521,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 y2k.hitbox.com
 127.0.0.1 yang.hitbox.com
 127.0.0.1 ying.hitbox.com
-#&lt;/hitbox-sites&gt;
+#</hitbox-sites>
 
-#&lt;extreme-dm-sites&gt;
+#<extreme-dm-sites>
 
 # www.extreme-dm.com tracking
 127.0.0.1 extreme-dm.com
@@ -12556,9 +12556,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 z0.extreme-dm.com
 127.0.0.1 z1.extreme-dm.com
 127.0.0.1 z.extreme-dm.com
-#&lt;/extreme-dm-sites&gt;
+#</extreme-dm-sites>
 
-#&lt;realmedia-sites&gt;
+#<realmedia-sites>
 
 # realmedia.com's Open Ad Stream
 127.0.0.1 ap.oasfile.aftenposten.no
@@ -12742,9 +12742,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 oas.uniontrib.com
 127.0.0.1 oas.villagevoice.com
 127.0.0.1 oas.vtsgonline.com
-#&lt;/realmedia-sites&gt;
+#</realmedia-sites>
 
-#&lt;fastclick-sites&gt;
+#<fastclick-sites>
 
 # fastclick banner ads
 127.0.0.1 media1.fastclick.net
@@ -12847,9 +12847,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 media98.fastclick.net
 127.0.0.1 media99.fastclick.net
 127.0.0.1 fastclick.net
-#&lt;/fastclick-sites&gt;
+#</fastclick-sites>
 
-#&lt;belo-interactive-sites&gt;
+#<belo-interactive-sites>
 
 # belo interactive ads
 127.0.0.1 te.about.com
@@ -12895,9 +12895,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 te.trb.com
 127.0.0.1 te.versiontracker.com
 127.0.0.1 te.wsls.com
-#&lt;/belo-interactive-sites&gt;
+#</belo-interactive-sites>
 
-#&lt;popup-traps&gt;
+#<popup-traps>
 
 # popup traps -- sites that bounce you around or won't let you leave
 127.0.0.1 24hwebsex.com
@@ -12928,9 +12928,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.xxxnightly.com
 127.0.0.1 www.xxxtoolbar.com
 127.0.0.1 www.yourfuckbook.com
-#&lt;/popup-traps&gt;
+#</popup-traps>
 
-#&lt;ecard-scam-sites&gt;
+#<ecard-scam-sites>
 
 # malicious e-card -- these sites send out mass quantities of spam 
 	# and some distribute adware and spyware
@@ -12957,9 +12957,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.friendgreetings.net
 127.0.0.1 www.laugh-mail.com
 127.0.0.1 www.laugh-mail.net
-#&lt;/ecard-scam-sites&gt;
+#</ecard-scam-sites>
 
-#&lt;IVW-sites&gt;
+#<IVW-sites>
 
 # European network of tracking sites
 127.0.0.1 1und1.ivwbox.de
@@ -12971,9 +12971,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 onvis.ivwbox.de
 127.0.0.1 spiegel.ivwbox.de
 127.0.0.1 www.ivwbox.de
-#&lt;/IVW-sites&gt;
+#</IVW-sites>
 
-#&lt;wiki-spam-sites&gt;
+#<wiki-spam-sites>
 
 # message board and wiki spam -- these sites are linked in 
 	# message board spam and are unlikely to be real sites
@@ -13785,9 +13785,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 zyrtec.1.p2l.info
 127.0.0.1 zyrtec.3.p2l.info
 127.0.0.1 zyrtec.4.p2l.info
-#&lt;/wiki-spam-sites&gt;
+#</wiki-spam-sites>
 
-#&lt;Windows10&gt;
+#<Windows10>
 
 # Windows 10 reporting domains. 
 127.0.0.1 a.ads2.msads.net
@@ -13823,7 +13823,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 v10.vortex-win.data.microsoft.com
 127.0.0.1 vortex-win.data.microsoft.com
 127.0.0.1 wes.df.telemetry.microsoft.com
-#&lt;/Windows10&gt;
+#</Windows10>
 
 # Acknowledgements
 # I'd like to thank the following people for submitting sites, and
