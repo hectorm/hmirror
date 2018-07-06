@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://gitlab.com/ZeroDot1/CoinBlockerLists/
-# Last modified: 2018-07-04 19:07
+# Last modified: 2018-07-05 20:40
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 000.0x1f4b0.com
@@ -555,6 +555,7 @@
 0.0.0.0 aus.hashhot.com
 0.0.0.0 aus01.supportxmr.com
 0.0.0.0 auth.hitbtc.com
+0.0.0.0 authcaptcha.com
 0.0.0.0 authedmine.com
 0.0.0.0 authedmine.eu
 0.0.0.0 authedwebmine.cz
@@ -606,7 +607,6 @@
 0.0.0.0 bandaomodel.com
 0.0.0.0 bank.hashhot.com
 0.0.0.0 bank.pool.mn
-0.0.0.0 banner.boostbox.com.br
 0.0.0.0 basepush.com
 0.0.0.0 bauersagtnein.myeffect.net
 0.0.0.0 baumgartner.mastermining.net
@@ -919,7 +919,6 @@
 0.0.0.0 boom2.suprnova.cc
 0.0.0.0 boost.suprnova.cc
 0.0.0.0 boost2.suprnova.cc
-0.0.0.0 boostbox.com.br
 0.0.0.0 booty.pool.mn
 0.0.0.0 boss.suprnova.cc
 0.0.0.0 bost.hashhot.com
@@ -2774,6 +2773,7 @@
 0.0.0.0 ftp.crypto-coins.club
 0.0.0.0 ftp.cryptominingpool.eu
 0.0.0.0 ftp.deltapool.net
+0.0.0.0 ftp.directprimal.com
 0.0.0.0 ftp.ftp0118.info
 0.0.0.0 ftp.minergate.com
 0.0.0.0 ftp.miningmania.net
@@ -4584,6 +4584,7 @@
 0.0.0.0 ocean.cryptoloot.pro
 0.0.0.0 ocean.directprimal.com
 0.0.0.0 ocean.webmine.pro
+0.0.0.0 ocean2.authcaptcha.com
 0.0.0.0 ocean2.directprimal.com
 0.0.0.0 ockoy.deliveryclub-6589.download
 0.0.0.0 oct.suprnova.cc
@@ -5266,6 +5267,7 @@
 0.0.0.0 rock.cryptoloot.pro
 0.0.0.0 rock.directprimal.com
 0.0.0.0 rock.webmine.pro
+0.0.0.0 rock2.authcaptcha.com
 0.0.0.0 rock2.directprimal.com
 0.0.0.0 rocks.io
 0.0.0.0 rockwall.investments
@@ -5380,6 +5382,7 @@
 0.0.0.0 sass.cryptoloot.pro
 0.0.0.0 sass.directprimal.com
 0.0.0.0 sass.webmine.pro
+0.0.0.0 sass2.authcaptcha.com
 0.0.0.0 sass2.directprimal.com
 0.0.0.0 sav.coinmine.pl
 0.0.0.0 sb1xju.xyz
@@ -5435,6 +5438,7 @@
 0.0.0.0 sea.directprimal.com
 0.0.0.0 sea.wafflepool.com
 0.0.0.0 sea.webmine.pro
+0.0.0.0 sea2.authcaptcha.com
 0.0.0.0 sea2.directprimal.com
 0.0.0.0 search.bitaccess.co
 0.0.0.0 searchdf.biz
@@ -5897,6 +5901,7 @@
 0.0.0.0 stone.cryptoloot.pro
 0.0.0.0 stone.directprimal.com
 0.0.0.0 stone.webmine.pro
+0.0.0.0 stone2.authcaptcha.com
 0.0.0.0 stone2.directprimal.com
 0.0.0.0 stonecalcom.com
 0.0.0.0 stonk.suprnova.cc
@@ -7447,12 +7452,12 @@
 0.0.0.0 www.arhash.xyz
 0.0.0.0 www.asc.hashhot.com
 0.0.0.0 www.assetscdn.stream
+0.0.0.0 www.authcaptcha.com
 0.0.0.0 www.authedmine.com
 0.0.0.0 www.authedwebmine.cz
 0.0.0.0 www.aymcsx.ru
 0.0.0.0 www.bablace.com
 0.0.0.0 www.baiduccdn1.com
-0.0.0.0 www.banner.boostbox.com.br
 0.0.0.0 www.beagamer.club
 0.0.0.0 www.bela.mastermining.net
 0.0.0.0 www.bestETNpool.com
@@ -7486,7 +7491,6 @@
 0.0.0.0 www.blog.slushpool.com
 0.0.0.0 www.bmst.pw
 0.0.0.0 www.bohemianpool.com
-0.0.0.0 www.boostbox.com.br
 0.0.0.0 www.bravo-mining.com
 0.0.0.0 www.breadapp.com
 0.0.0.0 www.brominer.com
@@ -7580,6 +7584,7 @@
 0.0.0.0 www.dgb.xtrapool.com
 0.0.0.0 www.diggerhash.com
 0.0.0.0 www.dinastycoin.crypto-webminer.com
+0.0.0.0 www.directprimal.com
 0.0.0.0 www.ditcoin.io
 0.0.0.0 www.dnb.io
 0.0.0.0 www.dnr.mining4.co.uk
