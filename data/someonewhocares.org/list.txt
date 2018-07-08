@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 04 Jul 2018 at 17:35:01 GMT
+# Last updated: Sat, 07 Jul 2018 at 08:23:19 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2839,6 +2839,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.faggotry.com
 127.0.0.1 www.feaecebook.com
 127.0.0.1 www.fictioncinema.com
+127.0.0.1 www.findalgorithm.com
 127.0.0.1 www.fischereszter.hu
 127.0.0.1 www.freecontent.bid
 127.0.0.1 www.freedailydownload.com
