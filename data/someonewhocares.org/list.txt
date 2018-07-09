@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 07 Jul 2018 at 08:23:19 GMT
+# Last updated: Mon, 09 Jul 2018 at 00:15:20 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1323,6 +1323,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 sm9.sitemeter.com
 127.0.0.1 smartstats.com
 127.0.0.1 smetrics.att.com
+127.0.0.1 smetrics.tesco.com
 127.0.0.1 snare.iesnare.com
 127.0.0.1 soap.iovation.com
 127.0.0.1 socialize.eu1.gigya.com
