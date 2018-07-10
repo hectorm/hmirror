@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 09 Jul 2018 at 00:15:20 GMT
+# Last updated: Mon, 09 Jul 2018 at 00:34:05 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8486,6 +8486,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ipdata.adtech.fr
 127.0.0.1 ipdata.adtech.us
 127.0.0.1 iphone-avril.offreflash.xyz
+127.0.0.1 ipm-provider.ff.avast.com
 127.0.0.1 iq001.adtech.de
 127.0.0.1 iq001.adtech.fr
 127.0.0.1 iq001.adtech.us
