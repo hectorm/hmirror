@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2018-07-04 19:07
+# Last modified: 2018-07-10 09:41
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
@@ -81,6 +81,7 @@
 0.0.0.0 cdn1.cryptopia.co.nz
 0.0.0.0 cdn2.inwemo.com
 0.0.0.0 chainradar.com
+0.0.0.0 changelly.com
 0.0.0.0 chat.binance.com
 0.0.0.0 chat2.binance.com
 0.0.0.0 chef.a-ads.com
@@ -136,6 +137,7 @@
 0.0.0.0 ftp.mellowads.com
 0.0.0.0 ftp.miningfarmasics.com
 0.0.0.0 ftp.uclick.in
+0.0.0.0 getbitcoin.nz
 0.0.0.0 getmonero.org
 0.0.0.0 global.binance.com
 0.0.0.0 go.cur.lv
@@ -228,6 +230,7 @@
 0.0.0.0 seed2.emercoin.com
 0.0.0.0 selfx1.typeform.com
 0.0.0.0 sftp.binance.com
+0.0.0.0 shapeshift.io
 0.0.0.0 shop.trezor.io
 0.0.0.0 smtp.awesomeminer.com
 0.0.0.0 start.ledgerwallet.com
