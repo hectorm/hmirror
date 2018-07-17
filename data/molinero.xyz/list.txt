@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Sun Jul 15 02:30:11 UTC 2018
-# Blocked domains: 112692
+# Last updated:    Mon Jul 16 02:30:11 UTC 2018
+# Blocked domains: 112698
 
 # <header>
 127.0.0.1       localhost 
@@ -21116,6 +21116,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 c7.amazingcounters.com
 0.0.0.0 c7.statcounter.com
 0.0.0.0 c7.zedo.com
+0.0.0.0 c704655a9050bdcc.com
 0.0.0.0 c71a045530f0c1c8.com
 0.0.0.0 c753738.r38.cf2.rackcdn.com
 0.0.0.0 c75b9ac5103e5d125b8.com
@@ -28877,6 +28878,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 d2hluuq2g8gwrv.cloudfront.net
 0.0.0.0 d2i54aseqwhx68.cloudfront.net
 0.0.0.0 d2ipklohrie3lo.cloudfront.net
+0.0.0.0 d2j3te7y7s8xxp.cloudfront.net
 0.0.0.0 d2jn12r3o7an7z.cloudfront.net
 0.0.0.0 d2jsp.org
 0.0.0.0 d2kmrmwhq7wkvs.cloudfront.net
@@ -31544,6 +31546,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 dns2.alestra.net.mx
 0.0.0.0 dns2.net1.it
 0.0.0.0 dns3.alestra.net.mx
+0.0.0.0 dnsapimzlvmcis.com
 0.0.0.0 dnse.linkpulse.com
 0.0.0.0 dnsqqdordvpv.com
 0.0.0.0 dntl.info
@@ -35751,6 +35754,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 etertjes.nl
 0.0.0.0 eterzero.org
 0.0.0.0 etgdta.com
+0.0.0.0 etggealva.com
 0.0.0.0 etggiddfdaqd.com
 0.0.0.0 etglnloj.com
 0.0.0.0 eth-give.net
@@ -60593,6 +60597,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 marketing.nodesource.com
 0.0.0.0 marketing.nyi.net
 0.0.0.0 marketing.osijek031.com
+0.0.0.0 marketingautomation.services
 0.0.0.0 marketingenhanced.com
 0.0.0.0 marketinghub.hp.com
 0.0.0.0 marketingleads4u.com
@@ -83473,6 +83478,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 secure-facebook-login.com
 0.0.0.0 secure-fape92.regis-dev9.ml
 0.0.0.0 secure-file.cherryhilllandscapemaintenance.com
+0.0.0.0 secure-gg.imrworldwide.com
 0.0.0.0 secure-gl.imrworldwide.com
 0.0.0.0 secure-googledoc.boulderentertainmentllc.com
 0.0.0.0 secure-id.impressiondesk.com
