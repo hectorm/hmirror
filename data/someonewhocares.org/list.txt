@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 17 Jul 2018 at 04:33:49 GMT
+# Last updated: Wed, 25 Jul 2018 at 06:33:51 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -415,6 +415,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 api.redshell.io
 127.0.0.1 apis.murdoog.com
 127.0.0.1 api.tumra.com
+127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 apple.com-onlinesupport.host
 127.0.0.1 apprep.smartscreen.microsoft.com
 127.0.0.1 app.yesware.com
@@ -7032,6 +7033,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 BRApolice.com
 127.0.0.1 bravo.israelinfo.ru
 127.0.0.1 bravospots.com		
+127.0.0.1 b.recwwcc5.info
 127.0.0.1 brittlefilet.com
 127.0.0.1 br.naked.com
 127.0.0.1 broadcast.piximedia.fr
@@ -7132,6 +7134,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cashback.co.uk
 127.0.0.1 cashbackwow.co.uk
 127.0.0.1 cashflowmarketing.com
+127.0.0.1 cashreportz.com
 127.0.0.1 casino770.com
 127.0.0.1 caslemedia.com
 127.0.0.1 casting.openv.com
@@ -7398,6 +7401,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 closeoutproductsreview.com
 127.0.0.1 cloudcrown.com
 127.0.0.1 c.l.qq.com
+127.0.0.1 clubwinnerz.com
 127.0.0.1 cluster3.adultadworld.com
 127.0.0.1 cluster.adultadworld.com
 127.0.0.1 cm1359.com
@@ -7556,6 +7560,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 c.ru.msn.com
 127.0.0.1 crux.songline.com
 127.0.0.1 crwdcntrl.net
+127.0.0.1 cryptolabpro.com
 127.0.0.1 cs.adxpansion.com
 127.0.0.1 c.se.msn.com
 127.0.0.1 cserver.mii.instacontent.net
@@ -9017,6 +9022,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 msn.wrating.com
 127.0.0.1 ms.yandex.ru
 127.0.0.1 mt58.mtree.com
+127.0.0.1 m.tidebuy.com
 127.0.0.1 m.tribalfusion.com
 127.0.0.1 mttwtrack.com
 127.0.0.1 mtvbrazil-services.vimn.com
@@ -9528,6 +9534,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 preligions.com
 127.0.0.1 premium.ascensionweb.com
 127.0.0.1 premiumholidayoffers.com
+127.0.0.1 premium-offers.space
 127.0.0.1 premiumproductsonline.com
 127.0.0.1 premium-reward-club.com
 127.0.0.1 prestoris.com
@@ -10474,6 +10481,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 this.content.served.by.adshuffle.com
 127.0.0.1 thoughtfully-free.com
 127.0.0.1 thruport.com
+127.0.0.1 tidebuy.com
 127.0.0.1 timelywebsitehostesses.com
 127.0.0.1 titan-gel-extra.com
 127.0.0.1 tk.baidu.com
@@ -10686,6 +10694,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 usatoday.app.ur.gcion.com
 127.0.0.1 usatravel-specials.com
 127.0.0.1 usatravel-specials.net
+127.0.0.1 usc.adserver.snapads.com
 127.0.0.1 us-choicevalue.com
 127.0.0.1 usd.sierra-boa.com
 127.0.0.1 usemax.de
@@ -11993,6 +12002,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.youripad4free.com
 127.0.0.1 www.yourrewardzone.com
 127.0.0.1 www.yoursmartrewards.com
+127.0.0.1 www.zabavazaodrasle.com
 127.0.0.1 www.zbippirad.info
 127.0.0.1 www.zemgo.com
 127.0.0.1 www.zevents.com
@@ -12070,6 +12080,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 yx-in-f108.1e100.net
 127.0.0.1 z1.adserver.com
 127.0.0.1 za1.sierra-fox.com
+127.0.0.1 zabavazaodrasle.com
 127.0.0.1 z.admob.com
 127.0.0.1 zads.zedo.com
 127.0.0.1 zapadserver1.com
