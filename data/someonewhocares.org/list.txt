@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 25 Jul 2018 at 06:33:51 GMT
+# Last updated: Thu, 26 Jul 2018 at 00:52:10 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1252,6 +1252,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 s4.shinystat.com
 127.0.0.1 sact.atdmt.com
 127.0.0.1 sa.jumptap.com
+127.0.0.1 sc-analytics.appspot.com
 127.0.0.1 s.clickability.com
 127.0.0.1 sclk.org
 127.0.0.1 scorecardresearch.com
@@ -7848,6 +7849,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 europe.adserver.yahoo.com
 127.0.0.1 eu-sonar.sociomantic.com
 127.0.0.1 eu.track.digitaladsystems.com
+127.0.0.1 euw.adserver.snapads.com
 127.0.0.1 eu.xtms.net
 127.0.0.1 eveley.club
 127.0.0.1 event-log.videe.tv
