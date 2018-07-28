@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 26 Jul 2018 at 00:52:10 GMT
+# Last updated: Fri, 27 Jul 2018 at 11:30:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1183,6 +1183,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 quantserve.com #: Ad Tracking, JavaScript, etc.
 127.0.0.1 quareclk.com
 127.0.0.1 quicktrck.com
+127.0.0.1 r1-t.trackedlink.net
 127.0.0.1 raw.oggifinogi.com
 127.0.0.1 r.clickdensity.com
 127.0.0.1 redshell.io
@@ -1312,6 +1313,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 showcount.honest.com
 127.0.0.1 sideshow.directtrack.com
 127.0.0.1 simpletrck.com
+127.0.0.1 siteimproveanalytics.com
 127.0.0.1 sitestat.com
 127.0.0.1 sitestats.tiscali.co.uk
 127.0.0.1 sm1.sitemeter.com
@@ -1355,6 +1357,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 static.audienceinsights.net
 127.0.0.1 static.kibboko.com
 127.0.0.1 static.smni.com		# Santa Monica - popunders
+127.0.0.1 static.trackedweb.net
 127.0.0.1 statik.topica.com
 127.0.0.1 statique.secureguards.eu
 127.0.0.1 statistics.dynamicsitestats.com
@@ -2330,6 +2333,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 kaytri.com
 127.0.0.1 kczambians.com
 127.0.0.1 kdowqlpt.info
+127.0.0.1 keepass.fr
 127.0.0.1 kentsucks.youcanoptout.com
 127.0.0.1 keybinary.com
 127.0.0.1 keyupgrade.thecentral2updating.bid
@@ -7551,6 +7555,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 creditburner.blueadvertise.com
 127.0.0.1 creditsoffer.blogspot.com
 127.0.0.1 creview.adbureau.net
+127.0.0.1 crewardscyprus.top
 127.0.0.1 cribdare2no.com
 127.0.0.1 crisptic01.net
 127.0.0.1 crllmzsy.top
