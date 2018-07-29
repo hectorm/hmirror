@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Fri Jul 27 02:30:12 UTC 2018
-# Blocked domains: 113782
+# Last updated:    Sat Jul 28 02:30:10 UTC 2018
+# Blocked domains: 113811
 
 # <header>
 127.0.0.1       localhost 
@@ -4297,6 +4297,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ad-dc2.adtech.de
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 ad-ettoday.cdn.hinet.net
 0.0.0.0 ad-feeds.com
 0.0.0.0 ad-flow.com
 0.0.0.0 ad-g.doubleclick.net
@@ -9344,6 +9345,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adurr.com
 0.0.0.0 adv-adserver.com
 0.0.0.0 adv-banner.libero.it
+0.0.0.0 adv-ettoday.cdn.hinet.net
 0.0.0.0 adv-first.ru
 0.0.0.0 adv-mydarkness.ggcorp.me
 0.0.0.0 adv-op2.joygames.me
@@ -9377,6 +9379,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adv.dontcrack.com
 0.0.0.0 adv.drtuber.com
 0.0.0.0 adv.elaana.com
+0.0.0.0 adv.ettoday.net
 0.0.0.0 adv.federalpost.ru
 0.0.0.0 adv.freeonline.it
 0.0.0.0 adv.freepornvs.com
@@ -27397,6 +27400,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cpays.com
 0.0.0.0 cpazilla.ru
 0.0.0.0 cpbld.co
+0.0.0.0 cpbtcwar.com
 0.0.0.0 cpc.trafiz.net
 0.0.0.0 cpc4-bsfd8-2-0-cust595.5-3.cable.virginm.net
 0.0.0.0 cpcadnet.com
@@ -27767,6 +27771,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 crestanads.com
 0.0.0.0 crestocean.com
 0.0.0.0 creview.adbureau.net
+0.0.0.0 crewardscyprus.top
 0.0.0.0 crewita.co
 0.0.0.0 crewtwqj.beget.tech
 0.0.0.0 crhikay.me
@@ -30336,6 +30341,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 delivery.adyea.com
 0.0.0.0 delivery.c.switchadhub.com
 0.0.0.0 delivery.clickonometrics.pl
+0.0.0.0 delivery.content-recommendation.net
 0.0.0.0 delivery.d.switchadhub.com
 0.0.0.0 delivery.e.switchadhub.com
 0.0.0.0 delivery.first-impression.com
@@ -30859,6 +30865,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 dfnnhwiyxjajhq.com
 0.0.0.0 dfno3m7nblnvhst3evfq.littlematchagirl.com.au
 0.0.0.0 dfp.doubleclick.net
+0.0.0.0 dfrcdywe.com
 0.0.0.0 dfrekewe.com
 0.0.0.0 dfrs12kz9qye2.cloudfront.net
 0.0.0.0 dfrtcvlab.xyz
@@ -30940,6 +30947,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 dhundora.com
 0.0.0.0 dhuodal.com
 0.0.0.0 dhvaigzy.com
+0.0.0.0 dhvzrpvjwibr.com
 0.0.0.0 dhycazbjhewd.com
 0.0.0.0 dhygr.com
 0.0.0.0 di-banner-se.c.richmetrics.com
@@ -41494,6 +41502,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ftrdxbv.igg.biz
 0.0.0.0 ftsz.com
 0.0.0.0 fttcj.com
+0.0.0.0 fttsgimpiagrwa.com
 0.0.0.0 ftuisdlnbp.com
 0.0.0.0 ftv-publicite.fr
 0.0.0.0 ftvcash.com
@@ -44808,7 +44817,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 goto.trafficmultiplier.com
 0.0.0.0 gotofreehack24.com
 0.0.0.0 gotogotomeeting.com
-0.0.0.0 gotoip55.com
 0.0.0.0 gotomeetingc.com
 0.0.0.0 gotomontenegro.net
 0.0.0.0 gotoredr.com
@@ -55039,6 +55047,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 keeonewsbkanews.com
 0.0.0.0 keepaneyeadmk.hit.gemius.pl
 0.0.0.0 keepaneyemk.adocean.pl
+0.0.0.0 keepass.fr
 0.0.0.0 keepcolletive.com
 0.0.0.0 keephide.com
 0.0.0.0 keepingbusinesslocal.com
@@ -59725,6 +59734,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 lvs.truehits.in.th
 0.0.0.0 lvshypqdjfvvkd.com
 0.0.0.0 lvuic.com
+0.0.0.0 lvulibji.com
 0.0.0.0 lvuuhq1x-site.1tempurl.com
 0.0.0.0 lvxg.com
 0.0.0.0 lw1.cdmediaworld.com
@@ -63028,6 +63038,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 migrationagentperthwa.com.au
 0.0.0.0 mihallaqandrea.com
 0.0.0.0 mihandownloader.com
+0.0.0.0 mihqbmugg.com
 0.0.0.0 mii-image.adjuggler.com
 0.0.0.0 miiklaf3.beget.tech
 0.0.0.0 miimmigration.co.uk
@@ -68246,6 +68257,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 nplexmedia.com
 0.0.0.0 nplrzxvyrhiq.com
 0.0.0.0 npoxaukym.com
+0.0.0.0 nppmwatch.com
 0.0.0.0 nprove.com
 0.0.0.0 npvos.com
 0.0.0.0 nqbhezlm.com
@@ -70402,6 +70414,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ooczhygehw.com
 0.0.0.0 oodode.com
 0.0.0.0 oodpreprod.122.2o7.net
+0.0.0.0 ooecgdeq.com
 0.0.0.0 ooecyaauiz.com
 0.0.0.0 ooen.oewabox.at
 0.0.0.0 oofophdrkjoh.com
@@ -71418,6 +71431,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 p.twitter.com
 0.0.0.0 p.typekit.net
 0.0.0.0 p.vibrant.co
+0.0.0.0 p.vtracy.de
 0.0.0.0 p.yotpo.com
 0.0.0.0 p.zeroredirect.com
 0.0.0.0 p0.raasnet.com
@@ -78668,6 +78682,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 r0218.rsstatic.ru
 0.0.0.0 r0ckethost.pl
 0.0.0.0 r1-ads.ace.advertising.com
+0.0.0.0 r1-t.trackedlink.net
 0.0.0.0 r1.ace.advertising.com
 0.0.0.0 r1.affiliatefuel.com
 0.0.0.0 r1.literotica.com
@@ -79179,6 +79194,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rbgphoto.com
 0.0.0.0 rbgrlqsepeds.com
 0.0.0.0 rbhhjxsomzq.com
+0.0.0.0 rbhwkfnxhqnri.com
 0.0.0.0 rbittner.cl
 0.0.0.0 rbk.netmng.com
 0.0.0.0 rbkshort.info
@@ -80411,6 +80427,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 reterafu.torplanet.ru
 0.0.0.0 retificansfatima.com.br
 0.0.0.0 retin-a.1.p2l.info
+0.0.0.0 retiremely.com
 0.0.0.0 retireterrify.ru
 0.0.0.0 retono42.us
 0.0.0.0 retoq.com
@@ -80610,6 +80627,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rhinoseo.com
 0.0.0.0 rhkwpfix8n.tmapfnjcaq.chproperties.com
 0.0.0.0 rhmed6po.party
+0.0.0.0 rhmyiplqmuupmf.com
 0.0.0.0 rhodeisland.sla.org
 0.0.0.0 rhombohedral-quota.000webhostapp.com
 0.0.0.0 rhown.com
@@ -81834,6 +81852,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rwt.reichelt.de
 0.0.0.0 rwtflhwsdlme.bid
 0.0.0.0 rwtvvdspsbll.com
+0.0.0.0 rwugdvqdpxfz.com
 0.0.0.0 rwxzeoqfj.com
 0.0.0.0 rx-healthmart.com
 0.0.0.0 rx-white.com
@@ -85743,6 +85762,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sfads.osdn.com
 0.0.0.0 sfaprgtgcguh.com
 0.0.0.0 sfascebook.cf
+0.0.0.0 sfawiner.com
 0.0.0.0 sfb-safetyunblock.000webhostapp.com
 0.0.0.0 sfcckxdgfgzo.com
 0.0.0.0 sfd-chess.ru
@@ -89639,6 +89659,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 static.tags.yield-atx.com
 0.0.0.0 static.terrhq.ru
 0.0.0.0 static.the-button.com
+0.0.0.0 static.trackedweb.net
 0.0.0.0 static.tracking202.com
 0.0.0.0 static.trackuity.com
 0.0.0.0 static.traffic.ru
@@ -91389,6 +91410,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 suvworks.com
 0.0.0.0 suwadesdshrg.com
 0.0.0.0 suxes.nl
+0.0.0.0 suywlxzbjtbib.com
 0.0.0.0 suzannemahler.com
 0.0.0.0 suzeeq.com
 0.0.0.0 suzyblue.net
@@ -93323,6 +93345,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tfag.de
 0.0.0.0 tfake.com
 0.0.0.0 tfbzzigqzbax.com
+0.0.0.0 tfdssnipmff.com
 0.0.0.0 tfeywmqsle.com
 0.0.0.0 tfghj.cf
 0.0.0.0 tfhvccny.com
@@ -97401,6 +97424,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 twittruth.com
 0.0.0.0 twittter.hol.es
 0.0.0.0 twizzls.com
+0.0.0.0 twjboytcwutbrt.com
 0.0.0.0 twjgylzydlhz.com
 0.0.0.0 twlistings.com
 0.0.0.0 twmeccosyivi.com
@@ -103820,6 +103844,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 wjdjovjrxsqx.com
 0.0.0.0 wjefwuiioe123f.com
 0.0.0.0 wjfkoqueatxdmqw.biz
+0.0.0.0 wjgddzpvx.com
 0.0.0.0 wjgravier.us.kzpcmad.tk
 0.0.0.0 wjkbcjkwb32.com
 0.0.0.0 wjkwjcmeymu.com
@@ -111337,6 +111362,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 xrivpngzagpy.com
 0.0.0.0 xrj3fw62evh6xilxu33g.alfacomercial.com.br
 0.0.0.0 xrjjhkuwccu.com
+0.0.0.0 xrmtvzpig.com
 0.0.0.0 xrnhongyuda.com
 0.0.0.0 xrnmuqmpcsx.com
 0.0.0.0 xrobowe.com
@@ -111480,6 +111506,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 xwwmhfbikx.net
 0.0.0.0 xwwsojvluzsb.com
 0.0.0.0 xwwvcsquuhbd.com
+0.0.0.0 xwzhazcuyf.com
 0.0.0.0 xx00.info
 0.0.0.0 xxamqnqeygbk.com
 0.0.0.0 xxart.ru
@@ -111910,6 +111937,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ybnuasihsy.com
 0.0.0.0 ybobvntcrub.pw
 0.0.0.0 yboesrdsz4uymkan3su.download
+0.0.0.0 ybofeikeckfxh.com
 0.0.0.0 ybotvisit.com
 0.0.0.0 ybpxv.com
 0.0.0.0 ybrantdigital.com
@@ -112983,6 +113011,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 zdesoboi.com
 0.0.0.0 zdf.ivwbox.de
 0.0.0.0 zdfgsdfgzxvfzsdtgsdfxcbdghndfhdfgdf.000webhostapp.com
+0.0.0.0 zdfyowkafur.com
 0.0.0.0 zdlceq.com
 0.0.0.0 zdldzfssa2l.bid
 0.0.0.0 zdlogs.sphereup.com
