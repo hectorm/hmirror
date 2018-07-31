@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Sun Jul 29 02:30:13 UTC 2018
-# Blocked domains: 113862
+# Last updated:    Mon Jul 30 02:30:11 UTC 2018
+# Blocked domains: 113864
 
 # <header>
 127.0.0.1       localhost 
@@ -71,6 +71,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 011707160008.c.mystat-in.net
 0.0.0.0 012469af389a1d1246d.com
 0.0.0.0 012br.com
+0.0.0.0 01388.net
 0.0.0.0 013sv.com
 0.0.0.0 015gf.com
 0.0.0.0 016ih.com
@@ -9777,6 +9778,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adxpower.com
 0.0.0.0 adxprts.com
 0.0.0.0 adxprtz.com
+0.0.0.0 adxscope.com
 0.0.0.0 adxuetomwiluro.ddns.net.anbdyn.info
 0.0.0.0 adxvalue.com
 0.0.0.0 adxxx.com
@@ -51837,6 +51839,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 intl-paypal-com.com
 0.0.0.0 intl-service-apps.com
 0.0.0.0 intl-trade.info
+0.0.0.0 intljs.rmtag.com
 0.0.0.0 intnaw.ga
 0.0.0.0 intnet-offer.com
 0.0.0.0 intogossip.us.intellitxt.com
@@ -82877,7 +82880,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungads.com
 0.0.0.0 samsunggiveaways.com
-0.0.0.0 samsunghoki.com
 0.0.0.0 samtaawaaztv.com
 0.0.0.0 samtrack1.com
 0.0.0.0 samuest.ru
