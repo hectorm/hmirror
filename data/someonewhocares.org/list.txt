@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 30 Jul 2018 at 08:39:40 GMT
+# Last updated: Tue, 31 Jul 2018 at 05:17:15 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9318,6 +9318,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 onclicksuper.com
 127.0.0.1 onclkds.com
 127.0.0.1 oneluckyvisitor.org
+127.0.0.1 onet.hit.gemius.pl
 127.0.0.1 onlinadverts.com
 127.0.0.1 online1.webcams.com
 127.0.0.1 onlineads.magicvalley.com
@@ -10148,6 +10149,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 sfads.osdn.com
 127.0.0.1 s.flite.com
 127.0.0.1 sg.adserver.yahoo.com
+127.0.0.1 sgqcvfjvr.onet.pl
 127.0.0.1 sgs001.adtech.de
 127.0.0.1 sgs001.adtech.fr
 127.0.0.1 sgs001.adtech.us
