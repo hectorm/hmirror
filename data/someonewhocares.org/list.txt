@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 01 Aug 2018 at 10:41:36 GMT
+# Last updated: Sat, 04 Aug 2018 at 18:12:01 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -10648,6 +10648,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 trafficnetworkads24.com
 127.0.0.1 traffic.outbrain.com
 127.0.0.1 trafficrevenue.net
+127.0.0.1 trafficsan.com
 127.0.0.1 traffictraders.com
 127.0.0.1 traffprofit.com
 127.0.0.1 trafmag.com
