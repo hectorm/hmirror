@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 04 Aug 2018 at 18:12:01 GMT
+# Last updated: Wed, 08 Aug 2018 at 07:03:16 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2185,6 +2185,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 b.webwise.com
 127.0.0.1 b.webwise.net
 127.0.0.1 b.webwise.org
+127.0.0.1 ca8g5.win
 127.0.0.1 cablyshaw.com
 127.0.0.1 cafecoc.com
 127.0.0.1 cahoots.com
@@ -2250,6 +2251,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 dietpharmacyrx.net
 127.0.0.1 dkspqpprnsmmte.com
 127.0.0.1 dl.newflashenter.review
+127.0.0.1 dl.provesoftware.review
 127.0.0.1 dmn2.bjpeu.edu.cn
 127.0.0.1 dns2.net1.it
 127.0.0.1 documents-signature.com
@@ -2888,6 +2890,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.fictioncinema.com
 127.0.0.1 www.findalgorithm.com
 127.0.0.1 www.fischereszter.hu
+127.0.0.1 www.flexibleadmin.com
 127.0.0.1 www.freecontent.bid
 127.0.0.1 www.freedailydownload.com
 127.0.0.1 www.froling.bee.pl
