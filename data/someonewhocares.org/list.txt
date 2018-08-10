@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 08 Aug 2018 at 07:03:16 GMT
+# Last updated: Thu, 09 Aug 2018 at 08:18:05 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7037,6 +7037,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 bitburg.adtech.us
 127.0.0.1 bitcast-d.bitgravity.com
 127.0.0.1 bitcoadz.io
+127.0.0.1 bitmedia.io
 127.0.0.1 bitonclick.com
 127.0.0.1 bitraffic.com
 127.0.0.1 biz5.sandai.net
@@ -7395,6 +7396,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 click2.rbc.magna.ru
 127.0.0.1 click3.rbc.magna.ru
 127.0.0.1 click4.rbc.magna.ru
+127.0.0.1 click.a-ads.com
 127.0.0.1 clickad.eo.pl
 127.0.0.1 click.adpile.net
 127.0.0.1 click.am1.adm.cnzz.net
@@ -7500,7 +7502,9 @@ ff02::3		ip6-allhosts
 127.0.0.1 coffeehausblog.com
 127.0.0.1 coin-ad.com
 127.0.0.1 coinad.com
+127.0.0.1 coinhits.com
 127.0.0.1 coinurl.com
+127.0.0.1 coinverti.com
 127.0.0.1 coinzilla.io
 127.0.0.1 collectiveads.net
 127.0.0.1 col.mobileads.msn.com
@@ -10169,6 +10173,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 sharebar.addthiscdn.com
 127.0.0.1 share-server.com
 127.0.0.1 shc-rebates.com
+127.0.0.1 shdfsdf.info
 127.0.0.1 sherkatkonandeh.com
 127.0.0.1 sherkhundi.com
 127.0.0.1 shinystat.shiny.it
@@ -10564,6 +10569,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 tn.adserve.com
 127.0.0.1 toads.osdn.com
 127.0.0.1 todayresearch.com
+127.0.0.1 token.ad
 127.0.0.1 tommysbookmarks.com
 127.0.0.1 tommysbookmarks.net
 127.0.0.1 tongji.baidu.com
@@ -11335,6 +11341,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.biggestgiftrewards.com
 127.0.0.1 www.binarysystem4u.com
 127.0.0.1 www.bitcoadz.io
+127.0.0.1 www.bitmedia.io
 127.0.0.1 www.bitraffic.com
 127.0.0.1 www.biz-offer.com
 127.0.0.1 www.bizographics.com
@@ -11418,6 +11425,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.cm1359.com
 127.0.0.1 www.coin-ad.com
 127.0.0.1 www.coinad.com
+127.0.0.1 www.coinverti.com
 127.0.0.1 www.coinzilla.io
 127.0.0.1 www.come-see-it-all.com
 127.0.0.1 www.commerce-offer.com
@@ -11911,6 +11919,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.shareasale.com
 127.0.0.1 www.share-server.com
 127.0.0.1 www.shc-rebates.com
+127.0.0.1 www.shdfsdf.info
 127.0.0.1 www.shopperpromotions.com
 127.0.0.1 www.shoppingjobshere.com
 127.0.0.1 www.shoppingminds.net
@@ -12043,6 +12052,8 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.vmcsatellite.com
 127.0.0.1 www.voucher-for-you.online
 127.0.0.1 wwww.8cr.purredheanb.online
+127.0.0.1 wwww.a-ads.com
+127.0.0.1 wwww.coinhits.com
 127.0.0.1 www.wdm29.com
 127.0.0.1 www.webcashvideos.com
 127.0.0.1 www.webcompteur.com
@@ -12065,9 +12076,11 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.work-offer.com
 127.0.0.1 www.worry-free-savings.com
 127.0.0.1 www.wppluginspro.com
+127.0.0.1 wwww.token.ad
 127.0.0.1 www.wtp101.com
 127.0.0.1 www.xaxis.com
 127.0.0.1 www.xbn.ru		# exclusive banner network (Russian)
+127.0.0.1 www.xl-trk.com
 127.0.0.1 www.xn--turkishirlines-1p8g.com
 127.0.0.1 www.yceml.net
 127.0.0.1 www.yibaruxet.cn
@@ -12111,6 +12124,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 xkygmtrrjalx.com
 127.0.0.1 xlivehost.com
 127.0.0.1 xlonhcld.xlontech.net
+127.0.0.1 xl-trk.com
 127.0.0.1 xml.adfclick1.com
 127.0.0.1 xml.ad-maven.com
 127.0.0.1 xml.adservme.com
