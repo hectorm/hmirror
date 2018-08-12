@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 10 Aug 2018 at 16:19:34 GMT
+# Last updated: Sat, 11 Aug 2018 at 20:02:06 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -765,7 +765,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 dkb01.webtrekk.net
 127.0.0.1 dotcomsecrets.com
 127.0.0.1 dpbolvw.net
-127.0.0.1 dpm.demdex.net
 127.0.0.1 dra.iesnare.com
 127.0.0.1 ds.247realmedia.com
 127.0.0.1 ds.amateurmatch.com
@@ -1064,7 +1063,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 metrics.elle.com
 127.0.0.1 metrics.experts-exchange.com
 127.0.0.1 metrics.fandome.com
-127.0.0.1 metrics.foxnews.com
 127.0.0.1 metrics.gap.com
 127.0.0.1 metrics.health.com
 127.0.0.1 metrics.hrblock.com
