@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Wed Aug 15 02:30:11 UTC 2018
-# Blocked domains: 114858
+# Last updated:    Thu Aug 16 02:30:10 UTC 2018
+# Blocked domains: 114860
 
 # <header>
 127.0.0.1       localhost 
@@ -21733,6 +21733,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 campingnews.dk
 0.0.0.0 campoac.com
 0.0.0.0 campocomunicacionintegral.com
+0.0.0.0 campus.miim.ac.in
 0.0.0.0 campus.org.bd
 0.0.0.0 campusshop.com.ng
 0.0.0.0 cams.enjoy.be
@@ -31795,7 +31796,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 djntmaplqzbi.com
 0.0.0.0 djonwatch.ru
 0.0.0.0 djpff.top
-0.0.0.0 djplazebo.com
 0.0.0.0 djqercix.com
 0.0.0.0 djr4k68f8n55o.cloudfront.net
 0.0.0.0 djsevents.be
@@ -59477,6 +59477,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 logs.live.tudou.com
 0.0.0.0 logs.loggly.com
 0.0.0.0 logs.ntvplus.tv
+0.0.0.0 logs.roku.com
 0.0.0.0 logs.sexy-parade.com
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.supersonic.com
@@ -96720,6 +96721,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 tracker.timesgroup.com
 0.0.0.0 tracker.tiu.ru
+0.0.0.0 tracker.trackerfix.com
 0.0.0.0 tracker.tradedoubler.com
 0.0.0.0 tracker.truehits.in.th
 0.0.0.0 tracker.truehits.net
