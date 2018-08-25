@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://gitlab.com/ZeroDot1/CoinBlockerLists/
-# Last modified: 2018-08-22 23:40
+# Last modified: 2018-08-024 18:32
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 000.0x1f4b0.com
@@ -1292,6 +1292,7 @@
 0.0.0.0 cdt.pool.mn
 0.0.0.0 cdt.suprnova.cc
 0.0.0.0 cdy.altpool.pro
+0.0.0.0 celasllc.com
 0.0.0.0 cemsenik.qp.si
 0.0.0.0 cent.coinmine.pl
 0.0.0.0 central-pool.minemonero.pro
@@ -1489,7 +1490,6 @@
 0.0.0.0 coinfirm.io
 0.0.0.0 coinfoundry.org
 0.0.0.0 coingive.com
-0.0.0.0 coinhiv.com
 0.0.0.0 coinhive-manager.com
 0.0.0.0 coinhive-proxy.party
 0.0.0.0 coinhive.com
@@ -1502,7 +1502,6 @@
 0.0.0.0 coinhove.com
 0.0.0.0 coinhub.win
 0.0.0.0 coinimp.com
-0.0.0.0 coinimp.com/scripts
 0.0.0.0 coinimp.net
 0.0.0.0 coinive.com
 0.0.0.0 coinjive.com
@@ -3477,7 +3476,6 @@
 0.0.0.0 hpc.hashhot.com
 0.0.0.0 hpc.pool.mn
 0.0.0.0 hq.moriaxmr.com
-0.0.0.0 hqq.tv,hqq.watch
 0.0.0.0 hrfziiddxa.ru
 0.0.0.0 hsr.mine.zpool.ca
 0.0.0.0 hsr.uupool.cn
@@ -3576,6 +3574,7 @@
 0.0.0.0 infinium.miner.center
 0.0.0.0 infinium.xminingpool.com
 0.0.0.0 influx.miningpoolhub.com
+0.0.0.0 info.7h4uk.com
 0.0.0.0 info.bitcoin.de
 0.0.0.0 info.hash-to-coins.com
 0.0.0.0 infx.minertopia.org
@@ -4440,7 +4439,6 @@
 0.0.0.0 minr.browsermine.com
 0.0.0.0 minr.nullrefexcep.com
 0.0.0.0 minr.pw
-0.0.0.0 minr.pw/inject*
 0.0.0.0 mint-west.majorminers.com
 0.0.0.0 mint.bitminter.com
 0.0.0.0 mint.btcc.com
@@ -5706,7 +5704,6 @@
 0.0.0.0 pot.thecoin.pw
 0.0.0.0 potc.z.pool.mn
 0.0.0.0 potcoin.miningpoolhub.com
-0.0.0.0 povw1deo.com/player7/jwpsrve.js*
 0.0.0.0 power.tainiesonline.pw
 0.0.0.0 power.wemineltc.com
 0.0.0.0 ppc.coinmine.pl
@@ -6035,11 +6032,13 @@
 0.0.0.0 s01.vidtodo.pro
 0.0.0.0 s02.vidtod.me
 0.0.0.0 s1.2miners.com
+0.0.0.0 s1.hqq.tv
 0.0.0.0 s1.vidtod.me
 0.0.0.0 s1585.ultimatepool.io
 0.0.0.0 s2.analytics.blue
 0.0.0.0 s2.appelamule.com
 0.0.0.0 s2.flowplayer.space
+0.0.0.0 s2.hqq.tv
 0.0.0.0 s2.play.estream.nu
 0.0.0.0 s2.play.estream.to
 0.0.0.0 s2.play.estream.xyz
@@ -7197,6 +7196,7 @@
 0.0.0.0 upc.hashhot.com
 0.0.0.0 update-flash-win64.xyz
 0.0.0.0 update-your-pc.info
+0.0.0.0 update.7h4uk.com
 0.0.0.0 update.omfg.pw
 0.0.0.0 update.sdgndsfajfsdf.info
 0.0.0.0 update.sdgsafdsf.pw
@@ -8832,6 +8832,7 @@
 0.0.0.0 www.cdnfile.xyz
 0.0.0.0 www.cdns.ws
 0.0.0.0 www.cdt.pool.mn
+0.0.0.0 www.celasllc.com
 0.0.0.0 www.cemsenik.qp.si
 0.0.0.0 www.certificates.freecontent.win
 0.0.0.0 www.cesc.pool.mn

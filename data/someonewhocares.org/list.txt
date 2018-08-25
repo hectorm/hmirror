@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 22 Aug 2018 at 04:43:16 GMT
+# Last updated: Fri, 24 Aug 2018 at 15:43:58 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9928,7 +9928,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 rotumal.com
 127.0.0.1 router.adlure.net
 127.0.0.1 rovion.com
-127.0.0.1 row-advil.waze.com
 127.0.0.1 rpc-php.trafficfactory.biz
 127.0.0.1 rpc.trafficfactory.biz
 127.0.0.1 rp.hit.gemius.pl
