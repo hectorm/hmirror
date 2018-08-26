@@ -40,7 +40,7 @@
   {"name": "molinero.xyz",                       "enabled": true,  "format": "plain",   "url": "https://hblock.molinero.xyz/hosts"},
   {"name": "pgl.yoyo.org",                       "enabled": true,  "format": "plain",   "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext"},
   {"name": "ransomwaretracker.abuse.ch",         "enabled": true,  "format": "plain",   "url": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"},
-  {"name": "someonewhocares.org",                "enabled": true,  "format": "plain",   "url": "http://someonewhocares.org/hosts/hosts"},
+  {"name": "someonewhocares.org",                "enabled": true,  "format": "plain",   "url": "https://someonewhocares.org/hosts/hosts"},
   {"name": "spam404.com",                        "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt"},
   {"name": "stevenblack",                        "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts"},
   {"name": "stopforumspam.com",                  "enabled": true,  "format": "plain",   "url": "https://stopforumspam.com/downloads/toxic_domains_whole.txt"},
