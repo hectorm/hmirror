@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 24 Aug 2018 at 15:43:58 GMT
+# Last updated: Sun, 26 Aug 2018 at 20:30:29 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -3319,7 +3319,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 pagead.l.doubleclick.net
 #127.0.0.1 pubads.g.doubleclick.net	#interferes with video on cwtv.com
 127.0.0.1 rd.intl.doubleclick.net
-127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.l.doubleclick.net
 127.0.0.1 twx.2mdn.net
@@ -8465,7 +8464,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 images.trafficmp.com
 127.0.0.1 imarker.com
 127.0.0.1 imarker.ru
-127.0.0.1 imasdk.googleapis.com
 127.0.0.1 im.banner.t-online.de
 127.0.0.1 imc.l.qq.com
 127.0.0.1 i.media.cz
