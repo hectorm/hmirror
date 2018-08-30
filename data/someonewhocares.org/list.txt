@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 28 Aug 2018 at 07:08:47 GMT
+# Last updated: Wed, 29 Aug 2018 at 09:37:11 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4217,6 +4217,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 24trk.com
 127.0.0.1 25184.hittail.com
 127.0.0.1 2754.btrll.com
+127.0.0.1 2975c.v.fwmrm.net
 127.0.0.1 2.adbrite.com
 127.0.0.1 2-art-coliseum.com
 127.0.0.1 2leep.com
@@ -6656,6 +6657,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 analytics.vodafone.co.uk
 127.0.0.1 analyzer51.fc2.com
 127.0.0.1 ANDpolice.com
+127.0.0.1 andr0id.traffic-smart.com
 127.0.0.1 anetit.tradedoubler.com
 127.0.0.1 ankieta-online.pl
 127.0.0.1 annuaire-autosurf.com
@@ -6727,7 +6729,12 @@ ff02::3		ip6-allhosts
 127.0.0.1 apple.com-----scanner.club
 127.0.0.1 apple.com-supportcenter.pro
 127.0.0.1 apple.com-webbrowsing-security.review
+127.0.0.1 applicationcodeshopnet.win
+127.0.0.1 applicationcodeshopwebs.win
 127.0.0.1 applicationpremium70.club
+127.0.0.1 applicationsoftwareshopnet.win
+127.0.0.1 application-software-store-net.win
+127.0.0.1 applicationsoftwarestorenet.win
 127.0.0.1 applyfix.tech
 127.0.0.1 app-measurement.com
 127.0.0.1 app.monetizze.com.br
