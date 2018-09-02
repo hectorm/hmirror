@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Fri Aug 31 02:30:10 UTC 2018
-# Blocked domains: 113331
+# Last updated:    Sat Sep  1 02:30:11 UTC 2018
+# Blocked domains: 113366
 
 # <header>
 127.0.0.1       localhost 
@@ -2930,6 +2930,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 95a44ebca8b1abc20.com
 0.0.0.0 95g804up.download
 0.0.0.0 95mortgagesonline.co.uk
+0.0.0.0 95p5qep4aq.com
 0.0.0.0 961.com
 0.0.0.0 962583-deutschland-nutzung-mitteilung-konto_identity.sicher-sicherheitsabfrage.ml
 0.0.0.0 96f2473b9ba9244f.com
@@ -5393,6 +5394,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adcache.aftenposten.no
 0.0.0.0 adcache.nymag.com
 0.0.0.0 adcade.com
+0.0.0.0 adcalm.com
 0.0.0.0 adcamel.pw
 0.0.0.0 adcamp.ru
 0.0.0.0 adcanadian.com
@@ -6533,6 +6535,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ads.adsrvmedia.com
 0.0.0.0 ads.adsrvmedia.net
 0.0.0.0 ads.adsrvr.org
+0.0.0.0 ads.adstream.com.ro
 0.0.0.0 ads.adsurve.com
 0.0.0.0 ads.adtegrity.net
 0.0.0.0 ads.adtekmedia.com
@@ -6800,6 +6803,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ads.collegclub.com
 0.0.0.0 ads.collegehumor.com
 0.0.0.0 ads.collegemix.com
+0.0.0.0 ads.colombiaonline.com
 0.0.0.0 ads.com.com
 0.0.0.0 ads.comediagroup.hu
 0.0.0.0 ads.comeon.com
@@ -6912,6 +6916,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ads.ehealthcaresolutions.com
 0.0.0.0 ads.einmedia.com
 0.0.0.0 ads.eircom.net
+0.0.0.0 ads.elcarado.com
 0.0.0.0 ads.electrocelt.com
 0.0.0.0 ads.elitetrader.com
 0.0.0.0 ads.elmaz.com
@@ -7079,6 +7084,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ads.hardwaresecrets.com
 0.0.0.0 ads.hardwarezone.com
 0.0.0.0 ads.harpers.org
+0.0.0.0 ads.harvard.edu
 0.0.0.0 ads.haskovo.net
 0.0.0.0 ads.havenhomemedia.com
 0.0.0.0 ads.hbv.de
@@ -7235,6 +7241,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ads.kurir-info.rs
 0.0.0.0 ads.kyalon.net
 0.0.0.0 ads.lanistaads.com
+0.0.0.0 ads.lapalingo.com
 0.0.0.0 ads.laptop.bg
 0.0.0.0 ads.larryaffiliates.com
 0.0.0.0 ads.layer-ad.org
@@ -7266,6 +7273,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ads.lnkworld.com
 0.0.0.0 ads.localnow.com
 0.0.0.0 ads.localyokelmedia.com
+0.0.0.0 ads.lordlucky.com
 0.0.0.0 ads.lovercash.com
 0.0.0.0 ads.loveshack.org
 0.0.0.0 ads.lubbockonline.com
@@ -7329,6 +7337,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ads.mobclix.com
 0.0.0.0 ads.mobgold.com
 0.0.0.0 ads.mobilautomaten.com
+0.0.0.0 ads.mobilebet.com
 0.0.0.0 ads.mobiledia.com
 0.0.0.0 ads.mobilefuse.net
 0.0.0.0 ads.mobilemarketer.com
@@ -7561,6 +7570,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ads.purefuck.com
 0.0.0.0 ads.pushplay.com
 0.0.0.0 ads.q1media.com
+0.0.0.0 ads.quasaraffiliates.com
 0.0.0.0 ads.queendom.com
 0.0.0.0 ads.quicken.com
 0.0.0.0 ads.quoka.de
@@ -7786,6 +7796,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ads.top-banners.com
 0.0.0.0 ads.top.bg
 0.0.0.0 ads.top500.org
+0.0.0.0 ads.toplayaffiliates.com
 0.0.0.0 ads.topnovini.bg
 0.0.0.0 ads.topwam.com
 0.0.0.0 ads.toronto.com
@@ -7875,6 +7886,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ads.videosz.com
 0.0.0.0 ads.vidsense.com
 0.0.0.0 ads.viewlondon.co.uk
+0.0.0.0 ads.viksaffiliates.com
 0.0.0.0 ads.vimg.net
 0.0.0.0 ads.vipcams.com
 0.0.0.0 ads.virginislandsdailynews.com
@@ -7899,6 +7911,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ads.warcry.com
 0.0.0.0 ads.watchmygf.net
 0.0.0.0 ads.watershed-publishing.com
+0.0.0.0 ads.watson.ch
 0.0.0.0 ads.wave.si
 0.0.0.0 ads.weather.ca
 0.0.0.0 ads.weather.com
@@ -7963,6 +7976,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ads.xtra.ca
 0.0.0.0 ads.xtra.co.nz
 0.0.0.0 ads.xtramsn.co.nz
+0.0.0.0 ads.xtribeapp.com
 0.0.0.0 ads.xxxad.net
 0.0.0.0 ads.xxxbunker.com
 0.0.0.0 ads.y-0.net
@@ -10513,6 +10527,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 aii-vrify.com
 0.0.0.0 aiiaqehoqgrj.com
 0.0.0.0 aijop.net
+0.0.0.0 aikdakxoc.com
 0.0.0.0 aikman.tk
 0.0.0.0 aikumi.info
 0.0.0.0 aikyu.ru
@@ -11209,6 +11224,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 allmelons.com
 0.0.0.0 allmilfsarehere.com
 0.0.0.0 allmt.com
+0.0.0.0 allmysource.ru
 0.0.0.0 allnaturalpornstars.com
 0.0.0.0 allnews.md
 0.0.0.0 allnews24.in
@@ -15129,6 +15145,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 autos.msnbc.us.intellitxt.com
 0.0.0.0 autoscout24.112.2o7.net
 0.0.0.0 autosegurancabrasil.com
+0.0.0.0 autoseo-service.org
 0.0.0.0 autoseo-traffic.com
 0.0.0.0 autoserv-2.nichost.ru
 0.0.0.0 autoserveisesrovires.cat
@@ -16571,6 +16588,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 banners.pinnaclesports.com
 0.0.0.0 banners.playocio.com
 0.0.0.0 banners.popads.net
+0.0.0.0 banners.prikol.ru
 0.0.0.0 banners.primaryclick.com
 0.0.0.0 banners.realitycash.com
 0.0.0.0 banners.resultonline.com
@@ -18614,6 +18632,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 bj-fengshi.com
 0.0.0.0 bj02.cww.com
 0.0.0.0 bj04.com
+0.0.0.0 bj1110.online
 0.0.0.0 bj7kpvd.gandjaltilogoki.com
 0.0.0.0 bjano.owncube.com
 0.0.0.0 bjcunwelpd.com
@@ -29235,6 +29254,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 d6bdy3eto8fyu.cloudfront.net
 0.0.0.0 d6e9d7d57085c0.com
 0.0.0.0 d6jkenny8w8yo.cloudfront.net
+0.0.0.0 d6sav80kktzcx.cloudfront.net
 0.0.0.0 d6swopgiplmy0.cloudfront.net
 0.0.0.0 d6ummfe8aubt5.cloudfront.net
 0.0.0.0 d6y5.ads.pof.com
@@ -31505,6 +31525,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 djmikeykay.com
 0.0.0.0 djnmllhgwtff.net
 0.0.0.0 djnooredge.com
+0.0.0.0 djnroblmpyxrh.com
 0.0.0.0 djntmaplqzbi.com
 0.0.0.0 djonwatch.ru
 0.0.0.0 djpff.top
@@ -42612,6 +42633,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 gbusa.saqibsiddiqui.com
 0.0.0.0 gbvvda.info
 0.0.0.0 gbwgrhjjwz.com
+0.0.0.0 gbwhqbiiq.com
 0.0.0.0 gbwrjyntqsvr.com
 0.0.0.0 gc.gcl.ru
 0.0.0.0 gcabs.com.au
@@ -43578,6 +43600,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 giesserei.com
 0.0.0.0 gif4you.net
 0.0.0.0 gifastcompanycom.112.2o7.net
+0.0.0.0 gifjvmfkzykp.com
 0.0.0.0 gifspics.com
 0.0.0.0 gifss.stream
 0.0.0.0 gift-4542.limitedusers.net
@@ -52205,6 +52228,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 itspecialist.ro
 0.0.0.0 itsptp.com
 0.0.0.0 itstore.my
+0.0.0.0 itsyuvrlesq.com
 0.0.0.0 itt.supporto-whtsuypp.com
 0.0.0.0 ittoolbox.us.intellitxt.com
 0.0.0.0 ittyguru.com
@@ -64447,6 +64471,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mscom.demdex.net
 0.0.0.0 mscplash.com
 0.0.0.0 msdns.online
+0.0.0.0 mse2v5oglm.com
 0.0.0.0 msengonihomestays.co.ke
 0.0.0.0 mseriesbmw.top
 0.0.0.0 mseuppremain.112.2o7.net
@@ -66032,6 +66057,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 namjai.com
 0.0.0.0 namjestajgavranovic.com
 0.0.0.0 namjixxurjam.com
+0.0.0.0 namogemi.ru
 0.0.0.0 namso.butlerelectricsupply.com
 0.0.0.0 namthai.com
 0.0.0.0 nan.netmng.com
@@ -69172,6 +69198,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 oglody.cf
 0.0.0.0 ogluyourrvv.com
 0.0.0.0 ogmsokenkhnnzpgf.com
+0.0.0.0 ognybevu.com
 0.0.0.0 ognyvo.ru
 0.0.0.0 ogondkskyahxa.ru
 0.0.0.0 ogorodnic.com
@@ -72975,6 +73002,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pgcode.org
 0.0.0.0 pginludhiana.com
 0.0.0.0 pgkdyhdhul.com
+0.0.0.0 pgl.example0101
 0.0.0.0 pgmediaserve.com
 0.0.0.0 pgndlooirt.com
 0.0.0.0 pgold.info
@@ -76045,7 +76073,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 privilegebedroomlate.xyz
 0.0.0.0 privilegechic.com
 0.0.0.0 privitize.com
-0.0.0.0 privy.com
 0.0.0.0 privymktg.com
 0.0.0.0 priyafoods.com
 0.0.0.0 priyankaa.com
@@ -77237,6 +77264,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 puserving.com
 0.0.0.0 push-ad.com
 0.0.0.0 push-notification.tools
+0.0.0.0 push-notifications.top
 0.0.0.0 push.poptm.com
 0.0.0.0 push2check.com
 0.0.0.0 pushame.com
@@ -80511,6 +80539,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rmgxhpflxhmd.com
 0.0.0.0 rmhospitalcalicut.com
 0.0.0.0 rmisllc.net
+0.0.0.0 rmjwdosemtg.com
 0.0.0.0 rmjxcosbfgyl.com
 0.0.0.0 rmkpatashaala.ac.in
 0.0.0.0 rmlzgvnuqxlp.com
@@ -81505,6 +81534,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rzcmcqljwxyy.com
 0.0.0.0 rzeczyzadarmo.pl
 0.0.0.0 rzekbhnk.top
+0.0.0.0 rzfldcrlwe.com
 0.0.0.0 rzgiiioqfpny.com
 0.0.0.0 rzgqfvhfj.com
 0.0.0.0 rzhsl.info
@@ -91858,6 +91888,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 target.e-generator.com
 0.0.0.0 target.fark.com
 0.0.0.0 target.mirtesen.ru
+0.0.0.0 target.mixi.media
 0.0.0.0 target.net.finam.ru
 0.0.0.0 target.smi2.net
 0.0.0.0 target.smi2.ru
@@ -98847,6 +98878,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 utube.ml
 0.0.0.0 utubeconverter.com
 0.0.0.0 utucxoiivyt.com
+0.0.0.0 utuqrzwg.com
 0.0.0.0 utyrqbgrmoxs.com
 0.0.0.0 utyynepwwnl.com
 0.0.0.0 utzpjbrtyjuj.com
@@ -100993,7 +101025,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 vuryua.ru
 0.0.0.0 vusert.accountant
 0.0.0.0 vut.com.ru
-0.0.0.0 vutzmxahqio.co
 0.0.0.0 vuuwd.com
 0.0.0.0 vuvvi.com
 0.0.0.0 vuwdqproq.com
@@ -102940,6 +102971,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 whosonmyserver.com
 0.0.0.0 whosread.com
 0.0.0.0 whrnvjdv.com
+0.0.0.0 whs82908.com
 0.0.0.0 whs9.com
 0.0.0.0 whsca.org.au
 0.0.0.0 whsjufifuwkw.com
@@ -102986,6 +103018,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 widget.nativly.com
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.plugrush.com
+0.0.0.0 widget.privy.com
 0.0.0.0 widget.quantcast.com
 0.0.0.0 widget.raaze.com
 0.0.0.0 widget.realo.be
@@ -103069,6 +103102,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 wikiforosh.ir
 0.0.0.0 wikiodeliv.com
 0.0.0.0 wikipediacount.net
+0.0.0.0 wiklrrrwqqf.com
 0.0.0.0 wilberadam.com
 0.0.0.0 wildard.roanokekappas.com
 0.0.0.0 wildbounce.com
@@ -112914,6 +112948,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 zjkxunda.com
 0.0.0.0 zjlawyeronline.com
 0.0.0.0 zjlinkwell.cn
+0.0.0.0 zjwcddahpz.com
 0.0.0.0 zjylk.com
 0.0.0.0 zk.zeroredirect1.com
 0.0.0.0 zkennongwozs.com
