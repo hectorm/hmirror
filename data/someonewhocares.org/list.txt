@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 29 Aug 2018 at 09:37:11 GMT
+# Last updated: Tue, 04 Sep 2018 at 00:04:07 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6332,6 +6332,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ads.verkata.com
 127.0.0.1 ads.vesperexchange.com
 127.0.0.1 ads.vg.basefarm.net
+127.0.0.1 ads.viber.com
 127.0.0.1 ads.viddler.com
 127.0.0.1 ads.videoadvertising.com
 127.0.0.1 adsvidsdouble.com
@@ -10380,7 +10381,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 static.criteo.net
 127.0.0.1 staticd.cdn.adblade.com
 127.0.0.1 static.doubleclick.net
-127.0.0.1 static-eu-cdn.eporner.com
 127.0.0.1 static.eu.criteo.net
 127.0.0.1 static.everyone.net
 127.0.0.1 static.exoclick.com
