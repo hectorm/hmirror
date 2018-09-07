@@ -2,7 +2,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://gitlab.com/ZeroDot1/CoinBlockerLists/
-# Last modified: 2018-09-03 02:25
+# Last modified: 2018-09-06 14:30
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 000.0x1f4b0.com
@@ -4045,6 +4045,13 @@
 0.0.0.0 lock.pool.mn
 0.0.0.0 lockerrwhuaf2jjx.onion
 0.0.0.0 loco.suprnova.cc
+0.0.0.0 log.systemlog.host
+0.0.0.0 log1.systemlog.host
+0.0.0.0 log2.systemlog.host
+0.0.0.0 log3.systemlog.host
+0.0.0.0 log4.systemlog.host
+0.0.0.0 log5.systemlog.host
+0.0.0.0 log6.systemlog.host
 0.0.0.0 login.bitcoin.cz
 0.0.0.0 login.coinbase.com
 0.0.0.0 logs.z.cash
@@ -4834,6 +4841,7 @@
 0.0.0.0 myfreebitcoin.com
 0.0.0.0 mykings.top
 0.0.0.0 mykings.top.info
+0.0.0.0 mylog.systemlog.host
 0.0.0.0 mylovelymommy.tk
 0.0.0.0 mylovesister.gq
 0.0.0.0 myoffers.bid
@@ -7029,6 +7037,7 @@
 0.0.0.0 synx.suprnova.cc
 0.0.0.0 sys.poolto.be
 0.0.0.0 sys.suprnova.cc
+0.0.0.0 systemlog.host
 0.0.0.0 t.analytics.blue
 0.0.0.0 tabletochki.coinminex.com
 0.0.0.0 tac.hashhot.com
@@ -11246,6 +11255,7 @@
 0.0.0.0 www.sync.hashhot.com
 0.0.0.0 www.sync.pool.mn
 0.0.0.0 www.synconnector.com
+0.0.0.0 www.systemlog.host
 0.0.0.0 www.tac.hashhot.com
 0.0.0.0 www.tac.pool.mn
 0.0.0.0 www.tag.cryptominer.net
