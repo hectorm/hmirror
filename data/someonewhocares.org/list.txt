@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 05 Sep 2018 at 08:21:52 GMT
+# Last updated: Fri, 07 Sep 2018 at 08:33:19 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -8490,6 +8490,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 img4.cdn.adjuggler.com
 127.0.0.1 img-a2.ak.imagevz.net
 127.0.0.1 img.alibaba.com
+127.0.0.1 img.awr.im
 127.0.0.1 img.blogads.com
 127.0.0.1 img-cdn.mediaplex.com
 127.0.0.1 img.directtrack.com
@@ -10607,6 +10608,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 thruport.com
 127.0.0.1 tidebuy.com
 127.0.0.1 timelywebsitehostesses.com
+127.0.0.1 t.info.rezbine.com
 127.0.0.1 titan-gel-extra.com
 127.0.0.1 tk.baidu.com
 127.0.0.1 tkweb.baidu.com
@@ -10671,6 +10673,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 track.bigbrandpromotions.com
 127.0.0.1 track.dtnlyss.com
 127.0.0.1 track.e7r.com.br
+127.0.0.1 tracker.awr.im
 127.0.0.1 tracker.baidu.com
 127.0.0.1 tracker.cdn-analytics.host
 127.0.0.1 trackers.1st-affiliation.fr
