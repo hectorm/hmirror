@@ -1,8 +1,9 @@
 # Contribute: https://gitlab.com/ZeroDot1/CoinBlockerLists/issues/new
+# Copyright: (c) ZeroDot1, 2018
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2018-08-09 22:20
+# Last modified: 2018-09-10 00:10
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
@@ -93,6 +94,7 @@
 0.0.0.0 coinad.com
 0.0.0.0 coinadnet.com
 0.0.0.0 coincube.io
+0.0.0.0 coinmarketcap.com
 0.0.0.0 coinminerz.com
 0.0.0.0 cointraffic.io
 0.0.0.0 coinzilla.io
@@ -182,6 +184,8 @@
 0.0.0.0 mail.peerhash.com
 0.0.0.0 mail.uclick.in
 0.0.0.0 mail2.awesomeminer.com
+0.0.0.0 masternode-agent.com
+0.0.0.0 masternodes4everyone.com
 0.0.0.0 me.cur.lv
 0.0.0.0 mellowads.com
 0.0.0.0 minecraft.cryptopia.co.nz
@@ -207,6 +211,7 @@
 0.0.0.0 ns2.a-ads.com
 0.0.0.0 old-wallet.trezor.io
 0.0.0.0 old.coinad.com
+0.0.0.0 orders.whattomine.com
 0.0.0.0 p2pool.in
 0.0.0.0 pandaminer.co
 0.0.0.0 parthk.co.uk
@@ -219,6 +224,7 @@
 0.0.0.0 pop3.awesomeminer.com
 0.0.0.0 preorder.trezor.io
 0.0.0.0 pricing.jaxx.io
+0.0.0.0 psychomining.de
 0.0.0.0 pubapi.bithumb.com
 0.0.0.0 redmine.emercoin.com
 0.0.0.0 resource.binance.com
@@ -266,6 +272,7 @@
 0.0.0.0 webmail.awesomeminer.com
 0.0.0.0 webmail.imperiumminer.com
 0.0.0.0 webmail.uclick.in
+0.0.0.0 whattomine.com
 0.0.0.0 wiki.emercoin.com
 0.0.0.0 wiki.evergreencoin.org
 0.0.0.0 wiki.trezor.io
@@ -302,6 +309,7 @@
 0.0.0.0 www.coinad.com
 0.0.0.0 www.coinadnet.com
 0.0.0.0 www.coincube.io
+0.0.0.0 www.coinmarketcap.com
 0.0.0.0 www.coinminerz.com
 0.0.0.0 www.cointraffic.io
 0.0.0.0 www.coinzilla.io
@@ -346,6 +354,8 @@
 0.0.0.0 www.ledgerwallet.com
 0.0.0.0 www.ltc-bitcore3.trezor.io
 0.0.0.0 www.luckybits.io
+0.0.0.0 www.masternode-agent.com
+0.0.0.0 www.masternodes4everyone.com
 0.0.0.0 www.mellowads.com
 0.0.0.0 www.minerboard.com
 0.0.0.0 www.mineshop.eu
@@ -361,6 +371,7 @@
 0.0.0.0 www.parthk.co.uk
 0.0.0.0 www.peerhash.com
 0.0.0.0 www.preorder.trezor.io
+0.0.0.0 www.psychomining.de
 0.0.0.0 www.resource.binance.com
 0.0.0.0 www.resource2.binance.com
 0.0.0.0 www.rm.cointraffic.io
@@ -380,6 +391,7 @@
 0.0.0.0 www.upcoin.com
 0.0.0.0 www.us.binance.com
 0.0.0.0 www.wallet.trezor.io
+0.0.0.0 www.whattomine.com
 0.0.0.0 www.wiki.trezor.io
 0.0.0.0 www.zec-bitcore1.trezor.io
 0.0.0.0 www1.a-ads.com
