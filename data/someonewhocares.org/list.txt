@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 07 Sep 2018 at 08:33:19 GMT
+# Last updated: Mon, 10 Sep 2018 at 01:28:33 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2490,6 +2490,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 mshelp247.weebly.com
 127.0.0.1 mtccsun.imtech.ernet.in
 127.0.0.1 murcia-ban.es
+127.0.0.1 mv0129.stream
 127.0.0.1 mx01.openinternetexchange.com
 127.0.0.1 mx01.openinternetexchange.net
 127.0.0.1 mx01.webwise.com
