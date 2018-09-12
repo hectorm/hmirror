@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 10 Sep 2018 at 01:28:33 GMT
+# Last updated: Tue, 11 Sep 2018 at 03:09:39 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -467,6 +467,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 report.broadcastpc.tv 
 127.0.0.1 www.broadcastpc.tv
 127.0.0.1 browser-message.com
+127.0.0.1 brucelead.com
 127.0.0.1 bserver.blick.com
 127.0.0.1 bstats.adbrite.com
 127.0.0.1 b.stats.paypal.com
@@ -518,6 +519,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cgi.sexlist.com
 127.0.0.1 ci-accountlock.iovation.com
 127.0.0.1 ci-admin.iovation.com
+127.0.0.1 cig-arrete.com
 127.0.0.1 ci-mpsnare.iesnare.com
 127.0.0.1 ci-mpsnare.iesnare.co.uk
 127.0.0.1 ci-mpsnare.iovation.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
@@ -1144,6 +1146,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 nl.nedstatbasic.net
 #127.0.0.1 nl.sitestat.com	# may interfere with duo.nl
 127.0.0.1 noticias.life
+127.0.0.1 notify1.brucelead.com
 127.0.0.1 o.addthis.com
 127.0.0.1 objects.tremormedia.com
 127.0.0.1 okcounter.com
@@ -1172,6 +1175,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 photobox-tracking.adalyser.com
 127.0.0.1 pings.blip.tv
 127.0.0.1 p.iovation.com
+127.0.0.1 pituitosus.com
 127.0.0.1 pix02.revsci.net
 127.0.0.1 pix03.revsci.net
 127.0.0.1 pix04.revsci.net
@@ -1539,6 +1543,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 track.adrevolver.com
 127.0.0.1 track.anideaevolves.com
 127.0.0.1 track.bannerbridge.net
+127.0.0.1 track.brucelead.com
 127.0.0.1 track.businesstrenders.com
 127.0.0.1 track.businessunionorg.com
 127.0.0.1 track.clearsender.com
@@ -1941,6 +1946,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.bluestreak.com
 127.0.0.1 www.c1.thecounter.de
 127.0.0.1 www.c2.thecounter.de
+127.0.0.1 www.cig-arrete.com
 127.0.0.1 www.ci-mpsnare.iesnare.com
 127.0.0.1 www.ci-mpsnare.iesnare.co.uk
 127.0.0.1 www.clickclick.com
@@ -2804,6 +2810,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 v1.your-notification.tools
 127.0.0.1 vast.btrll.com
 127.0.0.1 vcipo.info
+127.0.0.1 vedoriska.com
 127.0.0.1 venturead.com
 127.0.0.1 versionsupport.thebig-centeralplacecontentgreat.date
 127.0.0.1 videoamp.com
@@ -7817,6 +7824,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 downloadplayer.xyz
 127.0.0.1 downloads.larivieracasino.com
 127.0.0.1 downloads.mytvandmovies.com
+127.0.0.1 download.weatherblink.com
 127.0.0.1 download.wholestuff.win
 127.0.0.1 download.yesmessenger.com
 127.0.0.1 dp1.33across.com
@@ -10869,6 +10877,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 vast.vertamedia.com
 127.0.0.1 vcdn.adnxs.com
 127.0.0.1 vclick.adbrite.com
+127.0.0.1 veirregnant.club
 127.0.0.1 venus.goclick.com
 127.0.0.1 versionsupport.set2updatenowsafesystemset4now.info
 127.0.0.1 ve.tscapeplay.com
@@ -11700,6 +11709,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.healthclicks.co.uk
 127.0.0.1 www.hebdotop.com
 127.0.0.1 www.heusmarketing.nl
+127.0.0.1 www.hibids10.com
 127.0.0.1 www.hightrafficads.com
 127.0.0.1 www.histats.com
 127.0.0.1 www.holiday-gift-offers.com
