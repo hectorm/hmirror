@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 15 Sep 2018 at 22:07:49 GMT
+# Last updated: Mon, 17 Sep 2018 at 07:02:08 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9098,6 +9098,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 mobile.bet.pt
 127.0.0.1 mobile-browser.me
 127.0.0.1 mobile.juicyads.com
+127.0.0.1 mobileleads.msn.com
 127.0.0.1 mobrevflwms.com
 127.0.0.1 mobscan.info
 127.0.0.1 mobularity.com
