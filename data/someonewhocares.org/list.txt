@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 18 Sep 2018 at 05:53:52 GMT
+# Last updated: Fri, 21 Sep 2018 at 02:19:30 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -416,6 +416,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 api.intentiq.com
 127.0.0.1 api.murdoog.com
 127.0.0.1 api.redshell.io
+127.0.0.1 api.simpleanalytics.io
 127.0.0.1 apis.murdoog.com
 127.0.0.1 api.tumra.com
 127.0.0.1 app-analytics.snapchat.com
@@ -507,6 +508,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ccleaner.fr
 127.0.0.1 cdn.doublepimpssl.com
 127.0.0.1 cdn.oggifinogi.com
+127.0.0.1 cdn.simpleanalytics.io
 127.0.0.1 cdn-social.janrain.com
 127.0.0.1 cdn.taboolasyndication.com
 127.0.0.1 cdn.zarget.com
@@ -1140,6 +1142,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 nethit-free.nl
 127.0.0.1 net-radar.com
 127.0.0.1 network.leadpub.com
+127.0.0.1 neweggstats.com
 127.0.0.1 nextgenstats.com
 127.0.0.1 nexttrk.com
 127.0.0.1 nht-2.extreme-dm.com
