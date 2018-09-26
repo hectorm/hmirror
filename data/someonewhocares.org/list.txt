@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 24 Sep 2018 at 07:27:13 GMT
+# Last updated: Tue, 25 Sep 2018 at 04:57:16 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -998,6 +998,7 @@ ff02::3		ip6-allhosts
 #127.0.0.1 ll.a.hulu.com	# Uncomment to block Hulu.
 127.0.0.1 loadus.exelator.com
 127.0.0.1 loc1.hitsprocessor.com
+127.0.0.1 lockerdome.com
 127.0.0.1 log1.countomat.com
 127.0.0.1 log4.quintelligence.com
 127.0.0.1 log999.goo.ne.jp
@@ -2933,6 +2934,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.infopaypal.com
 127.0.0.1 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 127.0.0.1 www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+127.0.0.1 www.kbdiu5z8ah.us
 127.0.0.1 www.keybinary.com
 127.0.0.1 www.kinomarathon.ru
 127.0.0.1 www.kpremium.com
@@ -3017,6 +3019,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.youcanoptout.net
 127.0.0.1 www.youcanoptout.org
 127.0.0.1 www.youfiletor.com
+127.0.0.1 www.zfn5wua2d1.online
 127.0.0.1 www.zoominnovate.online
 127.0.0.1 xbasfbno.info
 127.0.0.1 xfotosx01.fromru.su
