@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://gitlab.com/ZeroDot1/CoinBlockerLists/
-# Last modified: 2018-09-28 04:05
+# Last modified: 2018-09-30 23:25
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 000.0x1f4b0.com
@@ -5519,6 +5519,7 @@
 0.0.0.0 neoscrypt.na.mine.zpool.ca
 0.0.0.0 neoscrypt.usa.nicehash.com
 0.0.0.0 nep.suprnova.cc
+0.0.0.0 ner-de-mi-nis-6.info
 0.0.0.0 nerdorium.org
 0.0.0.0 nero.miner.center
 0.0.0.0 nero.xminingpool.com
