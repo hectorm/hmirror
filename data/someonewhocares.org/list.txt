@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 03 Oct 2018 at 02:11:06 GMT
+# Last updated: Fri, 05 Oct 2018 at 00:35:36 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -439,6 +439,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 banners.webcounter.com
 127.0.0.1 batch.iovation.com
 127.0.0.1 beacon-1.newrelic.com
+127.0.0.1 beacon.krxd.net
 127.0.0.1 beacon.scorecardresearch.com
 127.0.0.1 beacons.hottraffic.nl
 127.0.0.1 belierlaine.com
@@ -1362,6 +1363,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 smartstats.com
 127.0.0.1 smetrics.att.com
 127.0.0.1 smetrics.tesco.com
+127.0.0.1 smetrics.washingtonpost.com
 127.0.0.1 snare.iesnare.com
 127.0.0.1 soap.iovation.com
 127.0.0.1 socialize.eu1.gigya.com
@@ -9886,6 +9888,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 rcm-na.amazon-adsystem.com
 127.0.0.1 rc.rlcdn.com
 127.0.0.1 rc.wl.webads.nl
+127.0.0.1 r.dlx.addthis.com
 127.0.0.1 r.domob.cn
 127.0.0.1 rdsa2012.com
 127.0.0.1 reactads.cdn.adglare.net
@@ -9988,6 +9991,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 rmedia.boston.com
 127.0.0.1 rmm1u.checkm8.com
 127.0.0.1 rms.admeta.com
+127.0.0.1 r.nexac.com
 127.0.0.1 ro.bbelements.com
 127.0.0.1 robot.royalcactus.com
 127.0.0.1 romepartners.com
