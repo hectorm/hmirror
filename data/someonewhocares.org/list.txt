@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 08 Oct 2018 at 23:05:13 GMT
+# Last updated: Tue, 09 Oct 2018 at 07:48:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -6596,6 +6596,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 adzone.ro
 127.0.0.1 adzone.stltoday.com
 127.0.0.1 adzservice.theday.com
+127.0.0.1 ae01.alicdn.com
 127.0.0.1 ae-gb.mgid.com
 127.0.0.1 ae.goodsblock.marketgid.com
 127.0.0.1 afdyfxfrwbfy.com
@@ -8017,6 +8018,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 fc.webmasterpro.de
 127.0.0.1 fdimages.fairfax.com.au
 127.0.0.1 federaldata.io
+127.0.0.1 feed.4wnet.com
 127.0.0.1 feedads.googleadservices.com
 127.0.0.1 feedbackcensus.com
 127.0.0.1 feeds.videosz.com
@@ -10936,6 +10938,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 vcdn.adnxs.com
 127.0.0.1 vclick.adbrite.com
 127.0.0.1 veirregnant.club
+127.0.0.1 venetia.iad.appboy.com
 127.0.0.1 venus.goclick.com
 127.0.0.1 versionsupport.set2updatenowsafesystemset4now.info
 127.0.0.1 ve.tscapeplay.com
