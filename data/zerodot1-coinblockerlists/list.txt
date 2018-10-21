@@ -3,10 +3,9 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://gitlab.com/ZeroDot1/CoinBlockerLists/
-# Last modified: 2018-10-19 17:40
+# Last modified: 2018-10-20 17:35
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List by ZeroDot1]
-0.0.0.0 .minereasy.com
 0.0.0.0 000.0x1f4b0.com
 0.0.0.0 001.0x1f4b0.com
 0.0.0.0 002.0x1f4b0.com
@@ -5220,6 +5219,7 @@
 0.0.0.0 minercircle.com
 0.0.0.0 minerclaim.net
 0.0.0.0 minercry.pt
+0.0.0.0 minereasy.com
 0.0.0.0 minergate.com
 0.0.0.0 minerhills.com
 0.0.0.0 minerjet.com
