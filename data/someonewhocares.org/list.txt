@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 08 Nov 2018 at 04:07:34 GMT
+# Last updated: Sun, 11 Nov 2018 at 22:52:29 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2967,6 +2967,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.likespike.com			# Facebook trojan
 127.0.0.1 www.likethislist.biz			# Facebook trojan
 127.0.0.1 www.likethis.mbosoft.com		# Facebook trojan
+127.0.0.1 www.locatorprotocol.com
 127.0.0.1 www.lomalindasda.org			# Facebook trojan
 127.0.0.1 www.lovecouple.ru
 127.0.0.1 www.lovetrust.ru
