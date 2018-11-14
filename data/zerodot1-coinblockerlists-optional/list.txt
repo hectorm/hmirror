@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2018-09-10 00:10
+# Last modified: 2018-11-13 16:58
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
@@ -38,6 +38,8 @@
 0.0.0.0 ad226.a-ads.com
 0.0.0.0 ad228.a-ads.com
 0.0.0.0 ad302.a-ads.com
+0.0.0.0 adconity.com
+0.0.0.0 admin.adconity.com
 0.0.0.0 alpha.myetherwallet.com
 0.0.0.0 antminer-store.com
 0.0.0.0 api.binance.com
@@ -102,6 +104,7 @@
 0.0.0.0 cosigner.electrum.org
 0.0.0.0 cpanel.antminer-store.com
 0.0.0.0 cpanel.cryptoguiminer.com
+0.0.0.0 cpanel.gameofbitcoins.com
 0.0.0.0 cpanel.imperiumminer.com
 0.0.0.0 cpanel.uclick.in
 0.0.0.0 cryptoguiminer.com
@@ -133,14 +136,17 @@
 0.0.0.0 forum.bitcoin.org
 0.0.0.0 forum.uclick.in
 0.0.0.0 foundry.electrum.org
+0.0.0.0 ftp.adconity.com
 0.0.0.0 ftp.antminer-store.com
 0.0.0.0 ftp.awesomeminer.com
 0.0.0.0 ftp.binance.com
+0.0.0.0 ftp.gameofbitcoins.com
 0.0.0.0 ftp.imperiumminer.com
 0.0.0.0 ftp.inwemo.com
 0.0.0.0 ftp.mellowads.com
 0.0.0.0 ftp.miningfarmasics.com
 0.0.0.0 ftp.uclick.in
+0.0.0.0 gameofbitcoins.com
 0.0.0.0 getbitcoin.nz
 0.0.0.0 getmonero.org
 0.0.0.0 global.binance.com
@@ -273,6 +279,7 @@
 0.0.0.0 webmail.imperiumminer.com
 0.0.0.0 webmail.uclick.in
 0.0.0.0 whattomine.com
+0.0.0.0 whm.gameofbitcoins.com
 0.0.0.0 wiki.emercoin.com
 0.0.0.0 wiki.evergreencoin.org
 0.0.0.0 wiki.trezor.io
@@ -282,6 +289,7 @@
 0.0.0.0 www.1safe.link
 0.0.0.0 www.803mine.com
 0.0.0.0 www.a-ads.com
+0.0.0.0 www.adconity.com
 0.0.0.0 www.alpha.myetherwallet.com
 0.0.0.0 www.antminer-store.com
 0.0.0.0 www.api.binance.com
@@ -333,6 +341,7 @@
 0.0.0.0 www.forminerpro.com
 0.0.0.0 www.forum.bitcoin.org
 0.0.0.0 www.ftp.binance.com
+0.0.0.0 www.gameofbitcoins.com
 0.0.0.0 www.getbitcoin.nz
 0.0.0.0 www.getmonero.org
 0.0.0.0 www.global.binance.com
