@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 12 Nov 2018 at 08:55:04 GMT
+# Last updated: Thu, 15 Nov 2018 at 02:03:06 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2701,6 +2701,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 search.buzzdock.com
 127.0.0.1 search.conduit.com
 127.0.0.1 search.privitize.com
+127.0.0.1 secret.xn--oogle-wmc.com
 127.0.0.1 securedliveuploads.com
 127.0.0.1 securitas232maximus.xyz
 127.0.0.1 securitas25maximus.xyz
@@ -9716,6 +9717,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 popups.infostart.com
 127.0.0.1 popup.softreklam.com
 127.0.0.1 popup.taboola.com
+127.0.0.1 pornstargals.com
 127.0.0.1 pos.baidu.com
 127.0.0.1 posed2shade.com
 127.0.0.1 poster.gamesprite.me
