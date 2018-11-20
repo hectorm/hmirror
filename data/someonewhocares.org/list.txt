@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 17 Nov 2018 at 01:29:23 GMT
+# Last updated: Mon, 19 Nov 2018 at 05:21:03 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2964,6 +2964,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.keybinary.com
 127.0.0.1 www.kinomarathon.ru
 127.0.0.1 www.kpremium.com
+127.0.0.1 www.launchbuffer.com
 127.0.0.1 www.likeportal.com			# Facebook trojan
 127.0.0.1 www.likespike.com			# Facebook trojan
 127.0.0.1 www.likethislist.biz			# Facebook trojan
