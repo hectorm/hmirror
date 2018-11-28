@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Mon Nov 26 03:30:14 UTC 2018
-# Blocked domains: 103934
+# Last updated:    Tue Nov 27 03:30:12 UTC 2018
+# Blocked domains: 103946
 
 # <header>
 127.0.0.1       localhost 
@@ -9079,6 +9079,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 adswitcher.com
 0.0.0.0 adswizz.com
 0.0.0.0 adswm.com
+0.0.0.0 adswrapme.click
 0.0.0.0 adsx.greystripe.com
 0.0.0.0 adsxgm.com
 0.0.0.0 adsxyz.com
@@ -11108,6 +11109,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 alpes.icgauth.cyberplus.banquepopulaire.fr.websso.bp.13807.emparecoin.ro
 0.0.0.0 alpha-couriers.com.sg
 0.0.0.0 alpha.easy-hit-counters.com
+0.0.0.0 alpha.telemetry.microsft.com
 0.0.0.0 alpha1047.gr
 0.0.0.0 alphabird.com
 0.0.0.0 alphabirdnetwork.com
@@ -15928,6 +15930,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 bans.adserver.co.il
 0.0.0.0 bans.bride.ru
 0.0.0.0 banshop.gruntovik.ru
+0.0.0.0 banstat.nadavi.net
 0.0.0.0 banstex.com
 0.0.0.0 bansys.onzin.com
 0.0.0.0 bantam.ai.net
@@ -21102,6 +21105,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 cdn.pickyopahs.com
+0.0.0.0 cdn.pljs.ru
 0.0.0.0 cdn.plopx.com
 0.0.0.0 cdn.polmontventures.com
 0.0.0.0 cdn.popcash.net
@@ -26574,8 +26578,10 @@ ff02::3         ip6-allhosts
 0.0.0.0 culinarchsbala.com
 0.0.0.0 culs-fr.com
 0.0.0.0 culsauwou.com
+0.0.0.0 cultidifficient.info
 0.0.0.0 cultiva.ga
 0.0.0.0 culturalumnezia.ch
+0.0.0.0 culturedcrayon.com
 0.0.0.0 culturevie.info
 0.0.0.0 culu.info
 0.0.0.0 cum-facials.nu
@@ -33572,6 +33578,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 eu.nuggad.net
 0.0.0.0 eu.sushipool.com
 0.0.0.0 eu.track.digitaladsystems.com
+0.0.0.0 eu.vortex-win.data.microsft.com
 0.0.0.0 eu.xtms.net
 0.0.0.0 eu1.cfcnet.gdn
 0.0.0.0 eu1.cpufan.club
@@ -40604,7 +40611,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 gocodes.science
 0.0.0.0 gocp.stroeermediabrands.de
 0.0.0.0 gocreditgo.com
-0.0.0.0 god123.cn
 0.0.0.0 godaddy.sp1.convertro.com
 0.0.0.0 goddessvip.com
 0.0.0.0 godegodage.com
@@ -61167,6 +61173,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 newsonlynews.com
 0.0.0.0 newsourceworld.ru
 0.0.0.0 newsoxy.us.intellitxt.com
+0.0.0.0 newspolovb.info
 0.0.0.0 newsportal1.com
 0.0.0.0 newsportal2.ru
 0.0.0.0 newsportal3.ru
@@ -62941,6 +62948,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 oc.umeng.co
 0.0.0.0 oc.umeng.com
 0.0.0.0 oc00co.cn
+0.0.0.0 oca.telemetry.microsft.com
 0.0.0.0 ocat84einc.rr.nu
 0.0.0.0 ocatdog.live
 0.0.0.0 ocatdog.today
@@ -89780,6 +89788,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 us.tvuim.pw
 0.0.0.0 us.u1.yimg.com
 0.0.0.0 us.v1.yimg.com
+0.0.0.0 us.vortex-win.data.microsft.com
 0.0.0.0 us.w1.yimg.com
 0.0.0.0 us.x1.yimg.com
 0.0.0.0 us.y1.yimg.com
@@ -90153,6 +90162,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 uyqrwg.com
 0.0.0.0 uyqzlnmdtfpnqskyyvidmllmzauitvaijcgqjldwcwvewjgwfj.com
 0.0.0.0 uyrmpnojgzi.com
+0.0.0.0 uytestion.info
 0.0.0.0 uytichas.ru
 0.0.0.0 uyusewjlkadj.com
 0.0.0.0 uyxjfkgudefv.com
@@ -90214,7 +90224,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 v1.nedstatbasic.net
 0.0.0.0 v1.stat.ku6.com
 0.0.0.0 v1.your-notification.tools
+0.0.0.0 v10-win.vortex.data.microsft.com.akadns.net
 0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v10.vortex-win.data.microsft.com
 0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 v10.xmlsearch.miva.com
 0.0.0.0 v10c.events.data.microsoft.com
