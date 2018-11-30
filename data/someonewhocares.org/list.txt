@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sun, 25 Nov 2018 at 05:57:32 GMT
+# Last updated: Thu, 29 Nov 2018 at 16:13:25 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -525,7 +525,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cig-arrete.com
 127.0.0.1 ci-mpsnare.iesnare.com
 127.0.0.1 ci-mpsnare.iesnare.co.uk
-127.0.0.1 ci-mpsnare.iovation.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
+#127.0.0.1 ci-mpsnare.iovation.com	# See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 127.0.0.1 ci-snare.iovation.com
 127.0.0.1 citrix.tradedoubler.com
 127.0.0.1 cjt1.net
