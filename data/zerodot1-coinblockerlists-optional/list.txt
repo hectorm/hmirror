@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2018-11-13 16:58
+# Last modified: 2018-12-03 00:10
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
@@ -58,6 +58,7 @@
 0.0.0.0 apps.cointraffic.io
 0.0.0.0 apps.ledgerwallet.com
 0.0.0.0 apps2.cointraffic.io
+0.0.0.0 autodiscover.btc-alpha.com
 0.0.0.0 autodiscover.uclick.in
 0.0.0.0 awesomeminer.com
 0.0.0.0 basicdemo.emercoin.com
@@ -77,6 +78,8 @@
 0.0.0.0 blog.a-ads.com
 0.0.0.0 blog.jaxx.io
 0.0.0.0 blog.trezor.io
+0.0.0.0 bng.btc-alpha.com
+0.0.0.0 btc-alpha.com
 0.0.0.0 btc-bitcore1.trezor.io
 0.0.0.0 btc-bitcore3.trezor.io
 0.0.0.0 btc.a-ads.com
@@ -127,6 +130,7 @@
 0.0.0.0 emercoin.com
 0.0.0.0 ether.cards
 0.0.0.0 ethereumproject.github.io
+0.0.0.0 event.btc-alpha.com
 0.0.0.0 evergreencoin.org
 0.0.0.0 faucet.evergreencoin.org
 0.0.0.0 faucethub.io
@@ -210,6 +214,7 @@
 0.0.0.0 mymonero.com
 0.0.0.0 n.cur.lv
 0.0.0.0 name.cur.lv
+0.0.0.0 next.btc-alpha.com
 0.0.0.0 node.jwallet.network
 0.0.0.0 nodes1.cryptopia.co.nz
 0.0.0.0 nodes2.cryptopia.co.nz
@@ -307,6 +312,7 @@
 0.0.0.0 www.bitfinex.com
 0.0.0.0 www.bithumb.com
 0.0.0.0 www.blog.trezor.io
+0.0.0.0 www.btc-alpha.com
 0.0.0.0 www.btc-bitcore1.trezor.io
 0.0.0.0 www.btc-bitcore3.trezor.io
 0.0.0.0 www.chainradar.com
