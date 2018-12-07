@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 29 Nov 2018 at 16:13:25 GMT
+# Last updated: Thu, 06 Dec 2018 at 16:47:42 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -9669,6 +9669,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 plasmatv4free.com
 127.0.0.1 plasmatvreward.com
 127.0.0.1 platads.com
+127.0.0.1 play.heavymetalmachines.com
 127.0.0.1 playinvaders.com
 127.0.0.1 play.istlandoll.com
 127.0.0.1 play.leadzupc.com
