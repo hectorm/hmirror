@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 06 Dec 2018 at 16:47:42 GMT
+# Last updated: Mon, 10 Dec 2018 at 06:03:53 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4349,7 +4349,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 a.as-us.falkag.net
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 aax-cpm.amazon-adsystem.com
-127.0.0.1 aax-eu.amazon-adsystem.com
+#127.0.0.1 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 aax-us-pdx.amazon-adsystem.com
 127.0.0.1 ab913aa797e78b3.com
@@ -10139,7 +10139,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 safenyplanet.in
 127.0.0.1 sagent.io
 127.0.0.1 salesforcecom.tt.omtrdc.net
-127.0.0.1 s.amazon-adsystem.com
+#127.0.0.1 s.amazon-adsystem.com	# may interfere with Amazon ad preferences
 127.0.0.1 samsung3.solution.weborama.fr
 127.0.0.1 sanalreklam.com
 127.0.0.1 sarah.dntrx.com
