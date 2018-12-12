@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Mon Dec 10 03:30:14 UTC 2018
-# Blocked domains: 103429
+# Last updated:    Tue Dec 11 03:30:13 UTC 2018
+# Blocked domains: 103437
 
 # <header>
 127.0.0.1       localhost 
@@ -11706,6 +11706,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-static.unister-gmbh.de
 0.0.0.0 analytics-tracker.thescore.com
+0.0.0.0 analytics-udg.netdna-ssl.com
 0.0.0.0 analytics-v2.anvato.com
 0.0.0.0 analytics.163.com
 0.0.0.0 analytics.21cn.com
@@ -18244,6 +18245,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 bombeers.ru
 0.0.0.0 bombgamble.com
 0.0.0.0 bombhack.com
+0.0.0.0 bombora.com
 0.0.0.0 bomcl.richmetrics.com
 0.0.0.0 bomsensonamoda.com.br
 0.0.0.0 bon-do-marketu.pl
@@ -23908,6 +23910,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 collect.tianya.cn
 0.0.0.0 collect.yinyuetai.com
 0.0.0.0 collect2.sas.com
+0.0.0.0 collecte.audience.acpm.fr
 0.0.0.0 collectiable.com
 0.0.0.0 collection-day.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
@@ -39267,6 +39270,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 geniad.net
 0.0.0.0 genieedmp.com
 0.0.0.0 genieessp.com
+0.0.0.0 genieessp.jp
 0.0.0.0 genieesspv.jp
 0.0.0.0 genih-i-nevesta.ru
 0.0.0.0 genius-memory.ru
@@ -40767,7 +40771,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 goto.trafficmultiplier.com
 0.0.0.0 gotofreehack24.com
 0.0.0.0 gotogotomeeting.com
-0.0.0.0 gotoip55.com
 0.0.0.0 gotoredr.com
 0.0.0.0 gotostat.ru
 0.0.0.0 gotovacations.pk
@@ -41284,6 +41287,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 grubersa.com
 0.0.0.0 grubpbrmek.com
 0.0.0.0 grumpyadzen.com
+0.0.0.0 grumrt.com
 0.0.0.0 grunerandjahr.112.2o7.net
 0.0.0.0 grupa-sprzedazowa.home.pl
 0.0.0.0 grupadellarte.pl
@@ -46596,6 +46600,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 inquiries.redhat.com
 0.0.0.0 inquisitiveinvention.com
 0.0.0.0 inqzz.super-promo.quhu.info
+0.0.0.0 inrd.ru
 0.0.0.0 inringtone.com
 0.0.0.0 inrool.com
 0.0.0.0 ins-offer.com
@@ -51209,6 +51214,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ladivalink.com
 0.0.0.0 ladkwuz9-site.gtempurl.com
 0.0.0.0 ladnova.info
+0.0.0.0 ladsp.com
 0.0.0.0 lady-verona.de
 0.0.0.0 lady.qwertin.ru
 0.0.0.0 ladyads.ru
@@ -53054,6 +53060,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 log.olark.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 log.outbrain.com
+0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinion.gg
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.pladform.ru
@@ -78286,6 +78293,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sjsmartcontent.org
 0.0.0.0 sjtevvoviqhe.com
 0.0.0.0 sjustus.info
+0.0.0.0 sjv.io
 0.0.0.0 sjvishymfmbmtyrvry.com
 0.0.0.0 sjywudokrzikmr0aike.review
 0.0.0.0 sjzsenlia.com
