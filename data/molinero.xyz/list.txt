@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Sat Dec 15 03:30:12 UTC 2018
-# Blocked domains: 103513
+# Last updated:    Sun Dec 16 03:30:13 UTC 2018
+# Blocked domains: 103537
 
 # <header>
 127.0.0.1       localhost 
@@ -17804,6 +17804,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 block.s2block.com
 0.0.0.0 block.s2blosh.com
 0.0.0.0 block.sw1block.com
+0.0.0.0 blockadblock.com
 0.0.0.0 blockarray.org
 0.0.0.0 blockbreaker.io
 0.0.0.0 blockcbhain.info
@@ -27156,6 +27157,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 d2fbkzyicji7c4.cloudfront.net
 0.0.0.0 d2fhjyz3dwdx87.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
+0.0.0.0 d2g9nmtuil60cb.cloudfront.net
 0.0.0.0 d2gfdmu30u15x7.cloudfront.net
 0.0.0.0 d2gfi8ctn6kki7.cloudfront.net
 0.0.0.0 d2ghscazvn398x.cloudfront.net
@@ -27255,6 +27257,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36sxvmjoflc2i.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
+0.0.0.0 d37dzu39aqhuxu.cloudfront.net
 0.0.0.0 d37kzqe5knnh6t.cloudfront.net
 0.0.0.0 d37s9vd5t6mov7.cloudfront.net
 0.0.0.0 d38dc3e7.ngrok.io
@@ -32894,6 +32897,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 epay-system.manages-ssl.com
 0.0.0.0 epayment-billing.com
 0.0.0.0 epaypiol.co.uk
+0.0.0.0 epbathcyav.com
 0.0.0.0 epc-expedia.eu
 0.0.0.0 epconengg.com
 0.0.0.0 epctrking.com
@@ -42670,6 +42674,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hdvidcodecs.com
 0.0.0.0 hdwallpaper.com.co
 0.0.0.0 hdwallz.ru
+0.0.0.0 hdwjwooqvnm.com
 0.0.0.0 hdwlzheftpin.com
 0.0.0.0 hdxfyoziizy.com
 0.0.0.0 hdxxpp.com
@@ -55717,7 +55722,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 mbyrgeoizdid.com
 0.0.0.0 mbzl-pro.xyz
 0.0.0.0 mc.cardcodes.net
+0.0.0.0 mc.webvisor.com
 0.0.0.0 mc.webvisor.org
+0.0.0.0 mc.webvisor.ru
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mc09j2u5.loan
 0.0.0.0 mcafee-home.7eer.net
@@ -57741,6 +57748,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mmrj.entadsl.com
 0.0.0.0 mmroom.in
 0.0.0.0 mms.al.com
+0.0.0.0 mms.blick.ch
 0.0.0.0 mms.cbslocal.com
 0.0.0.0 mms.cleveland.com
 0.0.0.0 mms.cnn.com
@@ -60227,6 +60235,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 nanovisor.io
 0.0.0.0 nanuyalailai.com
 0.0.0.0 nanyangcanopy.com
+0.0.0.0 naohofhbprtx.com
 0.0.0.0 naomiallisstone.co.uk
 0.0.0.0 naperehresti.info
 0.0.0.0 napi.lanistaads.com
@@ -72584,6 +72593,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 resu8.hjfile.cn
 0.0.0.0 resulotions-ppa.com
 0.0.0.0 resulta8.beget.tech
+0.0.0.0 resulticks.com
 0.0.0.0 resultlinks.com
 0.0.0.0 resultresults007.000webhostapp.com
 0.0.0.0 results.adworldmedia.com
@@ -78061,6 +78071,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 simg.zedo.com
 0.0.0.0 similardeals.net
 0.0.0.0 similarsabine.com
+0.0.0.0 simility.com
 0.0.0.0 simis.siambrothersvn.com
 0.0.0.0 simmage.gabrielceausescu.com
 0.0.0.0 simon3.ru
@@ -79078,6 +79089,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 snapchathack.weakwiki.com
 0.0.0.0 snapchatspys.com
 0.0.0.0 snapcheat.net
+0.0.0.0 snapdeal.biz
 0.0.0.0 snapexploit.com
 0.0.0.0 snapezf.com
 0.0.0.0 snapfish.112.2o7.net
@@ -80962,6 +80974,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 statistics.klicktel.de
 0.0.0.0 statistics.m0lxcdn.kukuplay.com
 0.0.0.0 statistics.mailerlite.com
+0.0.0.0 statistics.raiffeisen.ch
 0.0.0.0 statistics.rbi-nl.com
 0.0.0.0 statistics.reedbusiness.nl
 0.0.0.0 statistics.riskommunal.net
@@ -81011,6 +81024,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 stats.askmoses.com
 0.0.0.0 stats.asp24.pl
 0.0.0.0 stats.autohome.com.cn
+0.0.0.0 stats.autoscout24.ch
 0.0.0.0 stats.av.de
 0.0.0.0 stats.avg.com
 0.0.0.0 stats.backcountry.com
@@ -85406,6 +85420,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 toontownbeta.com
 0.0.0.0 toormpc.com
 0.0.0.0 toothbrushnote.com
+0.0.0.0 toothsome-crook.fun
 0.0.0.0 toothwhiteningfairfieldct.com
 0.0.0.0 top-application-web-online.site
 0.0.0.0 top-bloggers.com
@@ -87820,6 +87835,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 twbers4hmi6dc65f.tor2web.org
 0.0.0.0 twc.demdex.net
 0.0.0.0 twceypv.com
+0.0.0.0 twch.20min.ch
 0.0.0.0 twci.coremetrics.com
 0.0.0.0 twcount.com
 0.0.0.0 twdksbsyipqa.com
@@ -88091,6 +88107,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ualumphuoldi.angelcities.com
 0.0.0.0 uamgajydnv.com
 0.0.0.0 uamobile.net
+0.0.0.0 uaneklzqph.com
 0.0.0.0 uanomwcxixed.com
 0.0.0.0 uantonio.pl
 0.0.0.0 uaofcvzlhhh.com
@@ -91664,6 +91681,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 vuwojxgklca.com
 0.0.0.0 vuykgvnfe.com
 0.0.0.0 vuysooqimdbt.com
+0.0.0.0 vv.ricardo.ch
 0.0.0.0 vv.tmska.com
 0.0.0.0 vvanchain.org
 0.0.0.0 vvassup.com
@@ -93829,6 +93847,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 wizjatv-kody.pl
 0.0.0.0 wizknbrgxuqjo.com
 0.0.0.0 wizsearch.co.kr
+0.0.0.0 wjavelurhgx.com
 0.0.0.0 wjdjovjrxsqx.com
 0.0.0.0 wjefwuiioe123f.com
 0.0.0.0 wjfkoqueatxdmqw.biz
@@ -94974,6 +94993,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 wvmqquthmutualportmutual.000webhostapp.com
 0.0.0.0 wvps0vbply99hm1tdz8.bid
 0.0.0.0 wvqqugicfuac.com
+0.0.0.0 wvvftburvtyz.com
 0.0.0.0 wvw-payipal.com
 0.0.0.0 wvw.allaroundautorepair.com
 0.0.0.0 wvw.pavpal.com.intl-measure-security-update.com
@@ -96944,6 +96964,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.gimmethatreward.com
 0.0.0.0 www.gitgrub.pro
 0.0.0.0 www.gliamicidellunicef.it
+0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.globalcharge.com
 0.0.0.0 www.globalintergold.com
 0.0.0.0 www.globe7.com
@@ -97441,6 +97462,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.kmdl101.com
 0.0.0.0 www.kmindex.ru
 0.0.0.0 www.knacads.com
+0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.koch-backrezepte.de
 0.0.0.0 www.komodia.com
 0.0.0.0 www.konimkan.com
@@ -101667,6 +101689,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ychbtidylyna.com
 0.0.0.0 ychynt.com
 0.0.0.0 ycjwgpkudmve.com
+0.0.0.0 yckdywmihuabu.com
 0.0.0.0 yclydq.com
 0.0.0.0 ycmejutxukkz.com
 0.0.0.0 ycojhxdobkrd.com
@@ -103441,6 +103464,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 zxc1-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 zxciuniqhweizsds.com
 0.0.0.0 zxcrsyhkndzoc.com
+0.0.0.0 zxczritytzsjz.com
 0.0.0.0 zxeyqwgwsfv.com
 0.0.0.0 zxiikxeagmferu.com
 0.0.0.0 zxjmybvewmso.com
