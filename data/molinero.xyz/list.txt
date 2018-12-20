@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Tue Dec 18 03:30:13 UTC 2018
-# Blocked domains: 103510
+# Last updated:    Wed Dec 19 03:30:13 UTC 2018
+# Blocked domains: 103516
 
 # <header>
 127.0.0.1       localhost 
@@ -4749,6 +4749,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ad.net-tool.jp
 0.0.0.0 ad.netcommunities.com
 0.0.0.0 ad.netgoo.com
+0.0.0.0 ad.netmedia.hu
 0.0.0.0 ad.network60.com
 0.0.0.0 ad.netzquadrat.de
 0.0.0.0 ad.newegg.com
@@ -12651,6 +12652,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 api.intentiq.com
 0.0.0.0 api.inwemo.com
 0.0.0.0 api.iperceptions.com
+0.0.0.0 api.ipify.org
 0.0.0.0 api.ipinfodb.com
 0.0.0.0 api.iris.tv
 0.0.0.0 api.jsecoin.com
@@ -17891,6 +17893,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 blogreaderproject.com
 0.0.0.0 blogrush.com
 0.0.0.0 blogscounter.com
+0.0.0.0 blogseo.xyz
 0.0.0.0 blogsontop.com
 0.0.0.0 blogstar.fun
 0.0.0.0 blogtalkradio.crwdcntrl.net
@@ -19136,7 +19139,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 businessedgeadvance.com
 0.0.0.0 businessgot.info
 0.0.0.0 businessimportant.tk
-0.0.0.0 businessinsider-fr.businessinsider.fr
 0.0.0.0 businessinsider.us.intellitxt.com
 0.0.0.0 businessknowhow.us.intellitxt.com
 0.0.0.0 businesslinedubai.ae
@@ -33759,6 +33761,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 events.bounceexchange.com
 0.0.0.0 events.foreseeresults.com
 0.0.0.0 events.indyloyaltyclub.com
+0.0.0.0 events.ingatlan.com
 0.0.0.0 events.izooto.com
 0.0.0.0 events.jora.com
 0.0.0.0 events.jotform.com
@@ -57725,7 +57728,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 mmrj.entadsl.com
 0.0.0.0 mmroom.in
 0.0.0.0 mms.al.com
-0.0.0.0 mms.blick.ch
 0.0.0.0 mms.cbslocal.com
 0.0.0.0 mms.cleveland.com
 0.0.0.0 mms.cnn.com
@@ -64390,6 +64392,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 out.aipad.co
 0.0.0.0 out.popads.net
 0.0.0.0 out.true-counter.com
+0.0.0.0 outal.origo.hu
 0.0.0.0 outbanner.hu.co.kr
 0.0.0.0 outbid.io
 0.0.0.0 outboundlink.me
@@ -73802,6 +73805,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 rulgltvmpzig.com
 0.0.0.0 rum-collector.pingdom.net
 0.0.0.0 rum-static.pingdom.net
+0.0.0.0 rum.marquardmedia.hu
 0.0.0.0 rumahhufazh.or.id
 0.0.0.0 rumahmakannusantara.biz.id
 0.0.0.0 rumamba.com
@@ -76376,6 +76380,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 seo4india.com
 0.0.0.0 seoanalyses.com
 0.0.0.0 seobloger.ru
+0.0.0.0 seobook.top
 0.0.0.0 seocertification.upcart.me
 0.0.0.0 seocheckupx.com
 0.0.0.0 seocheckupx.net
@@ -87808,7 +87813,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 twbers4hmi6dc65f.tor2web.org
 0.0.0.0 twc.demdex.net
 0.0.0.0 twceypv.com
-0.0.0.0 twch.20min.ch
 0.0.0.0 twci.coremetrics.com
 0.0.0.0 twcount.com
 0.0.0.0 twdksbsyipqa.com
@@ -88219,6 +88223,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ueptzgugtxis.com
 0.0.0.0 uerhhgezdrdi.com
 0.0.0.0 uerladwdpkge.com
+0.0.0.0 uescuqejoirsh.com
 0.0.0.0 uesdsnkemclot.com
 0.0.0.0 uestat.video.qiyi.com
 0.0.0.0 uetqkude.com
@@ -90003,6 +90008,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 vaptistika-olga.gr
 0.0.0.0 vaqkvpbtia.com
 0.0.0.0 varanikosasih.myjino.ru
+0.0.0.0 vardenafil20.com
 0.0.0.0 vardtorg.ru
 0.0.0.0 varefication.us
 0.0.0.0 vareza.net
