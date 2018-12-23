@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 20 Dec 2018 at 10:44:46 GMT
+# Last updated: Sat, 22 Dec 2018 at 22:39:18 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7871,6 +7871,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 dl-plugin.com
 127.0.0.1 dlvr.readserver.net
 127.0.0.1 dmp.vihub.ru
+127.0.0.1 dmxleo.dailymotion.com
 127.0.0.1 dnads.directnic.com
 127.0.0.1 dnps.com
 127.0.0.1 dnse.linkpulse.com
@@ -9588,6 +9589,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 pcookie.aliexpress.com
 127.0.0.1 pc-virus-d0l92j2.pw
 127.0.0.1 peaky.tags.yield-atx.com
+127.0.0.1 pebed.dm-event.net
 127.0.0.1 pei-ads.playboy.com
 127.0.0.1 people-choice-sites.com
 127.0.0.1 performanceadexchange.com

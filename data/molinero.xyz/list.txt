@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Fri Dec 21 03:30:13 UTC 2018
-# Blocked domains: 103553
+# Last updated:    Sat Dec 22 03:30:12 UTC 2018
+# Blocked domains: 103562
 
 # <header>
 127.0.0.1       localhost 
@@ -19539,6 +19539,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 c.live.com
 0.0.0.0 c.lomadee.com
 0.0.0.0 c.marketgid.com
+0.0.0.0 c.marsflag.com
 0.0.0.0 c.mdnhinc.com
 0.0.0.0 c.medialytics.com
 0.0.0.0 c.mfstatic.cz
@@ -21191,6 +21192,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdnapi.net
 0.0.0.0 cdnativ.com
 0.0.0.0 cdnaws.mobidea.com
+0.0.0.0 cdnbigdata.azureedge.net
 0.0.0.0 cdncounter.top
 0.0.0.0 cdnfile.xyz
 0.0.0.0 cdnjs.cloudflane.com
@@ -22438,6 +22440,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cimcshjoue.com
 0.0.0.0 cimrman.org
 0.0.0.0 cinamuse.com
+0.0.0.0 cinarra.com
 0.0.0.0 cindicator.network
 0.0.0.0 cindicator.pro
 0.0.0.0 cindyhome.home.ml.org
@@ -31678,6 +31681,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ed.at.thamaster.de
 0.0.0.0 ed16c02e.amy.gs
 0.0.0.0 ed451bb0796e6b9a.com
+0.0.0.0 ed98512111bb19e5.in.net
 0.0.0.0 ed9wkbpy.com
 0.0.0.0 edaa.eu
 0.0.0.0 edakgfvwql.ru
@@ -33778,6 +33782,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 events.artirix.com
 0.0.0.0 events.boomtrain.com
 0.0.0.0 events.bounceexchange.com
+0.0.0.0 events.chaordicsystems.com
 0.0.0.0 events.foreseeresults.com
 0.0.0.0 events.indyloyaltyclub.com
 0.0.0.0 events.ingatlan.com
@@ -34469,6 +34474,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 fabricww.com
 0.0.0.0 fabriquekorea.com
 0.0.0.0 fabrizv7.beget.tech
+0.0.0.0 fabrkrup.com
 0.0.0.0 fabryka-chinczykow.blogspot.com
 0.0.0.0 fabryka-nagrod.com
 0.0.0.0 fac5fo7d4n.bradul.creatory.org
@@ -45822,7 +45828,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 imdsdg2utd.kippsmart.com
 0.0.0.0 imedia.co.il
 0.0.0.0 imedia.com.mt
-0.0.0.0 imedia.cz
 0.0.0.0 imediaaudiences.com
 0.0.0.0 imediarevenue.com
 0.0.0.0 imeds.ero-advertising.com
@@ -57998,6 +58003,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mobilenpara.com
 0.0.0.0 mobileofferplace.site
 0.0.0.0 mobileoffers-a-download.com
+0.0.0.0 mobileoffers-cb-download.com
 0.0.0.0 mobileoffers-h-download.com
 0.0.0.0 mobileposse.com
 0.0.0.0 mobileqp.beget.tech
@@ -82928,6 +82934,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 t.afftrackr.com
 0.0.0.0 t.analytics.blue
 0.0.0.0 t.appsflyer.com
+0.0.0.0 t.arianelab.com
 0.0.0.0 t.atpanel.com
 0.0.0.0 t.bbtrack.net
 0.0.0.0 t.beanstalkdata.com
@@ -82963,6 +82970,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 t.info.rezbine.com
 0.0.0.0 t.insigit.com
 0.0.0.0 t.invitemedia.com
+0.0.0.0 t.karte.io
 0.0.0.0 t.kck.st
 0.0.0.0 t.kctag.net
 0.0.0.0 t.leady.com
@@ -101779,6 +101787,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 yeniyolgumruk.com
 0.0.0.0 yeniyuzyillions.org
 0.0.0.0 yeo1tfjz5f.com
+0.0.0.0 yepads.com
 0.0.0.0 yepdigital.adk2x.com
 0.0.0.0 yephjhhcg.com
 0.0.0.0 yepiafsrxffl.com
