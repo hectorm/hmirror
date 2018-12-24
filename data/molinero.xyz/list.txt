@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Sat Dec 22 03:30:12 UTC 2018
-# Blocked domains: 103562
+# Last updated:    Sun Dec 23 03:30:12 UTC 2018
+# Blocked domains: 103577
 
 # <header>
 127.0.0.1       localhost 
@@ -5240,6 +5240,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ad50digital.checkm8.com
 0.0.0.0 ad5871bb0eeb.online
 0.0.0.0 ad5digital.checkm8.com
+0.0.0.0 ad5track.com
 0.0.0.0 ad6.adspaces.ero-advertising.com
 0.0.0.0 ad6.bannerbank.ru
 0.0.0.0 ad6.banners.ero-advertising.com
@@ -11408,6 +11409,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ambien.4.p2l.info
 0.0.0.0 ambien.ourtablets.com
 0.0.0.0 ambient-platform.com
+0.0.0.0 ambientplatform.vn
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitionpowerbd.com
 0.0.0.0 ambitionpublishing.co.uk
@@ -18720,7 +18722,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 brickandmobile.com
 0.0.0.0 bricklblock.io
 0.0.0.0 bricksandstonesgossip.us.intellitxt.com
-0.0.0.0 brid.tv
 0.0.0.0 bridalsarebridals.com
 0.0.0.0 bride1.com
 0.0.0.0 bridge.ame.admarketplace.net
@@ -22418,6 +22419,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cienum.fr
 0.0.0.0 cif.su
 0.0.0.0 cifipkbu.com
+0.0.0.0 cifraclub.com.br
 0.0.0.0 cig-arrete.com
 0.0.0.0 cigape.net
 0.0.0.0 cigar.pt
@@ -22822,6 +22824,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 clearac.com
 0.0.0.0 clearcomb.com
 0.0.0.0 clearonclick.com
+0.0.0.0 clearsale.com.br
 0.0.0.0 clearshieldredirect.com
 0.0.0.0 clearviewstats.com
 0.0.0.0 cledghtdrjtb.com
@@ -25202,6 +25205,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 counter.paradise.net.nz
 0.0.0.0 counter.pax.com
 0.0.0.0 counter.pcgames.de
+0.0.0.0 counter.people.cn
 0.0.0.0 counter.personyze.com
 0.0.0.0 counter.photopulse.ru
 0.0.0.0 counter.pixplug.in
@@ -29656,6 +29660,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 dmwajvm.fr
 0.0.0.0 dmwubqhtuvls.com
 0.0.0.0 dmxleo.com
+0.0.0.0 dmxleo.dailymotion.com
 0.0.0.0 dmxoedcqcb.com
 0.0.0.0 dmyypseympjf.com
 0.0.0.0 dmzgames.com
@@ -44626,6 +44631,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hypoot.com
 0.0.0.0 hyprintsolutions.com
 0.0.0.0 hyprshr.com
+0.0.0.0 hyrankhit.meldingcloud.com
 0.0.0.0 hyrlastbilgoteborg.se
 0.0.0.0 hystericalhelp.com
 0.0.0.0 hystersister.com
@@ -53085,6 +53091,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 log.bitauto.com
 0.0.0.0 log.bling.samuraiworks.com
 0.0.0.0 log.btopenworld.com
+0.0.0.0 log.china.cn
 0.0.0.0 log.circle.com.ng
 0.0.0.0 log.cizion.com
 0.0.0.0 log.clickstream.co.za
@@ -54825,6 +54832,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mah0ney.com
 0.0.0.0 mahalaxmimachines.com
 0.0.0.0 mahicardings.com
+0.0.0.0 mahimeta.com
 0.0.0.0 mahindrainsurance.com
 0.0.0.0 mahiwal18.top
 0.0.0.0 mahonolo.com
@@ -55854,6 +55862,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mdwsavannah.112.2o7.net
 0.0.0.0 mdwskirt.112.2o7.net
 0.0.0.0 mdwyerle.myhostpoint.ch
+0.0.0.0 mdxapi.io
 0.0.0.0 me-cdn.effectivemeasure.net
 0.0.0.0 me-ssl.effectivemeasure.net
 0.0.0.0 me.3788.cn
@@ -56725,6 +56734,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics-collector.onscroll.com
+0.0.0.0 metrics-collector.s-onetag.com
 0.0.0.0 metrics.aarp.org
 0.0.0.0 metrics.accuweather.com
 0.0.0.0 metrics.acehardware.com
@@ -66117,6 +66127,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pebble-adhese.gva.be
 0.0.0.0 pebble-adhese.hbvl.be
 0.0.0.0 pebblemedia.be
+0.0.0.0 pebed.dm-event.net
 0.0.0.0 pebed.dm.gg
 0.0.0.0 pebx.pl
 0.0.0.0 pecaimports.com.br
@@ -66226,6 +66237,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 percentmobile.com
 0.0.0.0 perceptualsolutions.com
 0.0.0.0 percularity.com
+0.0.0.0 percycle.com
 0.0.0.0 perderpeso2013.com
 0.0.0.0 perdusha.ru
 0.0.0.0 peredest.com
@@ -89725,6 +89737,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 utyynepwwnl.com
 0.0.0.0 utzpjbrtyjuj.com
 0.0.0.0 utzpkru.411.com1.ru
+0.0.0.0 uuaajohul.com
 0.0.0.0 uuaoy.com
 0.0.0.0 uuberbonus.com
 0.0.0.0 uubxhbwnwmfqp.com
@@ -91752,6 +91765,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 vxncdkrggd.com
 0.0.0.0 vxqhchlyijwu.com
 0.0.0.0 vxqpomwum.pw
+0.0.0.0 vxrpmslex.com
 0.0.0.0 vxsgcfxr.beget.tech
 0.0.0.0 vxuhavco.com
 0.0.0.0 vxumimuhg.com
@@ -102002,6 +102016,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ymuhybbrk.com
 0.0.0.0 ymvkirvjqgha.com
 0.0.0.0 ymxpb.com
+0.0.0.0 ymzrrizntbhde.com
 0.0.0.0 yn4uq0h5f9vfpg.science
 0.0.0.0 yncme.insec.org.np
 0.0.0.0 yndxstat.ru
