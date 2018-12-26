@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Mon Dec 24 03:33:53 UTC 2018
-# Blocked domains: 103587
+# Last updated:    Tue Dec 25 03:30:14 UTC 2018
+# Blocked domains: 103589
 
 # <header>
 127.0.0.1       localhost 
@@ -3699,6 +3699,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 abo-arish.net
 0.0.0.0 abo.prismamediadigital.com
 0.0.0.0 aboardlevel.com
+0.0.0.0 abodealley.com
 0.0.0.0 abogadobarcelona.com.es
 0.0.0.0 abogadodejacksonville.com
 0.0.0.0 abond.net
@@ -18831,6 +18832,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 browser-statistik.de
 0.0.0.0 browser-tools.systems
 0.0.0.0 browser-update.org
+0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 browseraccelerator.com
 0.0.0.0 browserbreckalarm.info
 0.0.0.0 browsergames2018.com
