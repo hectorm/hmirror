@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Tue Dec 25 03:30:14 UTC 2018
-# Blocked domains: 103589
+# Last updated:    Wed Dec 26 03:30:12 UTC 2018
+# Blocked domains: 103590
 
 # <header>
 127.0.0.1       localhost 
@@ -1864,7 +1864,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 4xporn.com
 0.0.0.0 4youcom.com
 0.0.0.0 5-best-seo.com
-0.0.0.0 5-g.cn
 0.0.0.0 5-steps-to-start-business.com
 0.0.0.0 5.estasiatica.com
 0.0.0.0 5.eventiduepuntozero.com
@@ -27266,7 +27265,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 d31j93rd8oukbv.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d32hwlnfiv2gyn.cloudfront.net
-0.0.0.0 d32k27yvyi4kmv.cloudfront.net
 0.0.0.0 d32pxqbknuxsuy.cloudfront.net
 0.0.0.0 d32r49xyei4vz6.cloudfront.net
 0.0.0.0 d32r9jwgeu9dzx.cloudfront.net
@@ -56756,6 +56754,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 metrics.americancityandcounty.com
 0.0.0.0 metrics.apartmentfinder.com
 0.0.0.0 metrics.apartments.com
+0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.ariba.com
 0.0.0.0 metrics.att.com
 0.0.0.0 metrics.autobytel.com
@@ -59874,6 +59873,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 myletherwallets.info
 0.0.0.0 mylftv.com
 0.0.0.0 mylike.co.uk
+0.0.0.0 mylink-today.com
 0.0.0.0 mylinkbox.com
 0.0.0.0 mylocker.pl
 0.0.0.0 mylolriotpoints.com
@@ -60177,6 +60177,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 nafamovies.com
 0.0.0.0 naftemporiki.nuggad.net
 0.0.0.0 naganaga.lol
+0.0.0.0 naganoadigei.com
 0.0.0.0 nagarkusumbihsn.edu.bd
 0.0.0.0 nage2017.com
 0.0.0.0 nagellackonline.se
