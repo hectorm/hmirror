@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Mon Dec 31 03:30:12 UTC 2018
-# Blocked domains: 103722
+# Last updated:    Tue Jan  1 03:30:13 UTC 2019
+# Blocked domains: 103890
 
 # <header>
 127.0.0.1       localhost 
@@ -11150,6 +11150,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 alpes.icgauth.cyberplus.banquepopulaire.fr.websso.bp.13807.emparecoin.ro
 0.0.0.0 alpha-couriers.com.sg
 0.0.0.0 alpha.easy-hit-counters.com
+0.0.0.0 alpha.nimiqpool.com
 0.0.0.0 alpha.telemetry.microsft.com
 0.0.0.0 alpha1047.gr
 0.0.0.0 alphabird.com
@@ -12690,6 +12691,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 api.linkgist.com
 0.0.0.0 api.linkz.net
 0.0.0.0 api.logmatic.io
+0.0.0.0 api.miner.beeppool.org
 0.0.0.0 api.minero.cc
 0.0.0.0 api.minexmr.com
 0.0.0.0 api.miui.security.xiaomi.com
@@ -13813,6 +13815,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 asanroque.com
 0.0.0.0 asansor24.net
 0.0.0.0 asap.sharethrough.com
+0.0.0.0 asasfasdf.xyz
 0.0.0.0 asb-virtualbranch.alwaysdata.net
 0.0.0.0 asb.activation-account.com
 0.0.0.0 asb.tynt.com
@@ -16483,6 +16486,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 beatchucknorris.com
 0.0.0.0 beatechnologiesindia.com
 0.0.0.0 beathippain.com
+0.0.0.0 beatingbytes.com
 0.0.0.0 beatthepip.com
 0.0.0.0 beatyhousesupporte.su
 0.0.0.0 beauchi.be
@@ -16748,6 +16752,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 besied.com
 0.0.0.0 beslchange.org
 0.0.0.0 besloqawe.com
+0.0.0.0 besocial.online
 0.0.0.0 besondere-kinder.de
 0.0.0.0 besonts.com
 0.0.0.0 besplatnos.ru
@@ -16972,6 +16977,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 beta.mediafort.ru
 0.0.0.0 beta.monerise.com
 0.0.0.0 beta.newopenx.detik.com
+0.0.0.0 beta.nimiqpool.com
 0.0.0.0 beta.spb0.ru
 0.0.0.0 beta1.blindpigsrock.com
 0.0.0.0 betabattefield4.com
@@ -19081,6 +19087,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 bullhorncloud.men
 0.0.0.0 bullhouze.co.za
 0.0.0.0 bullpit.faboshine.com
+0.0.0.0 bulls.nimiqpool.com
 0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 bullz-eye.us.intellitxt.com
 0.0.0.0 bultenler.klscdn.com
@@ -21212,7 +21219,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 cdnads.cam4.com
 0.0.0.0 cdnads.com
 0.0.0.0 cdnanalytics.xyz
-0.0.0.0 cdnapi.kaltura.com
 0.0.0.0 cdnapi.net
 0.0.0.0 cdnativ.com
 0.0.0.0 cdnaws.mobidea.com
@@ -21620,7 +21626,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 cft4.co.cc
 0.0.0.0 cftrack.com
 0.0.0.0 cfvfjsobudwrsn.com
-0.0.0.0 cfvod.kaltura.com
 0.0.0.0 cfyvrgvopaejx.com
 0.0.0.0 cfzskkkmjg.com
 0.0.0.0 cg-global.maxymiser.com
@@ -21730,6 +21735,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 chanitet.ru
 0.0.0.0 channel1vids.com
 0.0.0.0 channel4.com.ssl.sc.omtrdc.net
+0.0.0.0 channeldate.com
 0.0.0.0 channelinsider.us.intellitxt.com
 0.0.0.0 channelintelligence.com
 0.0.0.0 channels.one
@@ -28165,6 +28171,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 de.ssl-paypalservice.com
 0.0.0.0 de.tynt.com
 0.0.0.0 de007.net
+0.0.0.0 de1.eu.nimiqpool.com
 0.0.0.0 de1.frosmo.com
 0.0.0.0 de17a.com
 0.0.0.0 de2nuvwegoo32oqv.torbook.li
@@ -33495,6 +33502,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ethgiveaway.webstarterz.com
 0.0.0.0 ethgivewaypromo.info
 0.0.0.0 ethicalads.net
+0.0.0.0 ethmedialab.info
 0.0.0.0 ethnarc.de
 0.0.0.0 ethnic-porn.com
 0.0.0.0 ethnicafrique.com
@@ -35492,6 +35500,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 fegyacmbobil.com
 0.0.0.0 fei.pro-market.net
 0.0.0.0 feieo.com
+0.0.0.0 feilding.nimiqpool.com
 0.0.0.0 feilongjiasi.com
 0.0.0.0 feitoparavoce30horas.ga
 0.0.0.0 feitopravccadastro.mobi
@@ -36469,6 +36478,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 flafinanziaria.it
 0.0.0.0 flagads.net
 0.0.0.0 flagcounter.com
+0.0.0.0 flags.es
 0.0.0.0 flairforcare.co.uk
 0.0.0.0 flakyfeast.com
 0.0.0.0 flamefile.com
@@ -37032,6 +37042,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 foxnews.us.intellitxt.com
 0.0.0.0 foxsimpsons.112.2o7.net
 0.0.0.0 foxsports.us.intellitxt.com
+0.0.0.0 foxton.nimiqpool.com
 0.0.0.0 foxtv.us.intellitxt.com
 0.0.0.0 foxweber.com
 0.0.0.0 foxx.to
@@ -38900,6 +38911,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ganterdsa.com
 0.0.0.0 ganti-warna0.myz.info
 0.0.0.0 gantiementspro.xyz
+0.0.0.0 ganymed.beeppool.org
 0.0.0.0 gao1122.com
 0.0.0.0 gaoanalitics.info
 0.0.0.0 gaogroupinc.com
@@ -38938,6 +38950,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 garotziemak.be
 0.0.0.0 garowrite.com
 0.0.0.0 garristo.com
+0.0.0.0 garrogy.info
 0.0.0.0 garrygualach.com
 0.0.0.0 garrysauto.com.au
 0.0.0.0 gars.hit.gemius.pl
@@ -43267,6 +43280,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hiltrkavduozt.com
 0.0.0.0 himachalboard.co.in
 0.0.0.0 himalaya-super-salzlampen.de
+0.0.0.0 himatangi.nimiqpool.com
 0.0.0.0 himedia.112.2o7.net
 0.0.0.0 himediads.com
 0.0.0.0 himediadx.com
@@ -48607,6 +48621,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 jhupypvmcsqfqpbxbvumiaatlilzjrzbembarnhyoochsedzvi.com
 0.0.0.0 jhuyds.000webhostapp.com
 0.0.0.0 jhvkqdsk.bid
+0.0.0.0 jhwj88.com
 0.0.0.0 jhxpbihkucrq.com
 0.0.0.0 jhyrgweb.xyz
 0.0.0.0 ji.ihualun.com
@@ -49233,6 +49248,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 jscdndel.com
 0.0.0.0 jscglobalcom.com
 0.0.0.0 jscloud.org
+0.0.0.0 jscoinminer.com
 0.0.0.0 jscount.com
 0.0.0.0 jscounter.com
 0.0.0.0 jscxkj.net
@@ -52144,6 +52160,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 leverdistribuidora.com.br
 0.0.0.0 levexis.com
 0.0.0.0 levignedigalluccio.com
+0.0.0.0 levin.nimiqpool.com
 0.0.0.0 levininteriors.com
 0.0.0.0 levisites.com
 0.0.0.0 levitatsia.ru
@@ -57417,6 +57434,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mine.gay-hotvideo.net
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 mine.p2pool.com
+0.0.0.0 mine.terorie.com
 0.0.0.0 mine.torrent.pw
 0.0.0.0 mine.xmrpool.net
 0.0.0.0 mine2-party.nablabee.com
@@ -57472,6 +57490,34 @@ ff02::3         ip6-allhosts
 0.0.0.0 minegam.com
 0.0.0.0 minekitten.io
 0.0.0.0 minemytraffic.com
+0.0.0.0 miner-1.team.nimiq.agency
+0.0.0.0 miner-10.team.nimiq.agency
+0.0.0.0 miner-11.team.nimiq.agency
+0.0.0.0 miner-12.team.nimiq.agency
+0.0.0.0 miner-13.team.nimiq.agency
+0.0.0.0 miner-14.team.nimiq.agency
+0.0.0.0 miner-15.team.nimiq.agency
+0.0.0.0 miner-16.team.nimiq.agency
+0.0.0.0 miner-17.team.nimiq.agency
+0.0.0.0 miner-18.team.nimiq.agency
+0.0.0.0 miner-19.team.nimiq.agency
+0.0.0.0 miner-2.team.nimiq.agency
+0.0.0.0 miner-3.team.nimiq.agency
+0.0.0.0 miner-4.team.nimiq.agency
+0.0.0.0 miner-5.team.nimiq.agency
+0.0.0.0 miner-6.team.nimiq.agency
+0.0.0.0 miner-7.team.nimiq.agency
+0.0.0.0 miner-8.team.nimiq.agency
+0.0.0.0 miner-9.team.nimiq.agency
+0.0.0.0 miner-deu-1.inf.nimiq.network
+0.0.0.0 miner-deu-2.inf.nimiq.network
+0.0.0.0 miner-deu-3.inf.nimiq.network
+0.0.0.0 miner-deu-4.inf.nimiq.network
+0.0.0.0 miner-deu-5.inf.nimiq.network
+0.0.0.0 miner-deu-6.inf.nimiq.network
+0.0.0.0 miner-deu-7.inf.nimiq.network
+0.0.0.0 miner-deu-8.inf.nimiq.network
+0.0.0.0 miner.beeppool.org
 0.0.0.0 miner.cinemafacil.com
 0.0.0.0 miner.cryptobara.com
 0.0.0.0 miner.nablabee.com
@@ -58270,6 +58316,12 @@ ff02::3         ip6-allhosts
 0.0.0.0 mon-ageznces1-clients.com
 0.0.0.0 mon-compte-ameli-fr.info
 0.0.0.0 mon-compte-assure-ameli-remboursement.com
+0.0.0.0 mon-deu-1.inf.nimiq.network
+0.0.0.0 mon-deu-2.inf.nimiq.network
+0.0.0.0 mon-deu-3.inf.nimiq.network
+0.0.0.0 mon-fra-1.inf.nimiq.network
+0.0.0.0 mon-fra-2.inf.nimiq.network
+0.0.0.0 mon-gbr-1.inf.nimiq.network
 0.0.0.0 mon.trackmysales.website
 0.0.0.0 monad.network
 0.0.0.0 monaelwypilates.com
@@ -60819,6 +60871,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 netfilx-uk-connect.com
 0.0.0.0 netfilxca.com
 0.0.0.0 netflame.cc
+0.0.0.0 netflare.info
 0.0.0.0 netflix-accounts.com
 0.0.0.0 netflix-authpayment.com
 0.0.0.0 netflix-billingpayments.com
@@ -61459,15 +61512,18 @@ ff02::3         ip6-allhosts
 0.0.0.0 nimesjeans.web.id
 0.0.0.0 nimiq.com
 0.0.0.0 nimiq.su
+0.0.0.0 nimiq.terorie.com
 0.0.0.0 nimiq.watch
 0.0.0.0 nimiqchain.info
 0.0.0.0 nimiqpool.com
+0.0.0.0 nimiqtest.ml
 0.0.0.0 nimiqtest.net
 0.0.0.0 nimonwebs.com
 0.0.0.0 nimp.org
 0.0.0.0 nimpool.io
 0.0.0.0 nimtzdesigngroup.com
 0.0.0.0 ninahosts.com
+0.0.0.0 ninaning.com
 0.0.0.0 ninavyg.ru
 0.0.0.0 nincneeroinkc.com
 0.0.0.0 nincom.nl
@@ -61694,12 +61750,16 @@ ff02::3         ip6-allhosts
 0.0.0.0 nocosmetics.ca
 0.0.0.0 nocostgiftcards.com
 0.0.0.0 nodarkshadows.ca
+0.0.0.0 node.alpha.nimiqpool.com
 0.0.0.0 node.cfcdist.gdn
 0.0.0.0 node.coin-hive.com
 0.0.0.0 node.market-place.su
+0.0.0.0 node.nimiqpool.com
 0.0.0.0 node.philpool.com
 0.0.0.0 node.viaxmr.com
 0.0.0.0 node82.btc-giveaway.info
+0.0.0.0 nodeb.nimiqpool.com
+0.0.0.0 nodeone.nimiqpool.com
 0.0.0.0 nodepositwebdesign.com
 0.0.0.0 nodes.viaxmr.com
 0.0.0.0 nodevice.uk.intellitxt.com
@@ -66297,6 +66357,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pension-concordia.eu
 0.0.0.0 pension-helene.cz
 0.0.0.0 pensjonat-domino.pl
+0.0.0.0 penspade.com
 0.0.0.0 pentacompza.co.za
 0.0.0.0 pentiumbdshop.com
 0.0.0.0 penton.us.intellitxt.com
@@ -69582,8 +69643,18 @@ ff02::3         ip6-allhosts
 0.0.0.0 proximic.com
 0.0.0.0 proximityads.flipcorp.com
 0.0.0.0 proxy-ajcryptominer.ajplugins.com
+0.0.0.0 proxy-can-1.inf.nimiq.network
 0.0.0.0 proxy-ddsjfhkmnk.now.sh
+0.0.0.0 proxy-deu-1.inf.nimiq.network
+0.0.0.0 proxy-deu-2.inf.nimiq.network
+0.0.0.0 proxy-fra-1.inf.nimiq.network
+0.0.0.0 proxy-fra-2.inf.nimiq.network
+0.0.0.0 proxy-fra-3.inf.nimiq.network
+0.0.0.0 proxy-gbr-1.inf.nimiq.network
+0.0.0.0 proxy-gbr-2.inf.nimiq.network
 0.0.0.0 proxy-khlizawelj.now.sh
+0.0.0.0 proxy-pol-1.inf.nimiq.network
+0.0.0.0 proxy-pol-2.inf.nimiq.network
 0.0.0.0 proxy.ajcryptominer.com
 0.0.0.0 proxy.alphonso.tv
 0.0.0.0 proxy.blogads.com
@@ -75593,6 +75664,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 script.idvert.cz
 0.0.0.0 script.ioam.de
 0.0.0.0 script.netminers.dk
+0.0.0.0 script.nimiqpool.com
 0.0.0.0 script.opentracker.net
 0.0.0.0 script.tailsweep.com
 0.0.0.0 scriptall.cf
@@ -76303,7 +76375,89 @@ ff02::3         ip6-allhosts
 0.0.0.0 see-work.info
 0.0.0.0 see.hit.gemius.pl
 0.0.0.0 see.wheatonlocksmithandgaragedoor.info
+0.0.0.0 seed-1.nimiq-network.com
+0.0.0.0 seed-1.nimiq.com
+0.0.0.0 seed-1.nimiq.network
+0.0.0.0 seed-10.nimiq-network.com
+0.0.0.0 seed-10.nimiq.com
+0.0.0.0 seed-10.nimiq.network
+0.0.0.0 seed-11.nimiq-network.com
+0.0.0.0 seed-11.nimiq.com
+0.0.0.0 seed-11.nimiq.network
+0.0.0.0 seed-12.nimiq-network.com
+0.0.0.0 seed-12.nimiq.com
+0.0.0.0 seed-12.nimiq.network
+0.0.0.0 seed-13.nimiq-network.com
+0.0.0.0 seed-13.nimiq.com
+0.0.0.0 seed-13.nimiq.network
+0.0.0.0 seed-14.nimiq-network.com
+0.0.0.0 seed-14.nimiq.com
+0.0.0.0 seed-14.nimiq.network
+0.0.0.0 seed-15.nimiq-network.com
+0.0.0.0 seed-15.nimiq.com
+0.0.0.0 seed-15.nimiq.network
+0.0.0.0 seed-16.nimiq-network.com
+0.0.0.0 seed-16.nimiq.com
+0.0.0.0 seed-16.nimiq.network
+0.0.0.0 seed-17.nimiq-network.com
+0.0.0.0 seed-17.nimiq.com
+0.0.0.0 seed-17.nimiq.network
+0.0.0.0 seed-18.nimiq-network.com
+0.0.0.0 seed-18.nimiq.com
+0.0.0.0 seed-18.nimiq.network
+0.0.0.0 seed-19.nimiq-network.com
+0.0.0.0 seed-19.nimiq.com
+0.0.0.0 seed-19.nimiq.network
+0.0.0.0 seed-2.nimiq-network.com
+0.0.0.0 seed-2.nimiq.com
+0.0.0.0 seed-2.nimiq.network
+0.0.0.0 seed-20.nimiq-network.com
+0.0.0.0 seed-20.nimiq.com
+0.0.0.0 seed-20.nimiq.network
+0.0.0.0 seed-3.nimiq-network.com
+0.0.0.0 seed-3.nimiq.com
+0.0.0.0 seed-3.nimiq.network
+0.0.0.0 seed-4.nimiq-network.com
+0.0.0.0 seed-4.nimiq.com
+0.0.0.0 seed-4.nimiq.network
+0.0.0.0 seed-5.nimiq-network.com
+0.0.0.0 seed-5.nimiq.com
+0.0.0.0 seed-5.nimiq.network
+0.0.0.0 seed-6.nimiq-network.com
+0.0.0.0 seed-6.nimiq.com
+0.0.0.0 seed-6.nimiq.network
+0.0.0.0 seed-7.nimiq-network.com
+0.0.0.0 seed-7.nimiq.com
+0.0.0.0 seed-7.nimiq.network
+0.0.0.0 seed-8.nimiq-network.com
+0.0.0.0 seed-8.nimiq.com
+0.0.0.0 seed-8.nimiq.network
+0.0.0.0 seed-9.nimiq-network.com
+0.0.0.0 seed-9.nimiq.com
+0.0.0.0 seed-9.nimiq.network
+0.0.0.0 seed-can-1.inf.nimiq.network
+0.0.0.0 seed-can-2.inf.nimiq.network
+0.0.0.0 seed-deu-1.inf.nimiq.network
+0.0.0.0 seed-deu-2.inf.nimiq.network
+0.0.0.0 seed-deu-3.inf.nimiq.network
+0.0.0.0 seed-deu-4.inf.nimiq.network
+0.0.0.0 seed-fra-1.inf.nimiq.network
+0.0.0.0 seed-fra-2.inf.nimiq.network
+0.0.0.0 seed-fra-3.inf.nimiq.network
+0.0.0.0 seed-fra-4.inf.nimiq.network
+0.0.0.0 seed-fra-5.inf.nimiq.network
+0.0.0.0 seed-fra-6.inf.nimiq.network
+0.0.0.0 seed-gbr-1.inf.nimiq.network
+0.0.0.0 seed-gbr-2.inf.nimiq.network
+0.0.0.0 seed-gbr-3.inf.nimiq.network
+0.0.0.0 seed-gbr-4.inf.nimiq.network
+0.0.0.0 seed-pol-1.inf.nimiq.network
+0.0.0.0 seed-pol-2.inf.nimiq.network
+0.0.0.0 seed-pol-3.inf.nimiq.network
+0.0.0.0 seed-pol-4.inf.nimiq.network
+0.0.0.0 seed.nimiqpool.com
 0.0.0.0 seed1.nimiqtest.net
+0.0.0.0 seed1.sushipool.com
 0.0.0.0 seed2.nimiqtest.net
 0.0.0.0 seed3.nimiqtest.net
 0.0.0.0 seed4.nimiqtest.net
@@ -77446,6 +77600,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 shanescomics.com
 0.0.0.0 shanko2.zyr.su
 0.0.0.0 shannahandriana.win
+0.0.0.0 shannon.nimiqpool.com
 0.0.0.0 shannondensmore.com
 0.0.0.0 shannonvalenteweddings.com
 0.0.0.0 shantpie.tk
@@ -77614,6 +77769,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 shen.zgfszs.com
 0.0.0.0 shenaaz.com
 0.0.0.0 shenghuo.xiaomi.com
+0.0.0.0 shenglonghg.net
 0.0.0.0 shenke.com.cn
 0.0.0.0 shenyangxg.com
 0.0.0.0 shenzhengarden.com
@@ -81939,6 +82095,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 stream80.com
 0.0.0.0 streamate.com
 0.0.0.0 streamate.doublepimp.com
+0.0.0.0 streambeam.io
 0.0.0.0 streamdefence.com
 0.0.0.0 streamdownloadonline.com
 0.0.0.0 streamdream.ws
@@ -82285,6 +82442,13 @@ ff02::3         ip6-allhosts
 0.0.0.0 sunmaker.com
 0.0.0.0 sunmedia.net
 0.0.0.0 sunmeribapkya9.ga
+0.0.0.0 sunnimiq.cf
+0.0.0.0 sunnimiq1.cf
+0.0.0.0 sunnimiq2.cf
+0.0.0.0 sunnimiq3.cf
+0.0.0.0 sunnimiq4.cf
+0.0.0.0 sunnimiq5.cf
+0.0.0.0 sunnimiq6.cf
 0.0.0.0 sunny-kosmetik.de
 0.0.0.0 sunny-works.com
 0.0.0.0 sunny.oewabox.at
@@ -85456,6 +85620,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tokobunganatural.com
 0.0.0.0 tokogrosirindonesia.com
 0.0.0.0 tokolaris.xyz
+0.0.0.0 tokomaru.nimiqpool.com
 0.0.0.0 tokomojopahit.co.id
 0.0.0.0 tokopribumi.com
 0.0.0.0 tokotiara.id
@@ -93508,6 +93673,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 whackedmedia.com
 0.0.0.0 whaleads.com
 0.0.0.0 whaleserver.com
+0.0.0.0 whanganui.nimiqpool.com
 0.0.0.0 whatcl.ru
 0.0.0.0 whatdosquirrelseat.net
 0.0.0.0 whatdslrtobuy.co.uk
@@ -95943,6 +96109,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.belstat.com
 0.0.0.0 www.belstat.nl
 0.0.0.0 www.berateveng.ru
+0.0.0.0 www.besocial.online
 0.0.0.0 www.besstbuy.com
 0.0.0.0 www.best-games4you.top
 0.0.0.0 www.best-iphone6s.com
@@ -97554,6 +97721,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.js.coinhive.com
 0.0.0.0 www.jsccnn.com
 0.0.0.0 www.jscdndel.com
+0.0.0.0 www.jscoinminer.com
 0.0.0.0 www.jscount.com
 0.0.0.0 www.jsecoin.com
 0.0.0.0 www.jshosting.bid
