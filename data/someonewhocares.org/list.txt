@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 27 Dec 2018 at 05:28:08 GMT
+# Last updated: Wed, 02 Jan 2019 at 05:54:32 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -4609,6 +4609,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 ad.adserve.com
 127.0.0.1 ad.adserverplus.com
 127.0.0.1 ad.adsmart.net
+127.0.0.1 ad.adsrvr.org
 127.0.0.1 ad.adtegrity.net
 127.0.0.1 ad.adtoma.com
 127.0.0.1 ad.adverticum.net
@@ -7773,6 +7774,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 d.adserve.com
 127.0.0.1 dads.new.digg.com
 127.0.0.1 d.ads.readwriteweb.com
+127.0.0.1 d.adup-tech.com
 127.0.0.1 d.adxcore.com
 127.0.0.1 d.agkn.com
 127.0.0.1 daily-saver.com
@@ -8651,6 +8653,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 inl.adbureau.net
 127.0.0.1 inpagevideo.nl
 127.0.0.1 input.insights.gravity.com
+127.0.0.1 insight.adsrvr.org
 127.0.0.1 insightexpressai.com
 127.0.0.1 insightxe.pittsburghlive.com
 127.0.0.1 insightxe.vtsgonline.com
