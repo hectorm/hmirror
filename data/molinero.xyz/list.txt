@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Thu Jan 10 03:30:15 UTC 2019
-# Blocked domains: 104064
+# Last updated:    Fri Jan 11 03:30:14 UTC 2019
+# Blocked domains: 104068
 
 # <header>
 127.0.0.1       localhost 
@@ -11945,6 +11945,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 analytics.soup.io
 0.0.0.0 analytics.spankbang.com
 0.0.0.0 analytics.spongecell.com
+0.0.0.0 analytics.sportybet.com
 0.0.0.0 analytics.spotta.nl
 0.0.0.0 analytics.springboardvideo.com
 0.0.0.0 analytics.staticiv.com
@@ -27239,6 +27240,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 d2d2lbvq8xirbs.cloudfront.net
 0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
 0.0.0.0 d2dxgm96wvaa5j.cloudfront.net
+0.0.0.0 d2edfzx4ay42og.cloudfront.net
 0.0.0.0 d2fbkzyicji7c4.cloudfront.net
 0.0.0.0 d2fhjyz3dwdx87.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
@@ -27337,6 +27339,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d34obr29voew8l.cloudfront.net
 0.0.0.0 d34rdvn2ky3gnm.cloudfront.net
+0.0.0.0 d359wjs9dpy12d.cloudfront.net
 0.0.0.0 d35r45qhjmgs3g.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36sxvmjoflc2i.cloudfront.net
@@ -52484,6 +52487,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 liflandaffiliates.com
 0.0.0.0 lift.acquia.com
 0.0.0.0 liftdna.com
+0.0.0.0 liftoff.io
 0.0.0.0 liga88.me
 0.0.0.0 ligabklr.com
 0.0.0.0 ligadx.com
@@ -52745,7 +52749,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 linkstorm.net
 0.0.0.0 linkstorms.com
 0.0.0.0 linkswaper.com
-0.0.0.0 linksynergy.com
 0.0.0.0 linktarget.com
 0.0.0.0 linktausch-pagerank.de
 0.0.0.0 linktausch.li
@@ -67363,6 +67366,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pixel.theagency.com
 0.0.0.0 pixel.tree.com
+0.0.0.0 pixel.tuko.co.ke
 0.0.0.0 pixel.usrsync.com
 0.0.0.0 pixel.vmm-satellite2.com
 0.0.0.0 pixel.watch
