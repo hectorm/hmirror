@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2018-12-03 00:10
+# Last modified: 2019-01-16 19:40
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
@@ -54,6 +54,7 @@
 0.0.0.0 api02.ledgerwallet.com
 0.0.0.0 api2.bitfinex.com
 0.0.0.0 api2.jaxx.io
+0.0.0.0 app.bixin.im
 0.0.0.0 app0.a-ads.com
 0.0.0.0 apps.cointraffic.io
 0.0.0.0 apps.ledgerwallet.com
@@ -61,10 +62,12 @@
 0.0.0.0 autodiscover.btc-alpha.com
 0.0.0.0 autodiscover.uclick.in
 0.0.0.0 awesomeminer.com
+0.0.0.0 aws.simplemining.net
 0.0.0.0 basicdemo.emercoin.com
 0.0.0.0 bch-bitcore2.trezor.io
 0.0.0.0 beta-wallet.trezor.io
 0.0.0.0 beta.bitfinex.com
+0.0.0.0 beta.simplemining.net
 0.0.0.0 bfgminer.org
 0.0.0.0 binance.com
 0.0.0.0 bit.cur.lv
@@ -74,6 +77,7 @@
 0.0.0.0 bitcore3.trezor.io
 0.0.0.0 bitfinex.com
 0.0.0.0 bithumb.com
+0.0.0.0 bixin.im
 0.0.0.0 blocked.mymonero.com
 0.0.0.0 blog.a-ads.com
 0.0.0.0 blog.jaxx.io
@@ -83,6 +87,7 @@
 0.0.0.0 btc-bitcore1.trezor.io
 0.0.0.0 btc-bitcore3.trezor.io
 0.0.0.0 btc.a-ads.com
+0.0.0.0 bullet.simplemining.net
 0.0.0.0 cdn.inwemo.com
 0.0.0.0 cdn1.cryptopia.co.nz
 0.0.0.0 cdn2.inwemo.com
@@ -90,6 +95,7 @@
 0.0.0.0 chainradar.com
 0.0.0.0 changelly.com
 0.0.0.0 chat.binance.com
+0.0.0.0 chat.simplemining.net
 0.0.0.0 chat2.binance.com
 0.0.0.0 chef.a-ads.com
 0.0.0.0 chf.a-ads.com
@@ -119,11 +125,14 @@
 0.0.0.0 dashboard.inwemo.com
 0.0.0.0 dev.a-ads.com
 0.0.0.0 dev.cointraffic.io
+0.0.0.0 dev.simplemining.net
+0.0.0.0 dl.bixin.im
 0.0.0.0 docs.bitfinex.com
 0.0.0.0 docs.electrum.org
 0.0.0.0 dogeminer.cc
 0.0.0.0 download.electrum.org
 0.0.0.0 download.emercoin.com
+0.0.0.0 download.simplemining.net
 0.0.0.0 easypc.io
 0.0.0.0 elderhash.com
 0.0.0.0 electrum.org
@@ -155,6 +164,7 @@
 0.0.0.0 getmonero.org
 0.0.0.0 global.binance.com
 0.0.0.0 go.cur.lv
+0.0.0.0 graphql.bixin.im
 0.0.0.0 hashcoin.io
 0.0.0.0 hashcoins.com
 0.0.0.0 hashcoins.ee
@@ -172,6 +182,7 @@
 0.0.0.0 iota.bitfinex.com
 0.0.0.0 jaxx.io
 0.0.0.0 joinslack.binance.com
+0.0.0.0 jp.simplemining.net
 0.0.0.0 jump.cur.lv
 0.0.0.0 jwallet.network
 0.0.0.0 kncminer.com
@@ -228,12 +239,14 @@
 0.0.0.0 parthk.co.uk
 0.0.0.0 pay.bithumb.com
 0.0.0.0 peerhash.com
+0.0.0.0 poc.simplemining.net
 0.0.0.0 pool.emercoin.com
 0.0.0.0 pool2.emercoin.com
 0.0.0.0 pools1.cryptopia.co.nz
 0.0.0.0 pools2.cryptopia.co.nz
 0.0.0.0 pop3.awesomeminer.com
 0.0.0.0 preorder.trezor.io
+0.0.0.0 preprod.simplemining.net
 0.0.0.0 pricing.jaxx.io
 0.0.0.0 psychomining.de
 0.0.0.0 pubapi.bithumb.com
@@ -250,7 +263,9 @@
 0.0.0.0 selfx1.typeform.com
 0.0.0.0 sftp.binance.com
 0.0.0.0 shapeshift.io
+0.0.0.0 shop.simplemining.net
 0.0.0.0 shop.trezor.io
+0.0.0.0 simplemining.net
 0.0.0.0 smtp.awesomeminer.com
 0.0.0.0 start.ledgerwallet.com
 0.0.0.0 static.a-ads.com
@@ -265,6 +280,7 @@
 0.0.0.0 support.evergreencoin.org
 0.0.0.0 support.ledgerwallet.com
 0.0.0.0 test.ledgerwallet.com
+0.0.0.0 test.simplemining.net
 0.0.0.0 to.cur.lv
 0.0.0.0 transactions.evergreencoin.org
 0.0.0.0 trezor.io
@@ -275,6 +291,7 @@
 0.0.0.0 us.binance.com
 0.0.0.0 utils.jaxx.io
 0.0.0.0 wallet.trezor.io
+0.0.0.0 web.bixin.im
 0.0.0.0 webdisk.antminer-store.com
 0.0.0.0 webdisk.api.cryptoguiminer.com
 0.0.0.0 webdisk.cryptoguiminer.com
@@ -289,6 +306,7 @@
 0.0.0.0 wiki.evergreencoin.org
 0.0.0.0 wiki.trezor.io
 0.0.0.0 ws.bitfinex.com
+0.0.0.0 ws.bixin.im
 0.0.0.0 ws.ledgerwallet.com
 0.0.0.0 wss.bithumb.com
 0.0.0.0 www.1safe.link
@@ -311,6 +329,7 @@
 0.0.0.0 www.bitcore3.trezor.io
 0.0.0.0 www.bitfinex.com
 0.0.0.0 www.bithumb.com
+0.0.0.0 www.bixin.im
 0.0.0.0 www.blog.trezor.io
 0.0.0.0 www.btc-alpha.com
 0.0.0.0 www.btc-bitcore1.trezor.io
@@ -395,7 +414,9 @@
 0.0.0.0 www.selfx1.typeform.com
 0.0.0.0 www.sftp.binance.com
 0.0.0.0 www.shapeshift.io
+0.0.0.0 www.shop.simplemining.net
 0.0.0.0 www.shop.trezor.io
+0.0.0.0 www.simplemining.net
 0.0.0.0 www.status.trezor.io
 0.0.0.0 www.stream.binance.com
 0.0.0.0 www.stream2.binance.com
