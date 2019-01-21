@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Sat Jan 19 03:30:13 UTC 2019
-# Blocked domains: 103913
+# Last updated:    Sun Jan 20 03:30:15 UTC 2019
+# Blocked domains: 103915
 
 # <header>
 127.0.0.1       localhost 
@@ -2510,6 +2510,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 6i7s83jk7q.kandisweets.com
 0.0.0.0 6iyn6bz9.myutilitydomain.com
 0.0.0.0 6j4cea2ybg.pl
+0.0.0.0 6kauqbszb9.com
 0.0.0.0 6kup12tgxx.com
 0.0.0.0 6l1twlw9fy.com
 0.0.0.0 6ldu6qa.com
@@ -86831,6 +86832,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 tracking.crobo.com
 0.0.0.0 tracking.crossovertech.asia
 0.0.0.0 tracking.crunchiemedia.com
+0.0.0.0 tracking.customerly.io
 0.0.0.0 tracking.dc-storm.com
 0.0.0.0 tracking.ddd.de
 0.0.0.0 tracking.dealerwebwatcher.com
