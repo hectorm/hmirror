@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Sun Jan 20 03:30:15 UTC 2019
-# Blocked domains: 103915
+# Last updated:    Mon Jan 21 03:30:13 UTC 2019
+# Blocked domains: 103920
 
 # <header>
 127.0.0.1       localhost 
@@ -27204,6 +27204,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 d2nz8k4xyoudsx.cloudfront.net
 0.0.0.0 d2nzjxafm0iowq.cloudfront.net
 0.0.0.0 d2o307dm5mqftz.cloudfront.net
+0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2o9ozfswytaqz.cloudfront.net
 0.0.0.0 d2oallm7wrqvmi.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
@@ -29634,6 +29635,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 dmojscqlwewu.com
 0.0.0.0 dmp.adform.net
 0.0.0.0 dmp.gravity4.com
+0.0.0.0 dmp.marketgid.com
 0.0.0.0 dmp.theadex.com
 0.0.0.0 dmp.vihub.ru
 0.0.0.0 dmpbmzbmtr8c40a.jonesnewsletter.com
@@ -49386,6 +49388,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 jumpeetravel.com.au
 0.0.0.0 jumpelead.com
 0.0.0.0 jumpers.mobi
+0.0.0.0 jumplead.com
+0.0.0.0 jumplead.io
 0.0.0.0 jumpo2.com
 0.0.0.0 jumpstartthemovie.com
 0.0.0.0 jumptap.com
@@ -95261,6 +95265,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 wszpjhuosjeexj.com
 0.0.0.0 wt-eu02.net
 0.0.0.0 wt-safetag.com
+0.0.0.0 wt.adtrue24.com
 0.0.0.0 wt.o.nytimes.com
 0.0.0.0 wt.sexsearch.com
 0.0.0.0 wt.sexsearchcom.com
