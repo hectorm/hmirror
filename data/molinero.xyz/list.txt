@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Thu Jan 24 03:30:12 UTC 2019
-# Blocked domains: 104192
+# Last updated:    Fri Jan 25 03:30:14 UTC 2019
+# Blocked domains: 104198
 
 # <header>
 127.0.0.1       localhost 
@@ -3197,6 +3197,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 a.rad.msn.com
 0.0.0.0 a.remarketstats.com
 0.0.0.0 a.rfihub.com
+0.0.0.0 a.ria.ru
 0.0.0.0 a.rmgserving.com
 0.0.0.0 a.ruporn.me
 0.0.0.0 a.rvttrack.com
@@ -20662,6 +20663,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 cbb16ef5c520a0f.com
 0.0.0.0 cbbabemymc.com
 0.0.0.0 cbbgdep.biz
+0.0.0.0 cbbvi.com
 0.0.0.0 cbc.122.2o7.net
 0.0.0.0 cbcca.112.2o7.net
 0.0.0.0 cbcca.122.2o7.net
@@ -55156,6 +55158,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mainteck-fr.com
 0.0.0.0 mainverify0.com
 0.0.0.0 maio.jp
+0.0.0.0 mairdumont.com
 0.0.0.0 mairiedewaza.com
 0.0.0.0 maisaukimassage.com.ng
 0.0.0.0 maishaera.agnesscott.org
@@ -56042,6 +56045,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mczuljmdpysftg.com
 0.0.0.0 md-380.co.uk
 0.0.0.0 md-ia.info
+0.0.0.0 md-nx.com
 0.0.0.0 md.5.p2l.info
 0.0.0.0 md5s.ru
 0.0.0.0 mdadvertising.net
@@ -56977,7 +56981,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics-collector.onscroll.com
-0.0.0.0 metrics-collector.s-onetag.com
 0.0.0.0 metrics.aarp.org
 0.0.0.0 metrics.accuweather.com
 0.0.0.0 metrics.acehardware.com
@@ -69148,6 +69151,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 presjots.ga
 0.0.0.0 presleywebs.uk.pn
 0.0.0.0 presse.grpvessel.com
+0.0.0.0 pressekompass.net
 0.0.0.0 pressing-security-issue.services
 0.0.0.0 pressing-security-issue.xyz
 0.0.0.0 pressmagazine.eu
@@ -81204,6 +81208,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 stat.matichon.co.th
 0.0.0.0 stat.media
 0.0.0.0 stat.miraben.pw
+0.0.0.0 stat.mixi.media
 0.0.0.0 stat.mtv3.fi
 0.0.0.0 stat.mystat.hu
 0.0.0.0 stat.netinfocompany.bg
@@ -81557,6 +81562,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 stats.autoscout24.ch
 0.0.0.0 stats.av.de
 0.0.0.0 stats.avg.com
+0.0.0.0 stats.aws.rubiconproject.com
 0.0.0.0 stats.backcountry.com
 0.0.0.0 stats.bannersnack.com
 0.0.0.0 stats.bbc.co.uk

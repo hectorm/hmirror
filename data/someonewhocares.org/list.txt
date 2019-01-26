@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Wed, 23 Jan 2019 at 15:50:14 GMT
+# Last updated: Fri, 25 Jan 2019 at 08:18:52 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2352,6 +2352,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 hotchix.servepics.com
 127.0.0.1 howtobuildsoftware.com
 127.0.0.1 how-tosolve.com
+127.0.0.1 howupdateworks.beststubcontentsfrees.xyz
 127.0.0.1 hsb-canada.com	# phishing site for hsbc.ca
 127.0.0.1 hsbconline.ca 	# phishing site for hsbc.ca
 127.0.0.1 humption.info
@@ -4379,6 +4380,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 aclick.adhoc2.net
 127.0.0.1 a.cntv.cn
 127.0.0.1 a.collective-media.net
+127.0.0.1 a.company-target.com
 127.0.0.1 ac.rnm.ca
 127.0.0.1 acs.56.com
 127.0.0.1 acs.agent.56.com
@@ -7092,6 +7094,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 bbnaut.bbelements.com
 127.0.0.1 bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
 127.0.0.1 b.codeonclick.com
+127.0.0.1 b.company-target.com
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bdnad1.bangornews.com
 127.0.0.1 bdv.bidvertiser.com
@@ -7325,6 +7328,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 cc-dt.com
 127.0.0.1 c.cl.msn.com
 127.0.0.1 c.codeonclick.com
+127.0.0.1 c.company-target.com
 127.0.0.1 ccpmo.com
 127.0.0.1 cctv.adsunion.com
 127.0.0.1 cd8iw9mh.cricket
@@ -7836,6 +7840,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 dbbsrv.com
 127.0.0.1 dcads.sina.com.cn
 127.0.0.1 d.cntv.cn
+127.0.0.1 d.company-target.com
 127.0.0.1 dc.sabela.com.pl
 127.0.0.1 dctracking.com
 127.0.0.1 de.adserver.yahoo.com
@@ -7986,6 +7991,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 eclkspbn.com
 127.0.0.1 ecoencomputer.com
 127.0.0.1 ecomadserver.com
+127.0.0.1 e.company-target.com
 127.0.0.1 e.crashlytics.com
 127.0.0.1 ecs1.engageya.com
 127.0.0.1 eddamedia.linkpulse.com
@@ -8896,6 +8902,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 jyknnhll.yearbrazil.com
 127.0.0.1 jzclick.soso.com
 127.0.0.1 jzigsobgsmxdmr.bid
+127.0.0.1 k1.mobileadsserver.com
 127.0.0.1 k5ads.osdn.com
 127.0.0.1 kaartenhuis.nl.site-id.nl
 127.0.0.1 k.admob.com
