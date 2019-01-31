@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://gitlab.com/ZeroDot1/CoinBlockerLists/
-# Last modified: 2019-01-16 19:40
+# Last modified: 2019-01-30 17:30
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 000.0x1f4b0.com
@@ -1171,6 +1171,7 @@
 0.0.0.0 bitcoin.viabtc.com
 0.0.0.0 bitcoin2.minerpool.de
 0.0.0.0 bitcoincash.securepayment.cc
+0.0.0.0 bitcoindark.ca
 0.0.0.0 bitcoiner.win
 0.0.0.0 bitcoinethereum.eu
 0.0.0.0 bitcoingenerator.club
@@ -5297,6 +5298,7 @@
 0.0.0.0 ledinund.com
 0.0.0.0 leema.bitcoin-india.org
 0.0.0.0 leetpools.net
+0.0.0.0 legacy.bitcoindark.ca
 0.0.0.0 legacy.nanopool.org
 0.0.0.0 legacy.xpool.ca
 0.0.0.0 legco.info
@@ -5801,6 +5803,7 @@
 0.0.0.0 mine.ar-net.info
 0.0.0.0 mine.beta.aeon-pool.com
 0.0.0.0 mine.bitcoin.cz
+0.0.0.0 mine.bitcoindark.ca
 0.0.0.0 mine.bitpool.pro
 0.0.0.0 mine.blazepool.com
 0.0.0.0 mine.btcd.xpool.ca
@@ -7435,6 +7438,7 @@
 0.0.0.0 play.streaming.estream.to
 0.0.0.0 play.tainiesonline.pw
 0.0.0.0 play.tainiesonline.stream
+0.0.0.0 play.tercabilis.info
 0.0.0.0 play.vb.wearesaudis.net
 0.0.0.0 play.video.estream.nu
 0.0.0.0 play.video2.stream.vidzi.tv
@@ -7923,6 +7927,27 @@
 0.0.0.0 prt.suprnova.cc
 0.0.0.0 prti17.ethosdistro.com
 0.0.0.0 prux.mastermining.net
+0.0.0.0 ps00.bitcoindark.ca
+0.0.0.0 ps01.bitcoindark.ca
+0.0.0.0 ps02.bitcoindark.ca
+0.0.0.0 ps03.bitcoindark.ca
+0.0.0.0 ps04.bitcoindark.ca
+0.0.0.0 ps05.bitcoindark.ca
+0.0.0.0 ps06.bitcoindark.ca
+0.0.0.0 ps07.bitcoindark.ca
+0.0.0.0 ps08.bitcoindark.ca
+0.0.0.0 ps09.bitcoindark.ca
+0.0.0.0 ps10.bitcoindark.ca
+0.0.0.0 ps11.bitcoindark.ca
+0.0.0.0 ps12.bitcoindark.ca
+0.0.0.0 ps13.bitcoindark.ca
+0.0.0.0 ps14.bitcoindark.ca
+0.0.0.0 ps15.bitcoindark.ca
+0.0.0.0 ps16.bitcoindark.ca
+0.0.0.0 ps17.bitcoindark.ca
+0.0.0.0 ps18.bitcoindark.ca
+0.0.0.0 ps19.bitcoindark.ca
+0.0.0.0 ps20.bitcoindark.ca
 0.0.0.0 psc.luckypool.io
 0.0.0.0 psy.suprnova.cc
 0.0.0.0 pt.bitclub.network
@@ -8291,6 +8316,7 @@
 0.0.0.0 s2.play1.videos.videos.vidto.me
 0.0.0.0 s2.play1.videos.vidto.me
 0.0.0.0 s2.soodatmish.com
+0.0.0.0 s2.tercabilis.info
 0.0.0.0 s2.thersprens.com
 0.0.0.0 s2.video.estream.nu
 0.0.0.0 s2.video2.stream.vidzi.tv
@@ -8317,6 +8343,7 @@
 0.0.0.0 s3.play.vidzi.tv
 0.0.0.0 s3.play1.videos.videos.vidto.me
 0.0.0.0 s3.play1.videos.vidto.me
+0.0.0.0 s3.tercabilis.info
 0.0.0.0 s3.thersprens.com
 0.0.0.0 s3.video.estream.nu
 0.0.0.0 s3.video2.stream.vidzi.tv
@@ -11689,6 +11716,7 @@
 0.0.0.0 www.bitcoin.de
 0.0.0.0 www.bitcoin.jonasschnelli.ch
 0.0.0.0 www.bitcoin.nocroom.com
+0.0.0.0 www.bitcoindark.ca
 0.0.0.0 www.bitcoiner.win
 0.0.0.0 www.bitcoinethereum.eu
 0.0.0.0 www.bitcoingenerator.club
