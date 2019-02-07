@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.xyz>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Tue Feb  5 03:30:16 UTC 2019
-# Blocked domains: 104659
+# Last updated:    Wed Feb  6 03:30:15 UTC 2019
+# Blocked domains: 104665
 
 # <header>
 127.0.0.1       localhost 
@@ -622,6 +622,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 1clickdownloads.com
 0.0.0.0 1de.cqcounter.com
 0.0.0.0 1directory.ru
+0.0.0.0 1dmp.io
 0.0.0.0 1dollarempire.com
 0.0.0.0 1dollarfreedom.us
 0.0.0.0 1e0y.xyz
@@ -27412,6 +27413,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 d39hdzmeufnl50.cloudfront.net
 0.0.0.0 d39xqloz8t5a6x.cloudfront.net
 0.0.0.0 d3a2okcloueqyx.cloudfront.net
+0.0.0.0 d3a42c7xs4vn3.cloudfront.net
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
 0.0.0.0 d3al52d8cojds7.cloudfront.net
 0.0.0.0 d3alqb8vzo7fun.cloudfront.net
@@ -33978,6 +33980,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 events.boomtrain.com
 0.0.0.0 events.bounceexchange.com
 0.0.0.0 events.chaordicsystems.com
+0.0.0.0 events.demoup.com
 0.0.0.0 events.foreseeresults.com
 0.0.0.0 events.indyloyaltyclub.com
 0.0.0.0 events.ingatlan.com
@@ -54072,6 +54075,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 lostiphonefinder-lcloud.review
 0.0.0.0 lostmovie.net
 0.0.0.0 lostplanet3.sharezips.info
+0.0.0.0 lostplanetcdn.com
 0.0.0.0 losttreasurespack.sharezips.info
 0.0.0.0 losttreasurespackdlc.sharezips.net
 0.0.0.0 losu.112.2o7.net
@@ -70005,6 +70009,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 propsprojects.com
 0.0.0.0 propties.com
 0.0.0.0 proptysellers.co.za
+0.0.0.0 propu.sh
 0.0.0.0 proranktracker.com
 0.0.0.0 prorealplus.ru
 0.0.0.0 prorentisol.com
@@ -82634,6 +82639,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 stormysponge.com
 0.0.0.0 stornierenswitzpavpalkontos0.com
 0.0.0.0 storntoken.com
+0.0.0.0 storoukr.net
 0.0.0.0 storplast.com.ua
 0.0.0.0 storrntoken.com
 0.0.0.0 storroliko.club
