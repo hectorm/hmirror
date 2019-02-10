@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Thu, 07 Feb 2019 at 06:30:26 GMT
+# Last updated: Sat, 09 Feb 2019 at 02:13:57 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1822,6 +1822,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 trcko.com
 127.0.0.1 trc.taboolasyndication.com
 127.0.0.1 treasuredata.com
+127.0.0.1 trk.cachemetracking.com
 127.0.0.1 trk.kissmetrics.com
 127.0.0.1 trkrpoint.com
 127.0.0.1 trk.tidaltv.com
@@ -2260,6 +2261,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 c.webwise.net
 127.0.0.1 c.webwise.org
 127.0.0.1 d2o9ozfswytaqz.cloudfront.net
+127.0.0.1 dailynewstonight.com
 127.0.0.1 dbios.org
 127.0.0.1 dcproxy1.thrunet.com
 127.0.0.1 definitial.info
@@ -2283,6 +2285,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 east.05tz2e9.com
 127.0.0.1 efreedom.net
 127.0.0.1 e-kasa.w8w.pl
+127.0.0.1 emergingupdates.com
 127.0.0.1 en.likefever.org			# Facebook trojan
 127.0.0.1 enterprise.telesat.com.co
 127.0.0.1 enteryouremail.net
