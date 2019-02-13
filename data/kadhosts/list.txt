@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtr chroniacy przed przekretami takimi jak subskrypcje SMS
-# Last modified: Mon, 11 Feb 2019, 21:10 UTC+01
-# Version: 2019.2.11.2
+# Last modified: Tue, 12 Feb 2019, 22:43 UTC+01
+# Version: 2019.2.12.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -32,6 +32,7 @@
 0.0.0.0 africanmango.pl
 0.0.0.0 africanmango900.pl
 0.0.0.0 agdkom.net
+0.0.0.0 agdrtv24.net
 0.0.0.0 airmax97.pl
 0.0.0.0 akademianaukowa.pl
 0.0.0.0 akademiazarabianiawinternecie.pl
@@ -693,6 +694,7 @@
 0.0.0.0 szaloneupusty.pl
 0.0.0.0 szamponrevita.pl
 0.0.0.0 szczesliwagotowka.pl
+0.0.0.0 szybkanaukapro.pl
 0.0.0.0 szybkapozyczkateraz.pl
 0.0.0.0 szybka-pozyczka.com
 0.0.0.0 szybka-wyplata.pl
@@ -726,7 +728,6 @@
 0.0.0.0 tri-book.pl
 0.0.0.0 trustedirectdownload.com
 0.0.0.0 trusttastic.com
-0.0.0.0 tslinfo.pl
 0.0.0.0 tuniaf.com
 0.0.0.0 turobit.pw
 0.0.0.0 twoja-przegladarka.pl
