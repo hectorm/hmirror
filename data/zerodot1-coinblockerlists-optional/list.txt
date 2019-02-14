@@ -3,12 +3,15 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2019-01-30 06:32
+# Last modified: 2019-02-13 16:45
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
+0.0.0.0 0x.mycrypto.com
+0.0.0.0 1safe.link
 0.0.0.0 803mine.com
 0.0.0.0 a-ads.com
+0.0.0.0 about.mycrypto.com
 0.0.0.0 acceptable.a-ads.com
 0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.s.a-ads.com
@@ -53,7 +56,9 @@
 0.0.0.0 api.inwemo.com
 0.0.0.0 api.jaxx.io
 0.0.0.0 api.ledgerwallet.com
+0.0.0.0 api.mycrypto.com
 0.0.0.0 api.mymonero.com
+0.0.0.0 api.quadrigacx.com
 0.0.0.0 api01.ledgerwallet.com
 0.0.0.0 api02.ledgerwallet.com
 0.0.0.0 api2.bitfinex.com
@@ -63,6 +68,7 @@
 0.0.0.0 apps.cointraffic.io
 0.0.0.0 apps.ledgerwallet.com
 0.0.0.0 apps2.cointraffic.io
+0.0.0.0 autoconfig.bitcoin-doubler.us
 0.0.0.0 autodiscover.btc-alpha.com
 0.0.0.0 autodiscover.cryptopia.co.nz
 0.0.0.0 autodiscover.uclick.in
@@ -72,10 +78,12 @@
 0.0.0.0 bch-bitcore2.trezor.io
 0.0.0.0 beta-wallet.trezor.io
 0.0.0.0 beta.bitfinex.com
+0.0.0.0 beta.mycrypto.com
 0.0.0.0 beta.simplemining.net
 0.0.0.0 bfgminer.org
 0.0.0.0 binance.com
 0.0.0.0 bit.cur.lv
+0.0.0.0 bitcoin-doubler.us
 0.0.0.0 bitcoin.org
 0.0.0.0 bitcoinminers.eu
 0.0.0.0 bitcore1.trezor.io
@@ -94,6 +102,7 @@
 0.0.0.0 btc-bitcore3.trezor.io
 0.0.0.0 btc.a-ads.com
 0.0.0.0 bullet.simplemining.net
+0.0.0.0 buy.mycrypto.com
 0.0.0.0 cdn.inwemo.com
 0.0.0.0 cdn1.cryptopia.co.nz
 0.0.0.0 cdn2.inwemo.com
@@ -101,6 +110,7 @@
 0.0.0.0 chainradar.com
 0.0.0.0 changelly.com
 0.0.0.0 chat.binance.com
+0.0.0.0 chat.quadrigacx.com
 0.0.0.0 chat.simplemining.net
 0.0.0.0 chat2.binance.com
 0.0.0.0 chef.a-ads.com
@@ -129,28 +139,37 @@
 0.0.0.0 cur.lv
 0.0.0.0 dash-bitcore1.trezor.io
 0.0.0.0 dashboard.inwemo.com
+0.0.0.0 dc.rockwall.investments
 0.0.0.0 dev.a-ads.com
 0.0.0.0 dev.cointraffic.io
+0.0.0.0 dev.quadrigacx.com
+0.0.0.0 dev.rockwall.investments
 0.0.0.0 dev.simplemining.net
+0.0.0.0 devapi.quadrigacx.com
 0.0.0.0 development.cryptopia.co.nz
 0.0.0.0 devtopia.cryptopia.co.nz
 0.0.0.0 devweb2.cryptopia.co.nz
 0.0.0.0 disney.cryptopia.co.nz
 0.0.0.0 dl.bixin.im
+0.0.0.0 dns3.rockwall.investments
 0.0.0.0 docs.bitfinex.com
 0.0.0.0 docs.electrum.org
 0.0.0.0 doge.cryptopia.co.nz
 0.0.0.0 dogeminer.cc
+0.0.0.0 domainkey.rockwall.investments
 0.0.0.0 download.electrum.org
 0.0.0.0 download.emercoin.com
+0.0.0.0 download.mycrypto.com
 0.0.0.0 download.simplemining.net
 0.0.0.0 easypc.io
 0.0.0.0 elderhash.com
 0.0.0.0 electrum.org
+0.0.0.0 em.quadrigacx.com
 0.0.0.0 emercoin.com
 0.0.0.0 ether.cards
 0.0.0.0 ethereumproject.github.io
 0.0.0.0 event.btc-alpha.com
+0.0.0.0 event.rockwall.investments
 0.0.0.0 evergreencoin.org
 0.0.0.0 faucet.evergreencoin.org
 0.0.0.0 faucethub.io
@@ -164,11 +183,13 @@
 0.0.0.0 ftp.antminer-store.com
 0.0.0.0 ftp.awesomeminer.com
 0.0.0.0 ftp.binance.com
+0.0.0.0 ftp.bitcoin-doubler.us
 0.0.0.0 ftp.gameofbitcoins.com
 0.0.0.0 ftp.imperiumminer.com
 0.0.0.0 ftp.inwemo.com
 0.0.0.0 ftp.mellowads.com
 0.0.0.0 ftp.miningfarmasics.com
+0.0.0.0 ftp.quadrigacx.com
 0.0.0.0 ftp.uclick.in
 0.0.0.0 gameofbitcoins.com
 0.0.0.0 games.cryptopia.co.nz
@@ -191,10 +212,12 @@
 0.0.0.0 i2p.emercoin.com
 0.0.0.0 icerockmining.io
 0.0.0.0 ico.icerockmining.io
+0.0.0.0 imap.quadrigacx.com
 0.0.0.0 imperiumminer.com
 0.0.0.0 in.cur.lv
 0.0.0.0 investor.cryptopia.co.nz
 0.0.0.0 inwemo.com
+0.0.0.0 io.rockwall.investments
 0.0.0.0 iota.bitfinex.com
 0.0.0.0 jaxx.io
 0.0.0.0 jira.cryptopia.co.nz
@@ -208,11 +231,13 @@
 0.0.0.0 launchpad.binance.com
 0.0.0.0 lb4.a-ads.com
 0.0.0.0 ledgerwallet.com
+0.0.0.0 legacy.mycrypto.com
 0.0.0.0 linfen.cryptopia.co.nz
 0.0.0.0 link.cur.lv
 0.0.0.0 links.upcoin.com
 0.0.0.0 load.cryptopia.co.nz
 0.0.0.0 localhost.cryptopia.co.nz
+0.0.0.0 localhost.quadrigacx.com
 0.0.0.0 lt.cryptopia.co.nz
 0.0.0.0 ltc-bitcore3.trezor.io
 0.0.0.0 ltc.cryptopia.co.nz
@@ -236,6 +261,7 @@
 0.0.0.0 me.cur.lv
 0.0.0.0 mellowads.com
 0.0.0.0 mike.cryptopia.co.nz
+0.0.0.0 mike.rockwall.investments
 0.0.0.0 minecraft.cryptopia.co.nz
 0.0.0.0 minerboard.com
 0.0.0.0 mineshaft.cryptopia.co.nz
@@ -243,6 +269,7 @@
 0.0.0.0 mineshop.eu
 0.0.0.0 mining-rig.de
 0.0.0.0 miningfarmasics.com
+0.0.0.0 minneapolis.rockwall.investments
 0.0.0.0 mm.a-ads.com
 0.0.0.0 mobile-update.bithumb.com
 0.0.0.0 monero-miner.000webhostapp.com
@@ -250,6 +277,7 @@
 0.0.0.0 mx.peerhash.com
 0.0.0.0 my.cur.lv
 0.0.0.0 my.ledgerwallet.com
+0.0.0.0 mycrypto.com
 0.0.0.0 myetherwallet.com
 0.0.0.0 mymonero.com
 0.0.0.0 n.cur.lv
@@ -263,11 +291,18 @@
 0.0.0.0 nodes2.cryptopia.co.nz
 0.0.0.0 nostalgia.bitfinex.com
 0.0.0.0 ns2.a-ads.com
+0.0.0.0 o1.em.quadrigacx.com
+0.0.0.0 o2.em.quadrigacx.com
+0.0.0.0 o3.em.quadrigacx.com
+0.0.0.0 o4.em.quadrigacx.com
+0.0.0.0 o5.em.quadrigacx.com
+0.0.0.0 o6.em.quadrigacx.com
 0.0.0.0 offers.cryptopia.co.nz
 0.0.0.0 office.cryptopia.co.nz
 0.0.0.0 old-wallet.trezor.io
 0.0.0.0 old.coinad.com
 0.0.0.0 orders.whattomine.com
+0.0.0.0 overflow.mycrypto.com
 0.0.0.0 p2pool.in
 0.0.0.0 pandaminer.co
 0.0.0.0 parners.cryptopia.co.nz
@@ -280,6 +315,7 @@
 0.0.0.0 pools.cryptopia.co.nz
 0.0.0.0 pools1.cryptopia.co.nz
 0.0.0.0 pools2.cryptopia.co.nz
+0.0.0.0 pop.quadrigacx.com
 0.0.0.0 pop3.awesomeminer.com
 0.0.0.0 pport.cryptopia.co.nz
 0.0.0.0 prelive.cryptopia.co.nz
@@ -288,13 +324,18 @@
 0.0.0.0 pricing.jaxx.io
 0.0.0.0 psychomining.de
 0.0.0.0 pubapi.bithumb.com
+0.0.0.0 quadrigacx.com
+0.0.0.0 realtime.quadrigacx.com
 0.0.0.0 redmine.emercoin.com
 0.0.0.0 resource.binance.com
 0.0.0.0 resource2.binance.com
 0.0.0.0 rm.cointraffic.io
+0.0.0.0 rockwall.investments
 0.0.0.0 rpc.myetherwallet.com
+0.0.0.0 rt.quadrigacx.com
 0.0.0.0 ru.cryptopia.co.nz
 0.0.0.0 s.a-ads.com
+0.0.0.0 sadmin.rockwall.investments
 0.0.0.0 safelinkconverter.com
 0.0.0.0 saml.cryptopia.co.nz
 0.0.0.0 seed.emercoin.com
@@ -307,6 +348,7 @@
 0.0.0.0 shop.trezor.io
 0.0.0.0 simplemining.net
 0.0.0.0 smtp.awesomeminer.com
+0.0.0.0 socket.quadrigacx.com
 0.0.0.0 start.ledgerwallet.com
 0.0.0.0 static.a-ads.com
 0.0.0.0 stats.ethc.io
@@ -319,8 +361,11 @@
 0.0.0.0 support.bitfinex.com
 0.0.0.0 support.evergreencoin.org
 0.0.0.0 support.ledgerwallet.com
+0.0.0.0 support.mycrypto.com
+0.0.0.0 support.quadrigacx.com
 0.0.0.0 test.cryptopia.co.nz
 0.0.0.0 test.ledgerwallet.com
+0.0.0.0 test.rockwall.investments
 0.0.0.0 test.simplemining.net
 0.0.0.0 to.cur.lv
 0.0.0.0 transactions.evergreencoin.org
@@ -349,11 +394,14 @@
 0.0.0.0 wiki.emercoin.com
 0.0.0.0 wiki.evergreencoin.org
 0.0.0.0 wiki.trezor.io
+0.0.0.0 winter.mycrypto.com
 0.0.0.0 ws.bitfinex.com
 0.0.0.0 ws.bixin.im
 0.0.0.0 ws.ledgerwallet.com
+0.0.0.0 ws.quadrigacx.com
 0.0.0.0 wss.bithumb.com
 0.0.0.0 ww.cryptopia.co.nz
+0.0.0.0 www.0x.mycrypto.com
 0.0.0.0 www.1safe.link
 0.0.0.0 www.803mine.com
 0.0.0.0 www.a-ads.com
@@ -369,6 +417,7 @@
 0.0.0.0 www.beta-wallet.trezor.io
 0.0.0.0 www.bfgminer.org
 0.0.0.0 www.binance.com
+0.0.0.0 www.bitcoin-doubler.us
 0.0.0.0 www.bitcoin.org
 0.0.0.0 www.bitcore1.trezor.io
 0.0.0.0 www.bitcore3.trezor.io
@@ -405,6 +454,7 @@
 0.0.0.0 www.emercoin.com
 0.0.0.0 www.ether.cards
 0.0.0.0 www.ethereumproject.github.io
+0.0.0.0 www.event.rockwall.investments
 0.0.0.0 www.evergreencoin.org
 0.0.0.0 www.faucethub.io
 0.0.0.0 www.files.cointraffic.io
@@ -443,18 +493,22 @@
 0.0.0.0 www.miningfarmasics.com
 0.0.0.0 www.monero-miner.000webhostapp.com
 0.0.0.0 www.multipoolminer.io
+0.0.0.0 www.mycrypto.com
 0.0.0.0 www.myetherwallet.com
 0.0.0.0 www.mymonero.com
 0.0.0.0 www.old-wallet.trezor.io
+0.0.0.0 www.overflow.mycrypto.com
 0.0.0.0 www.p2pool.in
 0.0.0.0 www.pandaminer.co
 0.0.0.0 www.parthk.co.uk
 0.0.0.0 www.peerhash.com
 0.0.0.0 www.preorder.trezor.io
 0.0.0.0 www.psychomining.de
+0.0.0.0 www.quadrigacx.com
 0.0.0.0 www.resource.binance.com
 0.0.0.0 www.resource2.binance.com
 0.0.0.0 www.rm.cointraffic.io
+0.0.0.0 www.rockwall.investments
 0.0.0.0 www.rpc.myetherwallet.com
 0.0.0.0 www.safelinkconverter.com
 0.0.0.0 www.selfx1.typeform.com
