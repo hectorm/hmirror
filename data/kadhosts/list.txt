@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtr chroniacy przed przekretami takimi jak subskrypcje SMS
-# Last modified: Mon, 18 Feb 2019, 00:34 UTC+01
-# Version: 2019.2.18.4
+# Last modified: Mon, 18 Feb 2019, 17:47 UTC+01
+# Version: 2019.2.18.8
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -1118,6 +1118,12 @@
 0.0.0.0 all-player.pl
 0.0.0.0 androidsecurityplus.com
 0.0.0.0 appiq.mobi
+0.0.0.0 apple.com-care-macbook-system.live
+0.0.0.0 apple.com-improve-macos.live
+0.0.0.0 apple.com-repair-macbook.live
+0.0.0.0 apple.com-repair-os.live
+0.0.0.0 apple.com-speedup-macbook.live
+0.0.0.0 apple.com-speedup-macos.live
 0.0.0.0 appsdorado.com
 0.0.0.0 astrocash.org
 0.0.0.0 bazafilmowa.org
@@ -1557,11 +1563,17 @@
 0.0.0.0 www.naszasa.pl
 0.0.0.0 www.newpassporn.com
 0.0.0.0 www.onlineslotmaschine.com
+0.0.0.0 www.prooexpert.com
 0.0.0.0 www.specjalniedlaciebie.com
 0.0.0.0 www.spreadyourtentacles.com
 0.0.0.0 www.szczesliwydzien.com
 0.0.0.0 www.updatestar.com
 0.0.0.0 www.verifycaptcha.com
+0.0.0.0 www.apple.com-care-macbook-system.live
+0.0.0.0 www.apple.com-improve-macos.live
+0.0.0.0 www.apple.com-repair-macbook.live
+0.0.0.0 www.apple.com-speedup-macbook.live
+0.0.0.0 www.apple.com-speedup-macos.live
 0.0.0.0 www.bit-coin-trader.com
 0.0.0.0 www.bramka-sms-za-darmo.pl
 0.0.0.0 www.dofinansowania-jezykowe.pl
