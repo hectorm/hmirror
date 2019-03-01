@@ -3,10 +3,9 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2019-02-13 16:45
+# Last modified: 2019-02-28 15:13
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
-0.0.0.0 1safe.link
 0.0.0.0 0x.mycrypto.com
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -44,13 +43,18 @@
 0.0.0.0 adc.cryptopia.co.nz
 0.0.0.0 adconity.com
 0.0.0.0 admin.adconity.com
+0.0.0.0 admin.coinmama.com
+0.0.0.0 affiliates.coinmama.com
 0.0.0.0 aimenterprise.blog21.fc2.com cdn1.cryptopia.co.nz
 0.0.0.0 alpha.cryptopia.co.nz
 0.0.0.0 alpha.myetherwallet.com
 0.0.0.0 antminer-store.com
+0.0.0.0 api..coinmama.com
 0.0.0.0 api.binance.com
 0.0.0.0 api.bitfinex.com
 0.0.0.0 api.bithumb.com
+0.0.0.0 api.btcturk.com
+0.0.0.0 api.coinmama.com
 0.0.0.0 api.cryptoguiminer.com
 0.0.0.0 api.cryptopia.co.nz
 0.0.0.0 api.inwemo.com
@@ -68,12 +72,14 @@
 0.0.0.0 apps.cointraffic.io
 0.0.0.0 apps.ledgerwallet.com
 0.0.0.0 apps2.cointraffic.io
+0.0.0.0 assets.coinmama.com
 0.0.0.0 autoconfig.bitcoin-doubler.us
 0.0.0.0 autodiscover.btc-alpha.com
 0.0.0.0 autodiscover.cryptopia.co.nz
 0.0.0.0 autodiscover.uclick.in
 0.0.0.0 awesomeminer.com
 0.0.0.0 aws.simplemining.net
+0.0.0.0 babyalex.coinmama.com
 0.0.0.0 basicdemo.emercoin.com
 0.0.0.0 bch-bitcore2.trezor.io
 0.0.0.0 beta-wallet.trezor.io
@@ -101,8 +107,11 @@
 0.0.0.0 btc-bitcore1.trezor.io
 0.0.0.0 btc-bitcore3.trezor.io
 0.0.0.0 btc.a-ads.com
+0.0.0.0 btcturk.com
 0.0.0.0 bullet.simplemining.net
 0.0.0.0 buy.mycrypto.com
+0.0.0.0 calendar.coinmama.com
+0.0.0.0 careers.coinmama.com
 0.0.0.0 cdn.inwemo.com
 0.0.0.0 cdn1.cryptopia.co.nz
 0.0.0.0 cdn2.inwemo.com
@@ -110,6 +119,7 @@
 0.0.0.0 chainradar.com
 0.0.0.0 changelly.com
 0.0.0.0 chat.binance.com
+0.0.0.0 chat.coinmama.com
 0.0.0.0 chat.quadrigacx.com
 0.0.0.0 chat.simplemining.net
 0.0.0.0 chat2.binance.com
@@ -121,6 +131,7 @@
 0.0.0.0 coinad.com
 0.0.0.0 coinadnet.com
 0.0.0.0 coincube.io
+0.0.0.0 coinmama.com
 0.0.0.0 coinmarketcap.com
 0.0.0.0 coinminerz.com
 0.0.0.0 cointraffic.io
@@ -140,12 +151,16 @@
 0.0.0.0 dash-bitcore1.trezor.io
 0.0.0.0 dashboard.inwemo.com
 0.0.0.0 dc.rockwall.investments
+0.0.0.0 destek.btcturk.com
+0.0.0.0 dev-xhlkashd.coinmama.com
 0.0.0.0 dev.a-ads.com
+0.0.0.0 dev.coinmama.com
 0.0.0.0 dev.cointraffic.io
 0.0.0.0 dev.quadrigacx.com
 0.0.0.0 dev.rockwall.investments
 0.0.0.0 dev.simplemining.net
 0.0.0.0 devapi.quadrigacx.com
+0.0.0.0 development.btcturk.com
 0.0.0.0 development.cryptopia.co.nz
 0.0.0.0 devtopia.cryptopia.co.nz
 0.0.0.0 devweb2.cryptopia.co.nz
@@ -173,7 +188,9 @@
 0.0.0.0 evergreencoin.org
 0.0.0.0 faucet.evergreencoin.org
 0.0.0.0 faucethub.io
+0.0.0.0 feedback.coinmama.com
 0.0.0.0 files.a-ads.com
+0.0.0.0 files.btcturk.com
 0.0.0.0 files.cointraffic.io
 0.0.0.0 forminerpro.com
 0.0.0.0 forum.bitcoin.org
@@ -184,6 +201,7 @@
 0.0.0.0 ftp.awesomeminer.com
 0.0.0.0 ftp.binance.com
 0.0.0.0 ftp.bitcoin-doubler.us
+0.0.0.0 ftp.coinmama.com
 0.0.0.0 ftp.gameofbitcoins.com
 0.0.0.0 ftp.imperiumminer.com
 0.0.0.0 ftp.inwemo.com
@@ -196,6 +214,7 @@
 0.0.0.0 getbitcoin.nz
 0.0.0.0 getmonero.org
 0.0.0.0 global.binance.com
+0.0.0.0 go.coinmama.com
 0.0.0.0 go.cur.lv
 0.0.0.0 graphql.bixin.im
 0.0.0.0 hashcoin.io
@@ -227,6 +246,7 @@
 0.0.0.0 jwallet.network
 0.0.0.0 kncminer.com
 0.0.0.0 kr.binance.com
+0.0.0.0 kriptometre.btcturk.com
 0.0.0.0 labs.binance.com
 0.0.0.0 launchpad.binance.com
 0.0.0.0 lb4.a-ads.com
@@ -238,10 +258,12 @@
 0.0.0.0 load.cryptopia.co.nz
 0.0.0.0 localhost.cryptopia.co.nz
 0.0.0.0 localhost.quadrigacx.com
+0.0.0.0 lp.coinmama.com
 0.0.0.0 lt.cryptopia.co.nz
 0.0.0.0 ltc-bitcore3.trezor.io
 0.0.0.0 ltc.cryptopia.co.nz
 0.0.0.0 luckybits.io
+0.0.0.0 lyncdiscover.btcturk.com
 0.0.0.0 lyncdiscover.cryptopia.co.nz
 0.0.0.0 m.cryptopia.co.nz
 0.0.0.0 mail.antminer-store.com
@@ -292,6 +314,7 @@
 0.0.0.0 nostalgia.bitfinex.com
 0.0.0.0 ns2.a-ads.com
 0.0.0.0 o1.em.quadrigacx.com
+0.0.0.0 o1.mail.coinmama.com
 0.0.0.0 o2.em.quadrigacx.com
 0.0.0.0 o3.em.quadrigacx.com
 0.0.0.0 o4.em.quadrigacx.com
@@ -322,6 +345,7 @@
 0.0.0.0 preorder.trezor.io
 0.0.0.0 preprod.simplemining.net
 0.0.0.0 pricing.jaxx.io
+0.0.0.0 privacy.coinmama.com
 0.0.0.0 psychomining.de
 0.0.0.0 pubapi.bithumb.com
 0.0.0.0 quadrigacx.com
@@ -338,6 +362,7 @@
 0.0.0.0 sadmin.rockwall.investments
 0.0.0.0 safelinkconverter.com
 0.0.0.0 saml.cryptopia.co.nz
+0.0.0.0 secure.coinmama.com
 0.0.0.0 seed.emercoin.com
 0.0.0.0 seed1.emercoin.com
 0.0.0.0 seed2.emercoin.com
@@ -349,9 +374,11 @@
 0.0.0.0 simplemining.net
 0.0.0.0 smtp.awesomeminer.com
 0.0.0.0 socket.quadrigacx.com
+0.0.0.0 staging..coinmama.com
 0.0.0.0 start.ledgerwallet.com
 0.0.0.0 static.a-ads.com
 0.0.0.0 stats.ethc.io
+0.0.0.0 status.coinmama.com
 0.0.0.0 status.trezor.io
 0.0.0.0 stream.binance.com
 0.0.0.0 stream2.binance.com
@@ -359,6 +386,7 @@
 0.0.0.0 support.a-ads.com
 0.0.0.0 support.binance.com
 0.0.0.0 support.bitfinex.com
+0.0.0.0 support.coinmama.com
 0.0.0.0 support.evergreencoin.org
 0.0.0.0 support.ledgerwallet.com
 0.0.0.0 support.mycrypto.com
@@ -367,10 +395,12 @@
 0.0.0.0 test.ledgerwallet.com
 0.0.0.0 test.rockwall.investments
 0.0.0.0 test.simplemining.net
+0.0.0.0 tm.btcturk.com
 0.0.0.0 to.cur.lv
 0.0.0.0 transactions.evergreencoin.org
 0.0.0.0 trezor.io
 0.0.0.0 uclick.in
+0.0.0.0 unauthorized.btcturk.com
 0.0.0.0 unauthorized.cryptopia.co.nz
 0.0.0.0 upcoin.com
 0.0.0.0 upload.a-ads.com
@@ -378,6 +408,7 @@
 0.0.0.0 ups.cryptopia.co.nz
 0.0.0.0 us.binance.com
 0.0.0.0 utils.jaxx.io
+0.0.0.0 vip.coinmama.com
 0.0.0.0 w.cryptopia.co.nz
 0.0.0.0 wallet.trezor.io
 0.0.0.0 web.bixin.im
@@ -391,6 +422,7 @@
 0.0.0.0 webmail.uclick.in
 0.0.0.0 whattomine.com
 0.0.0.0 whm.gameofbitcoins.com
+0.0.0.0 widget.coinmama.com
 0.0.0.0 wiki.emercoin.com
 0.0.0.0 wiki.evergreencoin.org
 0.0.0.0 wiki.trezor.io
@@ -428,6 +460,8 @@
 0.0.0.0 www.btc-alpha.com
 0.0.0.0 www.btc-bitcore1.trezor.io
 0.0.0.0 www.btc-bitcore3.trezor.io
+0.0.0.0 www.btcturk.com
+0.0.0.0 www.careers.coinmama.com
 0.0.0.0 www.chainradar.com
 0.0.0.0 www.changelly.com
 0.0.0.0 www.chat.binance.com
@@ -436,6 +470,7 @@
 0.0.0.0 www.coinad.com
 0.0.0.0 www.coinadnet.com
 0.0.0.0 www.coincube.io
+0.0.0.0 www.coinmama.com
 0.0.0.0 www.coinmarketcap.com
 0.0.0.0 www.coinminerz.com
 0.0.0.0 www.cointraffic.io
@@ -465,6 +500,7 @@
 0.0.0.0 www.getbitcoin.nz
 0.0.0.0 www.getmonero.org
 0.0.0.0 www.global.binance.com
+0.0.0.0 www.go.coinmama.com
 0.0.0.0 www.hashcoin.io
 0.0.0.0 www.hashcoins.com
 0.0.0.0 www.hashcoins.ee
