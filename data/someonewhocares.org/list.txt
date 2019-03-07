@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 05 Mar 2019 at 07:36:12 GMT
+# Last updated: Wed, 06 Mar 2019 at 04:12:11 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -7839,6 +7839,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 da.2000888.com
 127.0.0.1 d.admob.com
 127.0.0.1 d.adnetxchange.com
+127.0.0.1 d.adroll.com
 127.0.0.1 d.adserve.com
 127.0.0.1 dads.new.digg.com
 127.0.0.1 d.ads.readwriteweb.com
