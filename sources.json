@@ -40,7 +40,7 @@
   {"name": "malwaredomains.com-justdomains",     "enabled": true,  "format": "plain",   "url": "https://malwaredomains.usu.edu/justdomains"},
   {"name": "matomo.org-spammers",                "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt"},
   {"name": "mitchellkrogza-badd-boyz-hosts",     "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts"},
-  {"name": "molinero.xyz",                       "enabled": true,  "format": "plain",   "url": "https://hblock.molinero.xyz/hosts"},
+  {"name": "molinero.dev",                       "enabled": true,  "format": "plain",   "url": "https://hblock.molinero.dev/hosts"},
   {"name": "pgl.yoyo.org",                       "enabled": true,  "format": "plain",   "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext"},
   {"name": "ransomwaretracker.abuse.ch",         "enabled": true,  "format": "plain",   "url": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"},
   {"name": "someonewhocares.org",                "enabled": true,  "format": "plain",   "url": "https://someonewhocares.org/hosts/hosts"},

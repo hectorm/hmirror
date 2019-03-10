@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Author:     Héctor Molinero Fernández <hector@molinero.xyz>
+# Author:     Héctor Molinero Fernández <hector@molinero.dev>
 # Repository: https://github.com/hectorm/hmirror
 # License:    MIT, https://opensource.org/licenses/MIT
 
