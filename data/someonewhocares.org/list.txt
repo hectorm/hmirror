@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 11 Mar 2019 at 04:29:09 GMT
+# Last updated: Fri, 15 Mar 2019 at 08:04:46 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2678,6 +2678,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 projectpoi.com
 127.0.0.1 protectionupdatecenter.com
 127.0.0.1 provenfeedback.com
+127.0.0.1 p.ttwitter.com
 127.0.0.1 public2.zz.ha.cn
 127.0.0.1 puush.in
 127.0.0.1 pv.wantsfly.com
@@ -2715,6 +2716,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 scanner.best-protect.info
 127.0.0.1 scottishstuff-online.com	# Canadian bank phishing site
 127.0.0.1 screenaddict.thewhizproducts.com
+127.0.0.1 scribe.ttwitter.com
 127.0.0.1 sc-spyware.com
 127.0.0.1 sea.net.edu.cn
 127.0.0.1 search.buzzdock.com
