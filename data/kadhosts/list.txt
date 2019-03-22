@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtr chroniacy przed przekretami takimi jak subskrypcje SMS
-# Last modified: Wed, 20 Mar 2019, 22:46 UTC+01
-# Version: 2019.3.20.5
+# Last modified: Thu, 21 Mar 2019, 12:14 UTC+01
+# Version: 2019.3.21.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -962,6 +962,7 @@
 0.0.0.0 yourpayment.online
 0.0.0.0 yourperlebleue.com
 0.0.0.0 yummymobile.pl
+0.0.0.0 zakupeo.com
 0.0.0.0 zakupyagd.net
 0.0.0.0 zakupymax.net
 0.0.0.0 zalukajfilmy.pl
