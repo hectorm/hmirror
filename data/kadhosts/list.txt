@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtr chroniacy przed przekretami takimi jak subskrypcje SMS
-# Last modified: Thu, 21 Mar 2019, 12:14 UTC+01
-# Version: 2019.3.21.1
+# Last modified: Fri, 22 Mar 2019, 10:58 UTC+01
+# Version: 2019.3.22.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -530,6 +530,7 @@
 0.0.0.0 photook.vxm.pl
 0.0.0.0 phytolast.com
 0.0.0.0 pitbull.ek1.pl
+0.0.0.0 pl.btcprofitnow.pro
 0.0.0.0 pl.fmworld.com
 0.0.0.0 pl.fohow.eu
 0.0.0.0 pl.lider.pl
