@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 26 Mar 2019 at 04:53:20 GMT
+# Last updated: Wed, 27 Mar 2019 at 01:38:43 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2079,6 +2079,7 @@ ff02::3		ip6-allhosts
 # sites with known trojans, phishing, or other malware
 127.0.0.1 05tz2e9.com
 127.0.0.1 09killspyware.com
+127.0.0.1 0.nextyourcontent.com
 127.0.0.1 11398.onceedge.ru
 127.0.0.1 2006mindfreaklike.blogspot.com	# Facebook trojan
 127.0.0.1 20-yrs-1.info
@@ -2295,6 +2296,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 err2.9939118.info
 127.0.0.1 err3.9939118.info
 127.0.0.1 error-warning-alert-critical-5x.com
+127.0.0.1 errx049.icu
 127.0.0.1 etr-interac.com
 127.0.0.1 eviboli576.o-f.com
 127.0.0.1 exasked.com
