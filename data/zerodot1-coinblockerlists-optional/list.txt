@@ -1,9 +1,9 @@
 # Contribute: https://gitlab.com/ZeroDot1/CoinBlockerLists/issues/new
-# Copyright: (c) ZeroDot1, 2018
+# Copyright: (c) ZeroDot1, 2019
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2019-02-28 15:13
+# Last modified: 2019-04-08 22:02
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 0x.mycrypto.com
@@ -11,6 +11,7 @@
 0.0.0.0 803mine.com
 0.0.0.0 a-ads.com
 0.0.0.0 about.mycrypto.com
+0.0.0.0 academy.bithumb.com
 0.0.0.0 acceptable.a-ads.com
 0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.s.a-ads.com
@@ -65,8 +66,11 @@
 0.0.0.0 api.quadrigacx.com
 0.0.0.0 api01.ledgerwallet.com
 0.0.0.0 api02.ledgerwallet.com
+0.0.0.0 api1.bithumb.com
 0.0.0.0 api2.bitfinex.com
 0.0.0.0 api2.jaxx.io
+0.0.0.0 apidocs.bithumb.com
+0.0.0.0 apidocs.m.bithumb.com
 0.0.0.0 app.bixin.im
 0.0.0.0 app0.a-ads.com
 0.0.0.0 apps.cointraffic.io
@@ -106,6 +110,7 @@
 0.0.0.0 btc-alpha.com
 0.0.0.0 btc-bitcore1.trezor.io
 0.0.0.0 btc-bitcore3.trezor.io
+0.0.0.0 btc-smtp.bithumb.com
 0.0.0.0 btc.a-ads.com
 0.0.0.0 btcturk.com
 0.0.0.0 bullet.simplemining.net
@@ -115,6 +120,7 @@
 0.0.0.0 cdn.inwemo.com
 0.0.0.0 cdn1.cryptopia.co.nz
 0.0.0.0 cdn2.inwemo.com
+0.0.0.0 certification.bithumb.com
 0.0.0.0 cex.io
 0.0.0.0 chainradar.com
 0.0.0.0 changelly.com
@@ -128,6 +134,8 @@
 0.0.0.0 click.a-ads.com
 0.0.0.0 cloud.awesomeminer.com
 0.0.0.0 cloud.cryptoguiminer.com
+0.0.0.0 cn.bithumb.com
+0.0.0.0 cn.m.bithumb.com
 0.0.0.0 coinad.com
 0.0.0.0 coinadnet.com
 0.0.0.0 coincube.io
@@ -181,6 +189,18 @@
 0.0.0.0 electrum.org
 0.0.0.0 em.quadrigacx.com
 0.0.0.0 emercoin.com
+0.0.0.0 ems01.bithumb.com
+0.0.0.0 ems02.bithumb.com
+0.0.0.0 ems03.bithumb.com
+0.0.0.0 ems04.bithumb.com
+0.0.0.0 ems05.bithumb.com
+0.0.0.0 ems06.bithumb.com
+0.0.0.0 emstrk.bithumb.com
+0.0.0.0 en.bithumb.com
+0.0.0.0 en.m.bithumb.com
+0.0.0.0 es.bithumb.com
+0.0.0.0 es.m.bithumb.com
+0.0.0.0 esbc.bithumb.com
 0.0.0.0 ether.cards
 0.0.0.0 ethereumproject.github.io
 0.0.0.0 event.btc-alpha.com
@@ -226,6 +246,8 @@
 0.0.0.0 help.cryptopia.co.nz
 0.0.0.0 helpdesk.bitfinex.com
 0.0.0.0 helpdesk2.bitfinex.com
+0.0.0.0 hi.bithumb.com
+0.0.0.0 hi.m.bithumb.com
 0.0.0.0 hitbtc.com
 0.0.0.0 honeypot.cryptopia.co.nz
 0.0.0.0 i2p.emercoin.com
@@ -234,10 +256,14 @@
 0.0.0.0 imap.quadrigacx.com
 0.0.0.0 imperiumminer.com
 0.0.0.0 in.cur.lv
+0.0.0.0 index.bithumb.com
+0.0.0.0 infra2.bithumb.com
 0.0.0.0 investor.cryptopia.co.nz
 0.0.0.0 inwemo.com
 0.0.0.0 io.rockwall.investments
 0.0.0.0 iota.bitfinex.com
+0.0.0.0 ja.bithumb.com
+0.0.0.0 ja.m.bithumb.com
 0.0.0.0 jaxx.io
 0.0.0.0 jira.cryptopia.co.nz
 0.0.0.0 joinslack.binance.com
@@ -265,9 +291,11 @@
 0.0.0.0 luckybits.io
 0.0.0.0 lyncdiscover.btcturk.com
 0.0.0.0 lyncdiscover.cryptopia.co.nz
+0.0.0.0 m.bithumb.com
 0.0.0.0 m.cryptopia.co.nz
 0.0.0.0 mail.antminer-store.com
 0.0.0.0 mail.awesomeminer.com
+0.0.0.0 mail.bithumb.com
 0.0.0.0 mail.coinadnet.com
 0.0.0.0 mail.cur.lv
 0.0.0.0 mail.imperiumminer.com
@@ -282,6 +310,8 @@
 0.0.0.0 masternodes4everyone.com
 0.0.0.0 me.cur.lv
 0.0.0.0 mellowads.com
+0.0.0.0 merchant.bithumb.com
+0.0.0.0 message.bithumb.com
 0.0.0.0 mike.cryptopia.co.nz
 0.0.0.0 mike.rockwall.investments
 0.0.0.0 minecraft.cryptopia.co.nz
@@ -332,6 +362,7 @@
 0.0.0.0 parthk.co.uk
 0.0.0.0 pay.bithumb.com
 0.0.0.0 peerhash.com
+0.0.0.0 pg-relay.bithumb.com
 0.0.0.0 poc.simplemining.net
 0.0.0.0 pool.emercoin.com
 0.0.0.0 pool2.emercoin.com
@@ -348,11 +379,19 @@
 0.0.0.0 privacy.coinmama.com
 0.0.0.0 psychomining.de
 0.0.0.0 pubapi.bithumb.com
+0.0.0.0 push.bithumb.com
 0.0.0.0 quadrigacx.com
+0.0.0.0 r1.bithumb.com
+0.0.0.0 r2.bithumb.com
+0.0.0.0 r3.bithumb.com
+0.0.0.0 r4.bithumb.com
+0.0.0.0 r5.bithumb.com
+0.0.0.0 rc.bithumb.com
 0.0.0.0 realtime.quadrigacx.com
 0.0.0.0 redmine.emercoin.com
 0.0.0.0 resource.binance.com
 0.0.0.0 resource2.binance.com
+0.0.0.0 return.bithumb.com
 0.0.0.0 rm.cointraffic.io
 0.0.0.0 rockwall.investments
 0.0.0.0 rpc.myetherwallet.com
@@ -377,6 +416,7 @@
 0.0.0.0 staging..coinmama.com
 0.0.0.0 start.ledgerwallet.com
 0.0.0.0 static.a-ads.com
+0.0.0.0 static.bithumb.com
 0.0.0.0 stats.ethc.io
 0.0.0.0 status.coinmama.com
 0.0.0.0 status.trezor.io
@@ -410,6 +450,7 @@
 0.0.0.0 utils.jaxx.io
 0.0.0.0 vip.coinmama.com
 0.0.0.0 w.cryptopia.co.nz
+0.0.0.0 waiting.bithumb.com
 0.0.0.0 wallet.trezor.io
 0.0.0.0 web.bixin.im
 0.0.0.0 webdisk.antminer-store.com
@@ -432,6 +473,7 @@
 0.0.0.0 ws.ledgerwallet.com
 0.0.0.0 ws.quadrigacx.com
 0.0.0.0 wss.bithumb.com
+0.0.0.0 wss1.bithumb.com
 0.0.0.0 ww.cryptopia.co.nz
 0.0.0.0 www.0x.mycrypto.com
 0.0.0.0 www.1safe.link
@@ -537,6 +579,7 @@
 0.0.0.0 www.p2pool.in
 0.0.0.0 www.pandaminer.co
 0.0.0.0 www.parthk.co.uk
+0.0.0.0 www.pay.bithumb.com
 0.0.0.0 www.peerhash.com
 0.0.0.0 www.preorder.trezor.io
 0.0.0.0 www.psychomining.de
@@ -567,5 +610,6 @@
 0.0.0.0 www.wiki.trezor.io
 0.0.0.0 www.zec-bitcore1.trezor.io
 0.0.0.0 www1.a-ads.com
+0.0.0.0 www1.bithumb.com
 0.0.0.0 www3.a-ads.com
 0.0.0.0 zec-bitcore1.trezor.io
