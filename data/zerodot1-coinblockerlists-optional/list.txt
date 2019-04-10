@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2019-04-08 22:02
+# Last modified: 2019-04-09 09:08
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 0x.mycrypto.com
@@ -202,7 +202,6 @@
 0.0.0.0 es.m.bithumb.com
 0.0.0.0 esbc.bithumb.com
 0.0.0.0 ether.cards
-0.0.0.0 ethereumproject.github.io
 0.0.0.0 event.btc-alpha.com
 0.0.0.0 event.rockwall.investments
 0.0.0.0 evergreencoin.org
@@ -530,7 +529,6 @@
 0.0.0.0 www.electrum.org
 0.0.0.0 www.emercoin.com
 0.0.0.0 www.ether.cards
-0.0.0.0 www.ethereumproject.github.io
 0.0.0.0 www.event.rockwall.investments
 0.0.0.0 www.evergreencoin.org
 0.0.0.0 www.faucethub.io
