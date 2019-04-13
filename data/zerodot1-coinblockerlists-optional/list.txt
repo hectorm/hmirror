@@ -1,9 +1,9 @@
 # Contribute: https://gitlab.com/ZeroDot1/CoinBlockerLists/issues/new
 # Copyright: (c) ZeroDot1, 2019
 # Description: This list disables browser based miners such as coin-hive
-# Donate: https://amzn.to/2rtogiP Every donation keeps the future development going. Thank you.
+# Donate: http://bit.ly/CBLDonate Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2019-04-09 09:08
+# Last modified: 2019-04-12 17:01
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 0x.mycrypto.com
@@ -76,6 +76,7 @@
 0.0.0.0 apps.cointraffic.io
 0.0.0.0 apps.ledgerwallet.com
 0.0.0.0 apps2.cointraffic.io
+0.0.0.0 artus-mining.de
 0.0.0.0 assets.coinmama.com
 0.0.0.0 autoconfig.bitcoin-doubler.us
 0.0.0.0 autodiscover.btc-alpha.com
@@ -314,6 +315,7 @@
 0.0.0.0 mike.cryptopia.co.nz
 0.0.0.0 mike.rockwall.investments
 0.0.0.0 minecraft.cryptopia.co.nz
+0.0.0.0 miner.hosting
 0.0.0.0 minerboard.com
 0.0.0.0 mineshaft.cryptopia.co.nz
 0.0.0.0 mineshaft1.cryptopia.co.nz
@@ -485,6 +487,7 @@
 0.0.0.0 www.api.mymonero.com
 0.0.0.0 www.apps.cointraffic.io
 0.0.0.0 www.apps2.cointraffic.io
+0.0.0.0 www.artus-mining.de
 0.0.0.0 www.awesomeminer.com
 0.0.0.0 www.bch-bitcore2.trezor.io
 0.0.0.0 www.beta-wallet.trezor.io
@@ -563,6 +566,7 @@
 0.0.0.0 www.masternode-agent.com
 0.0.0.0 www.masternodes4everyone.com
 0.0.0.0 www.mellowads.com
+0.0.0.0 www.miner.hosting
 0.0.0.0 www.minerboard.com
 0.0.0.0 www.mineshop.eu
 0.0.0.0 www.mining-rig.de
