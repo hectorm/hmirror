@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: http://bit.ly/CBLDonate Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2019-04-12 17:01
+# Last modified: 2019-04-16 19:30
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 0x.mycrypto.com
@@ -130,6 +130,7 @@
 0.0.0.0 chat.quadrigacx.com
 0.0.0.0 chat.simplemining.net
 0.0.0.0 chat2.binance.com
+0.0.0.0 checkout.hashgains.com
 0.0.0.0 chef.a-ads.com
 0.0.0.0 chf.a-ads.com
 0.0.0.0 click.a-ads.com
@@ -151,6 +152,7 @@
 0.0.0.0 cpanel.cryptoguiminer.com
 0.0.0.0 cpanel.gameofbitcoins.com
 0.0.0.0 cpanel.imperiumminer.com
+0.0.0.0 cpanel.support.hashgains.com
 0.0.0.0 cpanel.uclick.in
 0.0.0.0 cryptoguiminer.com
 0.0.0.0 cryptonaut.org
@@ -223,6 +225,7 @@
 0.0.0.0 ftp.bitcoin-doubler.us
 0.0.0.0 ftp.coinmama.com
 0.0.0.0 ftp.gameofbitcoins.com
+0.0.0.0 ftp.hashgains.com
 0.0.0.0 ftp.imperiumminer.com
 0.0.0.0 ftp.inwemo.com
 0.0.0.0 ftp.mellowads.com
@@ -241,6 +244,7 @@
 0.0.0.0 hashcoins.com
 0.0.0.0 hashcoins.ee
 0.0.0.0 hashcoins.ru
+0.0.0.0 hashgains.com
 0.0.0.0 headers.electrum.org
 0.0.0.0 healthbeauty.cryptopia.co.nz
 0.0.0.0 help.cryptopia.co.nz
@@ -291,6 +295,7 @@
 0.0.0.0 luckybits.io
 0.0.0.0 lyncdiscover.btcturk.com
 0.0.0.0 lyncdiscover.cryptopia.co.nz
+0.0.0.0 lyncdiscover.hashgains.com
 0.0.0.0 m.bithumb.com
 0.0.0.0 m.cryptopia.co.nz
 0.0.0.0 mail.antminer-store.com
@@ -326,6 +331,17 @@
 0.0.0.0 mm.a-ads.com
 0.0.0.0 mobile-update.bithumb.com
 0.0.0.0 monero-miner.000webhostapp.com
+0.0.0.0 mta82.a.hashgains.com
+0.0.0.0 mta82.hashgains.com
+0.0.0.0 mta83.a.hashgains.com
+0.0.0.0 mta84.a.hashgains.com
+0.0.0.0 mta85.a.hashgains.com
+0.0.0.0 mta86.a.hashgains.com
+0.0.0.0 mta87.a.hashgains.com
+0.0.0.0 mta88.a.hashgains.com
+0.0.0.0 mta89.a.hashgains.com
+0.0.0.0 mta90.a.hashgains.com
+0.0.0.0 mta91.a.hashgains.com
 0.0.0.0 multipoolminer.io
 0.0.0.0 mx.peerhash.com
 0.0.0.0 my.cur.lv
@@ -393,6 +409,7 @@
 0.0.0.0 resource.binance.com
 0.0.0.0 resource2.binance.com
 0.0.0.0 return.bithumb.com
+0.0.0.0 ripple.com
 0.0.0.0 rm.cointraffic.io
 0.0.0.0 rockwall.investments
 0.0.0.0 rpc.myetherwallet.com
@@ -454,6 +471,12 @@
 0.0.0.0 waiting.bithumb.com
 0.0.0.0 wallet.trezor.io
 0.0.0.0 web.bixin.im
+0.0.0.0 web1.hashgains.com
+0.0.0.0 web2.hashgains.com
+0.0.0.0 web3.hashgains.com
+0.0.0.0 web4.hashgains.com
+0.0.0.0 web5.hashgains.com
+0.0.0.0 web6.hashgains.com
 0.0.0.0 webdisk.antminer-store.com
 0.0.0.0 webdisk.api.cryptoguiminer.com
 0.0.0.0 webdisk.cryptoguiminer.com
@@ -548,6 +571,7 @@
 0.0.0.0 www.hashcoins.com
 0.0.0.0 www.hashcoins.ee
 0.0.0.0 www.hashcoins.ru
+0.0.0.0 www.hashgains.com
 0.0.0.0 www.hitbtc.com
 0.0.0.0 www.icerockmining.io
 0.0.0.0 www.ico.icerockmining.io
