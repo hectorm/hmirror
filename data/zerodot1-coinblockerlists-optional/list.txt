@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: http://bit.ly/CBLDonate Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2019-04-16 19:30
+# Last modified: 2019-04-17 18:17
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 0x.mycrypto.com
@@ -50,7 +50,7 @@
 0.0.0.0 alpha.cryptopia.co.nz
 0.0.0.0 alpha.myetherwallet.com
 0.0.0.0 antminer-store.com
-0.0.0.0 api..coinmama.com
+0.0.0.0 api.coinmama.com
 0.0.0.0 api.binance.com
 0.0.0.0 api.bitfinex.com
 0.0.0.0 api.bithumb.com
@@ -431,7 +431,7 @@
 0.0.0.0 simplemining.net
 0.0.0.0 smtp.awesomeminer.com
 0.0.0.0 socket.quadrigacx.com
-0.0.0.0 staging..coinmama.com
+0.0.0.0 staging.coinmama.com
 0.0.0.0 start.ledgerwallet.com
 0.0.0.0 static.a-ads.com
 0.0.0.0 static.bithumb.com
