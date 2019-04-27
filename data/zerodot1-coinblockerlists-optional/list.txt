@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: http://bit.ly/CBLDonate Every donation keeps the future development going. Thank you.
 # Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2019-04-17 18:17
+# Last modified: 2019-04-26 08:15
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 0x.mycrypto.com
@@ -416,6 +416,10 @@
 0.0.0.0 rt.quadrigacx.com
 0.0.0.0 ru.cryptopia.co.nz
 0.0.0.0 s.a-ads.com
+0.0.0.0 bitmain.com
+0.0.0.0 www.bitmain.com
+0.0.0.0 www.bitmaintech.com
+0.0.0.0 bitmaintech.com
 0.0.0.0 sadmin.rockwall.investments
 0.0.0.0 safelinkconverter.com
 0.0.0.0 saml.cryptopia.co.nz
