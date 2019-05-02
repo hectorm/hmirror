@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtr chroniacy przed przekretami takimi jak subskrypcje SMS
-# Last modified: Tue, 30 Apr 2019, 23:16 UTC+02
-# Version: 2019.4.30.3
+# Last modified: Wed, 01 May 2019, 14:21 UTC+02
+# Version: 2019.5.1.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -1400,6 +1400,7 @@
 0.0.0.0 losowa-gra.pl
 0.0.0.0 m.smsquiz.pl
 0.0.0.0 maccleaner3.r.worldssl.net
+0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 magadownloader.com
 0.0.0.0 max-host.pl
 0.0.0.0 mediafile.pl
