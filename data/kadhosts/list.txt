@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtr chroniacy przed przekretami takimi jak subskrypcje SMS
-# Last modified: Fri, 03 May 2019, 23:40 UTC+02
-# Version: 2019.5.3.4
+# Last modified: Sat, 04 May 2019, 19:45 UTC+02
+# Version: 2019.5.4.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.com/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -1065,48 +1065,21 @@
 #
 # Promocja pseudonauki / Fake news
 # Nieprawdziwe, wprowadzajace w blad informacje lub podobne.
-0.0.0.0 alexjones.pl
-0.0.0.0 alternews.pl
 0.0.0.0 biotalerz.pl
 0.0.0.0 bio-chemik24.pl
-0.0.0.0 dziennik-polityczny.com
-0.0.0.0 hnews.pl
 0.0.0.0 jerzyzieba.com
-0.0.0.0 koniec-swiata.org
-0.0.0.0 magnapolonia.org
-0.0.0.0 malydziennki.pl
-0.0.0.0 narodowcy.net
-0.0.0.0 nczas.com
-0.0.0.0 ndie.pl
-0.0.0.0 neon24.pl
-0.0.0.0 newsweb.pl
 0.0.0.0 odpowiedzialni-rodzice.pl
-0.0.0.0 oneto.pl
-0.0.0.0 parezja.pl
 0.0.0.0 paulinajanowicz.pl
-0.0.0.0 pikio.pl
 0.0.0.0 planetazdrowia.com
 0.0.0.0 polakuleczsiesam.pl
-0.0.0.0 prawdaobiektywna.pl
-0.0.0.0 prostozmostu24.pl
-0.0.0.0 reporters.pl
-0.0.0.0 sioe.pl
 0.0.0.0 stopnop.com.pl
 0.0.0.0 szczepienie.info
 0.0.0.0 timeforvitamins.com
 0.0.0.0 ukryteterapie.pl
 0.0.0.0 vaccgenocide.wordpress.com
-0.0.0.0 wmeritum.pl
-0.0.0.0 wolna-polska.pl
-0.0.0.0 wolnosc24.pl
-0.0.0.0 wprawo.pl
-0.0.0.0 wsensie.pl
-0.0.0.0 wsieci24.pl
 0.0.0.0 www.meganiusy.com
 0.0.0.0 www.odkrywamyzakryte.com
 0.0.0.0 www.witnatura.pl
-0.0.0.0 wyborcza24.pl
-0.0.0.0 zmianynaziemi.pl
 #
 # Przekierowuja do innych stron z przekretami
 0.0.0.0 9xa.pl
