@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.dev>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Mon May  6 02:30:19 UTC 2019
-# Blocked domains: 134651
+# Last updated:    Tue May  7 02:30:13 UTC 2019
+# Blocked domains: 134643
 
 # <header>
 127.0.0.1       localhost 
@@ -6789,7 +6789,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 a-n-o-n-y-m-o-u-s.info
 0.0.0.0 a-nagy-alku.com
 0.0.0.0 a-nj.1rx.io
-0.0.0.0 a-o.ni
 0.0.0.0 a-pagerank.net
 0.0.0.0 a-sac.aa.online-metrix.net
 0.0.0.0 a-sb-ec.adtechus.com
@@ -8759,6 +8758,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 aaa419.com
 0.0.0.0 aaa520.izlinix.com
 0.0.0.0 aaaaaa.icfoscolosoverato.it
+0.0.0.0 aaacompany.net
 0.0.0.0 aaannuairex.com
 0.0.0.0 aaaopost.com
 0.0.0.0 aaatewata.pw
@@ -15899,6 +15899,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ae28-1e4a-ec3b-e9e6.reporo.net
 0.0.0.0 ae3482c74b1a99f.com
 0.0.0.0 ae79-f23b-ac9b-b65f.reporo.net
+0.0.0.0 ae7c783736eb2ff.com
 0.0.0.0 ae810539.mpstat.us
 0.0.0.0 ae81173d.mpstat.us
 0.0.0.0 ae97-d2b1-3f4b-e1d8.reporo.net
@@ -20239,6 +20240,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 apple.com--validation.systems
 0.0.0.0 apple.com-analysis-safety-antimalware-support.accountant
 0.0.0.0 apple.com-care-macbook-system.live
+0.0.0.0 apple.com-fasting.live
 0.0.0.0 apple.com-improve-macos.live
 0.0.0.0 apple.com-internet-security-review.info
 0.0.0.0 apple.com-internet-security-review.review
@@ -21881,8 +21883,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 audio.de.intellitxt.com
 0.0.0.0 audioclinicibague.com
 0.0.0.0 audiogon-d.openx.net
-0.0.0.0 audioknigi.cl
-0.0.0.0 audioknigi.club
 0.0.0.0 audioload.net
 0.0.0.0 audiomovil.cl
 0.0.0.0 audiotise-d.openx.net
@@ -22484,7 +22484,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 awsmer.com
 0.0.0.0 awssgp0-files.fds.api.xiaomi.com
 0.0.0.0 awstaticdn.net
-0.0.0.0 awstrack.me
 0.0.0.0 awsurveys.com
 0.0.0.0 awsync.yandex.ru
 0.0.0.0 awtkamrzza.mentalist.kameleoon.com
@@ -34106,6 +34105,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 com-credit-usage.info
 0.0.0.0 com-customer-service.info
 0.0.0.0 com-disputeapps.com
+0.0.0.0 com-fasting.live
 0.0.0.0 com-gmail-login.com
 0.0.0.0 com-help-contact-100000294653497.com
 0.0.0.0 com-help-contact-100000638953497.com
@@ -48284,6 +48284,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 fcubeindia.com
 0.0.0.0 fcveilhtok.com
 0.0.0.0 fd.webengage.com
+0.0.0.0 fd1.eye.to
+0.0.0.0 fd2.eye.to
+0.0.0.0 fd4.eye.to
 0.0.0.0 fd4a-1580-3c3a-88a1.reporo.net
 0.0.0.0 fd84e9a464aec4387a.com
 0.0.0.0 fdads.sv.publicus.com
@@ -54108,7 +54111,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 gloomy.ml
 0.0.0.0 glopages.ru
 0.0.0.0 glordd.com
-0.0.0.0 gloriajeans.de
 0.0.0.0 glorinlost.rocks
 0.0.0.0 gloriousflooring.com
 0.0.0.0 glorycheats.com
@@ -54119,8 +54121,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 glotchat.click
 0.0.0.0 glothouw.link
 0.0.0.0 glouposek.ru
-0.0.0.0 glove-love.com
-0.0.0.0 glovefight.com
 0.0.0.0 glovein.says.it
 0.0.0.0 gloverzz.net
 0.0.0.0 glowdot.com
@@ -54187,7 +54187,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 gmpmuqniggyz.com
 0.0.0.0 gmqczpcyzjeen.com
 0.0.0.0 gmquualzdmqtxp.com
-0.0.0.0 gms1.ru
 0.0.0.0 gmsdigital.vidible.tv
 0.0.0.0 gmsupplierdiscountv2.112.2o7.net
 0.0.0.0 gmter.com
@@ -54206,19 +54205,15 @@ ff02::3         ip6-allhosts
 0.0.0.0 gnbzonaseguraweb.com
 0.0.0.0 gnc.adlegend.com
 0.0.0.0 gncfttutoiwwq.com
-0.0.0.0 gne8.com
 0.0.0.0 gneibvpd.com
-0.0.0.0 gneill.com
 0.0.0.0 gnetic.t.domdex.com
 0.0.0.0 gnezdo.ru
-0.0.0.0 gninstruments.com.au
 0.0.0.0 gnipadiiodpa.com
 0.0.0.0 gnjcexms4b5u49hh3v7e.bosch-web-marketing.co.uk
 0.0.0.0 gnkpuprxa.com
 0.0.0.0 gnmjiishaldus.com
 0.0.0.0 gnnmdzbroemx.com
 0.0.0.0 gnpge.com
-0.0.0.0 gnptijuana.com
 0.0.0.0 gnqqajovkhfmq.com
 0.0.0.0 gnrdomimplementation.com
 0.0.0.0 gnreqzzts.com
@@ -54244,7 +54239,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 gntbcstwusa.112.2o7.net
 0.0.0.0 gntbcstwxia.112.2o7.net
 0.0.0.0 gntbcstwzzm.112.2o7.net
-0.0.0.0 gntenergy.com
 0.0.0.0 gnuetella.com
 0.0.0.0 gnytravel.com
 0.0.0.0 go-clicks.de
@@ -54396,12 +54390,10 @@ ff02::3         ip6-allhosts
 0.0.0.0 go2.magnetic.com
 0.0.0.0 go2.mercy.ga
 0.0.0.0 go2affise.com
-0.0.0.0 go2album.com
 0.0.0.0 go2cloud.org
 0.0.0.0 go2funz.com
 0.0.0.0 go2jump.org
 0.0.0.0 go2media.org
-0.0.0.0 go2myspace.com
 0.0.0.0 go2speed.org
 0.0.0.0 go2vulcan.com
 0.0.0.0 go4freehacks.com
@@ -54420,12 +54412,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 goallurl.ru
 0.0.0.0 goalsettingflipping.ru
 0.0.0.0 goaltraffic.com
-0.0.0.0 goandsmile.pl
 0.0.0.0 goappdl.goforandroid.com
 0.0.0.0 goarmy.com.102.112.2o7.net
 0.0.0.0 goat.cx
-0.0.0.0 goatminer.com
-0.0.0.0 goatpiss.com
 0.0.0.0 goatse.bz
 0.0.0.0 goatse.ca
 0.0.0.0 goatse.cx
@@ -59308,6 +59297,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 hungergame.com
 0.0.0.0 hunkal.com
 0.0.0.0 hunks-hardcore.com
+0.0.0.0 hunks-naked.com
 0.0.0.0 hunktnva.com
 0.0.0.0 hunktoons.com
 0.0.0.0 hunshop.natureflower.com
@@ -83377,6 +83367,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 ogorodnic.com
 0.0.0.0 ogqclfvaq.com
 0.0.0.0 ogqeedybsojr.com
+0.0.0.0 ogqewglysfc.com
 0.0.0.0 ogrid.org
 0.0.0.0 ogt.jp
 0.0.0.0 oguiftmya.com
@@ -97090,7 +97081,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 rushordertees.btttag.com
 0.0.0.0 rushrepublic.co.uk
 0.0.0.0 rusiapromo2018.ml
-0.0.0.0 rusmedserv.com
 0.0.0.0 rusmondf.com
 0.0.0.0 ruspoety.ru
 0.0.0.0 ruspolice.com
@@ -100398,6 +100388,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 sendmini.com
 0.0.0.0 sendori.com
 0.0.0.0 sendptp.com
+0.0.0.0 sendpulse.com
 0.0.0.0 sendshort.com
 0.0.0.0 sendspace.pl
 0.0.0.0 sendspace.pw
@@ -125107,6 +125098,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.apple.com-care-macbook-system.live
 0.0.0.0 www.apple.com-clean-macbook-system.live
 0.0.0.0 www.apple.com-clean-macbook.live
+0.0.0.0 www.apple.com-fasting.live
 0.0.0.0 www.apple.com-improve-macos.live
 0.0.0.0 www.apple.com-notice.info
 0.0.0.0 www.apple.com-repair-macbook.live
@@ -125197,7 +125189,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.audia6.com
 0.0.0.0 www.audiencemanager.de
 0.0.0.0 www.audiencetrust.com
-0.0.0.0 www.audioknigi.club
 0.0.0.0 www.auditude.com
 0.0.0.0 www.aureate.com
 0.0.0.0 www.auroramine.com
@@ -134273,6 +134264,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 zostofou.link
 0.0.0.0 zoszujvvlu.com
 0.0.0.0 zotasinc.com
+0.0.0.0 zoteromedia.com
 0.0.0.0 zotjktpk.com
 0.0.0.0 zoukenterprises.com.au
 0.0.0.0 zous.szm.sk
