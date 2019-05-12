@@ -1,7 +1,7 @@
 # Author:          Héctor Molinero Fernández <hector@molinero.dev>
 # Repository:      https://github.com/hectorm/hblock
-# Last updated:    Fri May 10 02:30:17 UTC 2019
-# Blocked domains: 134613
+# Last updated:    Sat May 11 02:30:09 UTC 2019
+# Blocked domains: 134580
 
 # <header>
 127.0.0.1       localhost 
@@ -15715,6 +15715,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 advs.adgorithms.com
 0.0.0.0 advs2sonline.goforandroid.com
 0.0.0.0 advserver.xyz
+0.0.0.0 advsmedia.com
 0.0.0.0 advsnx.net
 0.0.0.0 advstat.xunlei.com
 0.0.0.0 advt.webindia123.com
@@ -20246,6 +20247,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 apple.com-repair.live
 0.0.0.0 apple.com-safetyalert.com
 0.0.0.0 apple.com-scan-virus-detected.com
+0.0.0.0 apple.com-scan.live
 0.0.0.0 apple.com-security-desktop-antimalware-support.download
 0.0.0.0 apple.com-speed-macos.live
 0.0.0.0 apple.com-speedup-macbook.live
@@ -20589,7 +20591,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 apuarym.cn
 0.0.0.0 apugod.work
 0.0.0.0 apura.eu
-0.0.0.0 apusx.com
 0.0.0.0 apvdr.com
 0.0.0.0 apx.appier.net
 0.0.0.0 apx.ckk-45.net
@@ -26396,6 +26397,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 bmqnguru.com
 0.0.0.0 bms-5w-ext.nyc2.appnexus.com
 0.0.0.0 bms-ext.nyc2.appnexus.com
+0.0.0.0 bms.adjarabet.com
 0.0.0.0 bms.msk.bg
 0.0.0.0 bms.sportal.ru
 0.0.0.0 bms.xenium.bg
@@ -35046,11 +35048,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 cooleroni.com
 0.0.0.0 coolertracks.emailroi.com
 0.0.0.0 coolfiles.toget.com.tw
-0.0.0.0 coolfoto.dk
 0.0.0.0 coolfreehost.com
-0.0.0.0 coolgamechannel.com
 0.0.0.0 coolgangcountrydancer.com
-0.0.0.0 coolgaymovies.co
 0.0.0.0 coolibra.go2affise.com
 0.0.0.0 coolinc.info
 0.0.0.0 coollcloud.com
@@ -35059,14 +35058,11 @@ ff02::3         ip6-allhosts
 0.0.0.0 coolmydl.com
 0.0.0.0 coolnameshop.cn
 0.0.0.0 coolpremiumsnow.com
-0.0.0.0 coolrastaman.free.fr
 0.0.0.0 coolsavings.com
-0.0.0.0 coolscience.co.uk
 0.0.0.0 coolsor.ru
 0.0.0.0 coolstats1.net
 0.0.0.0 coolstorybroproductions.com
 0.0.0.0 cooltechzone.us.intellitxt.com
-0.0.0.0 cooltown.dk
 0.0.0.0 coolvids.net
 0.0.0.0 coolwebstats.com
 0.0.0.0 coolwifedata.co.uk
@@ -35115,13 +35111,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 copyrightclaims.org
 0.0.0.0 copyrightinstitute.org
 0.0.0.0 copythinker.com
-0.0.0.0 coquettes.free.fr
-0.0.0.0 coquin-voyeur.fr
 0.0.0.0 coquine-dispo.com
-0.0.0.0 coquins.tahiti.free.fr
 0.0.0.0 cor-natty.com
 0.0.0.0 coralogix.com
-0.0.0.0 coraltubbex.co.be
 0.0.0.0 corapersianas.com
 0.0.0.0 corba.adtech.de
 0.0.0.0 corba.adtech.fr
@@ -35131,7 +35123,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 cordconstraintstress.com
 0.0.0.0 corderohotelz.gq
 0.0.0.0 cordillera.alcantara.cl
-0.0.0.0 cordstrap.cc
 0.0.0.0 core-cen-54.com
 0.0.0.0 core-ext.fwmrm.net
 0.0.0.0 core-queerclick.netdna-ssl.com
@@ -35171,7 +35162,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 coretarget.co.uk
 0.0.0.0 coreysuiter.com
 0.0.0.0 cori.pw
-0.0.0.0 coriandre10.free.fr
 0.0.0.0 coriew.club
 0.0.0.0 coriew.online
 0.0.0.0 corintcolv.com
@@ -35184,12 +35174,10 @@ ff02::3         ip6-allhosts
 0.0.0.0 corneliakroellkautexgroup.000webhostapp.com
 0.0.0.0 cornell.qualtrics.com
 0.0.0.0 cornerjob.eu
-0.0.0.0 cornerstone-countertops.com
 0.0.0.0 cornerstonecu.com.102.112.2o7.net
 0.0.0.0 cornflakes.pathfinder.com
 0.0.0.0 cornflip.com
 0.0.0.0 cornwallsdraft.club
-0.0.0.0 coroasnet.net
 0.0.0.0 corp-accountmanager.com
 0.0.0.0 corp-assets.triplelift.com
 0.0.0.0 corp.flurry.com
@@ -35204,7 +35192,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 corpgslb1.fwmrm.net
 0.0.0.0 corpidealmediacom.dev.smi2.net
 0.0.0.0 corpoclinico.med.br
-0.0.0.0 corpopyme.cl
 0.0.0.0 corporacionrossenditotours.com
 0.0.0.0 corporate.crakmedia.com
 0.0.0.0 corporateinsuranceservice.com
@@ -35214,8 +35201,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 corporatevideobusiness.com
 0.0.0.0 corporationmindjets.ru
 0.0.0.0 corpore.ru
-0.0.0.0 corps-accord.com
-0.0.0.0 corps.email
 0.0.0.0 corptechservices.com.au.onlinesecuredocumentdocumentviewaccount.com.corptachservices.com
 0.0.0.0 corpweb02.fwmrm.net
 0.0.0.0 corpweb05.fwmrm.net
@@ -35236,29 +35221,23 @@ ff02::3         ip6-allhosts
 0.0.0.0 corsairlawyers.com.au
 0.0.0.0 corsettidesign.com
 0.0.0.0 corso-droni.it
-0.0.0.0 corta.co
 0.0.0.0 cortex-imp.tribalfusion.com
 0.0.0.0 cortex-impression.tribalfusion.com
 0.0.0.0 cortxphssdvc.com
 0.0.0.0 corunusa.com
 0.0.0.0 corus.hb.omtrdc.net
 0.0.0.0 corusads.dserv.ca
-0.0.0.0 corvus.co.be
 0.0.0.0 corwrite.com
 0.0.0.0 corylus.com.au
-0.0.0.0 cosadclinic.com
-0.0.0.0 cosale.peluqueriacaninamorocha.cl
 0.0.0.0 coshfgpgab.com
 0.0.0.0 coshoctonalliance.com
 0.0.0.0 cosiloon.com
-0.0.0.0 cositos.com.mx
 0.0.0.0 cosmeddicted.com
 0.0.0.0 cosmetice-farduri.ro
 0.0.0.0 cosmeticscentre.uk.com
 0.0.0.0 cosmi.gamerbots.hop.clickbank.net
 0.0.0.0 cosmi.io
 0.0.0.0 cosmjs.com
-0.0.0.0 cosmofoods.com
 0.0.0.0 cosmopolitan.de.intellitxt.com
 0.0.0.0 cosmopolitan.sl.advertising.com
 0.0.0.0 cosmos.felago.es
@@ -35971,7 +35950,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 craftsvillahandicraftspvtltd.sc.omtrdc.net
 0.0.0.0 crafttech.com.au
 0.0.0.0 craftycowburgers.com
-0.0.0.0 craftyenjoyments.co.uk
 0.0.0.0 cragslistmobile.org
 0.0.0.0 craigandpamswedding.com
 0.0.0.0 craigbergman.info
@@ -35984,11 +35962,9 @@ ff02::3         ip6-allhosts
 0.0.0.0 crain.d1.sc.omtrdc.net
 0.0.0.0 crakmedia.com
 0.0.0.0 craktraffic.com
-0.0.0.0 crana.ie
 0.0.0.0 crankyalice.com.au
 0.0.0.0 crapka.ru
 0.0.0.0 crarchitetti.com
-0.0.0.0 crash-day.ru
 0.0.0.0 crash-master.corp.appnexus.com
 0.0.0.0 crash.163.com
 0.0.0.0 crashapi.growingio.com
@@ -36004,32 +35980,21 @@ ff02::3         ip6-allhosts
 0.0.0.0 crawlability.com
 0.0.0.0 crawlclocks.com
 0.0.0.0 craydark.pw
-0.0.0.0 crazy-babes.com
 0.0.0.0 crazy-files.com
 0.0.0.0 crazy-jackpots.com
 0.0.0.0 crazy2sales.com
 0.0.0.0 crazy4media.adk2x.com
-0.0.0.0 crazyboost.pro
-0.0.0.0 crazychimps.com
 0.0.0.0 crazyegg.com
-0.0.0.0 crazyeshop.com
 0.0.0.0 crazyhell.com
 0.0.0.0 crazyhorseparis.com.au
 0.0.0.0 crazylead.com
-0.0.0.0 crazylolitas.dorki.info
 0.0.0.0 crazymasya.com
 0.0.0.0 crazypopups.com
-0.0.0.0 crazyporndeals.com
 0.0.0.0 crazyprotocol.com
-0.0.0.0 crazyserialz.info
 0.0.0.0 crazyshare.net
-0.0.0.0 crazysms.nl
 0.0.0.0 crazyvideosempire.com
-0.0.0.0 crazywebcamsex.com
 0.0.0.0 crb-r.tlnk.io
 0.0.0.0 crcewevoy.com
-0.0.0.0 crchaudhary.com
-0.0.0.0 crd.clan.su
 0.0.0.0 crdshipp.org
 0.0.0.0 crdu.shmu.ac.ir
 0.0.0.0 creaciones-mary.com.ar
@@ -36037,22 +36002,16 @@ ff02::3         ip6-allhosts
 0.0.0.0 creafi-online-media.com
 0.0.0.0 creafi.adk2x.com
 0.0.0.0 creafi.com
-0.0.0.0 creameet.com
 0.0.0.0 creampie.afdss.info
-0.0.0.0 creampiepornvideos.com
-0.0.0.0 creampietraffic.com
-0.0.0.0 creamyfacial.com
 0.0.0.0 creandolibertad.net
 0.0.0.0 creara-media.com
 0.0.0.0 creara-media.ru
-0.0.0.0 crearmonia.com
 0.0.0.0 create.followerinfo.xyz
 0.0.0.0 create.leadid.com
 0.0.0.0 create.lidstatic.com
 0.0.0.0 create2fear.com
 0.0.0.0 createachange.co.uk
 0.0.0.0 createatraet.com
-0.0.0.0 createfeartr3.com
 0.0.0.0 createthegroup.122.2o7.net
 0.0.0.0 createyourfuture.org.uk
 0.0.0.0 createyourplatter.com.au
@@ -36060,7 +36019,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 creational-nouns.000webhostapp.com
 0.0.0.0 creationenlignevv.fr
 0.0.0.0 creationhomeappliances.in
-0.0.0.0 creativationshow.com
 0.0.0.0 creative-ex.ru
 0.0.0.0 creative-serving.com
 0.0.0.0 creative.ad121m.com
@@ -36087,10 +36045,8 @@ ff02::3         ip6-allhosts
 0.0.0.0 creativeby2.unicast.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creativecentral.advertising.com
-0.0.0.0 creativehutindia.com
 0.0.0.0 creativekids.org.in
 0.0.0.0 creativelifevents.com
-0.0.0.0 creativemarketingdigital.com
 0.0.0.0 creativemindhacks.com
 0.0.0.0 creatives-adserver.smaato.com
 0.0.0.0 creatives.adbetclickin.pink
@@ -55342,6 +55298,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 greensy.eu
 0.0.0.0 greenworldholding.com
 0.0.0.0 greerlies.pro
+0.0.0.0 greetham.net
 0.0.0.0 greetingseuropasqq.com
 0.0.0.0 greetingsyoungqq.com
 0.0.0.0 greetzebra.com
@@ -61879,6 +61836,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 immoweltag.d3.sc.omtrdc.net
 0.0.0.0 immoweltde.widget.criteo.com
 0.0.0.0 imms1.macau.ctm.net
+0.0.0.0 immscjnenl.com
 0.0.0.0 imnotobsessed.us.intellitxt.com
 0.0.0.0 imnsmvmjrdiwwr.com
 0.0.0.0 imo-cash.de
@@ -63063,6 +63021,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 interactivedata.d1.sc.omtrdc.net
 0.0.0.0 interactiveone-d.openx.net
 0.0.0.0 interactivespot.net
+0.0.0.0 interadv.net
 0.0.0.0 interafricatraining.co.za
 0.0.0.0 interakt.ru
 0.0.0.0 interaktions-service-datenschutz.com
@@ -66843,6 +66802,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 kcnyhfmowc.com
 0.0.0.0 kcodndvh.com
 0.0.0.0 kcrm5jxleqqzdot03txiivly0mdaf1509509300.nuid.imrworldwide.com
+0.0.0.0 kctag.net
 0.0.0.0 kctctour.com
 0.0.0.0 kcugdqmmfcqrb.com
 0.0.0.0 kcvj.larlkcn.com
@@ -72222,6 +72182,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 m1crosoft.com
 0.0.0.0 m1d.ru
 0.0.0.0 m1ll1c4n0.com
+0.0.0.0 m1media.net
 0.0.0.0 m2-c.adyield.co
 0.0.0.0 m2.ae.2mdn.net
 0.0.0.0 m2.ai
@@ -79024,6 +78985,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 mymediasearchnow.com
 0.0.0.0 mymmsde.widget.criteo.com
 0.0.0.0 mymobileappz.com
+0.0.0.0 mymoneymakingapp.com
 0.0.0.0 mymoviestube.com
 0.0.0.0 mymyetherwallet.com
 0.0.0.0 mynagor.com
@@ -92244,6 +92206,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pushlommy.com
 0.0.0.0 pushmenews.com
 0.0.0.0 pushmobilenews.com
+0.0.0.0 pushmono.com
 0.0.0.0 pushnative.com
 0.0.0.0 pushnest.com
 0.0.0.0 pushno.com
@@ -92516,6 +92479,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 pzowsxuko.com
 0.0.0.0 pzpdxayohfdc.com
 0.0.0.0 pzpwjawqbmei.com
+0.0.0.0 pzszpntjlz.com
 0.0.0.0 pzuth.cn
 0.0.0.0 pzuwqncdai.com
 0.0.0.0 pzzmqjrp.com
@@ -95509,6 +95473,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 reward-survey.net
 0.0.0.0 reward2496.harddayforall9.icu
 0.0.0.0 reward4071.whoisyourd34.icu
+0.0.0.0 reward5191.srli20.agency
 0.0.0.0 rewardblvd.com
 0.0.0.0 rewarded-video.fyber.com
 0.0.0.0 rewardhotspot.com
@@ -103588,7 +103553,6 @@ ff02::3         ip6-allhosts
 0.0.0.0 snore.sabreasiapacific.com
 0.0.0.0 snos24.ru
 0.0.0.0 snow-case.net
-0.0.0.0 snow.nvr163.com
 0.0.0.0 snowcases.net
 0.0.0.0 snowplow-collector.sugarops.com
 0.0.0.0 snowsignal.com
@@ -103720,6 +103684,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 socketio-dev.taplytics.com
 0.0.0.0 socketio-staging.taplytics.com
 0.0.0.0 socketio.taplytics.com
+0.0.0.0 socketviking.net
 0.0.0.0 sockjgaabayf.com
 0.0.0.0 socks5service.cn
 0.0.0.0 sockslab.net
@@ -125083,6 +125048,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 www.apple.com-notice.info
 0.0.0.0 www.apple.com-repair-macbook.live
 0.0.0.0 www.apple.com-repair.live
+0.0.0.0 www.apple.com-scan.live
 0.0.0.0 www.apple.com-speed-macbook.live
 0.0.0.0 www.apple.com-speed-macos.live
 0.0.0.0 www.apple.com-speedup-macbook.live
@@ -131087,6 +131053,7 @@ ff02::3         ip6-allhosts
 0.0.0.0 xjqxkn.freewww.info
 0.0.0.0 xjrfpbiemmxmqrtm4dxqd4iedsswl1509894180.nuid.imrworldwide.com
 0.0.0.0 xjsqhlfscjxo.com
+0.0.0.0 xjtiqdylurgima.com
 0.0.0.0 xjwtyrklinni.com
 0.0.0.0 xjzqmgyr.com
 0.0.0.0 xk0x.cn
