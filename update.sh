@@ -9,7 +9,6 @@ export LC_ALL=C
 
 scriptDir=$(dirname "$(readlink -f "$0")")
 
-# Methods
 logInfo() {
 	printf -- '   - %s\n' "$@"
 }
@@ -23,59 +22,78 @@ logError() {
 }
 
 fetchUrl() {
-	curl -fsSL -A 'Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0' -- "$@"
+	curl -fsSL -A 'Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0' -- "$@"
 }
 
-adblockToHosts() {
-	rules=$(printf -- '%s' "$1" \
-		| tr -d '\r' \
-		| tr '[:upper:]' '[:lower:]'
-	)
+removeCRLF() { tr -d '\r'; }
+toLowercase() { tr '[:upper:]' '[:lower:]'; }
+removeComments() { sed -e 's/#.*//'; }
+trimWhitespace() { sed -e 's/^[[:blank:]]*//' -e 's/[[:blank:]]*$//'; }
+
+hostsToDomains() {
+	content="$1"
+	shift 1
+
+	ipRegex='\(0\.0\.0\.0\)\{0,1\}\(127\.0\.0\.1\)\{0,1\}'
+	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z_-]\{1,62\}'
+	printf -- '%s' "${content}" \
+		| removeCRLF | toLowercase | removeComments | trimWhitespace \
+		| sed -n -e "/^\\(${ipRegex}[[:blank:]]\\{1,\\}\\)\\{0,1\\}${domainRegex}$/p" \
+		| sed -e 's/^.\{1,\}[[:blank:]]\{1,\}//' \
+		| sort | uniq
+}
+
+adblockToDomains() {
+	content="$1"
+	shift 1
+
+	content=$(printf -- '%s' "${content}" | removeCRLF | toLowercase)
+
+	domainsPipe=$(mktemp -u); mkfifo -m 600 "${domainsPipe}"
+	exceptionsPipe=$(mktemp -u); mkfifo -m 600 "${exceptionsPipe}"
 
 	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z_-]\{1,62\}'
 
-	hostsPipe=$(mktemp -u)
-	mkfifo -m 600 "$hostsPipe"
-	printf -- '%s' "$rules" \
+	printf -- '%s' "${content}" \
 		| sed -n "s/^||\(${domainRegex}\)\^$/\1/p" \
 		| sort | uniq \
-	> "$hostsPipe" &
+	> "${domainsPipe}" &
 
-	exceptionsPipe=$(mktemp -u)
-	mkfifo -m 600 "$exceptionsPipe"
-	printf -- '%s' "$rules" \
+	printf -- '%s' "${content}" \
 		| sed -n "s/^@@||\(${domainRegex}\).*/\1/p" \
 		| sort | uniq \
-	> "$exceptionsPipe" &
+	> "${exceptionsPipe}" &
 
-	comm -23 "$hostsPipe" "$exceptionsPipe"
-	rm -f "$hostsPipe" "$exceptionsPipe"
+	comm -23 "${domainsPipe}" "${exceptionsPipe}"
+	rm -f "${domainsPipe}" "${exceptionsPipe}"
 }
 
 main() {
-	sourceList=$(jq -c '.sources|map(select(.enabled))' "$scriptDir/sources.json")
-	sourceCount=$(printf -- '%s' "$sourceList" | jq '.|length-1')
+	sourceList=$(jq -r '.sources|map(select(.enabled))' "${scriptDir}/sources.json")
+	sourceCount=$(printf -- '%s' "${sourceList}" | jq -r '.|length-1')
 
 	logAction 'Downloading lists...'
 
-	for i in $(seq 0 "$sourceCount"); do
-		entry=$(printf -- '%s' "$sourceList" | jq ".[$i]")
-		name=$(printf -- '%s' "$entry" | jq -r '.name')
-		format=$(printf -- '%s' "$entry" | jq -r '.format')
-		url=$(printf -- '%s' "$entry" | jq -r '.url')
+	for i in $(seq 0 "${sourceCount}"); do
+		entry=$(printf -- '%s' "${sourceList}" | jq -r --arg i "${i}" '.[$i|tonumber]')
+		name=$(printf -- '%s' "${entry}" | jq -r '.name')
+		format=$(printf -- '%s' "${entry}" | jq -r '.format')
+		url=$(printf -- '%s' "${entry}" | jq -r '.url')
 
-		logInfo "$url"
-		content=$(fetchUrl "$url") || true
+		logInfo "${url}"
+		content=$(fetchUrl "${url}") || true
 
-		if [ -n "$content" ]; then
-			mkdir -p -- "$scriptDir/data/$name"
-			cd -- "$scriptDir/data/$name"
+		if [ -n "${content}" ]; then
+			mkdir -p -- "${scriptDir}/data/${name}"
+			cd -- "${scriptDir}/data/${name}"
 
-			if [ "$format" = 'adblock' ]; then
-				content=$(adblockToHosts "$content")
+			if [ "${format}" = 'hosts' ]; then
+				content=$(hostsToDomains "${content}")
+			elif [ "${format}" = 'adblock' ]; then
+				content=$(adblockToDomains "${content}")
 			fi
 
-			printf -- '%s\n' "$content" > list.txt
+			printf -- '%s\n' "${content}" > list.txt
 			sha256sum list.txt > list.txt.sha256
 		else
 			logError 'Download failed'
@@ -85,4 +103,4 @@ main() {
 	done
 }
 
-main
+main "$@"
