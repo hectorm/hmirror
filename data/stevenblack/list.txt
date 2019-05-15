@@ -1,1017 +1,943 @@
-#=====================================
-# Hosts contributed by Steven Black
-# http://stevenblack.com
-0.0.0.0 1493361689.rsc.cdn77.org
-0.0.0.0 30-day-change.com
-0.0.0.0 2468.go2cloud.org
-0.0.0.0 adservice.google.nl
-0.0.0.0 analytics.ff.avast.com
-0.0.0.0 adsmws.cloudapp.net
-0.0.0.0 androidads23.adcolony.com
-0.0.0.0 analytics.publitas.com
-0.0.0.0 annualconsumersurvey.com
-0.0.0.0 amarktflow.com
-0.0.0.0 apps.id.net
-0.0.0.0 breaksurvey.com
-0.0.0.0 data.cnn.com
-0.0.0.0 canuck-method.com
-0.0.0.0 consumerproductsusa.com
-0.0.0.0 ceromobi.club
-0.0.0.0 com-notice.info
-0.0.0.0 www.com-notice.info
-0.0.0.0 apple.com-notice.info
-0.0.0.0 www.apple.com-notice.info
-0.0.0.0 support.apple.com-notice.info
-0.0.0.0 www.support.apple.com-notice.info
-0.0.0.0 darkpage.win
-0.0.0.0 dobre-programy.pl
-0.0.0.0 dobre-programy.xyz
-0.0.0.0 dobreprogramy.pro
-0.0.0.0 www.canuck-method.com
-0.0.0.0 com-notice.info
-0.0.0.0 www.com-notice.info
-0.0.0.0 largeloot.com
-0.0.0.0 letitbefaster.website
-0.0.0.0 login.dotomi.com
-0.0.0.0 login.dotomi.net
-0.0.0.0 external.stealthedeal.com
-0.0.0.0 goodblock.gladly.io
-0.0.0.0 jackbootedroom.com ## phishing
-0.0.0.0 mackeeperapp.zeobit.com
-0.0.0.0 montrealgazette.stats.com
-0.0.0.0 fgoogle.com # misspelling
-0.0.0.0 hosted.stats.com
-0.0.0.0 hosted.stats.com.edgesuite.net
-0.0.0.0 howupdateworks.amazingupdates4youtoday.website
-0.0.0.0 mysterysnooper.com
-0.0.0.0 mywot.com
-0.0.0.0 mywot.net
-0.0.0.0 onlineusagesurveys.com
-0.0.0.0 open.oneplus.net
-0.0.0.0 promotions.yourfirstmillion.biz
-0.0.0.0 quickcash-system.com
-0.0.0.0 save-your-pc.info
-0.0.0.0 sportsinteraction.com
-0.0.0.0 www.sportsinteraction.com
-0.0.0.0 embed.sendtonews.com
-0.0.0.0 performanceadexchange.com
-0.0.0.0 www.performanceadexchange.com
-0.0.0.0 privacyassistant.net
-0.0.0.0 ext.privacyassistant.net
-0.0.0.0 pussysaga.com
-0.0.0.0 www.pussysaga.com
-0.0.0.0 promotion.com-rewards.club
-0.0.0.0 rereddit.com
-0.0.0.0 s.zkcdn.net
-0.0.0.0 sixstitch.win
-0.0.0.0 specialsections.siteseer.ca
-0.0.0.0 stealthedeal.com
-0.0.0.0 tags.news.com.au  # thanks, @ValbonneConsulting
-0.0.0.0 torrenty-org.pl
-0.0.0.0 tracking.lenzmx.com
-0.0.0.0 twitter.cm    # common misspelling
-0.0.0.0 ttwitter.com    # common misspelling and, besides, scumbags there.
-0.0.0.0 vdtrack.com
-0.0.0.0 www.vdtrack.com
-0.0.0.0 virtual.thewhig.com
-0.0.0.0 www.dobre-programy.pl
-0.0.0.0 www.quickcash-system.com
-0.0.0.0 www.diptanuinfo.co.cc
-0.0.0.0 www.mywot.com
-0.0.0.0 www.mywot.net
-0.0.0.0 www.torrenty-org.pl
-0.0.0.0 urldelivery.com
-0.0.0.0 www.urldelivery.com
-0.0.0.0 files.ctnet4.space
-0.0.0.0 apps3.cointraffic.io
-0.0.0.0 metrics.brightcove.com
-0.0.0.0 ping.chartbeat.net
-0.0.0.0 www.tvpassport.com
-0.0.0.0 www.googletagservices.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 postmediamontrealgazette2.files.wordpress.com
-0.0.0.0 ping.chartbeat.net
-0.0.0.0 tvmds.tvpassport.com
-0.0.0.0 stats.wp.com
-0.0.0.0 4436230.fls.doubleclick.net
-0.0.0.0 aoredi.com
-0.0.0.0 imysurvey.com
-0.0.0.0 gamblerush.com
-0.0.0.0 security-check-551.com
-0.0.0.0 www.cpm20.com
-0.0.0.0 btds.artplay.info
-0.0.0.0 www.aoredi.com
-0.0.0.0 www.imysurvey.com
-0.0.0.0 www.gamblerush.com
-0.0.0.0 www.security-check-551.com
-0.0.0.0 www.www.cpm20.com
-0.0.0.0 www.btds.artplay.info
-0.0.0.0 videoplayer.vice.technology
-0.0.0.0 bacr.com.pk
-0.0.0.0 pakistanelevators.pk
-0.0.0.0 www.bidgear.com
-0.0.0.0 bidgear.com
-0.0.0.0 platform.bidgear.com
-0.0.0.0 stats.bidgear.com
-0.0.0.0 track.adtrue.com
-0.0.0.0 media.complex.com
-0.0.0.0 api.b2c.com
-
-# Analytics
-0.0.0.0 analysis.polarisoffice.com
-0.0.0.0 analytics-digit-in.cdn.ampproject.org
-0.0.0.0 analytics.cloudron.io
-0.0.0.0 analytics.colacoweb.net
-0.0.0.0 analytics.digit.in
-0.0.0.0 analytics.jabong.com
-0.0.0.0 analytics.lk.api.ditto.com
-0.0.0.0 analytics.logsss.com
-0.0.0.0 analytics.mailmunch.co
-0.0.0.0 analytics.mopub.com
-0.0.0.0 analytics.mytvzion.pro
-0.0.0.0 analytics.phando.com
-0.0.0.0 analytics.picsart.com
-0.0.0.0 analytics.poolshool.com
-0.0.0.0 analytics.posttv.com
-0.0.0.0 analytics.siliconexpert.com
-0.0.0.0 analytics.thevideo.me
-0.0.0.0 analyticsapi.bsbportal.com
-0.0.0.0 anayltics.kuikr.com
-0.0.0.0 zarget.com
-0.0.0.0 cdn.zarget.com
-0.0.0.0 www.alphonso.tv
-0.0.0.0 abclipper-ui1.alphonso.tv
-0.0.0.0 acr10.alphonso.tv
-0.0.0.0 acr11.alphonso.tv
-0.0.0.0 acr12.alphonso.tv
-0.0.0.0 acr13.alphonso.tv
-0.0.0.0 acr14.alphonso.tv
-0.0.0.0 acr15.alphonso.tv
-0.0.0.0 acr16.alphonso.tv
-0.0.0.0 acr17.alphonso.tv
-0.0.0.0 acr18.alphonso.tv
-0.0.0.0 acr19.alphonso.tv
-0.0.0.0 acr2.alphonso.tv
-0.0.0.0 acr20.alphonso.tv
-0.0.0.0 acr21.alphonso.tv
-0.0.0.0 acr22.alphonso.tv
-0.0.0.0 acr23.alphonso.tv
-0.0.0.0 acr25.alphonso.tv
-0.0.0.0 acr26.alphonso.tv
-0.0.0.0 acr27.alphonso.tv
-0.0.0.0 acr28.alphonso.tv
-0.0.0.0 acr29.alphonso.tv
-0.0.0.0 acr3.alphonso.tv
-0.0.0.0 acr30.alphonso.tv
-0.0.0.0 acr31.alphonso.tv
-0.0.0.0 acr32.alphonso.tv
-0.0.0.0 acr33.alphonso.tv
-0.0.0.0 acr34.alphonso.tv
-0.0.0.0 acr35.alphonso.tv
-0.0.0.0 acr36.alphonso.tv
-0.0.0.0 acr37.alphonso.tv
-0.0.0.0 acr39.alphonso.tv
-0.0.0.0 acr4.alphonso.tv
-0.0.0.0 acr40.alphonso.tv
-0.0.0.0 acr41.alphonso.tv
-0.0.0.0 acr42.alphonso.tv
-0.0.0.0 acr43.alphonso.tv
-0.0.0.0 acr44.alphonso.tv
-0.0.0.0 acr45.alphonso.tv
-0.0.0.0 acr46.alphonso.tv
-0.0.0.0 acr47.alphonso.tv
-0.0.0.0 acr49.alphonso.tv
-0.0.0.0 acr5.alphonso.tv
-0.0.0.0 acr51.alphonso.tv
-0.0.0.0 acr52.alphonso.tv
-0.0.0.0 acr53.alphonso.tv
-0.0.0.0 acr54.alphonso.tv
-0.0.0.0 acr55.alphonso.tv
-0.0.0.0 acr56.alphonso.tv
-0.0.0.0 acr58.alphonso.tv
-0.0.0.0 acr59.alphonso.tv
-0.0.0.0 acr6.alphonso.tv
-0.0.0.0 acr7.alphonso.tv
-0.0.0.0 acr8.alphonso.tv
-0.0.0.0 acr9.alphonso.tv
-0.0.0.0 acrdb.alphonso.tv
-0.0.0.0 ads.alphonso.tv
-0.0.0.0 api.alphonso.tv
-0.0.0.0 www.api.alphonso.tv
-0.0.0.0 assets.alphonso.tv
-0.0.0.0 bale.alphonso.tv
-0.0.0.0 beacon.statful.com
-0.0.0.0 bebe.alphonso.tv
-0.0.0.0 beckham.alphonso.tv
-0.0.0.0 best.alphonso.tv
-0.0.0.0 blog.alphonso.tv
-0.0.0.0 bwlkup.alphonso.tv
-0.0.0.0 clockskew.alphonso.tv
-0.0.0.0 cruyff.alphonso.tv
-0.0.0.0 dashboards.alphonso.tv
-0.0.0.0 degea.alphonso.tv
-0.0.0.0 dembele.alphonso.tv
-0.0.0.0 demo.alphonso.tv
-0.0.0.0 dimaria.alphonso.tv
-0.0.0.0 donovan.alphonso.tv
-0.0.0.0 honolulu.alphonso.tv
-0.0.0.0 insights.alphonso.tv
-0.0.0.0 koudas.alphonso.tv
-0.0.0.0 mahrez.alphonso.tv
-0.0.0.0 neymar.alphonso.tv
-0.0.0.0 optout.alphonso.tv
-0.0.0.0 oscar.alphonso.tv
-0.0.0.0 ozil.alphonso.tv
-0.0.0.0 pele.alphonso.tv
-0.0.0.0 pp.alphonso.tv
-0.0.0.0 ppjs.alphonso.tv
-0.0.0.0 prov.alphonso.tv
-0.0.0.0 proxy.alphonso.tv
-0.0.0.0 rtbdev4.alphonso.tv
-0.0.0.0 rtblbtr.alphonso.tv
-0.0.0.0 s4udash2.alphonso.tv
-0.0.0.0 silva.alphonso.tv
-0.0.0.0 socrates.alphonso.tv
-0.0.0.0 sterling.alphonso.tv
-0.0.0.0 tn.alphonso.tv
-0.0.0.0 tr.alphonso.tv
-0.0.0.0 tvads.alphonso.tv
-0.0.0.0 vanpersie.alphonso.tv
-0.0.0.0 villa.alphonso.tv
-0.0.0.0 web2.alphonso.tv
-0.0.0.0 yashin.alphonso.tv
-0.0.0.0 zico.alphonso.tv
-0.0.0.0 alog.umengcloud.com
-0.0.0.0 alog.umeng.co
-0.0.0.0 alog.umeng.com
-0.0.0.0 ampmetrics.techcrunch.com
-0.0.0.0 analytics.pokki.com
-0.0.0.0 analytics-static.ugc.bazaarvoice.com
-0.0.0.0 analytics.rayjump.com
-0.0.0.0 batchlogging4.truecaller.com
-0.0.0.0 client-analytics.braintreegateway.com
-0.0.0.0 device-api.urbanairship.com
-0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 gjapplog.uc.cn
-0.0.0.0 insight.ucweb.com
-0.0.0.0 log.snapdeal.com
-0.0.0.0 log.getdropbox.com
-0.0.0.0 log.apk.v-mate.mobi
-0.0.0.0 logger.cloudmobi.net
-0.0.0.0 logx.optimizely.com
-0.0.0.0 logitechlogitechglobal.112.2o7.net
-0.0.0.0 ma1310-r.analytics.edgekey.net
-0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com
-0.0.0.0 securemetrics.apple.com
-0.0.0.0 smetrics.bestbuy.com
-0.0.0.0 srv.pixel.parsely.com
-0.0.0.0 sdkupgrade.insight.ucweb.com
-0.0.0.0 uop.umeng.com
-0.0.0.0 wc-tracking.lavasoft.com
-0.0.0.0 api.cloudmobi.net
-0.0.0.0 api.quantumgraph.com
-0.0.0.0 app.adjust.com
-0.0.0.0 dev.appboy.com
-0.0.0.0 go.ad1data.com
-0.0.0.0 manifest.localytics.com
-0.0.0.0 c2i-cdn.startappnetwork.com
-0.0.0.0 events.startappservice.com
-0.0.0.0 dts.startappservice.com
-0.0.0.0 imp.startappservice.com
-0.0.0.0 init.startappservice.com
-0.0.0.0 h-sdk.online-metrix.net
-0.0.0.0 profile.localytics.com
-0.0.0.0 req.startappservice.com
-0.0.0.0 ptrack.betaout.com
-0.0.0.0 www.hitcpm.com
-0.0.0.0 users.quantumgraph.com
-0.0.0.0 tracking.i2w.io
-0.0.0.0 tracking-thirdparty.i2w.io
-0.0.0.0 events.redditmedia.com
-0.0.0.0 c.webengage.com
-0.0.0.0 prebid.adnxs.com
-0.0.0.0 gurgle.zdbb.net
-0.0.0.0 ns.zdbb.net
-0.0.0.0 284419414.log.optimizely.com
-0.0.0.0 mt.rtmark.net
-0.0.0.0 my.rtmark.net
-0.0.0.0 stats.jpush.cn
-0.0.0.0 rules.quantcount.com
-0.0.0.0 nexus.ensighten.com
-0.0.0.0 perf.mmstat.com
-0.0.0.0 pixel.nc0.co
-0.0.0.0 register.appsflyer.com
-0.0.0.0 4448269.fls.doubleclick.net
-0.0.0.0 sstats.adobe.com
-0.0.0.0 analytics.archive.org
-0.0.0.0 analytics-production.hapyak.com
-0.0.0.0 analytics.247sports.com
-0.0.0.0 analytics.bitrix.info
-0.0.0.0 analytics.htmedia.in
-0.0.0.0 analytics.icons8.com
-0.0.0.0 analytics.myfinance.com
-0.0.0.0 analytics.samdd.me
-0.0.0.0 analytics.swiggy.com
-0.0.0.0 lead.soperson.com
-0.0.0.0 yun-static.soperson.com
-0.0.0.0 www.soperson.com
-0.0.0.0 soperson.com
-0.0.0.0 talk99.cn
-0.0.0.0 www.talk99.cn
-
-# Ads and tracking on Xiaomi devices
-0.0.0.0 api.ad.xiaomi.com
-0.0.0.0 api.admob.xiaomi.com
-0.0.0.0 api.d.xiaomi.com
-0.0.0.0 a.stat.xiaomi.com
-0.0.0.0 tracking.miui.com
-0.0.0.0 cdn.ad.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
-0.0.0.0 e.ad.xiaomi.com
-0.0.0.0 globalapi.ad.xiaomi.com
-0.0.0.0 new.api.ad.xiaomi.com
-0.0.0.0 sdkconfig.ad.xiaomi.com
-0.0.0.0 ssp.ad.xiaomi.com
-0.0.0.0 test.ad.xiaomi.com
-0.0.0.0 test.e.ad.xiaomi.com
-0.0.0.0 test.new.api.ad.xiaomi.com
-0.0.0.0 cc.sys.intl.xiaomi.com
-0.0.0.0 cc.sys.miui.com
-0.0.0.0 ccc.sys.miui.com
-0.0.0.0 ccc.sys.intl.xiaomi.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 geofence.sys.miui.com
-0.0.0.0 abtest.mistat.xiaomi.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 abtest.mistat.intl.xiaomi.com
-0.0.0.0 zeus.ad.intl.xiaomi.com
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
-0.0.0.0 fcanr.tracking.miui.com
-0.0.0.0 api.ad.intl.xiaomi.com
-0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 tracking.intl.miui.com
-0.0.0.0 adv.sec.intl.miui.com
-0.0.0.0 api.brs.intl.miui.com
-0.0.0.0 api.collect.data.intl.miui.com
-0.0.0.0 api.hybrid.intl.xiaomi.com
-0.0.0.0 api.sec.intl.miui.com
-0.0.0.0 api.setting.intl.miui.com
-0.0.0.0 authbe.sec.intl.miui.com
-0.0.0.0 data.sec.intl.miui.com
-0.0.0.0 zeus.ad.xiaomi.com
-0.0.0.0 www.api.ad.intl.xiaomi.com
-0.0.0.0 sgp.o2o.api.xiaomi.com
-0.0.0.0 flash.sec.intl.miui.com
-
-# Ads
-0.0.0.0 ampmetrics.engadget.com
-0.0.0.0 c.adskeeper.co.uk
-0.0.0.0 datacollect.vmall.com
-0.0.0.0 events.appsflyer.com
-0.0.0.0 event.ksosoft.com
-0.0.0.0 events3.adcolony.com
-0.0.0.0 l2.visiblemeasures.com
-0.0.0.0 track.tenjin.io
-0.0.0.0 ustat.batmobi.net
-0.0.0.0 an.batmobi.net
-0.0.0.0 api.stats.appa.pe
-0.0.0.0 api5.batmobil.net
-0.0.0.0 applog.uc.cn
-0.0.0.0 applog.camera360.com
-0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 datacollect.vmall.com
-0.0.0.0 metrics.adage.com
-0.0.0.0 ads.feedly.com
-0.0.0.0 bi-collector.oneapm.com
-0.0.0.0 pixel.realclever.com
-0.0.0.0 sdktm.w.inmobi.com
-0.0.0.0 matchmyip.com
-0.0.0.0 ads.aerserv.com
-0.0.0.0 ads.mp.mydas.mobi
-0.0.0.0 ads.nexage.com
-0.0.0.0 api.oneaudience.com
-0.0.0.0 d.applovin.com
-0.0.0.0 l-v1.presage.io
-0.0.0.0 rt.applovin.com
-0.0.0.0 sdk.adincube.com
-0.0.0.0 api.pubnative.net
-0.0.0.0 sdklogs.avocarrot.com
-0.0.0.0 telemetry.layer.com
-0.0.0.0 dasdada.fu.ck
-0.0.0.0 i1.dl-ad.com
-0.0.0.0 pl-v2.presage.io
-0.0.0.0 pixel.onaudience.com
-0.0.0.0 ad.api.kaffnet.com
-0.0.0.0 ad.click.kaffnet.com
-0.0.0.0 api.ad.snappea.com
-0.0.0.0 ad.360in.com
-0.0.0.0 ads.adtekmedia.com
-0.0.0.0 ads.chacomedia.com
-0.0.0.0 ads.grandonmedia.com
-0.0.0.0 adserver.ministryofads.com
-0.0.0.0 adsflame.com
-0.0.0.0 adtekmedia.com
-0.0.0.0 adv.axiatraders.com
-0.0.0.0 adv.grandonmedia.com
-0.0.0.0 alliance4media.com
-0.0.0.0 api.axiatraders.com
-0.0.0.0 api.grandonmedia.com
-0.0.0.0 banners.mediaparade.net
-0.0.0.0 bid.axiatraders.com
-0.0.0.0 bid.grandonmedia.com
-0.0.0.0 bigsharkmedia.com
-0.0.0.0 blog.roboinside.me
-0.0.0.0 buzzclicks.com
-0.0.0.0 cdn.beginads.com
-0.0.0.0 click-rtb-useast.kobenetwork.com
-0.0.0.0 click.axiatraders.com
-0.0.0.0 click.elixmedia.com
-0.0.0.0 click.enatimedia.com
-0.0.0.0 click.grandonmedia.com
-0.0.0.0 clickopon.com
-0.0.0.0 clickrtb-useast.kobenetwork.com
-0.0.0.0 cvent.axiatraders.com
-0.0.0.0 deshmedia.com
-0.0.0.0 dsp.face2trade.com
-0.0.0.0 ecommerce.roboinside.me
-0.0.0.0 elixmedia.com
-0.0.0.0 enatimedia.com
-0.0.0.0 exchange.face2trade.com
-0.0.0.0 grandonmedia.com
-0.0.0.0 indiaonclick.com
-0.0.0.0 jira.face2trade.com
-0.0.0.0 k5market.com
-0.0.0.0 kushat.roboinside.me
-0.0.0.0 mediabarterexchange.com
-0.0.0.0 mediadirectx.com
-0.0.0.0 mediaparade.net
-0.0.0.0 oz.ministryofads.com
-0.0.0.0 plaimedia.com
-0.0.0.0 powertradeprofit.com
-0.0.0.0 promo.buzzclicks.com
-0.0.0.0 promo.enatimedia.com
-0.0.0.0 promo.kobenetwork.com
-0.0.0.0 pub.axiatraders.com
-0.0.0.0 pub.grandonmedia.com
-0.0.0.0 publisherhub.plaimedia.com
-0.0.0.0 quark.plaimedia.com
-0.0.0.0 realestate2.deshmedia.com
-0.0.0.0 roboinside.me
-0.0.0.0 rotator.axiatraders.com
-0.0.0.0 rotator.beginads.com
-0.0.0.0 rotator.buzzclicks.com
-0.0.0.0 rtb-useast.kobenetwork.com
-0.0.0.0 sebder.roboinside.me
-0.0.0.0 service.face2trade.com
-0.0.0.0 sf-3.east.kobenetwork.com
-0.0.0.0 sf-3.st.adtekmedia.com
-0.0.0.0 sf3.east.kobenetwork.com
-0.0.0.0 sionicmedia.com
-0.0.0.0 spiegel-de.spiegel.de
-0.0.0.0 ssp.face2trade.com
-0.0.0.0 static.elixmedia.com
-0.0.0.0 tracker.clickopon.com
-0.0.0.0 tracking.beginads.com
-0.0.0.0 tradersbrokers.com
-0.0.0.0 us-east1.serve.elixmedia.com
-0.0.0.0 us-east1.serve.enatimedia.com
-0.0.0.0 www.ads2live.com
-0.0.0.0 www.adserver.ministryofads.com
-0.0.0.0 www.adsflame.com
-0.0.0.0 www.adtekmedia.com
-0.0.0.0 www.alliance4media.com
-0.0.0.0 www.axiatraders.com
-0.0.0.0 www.banners.mediaparade.net
-0.0.0.0 www.beginads.com
-0.0.0.0 www.bigsharkmedia.com
-0.0.0.0 www.buzzclicks.com
-0.0.0.0 www.chacomedia.com
-0.0.0.0 www.click.elixmedia.com
-0.0.0.0 www.clickopon.com
-0.0.0.0 www.deshmedia.com
-0.0.0.0 www.elixmedia.com
-0.0.0.0 www.enatimedia.com
-0.0.0.0 www.face2trade.com
-0.0.0.0 www.grandonmedia.com
-0.0.0.0 www.indiaonclick.com
-0.0.0.0 www.k5market.com
-0.0.0.0 www.mediabarterexchange.com
-0.0.0.0 www.mediadirectx.com
-0.0.0.0 www.mediaparade.net
-0.0.0.0 www.ministryofads.com
-0.0.0.0 www.plaimedia.com
-0.0.0.0 www.powertradeprofit.com
-0.0.0.0 www.roboinside.me
-0.0.0.0 www.rotator.buzzclicks.com
-0.0.0.0 www.sf-3.st.adtekmedia.com
-0.0.0.0 www.sionicmedia.com
-0.0.0.0 www.static.elixmedia.com
-0.0.0.0 www.tradersbrokers.com
-0.0.0.0 www.us-east1.serve.elixmedia.com
-0.0.0.0 xml.plaimedia.com
-0.0.0.0 zamora.axiatraders.com
-0.0.0.0 ads.proc.cc
-0.0.0.0 asap.sharethrough.com
-0.0.0.0 15.taboola.com
-0.0.0.0 convlatbmp.taboola.com
-0.0.0.0 imprlatbmp.taboola.com
-0.0.0.0 match.taboola.com
-0.0.0.0 opps.taboola.com
-0.0.0.0 taboola-d.openx.net
-0.0.0.0 vidutils.taboola.com
-0.0.0.0 wf.taboola.com
-0.0.0.0 graph.accountkit.com
-0.0.0.0 ma312-r.analytics.edgesuite.net
-0.0.0.0 wzrkt.com
-0.0.0.0 www.wzrkt.com
-0.0.0.0 cdn5.userzoom.com
-0.0.0.0 web.vortex.data.microsoft.com
-0.0.0.0 telecommand.telemetry.microsoft.com
-0.0.0.0 ads5.truecaller.com
-0.0.0.0 ae.gsecondscreen.com
-0.0.0.0 api.c.avazunativeads.com
-0.0.0.0 cdn-jp.gsecondscreen.com
-0.0.0.0 feedback.adrecover.com
-0.0.0.0 js34dc10.gamooga.com
-0.0.0.0 unconf.adkmob.com
-0.0.0.0 watson.telemetry.microsoft.com
-0.0.0.0 cdn.bitmedianetwork.com
-0.0.0.0 adzerk.com
-0.0.0.0 orion.iad.appboy.com
-0.0.0.0 ploy.batmobi.net
-0.0.0.0 ad.apsalar.com
-0.0.0.0 cdn.moengage.com
-0.0.0.0 gtsdk.batmobi.net
-0.0.0.0 gum.criteo.com
-0.0.0.0 mads.at.atwola.com
-0.0.0.0 nativesdks.mparticle.com
-0.0.0.0 cdn.tsyndicate.com
-0.0.0.0 in8.zog.link
-0.0.0.0 trafforsrv.com
-0.0.0.0 engine.bitmedianetwork.com
-0.0.0.0 wsdk-files.webengage.com
-0.0.0.0 newlimitedoffer.com
-0.0.0.0 t.newlimitedoffer.com
-0.0.0.0 pushedwebnews.com
-0.0.0.0 vamsoupowoa.com
-0.0.0.0 ads2.servebom.com
-0.0.0.0 api.eqmob.com
-0.0.0.0 onlineapi.youappi.com
-0.0.0.0 static.youappi.com
-0.0.0.0 ad.adapter.kaffnet.com
-0.0.0.0 kuikdelivery.com
-0.0.0.0 tripan.me
-0.0.0.0 d-and-h.com
-0.0.0.0 www.cosiloon.com
-0.0.0.0 cosiloon.com
-0.0.0.0 abc.cosiloon.com
-0.0.0.0 app.storage.yunvm.com
-0.0.0.0 abd.cosiloon.com
-0.0.0.0 pull-3045.kxcdn.com
-0.0.0.0 a.tvpage.com
-0.0.0.0 api.tvpage.com
-0.0.0.0 mktg.tvpage.com
-0.0.0.0 sitecdn.tvpage.com
-0.0.0.0 www.tvpage.com
-0.0.0.0 tvpage.com
-0.0.0.0 cdnjs.tvpage.com
-0.0.0.0 videos-bleepingcomputers-com.tvpagecdn.com
-0.0.0.0 stage.tvpage.com
-0.0.0.0 appcdn.tvpage.com
-0.0.0.0 ad.wynk.in
-
-# Block ads on Hotstar streaming app by @anudeepND
-0.0.0.0 app-measurement.com
-0.0.0.0 agl.hotstar.com
-0.0.0.0 adserver.adtech.de
-0.0.0.0 segment.hotstar.com
-0.0.0.0 service.videoplaza.tv
-0.0.0.0 cdn.segment.com
-0.0.0.0 cdn.mxpnl.com
-0.0.0.0 js-agent.newrelic.com
-0.0.0.0 sb.scorecardresearch.com
-0.0.0.0 in-star.videoplaza.tv
-0.0.0.0 segment.hotstar.com
-0.0.0.0 js-agent.newrelic.com
-0.0.0.0 hotstar.worldgravity.com
-0.0.0.0 service.videoplaza.tv
-0.0.0.0 cdn.mxpnl.com
-0.0.0.0 cdn.segment.com
-0.0.0.0 ssl.widgets.webengage.com
-0.0.0.0 ap-sonar.sociomantic.com
-0.0.0.0 chuknu.sokrati.com
-0.0.0.0 tag.hockeycurve.com
-0.0.0.0 agl-intl.hotstar.com
-0.0.0.0 sqm.telemetry.microsoft.com
-0.0.0.0 vortex-win.data.microsoft.com
-0.0.0.0 adservice.google.co.in
-0.0.0.0 apiv2.moengage.com
-0.0.0.0 settings.crashlytics.com
-0.0.0.0 logs.gaana.com
-0.0.0.0 apiv3.moengage.com
-0.0.0.0 e-ssl.apsalar.com
-0.0.0.0 ase.clmbtech.com
-0.0.0.0 api.moengage.com
-0.0.0.0 udm.scorecardresearch.com
-0.0.0.0 t.appsflyer.com
-0.0.0.0 stat-c.maxthon.com
-0.0.0.0 hotstar.pubnub.net
-0.0.0.0 in-starlive.videoplaza.tv
-0.0.0.0 cdn-settings.segment.com
-0.0.0.0 decide.mixpanel.com
-0.0.0.0 reports.crashlytics.com
-0.0.0.0 api.taplytics.com
-0.0.0.0 in-starlive-preroll.videoplaza.tv
-0.0.0.0 cdn.auditude.com
-0.0.0.0 ibeat.indiatimes.com
-0.0.0.0 static.clmbtech.com
-0.0.0.0 api.branch.io
-0.0.0.0 camsoda.com
-0.0.0.0 www.camsoda.com
-0.0.0.0 msmetrics.ws.sonos.com
-0.0.0.0 betpromo247.com
-0.0.0.0 fp-analytics.hotstar.com
-0.0.0.0 hb-analytics.hotstar.com
-
-
-# Block ads on Voot streaming app @anudeepND
-0.0.0.0 in-viacom18.videoplaza.tv
-0.0.0.0 dev.appboy.com
-0.0.0.0 register.appsflyer.com
-
-# UC apps telemetry
-0.0.0.0 adn.insight.ucweb.com
-0.0.0.0 convhkmp.taboola.com
-0.0.0.0 feedback.uc.cn
-0.0.0.0 gj.applog.uc.cn
-0.0.0.0 gj.track.uc.cn
-0.0.0.0 gjtrack.ucweb.com
-0.0.0.0 imprhkmp.taboola.com
-0.0.0.0 in-gmtdmp.mookie1.com
-0.0.0.0 instory-log.ucnews.ucweb.com
-0.0.0.0 logserver.insight.ucweb.com
-0.0.0.0 click.union.ucweb.com
-0.0.0.0 sg.mmstat.com
-0.0.0.0 woodpecker.uc.cn
-
-# Emotet malware domains @anudeepND
-0.0.0.0 nikitinskysport.ru
-0.0.0.0 www.nikitinskysport.ru
-0.0.0.0 beauty-tea.com
-0.0.0.0 www.beauty-tea.com
-0.0.0.0 zekiatagur.com
-0.0.0.0 www.zekiatagur.com
-0.0.0.0 arkonziv.com
-0.0.0.0 www.arkonziv.com
-0.0.0.0 lecap-services.fr
-0.0.0.0 www.lecap-services.fr
-
-# Windows 10 'Connected User Experience' Telemetry
-# Connected User Experience and Diagnostic component endpoint for use with Windows 10, version 1803
-0.0.0.0 v10.events.data.microsoft.com
-# Connected User Experience and Diagnostic component endpoint for Windows 10, version 1709 or earlier
-0.0.0.0 v10.vortex-win.data.microsoft.com
-# Connected User Experience and Diagnostic component endpoint for operating systems older than Windows 10
-0.0.0.0 vortex-win.data.microsoft.com
-# Connected User Experience and Diagnostic component endpoint for use with Windows versions that have KB4458469 installed (Windows 10 1803 with the september 2018 update and higher)
-0.0.0.0 v10c.events.data.microsoft.com
-
-# Office 2016 'Connected User Experience' Telemetry
-# OneNote Telemetry Service
-0.0.0.0 mobile.pipe.aria.microsoft.com
-# Office Telemetry Upload Reporting – 'Heartbeart' and error events that occur on the client are uploaded to the telemetry service.
-0.0.0.0 nexus.officeapps.live.com
-# Office Rules Telemetry download – Informs the client about what data and events to upload to the telemetry service.
-0.0.0.0 nexusrules.officeapps.live.com
-# Telemetry and Reporting Service for Office apps
-0.0.0.0 telemetry.firstpartyapps.oaspapps.com
-# Telemetry Reporting
-0.0.0.0 browser.pipe.aria.microsoft.com
-
-# Spam domains
-# If your software is able, the below domains and all subdomains should be blocked
-0.0.0.0 angiemktg.com
-#*.angiemktg.com
-0.0.0.0 weconfirmyou.com
-#*.weconfirmyou.com
-0.0.0.0 cws.conviva.com
-#*.cws.conviva.com
-0.0.0.0 vrl.m.conviva.com
-0.0.0.0 zee.cws.conviva.com
-
-# These stink-up yahoo finance
-0.0.0.0 beap-bc.yahoo.com
-0.0.0.0 token.rubiconproject.com
-0.0.0.0 fc.yahoo.com
-0.0.0.0 pr-bh.ybp.yahoo.com
-
-# Error tracking and crash reporting
-0.0.0.0 rollbar.com
-0.0.0.0 www.rollbar.com
-0.0.0.0 api.rollbar.com
-
-0.0.0.0 ads.exoclick.com
-0.0.0.0 secure.exoclick.com
-0.0.0.0 syndication-evo.exoclick.com
-0.0.0.0 www.exoclick.com
-
-# ero-advertising
-0.0.0.0 0latfee.ero-advertising.com
-0.0.0.0 2baners.ero-advertising.com
-0.0.0.0 2ds.ero-advertising.com
-0.0.0.0 2fbanners.ero-advertising.com
-0.0.0.0 2fflatfee.ero-advertising.com
-0.0.0.0 2fspeedclicks.ero-advertising.com
-0.0.0.0 3ds.ero-advertising.com
-0.0.0.0 4anners.ero-advertising.com
-0.0.0.0 9ata.ero-advertising.com
-0.0.0.0 aata.ero-advertising.com
-0.0.0.0 acspaces.ero-advertising.com
-0.0.0.0 ad0.adspaces.ero-advertising.com
-0.0.0.0 ad0.api.ero-advertising.com
-0.0.0.0 ad0.banners.ero-advertising.com
-0.0.0.0 ad0.data2.ero-advertising.com
-0.0.0.0 ad1.ads.ero-advertising.com
-0.0.0.0 ad1.adspaces.ero-advertising.com
-0.0.0.0 ad1.api.ero-advertising.com
-0.0.0.0 ad1.banners.ero-advertising.com
-0.0.0.0 ad1.ero-advertising.com
-0.0.0.0 ad2.adspaces.ero-advertising.com
-0.0.0.0 ad2.api.ero-advertising.com
-0.0.0.0 ad2.banners.ero-advertising.com
-0.0.0.0 ad2.ero-advertising.com
-0.0.0.0 ad2.thumbs.ero-advertising.com
-0.0.0.0 ad3.adspaces.ero-advertising.com
-0.0.0.0 ad3.api.ero-advertising.com
-0.0.0.0 ad3.banners.ero-advertising.com
-0.0.0.0 ad3.fpa.ero-advertising.com
-0.0.0.0 ad4.adspaces.ero-advertising.com
-0.0.0.0 ad4.api.ero-advertising.com
-0.0.0.0 ad4.banners.ero-advertising.com
-0.0.0.0 ad4.layerads.ero-advertising.com
-0.0.0.0 ad4.thumbs.ero-advertising.com
-0.0.0.0 ad5.adspaces.ero-advertising.com
-0.0.0.0 ad5.banners.ero-advertising.com
-0.0.0.0 ad5.fpa.ero-advertising.com
-0.0.0.0 ad6.adspaces.ero-advertising.com
-0.0.0.0 ad6.banners.ero-advertising.com
-0.0.0.0 ad7.adspaces.ero-advertising.com
-0.0.0.0 ad7.api.ero-advertising.com
-0.0.0.0 ad7.banners.ero-advertising.com
-0.0.0.0 ad7.thumbs.ero-advertising.com
-0.0.0.0 ad8.adspaces.ero-advertising.com
-0.0.0.0 ad8.api.ero-advertising.com
-0.0.0.0 ad8.banners.ero-advertising.com
-0.0.0.0 adf.ero-advertising.com
-0.0.0.0 adfpaces.ero-advertising.com
-0.0.0.0 ads1.ero-advertising.com
-0.0.0.0 adsances.ero-advertising.com
-0.0.0.0 adspacds.ero-advertising.com
-0.0.0.0 adspaces.ero-ades.ero-advertising.com
-0.0.0.0 adspaces.ero-apaces.ero-advertising.com
-0.0.0.0 adspaces2.ero-advertising.com
-0.0.0.0 adspaes.ero-advertising.com
-0.0.0.0 adspages.ero-advertising.com
-0.0.0.0 adspcces.ero-advertising.com
-0.0.0.0 adsspaces.ero-advertising.com
-0.0.0.0 adstaces.ero-advertising.com
-0.0.0.0 adw.ero-advertising.com
-0.0.0.0 adwpaces.ero-advertising.com
-0.0.0.0 afs.ero-advertising.com
-0.0.0.0 analytics.adspaces.ero-advertising.com
-0.0.0.0 analytics.ero-advertising.com
-0.0.0.0 anners.ero-advertising.com
-0.0.0.0 ata.ero-advertising.com
-0.0.0.0 ban3ers.ero-advertising.com
-0.0.0.0 ban4ers.ero-advertising.com
-0.0.0.0 banjers.ero-advertising.com
-0.0.0.0 bann12s.ero-advertising.com
-0.0.0.0 bann13s.ero-advertising.com
-0.0.0.0 bann14s.ero-advertising.com
-0.0.0.0 bann1rs.ero-advertising.com
-0.0.0.0 banne2s.ero-advertising.com
-0.0.0.0 banne3s.ero-advertising.com
-0.0.0.0 banne4s.ero-advertising.com
-0.0.0.0 banner.ero-advertising.com
-0.0.0.0 banners1.ero-advertising.com
-0.0.0.0 bannevs.ero-advertising.com
-0.0.0.0 bavners2.ero-advertising.com
-0.0.0.0 blatfee.ero-advertising.com
-0.0.0.0 blog.adspaces.ero-advertising.com
-0.0.0.0 blog.ero-advertising.com
-0.0.0.0 blog.intext.ero-advertising.com
-0.0.0.0 btw.ero-advertising.com
-0.0.0.0 cata.ero-advertising.com
-0.0.0.0 chat.adspaces.ero-advertising.com
-0.0.0.0 chat.ero-advertising.com
-0.0.0.0 cyhners.ero-advertising.com
-0.0.0.0 daaa.ero-advertising.com
-0.0.0.0 daea.ero-advertising.com
-0.0.0.0 daia.ero-advertising.com
-0.0.0.0 dat2.ero-advertising.com
-0.0.0.0 data-ero-advertising.com
-0.0.0.0 data2.ero-advertising.com
-0.0.0.0 date.ero-advertising.com
-0.0.0.0 dats.ero-advertising.com
-0.0.0.0 datt.ero-advertising.com
-0.0.0.0 daua.ero-advertising.com
-0.0.0.0 dava.ero-advertising.com
-0.0.0.0 dawa.ero-advertising.com
-0.0.0.0 dbta.ero-advertising.com
-0.0.0.0 deta.ero-advertising.com
-0.0.0.0 dtta.ero-advertising.com
-0.0.0.0 e-hpaces.ero-advertising.com
-0.0.0.0 eedclicks.ero-advertising.com
-0.0.0.0 ers.ero-advertising.com
-0.0.0.0 es.ero-advertising.com
-0.0.0.0 fanners.ero-advertising.com
-0.0.0.0 fata.ero-advertising.com
-0.0.0.0 fhatfee.ero-advertising.com
-0.0.0.0 flashtest.ero-advertising.com
-0.0.0.0 flatdee.ero-advertising.com
-0.0.0.0 flatfae.ero-advertising.com
-0.0.0.0 flatfea.ero-advertising.com
-0.0.0.0 flatfee.ero-advertising.com
-0.0.0.0 flw.ero-advertising.com
-0.0.0.0 fnatfee.ero-advertising.com
-0.0.0.0 forum.adspaces.ero-advertising.com
-0.0.0.0 forum.ero-advertising.com
-0.0.0.0 forums.adspaces.ero-advertising.com
-0.0.0.0 forums.data2.ero-advertising.com
-0.0.0.0 forums.ero-advertising.com
-0.0.0.0 fpa.ero-advertising.com
-0.0.0.0 gata.ero-advertising.com
-0.0.0.0 hata.ero-advertising.com
-0.0.0.0 idspaces.ero-advertising.com
-0.0.0.0 imeds.ero-advertising.com
-0.0.0.0 intext.ero-advertising.com
-0.0.0.0 ioads.ero-advertising.com
-0.0.0.0 js.ads.ero-advertising.com
-0.0.0.0 kds.ero-advertising.com
-0.0.0.0 layers.ero-advertising.com
-0.0.0.0 mata.ero-advertising.com
-0.0.0.0 miami.ero-advertising.com
-0.0.0.0 mobileads.ero-advertising.com
-0.0.0.0 movieads.ero-advertising.com
-0.0.0.0 mx.ero-advertising.com
-0.0.0.0 mybb.ero-advertising.com
-0.0.0.0 nata.ero-advertising.com
-0.0.0.0 nl1.ero-advertising.com
-0.0.0.0 nl2.ero-advertising.com
-0.0.0.0 nners.ero-advertising.com
-0.0.0.0 oata.ero-advertising.com
-0.0.0.0 opads.ero-advertising.com
-0.0.0.0 pagepeel.ero-advertising.com
-0.0.0.0 pata.ero-advertising.com
-0.0.0.0 phpmyadmin.ads.ero-advertising.com
-0.0.0.0 phpmyadmin.ero-advertising.com
-0.0.0.0 phpmyadmin.js.ero-advertising.com
-0.0.0.0 piwik.adspaces.ero-advertising.com
-0.0.0.0 piwik.ero-advertising.com
-0.0.0.0 popacs.ero-advertising.com
-0.0.0.0 rata.ero-advertising.com
-0.0.0.0 redirect.ero-advertising.com
-0.0.0.0 rs.ero-advertising.com
-0.0.0.0 rs2.ero-advertising.com
-0.0.0.0 s.ero-advertising.com
-0.0.0.0 s10.hiadspaces.ero-advertising.com
-0.0.0.0 s10.hipaces.ero-advertising.com
-0.0.0.0 s10.his.ero-advertising.com
-0.0.0.0 s10.hispaces.ero-advertising.com
-0.0.0.0 s10.histas.ero-advertising.com
-0.0.0.0 s10.histats.com.ero-advertising.com
-0.0.0.0 s10paces.ero-advertising.com
-0.0.0.0 s7.adaces.ero-advertising.com
-0.0.0.0 sin.ero-advertising.com
-0.0.0.0 smtp.ero-advertising.com
-0.0.0.0 spaces.ero-advertising.com
-0.0.0.0 speed4cksa.ero-advertising.com
-0.0.0.0 speedclecks.ero-advertising.com
-0.0.0.0 speedclics.ero-advertising.com
-0.0.0.0 speedlicks.ero-advertising.com
-0.0.0.0 speeuclicks.ero-advertising.com
-0.0.0.0 stats.adspaces.ero-advertising.com
-0.0.0.0 stats.data2.ero-advertising.com
-0.0.0.0 stats.ero-advertising.com
-0.0.0.0 stats.speedclicks.ero-advertising.com
-0.0.0.0 steenbergen.web.ero-advertising.com
-0.0.0.0 tcm.optica.ero-advertising.com
-0.0.0.0 tex.ero-advertising.com
-0.0.0.0 thumb.ero-advertising.com
-0.0.0.0 thumbads.ero-advertising.com
-0.0.0.0 thumbs.xlaces.ero-advertising.com
-0.0.0.0 thumbs2.ero-advertising.com
-0.0.0.0 tiumbs.ero-advertising.com
-0.0.0.0 topads.ero-advertising.com
-0.0.0.0 tracking.ero-advertising.com
-0.0.0.0 typo3.ero-advertising.com
-0.0.0.0 umbs.ero-advertising.com
-0.0.0.0 users.ero-advertising.com
-0.0.0.0 wdata.ero-advertising.com
-0.0.0.0 webstats.adspaces.ero-advertising.com
-0.0.0.0 wiki.adspaces.ero-advertising.com
-0.0.0.0 wiki.ero-advertising.com
-0.0.0.0 wks.ero-advertising.com
-0.0.0.0 wow.ero-advertising.com
-0.0.0.0 wsw.ero-advertising.com
-0.0.0.0 wta.ero-advertising.com
-0.0.0.0 ww2.ero-advertising.com
-0.0.0.0 wwa.ero-advertising.com
-0.0.0.0 wwbanners2.ero-advertising.com
-0.0.0.0 wws.ero-advertising.com
-0.0.0.0 www.a.ero-advertising.com
-0.0.0.0 www.ads.ero-advertising.com
-0.0.0.0 www.adspaces.ero-advertising.com
-0.0.0.0 www.banners.ero-advertising.com
-0.0.0.0 www.banners2.ero-advertising.com
-0.0.0.0 www.data-ero-advertising.com
-0.0.0.0 www.ero-adverising.com.ero-advertising.com
-0.0.0.0 www.ero-advertising.com
-0.0.0.0 www.imads.ero-advertising.com
-0.0.0.0 www.movieads.ero-advertising.com
-0.0.0.0 www.popads.ero-advertising.com
-0.0.0.0 www.speedclicks.ero-advertising.com
-0.0.0.0 www.thumb.ero-advertising.com
-0.0.0.0 xn--adspace-kvg.ero-advertising.com
-0.0.0.0 zww.ero-advertising.com
-0.0.0.0 redshell.io
-0.0.0.0 api.redshell.io
-0.0.0.0 treasuredata.com
-0.0.0.0 api.treasuredata.com
-
-# FIFA 2018 scum
-0.0.0.0 supload.com
-0.0.0.0 notification-browser.tools
-0.0.0.0 sex-and-flirt.com
-0.0.0.0 rtb-adsterra.flshtrk.store
-0.0.0.0 best2017games.com
-0.0.0.0 www.bet365.com
-
-# Massive logout sites
-0.0.0.0 theannoyingsite.com
-0.0.0.0 superlogout.github.io
-
-# Other
-0.0.0.0 api.userstyles.org
-0.0.0.0 hrtya.com
-0.0.0.0 greatmacsoft.tech
-0.0.0.0 adscan.yelabapp.com
-0.0.0.0 myfreecams.com
-0.0.0.0 www.myfreecams.com
-0.0.0.0 icloud.com-locations.in
-0.0.0.0 cradver.livejasmin.com
-0.0.0.0 freeadult.games
-0.0.0.0 goooooooooogle.com
-0.0.0.0 rdi.eu.criteo.com
-0.0.0.0 ads.samsungads.com
-0.0.0.0 enabler.datalake.mediaset.it
-0.0.0.0 hbbtv.mediaset.net
-0.0.0.0 amazonco.uk # misspelling
-0.0.0.0 www.myishop.co.uk
-0.0.0.0 www2.myishop.co.uk
-0.0.0.0 ads30.adcolony.com
-
-# See Issue #844 – Windows telemetry servers – https://github.com/StevenBlack/hosts/issues/844
-0.0.0.0 alpha.telemetry.microsft.com
-0.0.0.0 eu.vortex-win.data.microsft.com
-0.0.0.0 oca.telemetry.microsft.com
-0.0.0.0 us.vortex-win.data.microsft.com
-0.0.0.0 v10-win.vortex.data.microsft.com.akadns.net
-0.0.0.0 v10.vortex-win.data.microsft.com
-
-# Grabify IP Logger
-
-0.0.0.0 grabify.link
-0.0.0.0 bmwforum.co
-0.0.0.0 leancoding.co
-0.0.0.0 spottyfly.com
-0.0.0.0 stopify.co
-0.0.0.0 xn--yotu-1ra.be
-0.0.0.0 xn--discrd-zxa.com
-0.0.0.0 xn--srahah-bua.eu
-0.0.0.0 xn--minecrft-5za.com
-0.0.0.0 freegiftcards.co
-0.0.0.0 xn--disordapp-s3a.com
-0.0.0.0 xn--srahah-bua.pl
-0.0.0.0 xda-developers.us
-0.0.0.0 quickmessage.us
-0.0.0.0 fortnight.space
-0.0.0.0 fortnitechat.site
-0.0.0.0 youshouldclick.us
-0.0.0.0 joinmy.site
-0.0.0.0 watches-my.stream
-0.0.0.0 www.apple.com-fasting.live
-0.0.0.0 apple.com-fasting.live
-0.0.0.0 com-fasting.live
-
-# IP Logger
-
-0.0.0.0 iplogger.org
-0.0.0.0 2no.co
-0.0.0.0 iplogger.com
-0.0.0.0 iplogger.ru
-0.0.0.0 yip.su
-
-0.0.0.0 parentelement.tk
-
-#=====================================
+0latfee.ero-advertising.com
+1493361689.rsc.cdn77.org
+15.taboola.com
+2468.go2cloud.org
+284419414.log.optimizely.com
+2baners.ero-advertising.com
+2ds.ero-advertising.com
+2fbanners.ero-advertising.com
+2fflatfee.ero-advertising.com
+2fspeedclicks.ero-advertising.com
+2no.co
+30-day-change.com
+3ds.ero-advertising.com
+4436230.fls.doubleclick.net
+4448269.fls.doubleclick.net
+4anners.ero-advertising.com
+9ata.ero-advertising.com
+a.stat.xiaomi.com
+a.tvpage.com
+aata.ero-advertising.com
+abc.cosiloon.com
+abclipper-ui1.alphonso.tv
+abd.cosiloon.com
+abtest.mistat.intl.xiaomi.com
+abtest.mistat.xiaomi.com
+acr10.alphonso.tv
+acr11.alphonso.tv
+acr12.alphonso.tv
+acr13.alphonso.tv
+acr14.alphonso.tv
+acr15.alphonso.tv
+acr16.alphonso.tv
+acr17.alphonso.tv
+acr18.alphonso.tv
+acr19.alphonso.tv
+acr2.alphonso.tv
+acr20.alphonso.tv
+acr21.alphonso.tv
+acr22.alphonso.tv
+acr23.alphonso.tv
+acr25.alphonso.tv
+acr26.alphonso.tv
+acr27.alphonso.tv
+acr28.alphonso.tv
+acr29.alphonso.tv
+acr3.alphonso.tv
+acr30.alphonso.tv
+acr31.alphonso.tv
+acr32.alphonso.tv
+acr33.alphonso.tv
+acr34.alphonso.tv
+acr35.alphonso.tv
+acr36.alphonso.tv
+acr37.alphonso.tv
+acr39.alphonso.tv
+acr4.alphonso.tv
+acr40.alphonso.tv
+acr41.alphonso.tv
+acr42.alphonso.tv
+acr43.alphonso.tv
+acr44.alphonso.tv
+acr45.alphonso.tv
+acr46.alphonso.tv
+acr47.alphonso.tv
+acr49.alphonso.tv
+acr5.alphonso.tv
+acr51.alphonso.tv
+acr52.alphonso.tv
+acr53.alphonso.tv
+acr54.alphonso.tv
+acr55.alphonso.tv
+acr56.alphonso.tv
+acr58.alphonso.tv
+acr59.alphonso.tv
+acr6.alphonso.tv
+acr7.alphonso.tv
+acr8.alphonso.tv
+acr9.alphonso.tv
+acrdb.alphonso.tv
+acspaces.ero-advertising.com
+ad.360in.com
+ad.adapter.kaffnet.com
+ad.api.kaffnet.com
+ad.apsalar.com
+ad.click.kaffnet.com
+ad.wynk.in
+ad0.adspaces.ero-advertising.com
+ad0.api.ero-advertising.com
+ad0.banners.ero-advertising.com
+ad0.data2.ero-advertising.com
+ad1.ads.ero-advertising.com
+ad1.adspaces.ero-advertising.com
+ad1.api.ero-advertising.com
+ad1.banners.ero-advertising.com
+ad1.ero-advertising.com
+ad2.adspaces.ero-advertising.com
+ad2.api.ero-advertising.com
+ad2.banners.ero-advertising.com
+ad2.ero-advertising.com
+ad2.thumbs.ero-advertising.com
+ad3.adspaces.ero-advertising.com
+ad3.api.ero-advertising.com
+ad3.banners.ero-advertising.com
+ad3.fpa.ero-advertising.com
+ad4.adspaces.ero-advertising.com
+ad4.api.ero-advertising.com
+ad4.banners.ero-advertising.com
+ad4.layerads.ero-advertising.com
+ad4.thumbs.ero-advertising.com
+ad5.adspaces.ero-advertising.com
+ad5.banners.ero-advertising.com
+ad5.fpa.ero-advertising.com
+ad6.adspaces.ero-advertising.com
+ad6.banners.ero-advertising.com
+ad7.adspaces.ero-advertising.com
+ad7.api.ero-advertising.com
+ad7.banners.ero-advertising.com
+ad7.thumbs.ero-advertising.com
+ad8.adspaces.ero-advertising.com
+ad8.api.ero-advertising.com
+ad8.banners.ero-advertising.com
+adf.ero-advertising.com
+adfpaces.ero-advertising.com
+adn.insight.ucweb.com
+ads.adtekmedia.com
+ads.aerserv.com
+ads.alphonso.tv
+ads.chacomedia.com
+ads.exoclick.com
+ads.feedly.com
+ads.grandonmedia.com
+ads.mp.mydas.mobi
+ads.nexage.com
+ads.proc.cc
+ads.samsungads.com
+ads1.ero-advertising.com
+ads2.servebom.com
+ads30.adcolony.com
+ads5.truecaller.com
+adsances.ero-advertising.com
+adscan.yelabapp.com
+adserver.adtech.de
+adserver.ministryofads.com
+adservice.google.co.in
+adservice.google.nl
+adsflame.com
+adsmws.cloudapp.net
+adspacds.ero-advertising.com
+adspaces.ero-ades.ero-advertising.com
+adspaces.ero-apaces.ero-advertising.com
+adspaces2.ero-advertising.com
+adspaes.ero-advertising.com
+adspages.ero-advertising.com
+adspcces.ero-advertising.com
+adsspaces.ero-advertising.com
+adstaces.ero-advertising.com
+adtekmedia.com
+adv.axiatraders.com
+adv.grandonmedia.com
+adv.sec.intl.miui.com
+adw.ero-advertising.com
+adwpaces.ero-advertising.com
+adzerk.com
+ae.gsecondscreen.com
+afs.ero-advertising.com
+agl-intl.hotstar.com
+agl.hotstar.com
+alliance4media.com
+alog.umeng.co
+alog.umeng.com
+alog.umengcloud.com
+alpha.telemetry.microsft.com
+amarktflow.com
+amazonco.uk
+ampmetrics.engadget.com
+ampmetrics.techcrunch.com
+an.batmobi.net
+analysis.polarisoffice.com
+analytics-digit-in.cdn.ampproject.org
+analytics-production.hapyak.com
+analytics-static.ugc.bazaarvoice.com
+analytics.247sports.com
+analytics.adspaces.ero-advertising.com
+analytics.archive.org
+analytics.bitrix.info
+analytics.cloudron.io
+analytics.colacoweb.net
+analytics.digit.in
+analytics.ero-advertising.com
+analytics.ff.avast.com
+analytics.htmedia.in
+analytics.icons8.com
+analytics.jabong.com
+analytics.lk.api.ditto.com
+analytics.logsss.com
+analytics.mailmunch.co
+analytics.mopub.com
+analytics.myfinance.com
+analytics.mytvzion.pro
+analytics.phando.com
+analytics.picsart.com
+analytics.pokki.com
+analytics.poolshool.com
+analytics.posttv.com
+analytics.publitas.com
+analytics.rayjump.com
+analytics.samdd.me
+analytics.siliconexpert.com
+analytics.swiggy.com
+analytics.thevideo.me
+analyticsapi.bsbportal.com
+anayltics.kuikr.com
+androidads23.adcolony.com
+angiemktg.com
+anners.ero-advertising.com
+annualconsumersurvey.com
+aoredi.com
+ap-sonar.sociomantic.com
+api.ad.intl.xiaomi.com
+api.ad.snappea.com
+api.ad.xiaomi.com
+api.admob.xiaomi.com
+api.alphonso.tv
+api.axiatraders.com
+api.b2c.com
+api.branch.io
+api.brs.intl.miui.com
+api.c.avazunativeads.com
+api.cloudmobi.net
+api.collect.data.intl.miui.com
+api.d.xiaomi.com
+api.eqmob.com
+api.grandonmedia.com
+api.hybrid.intl.xiaomi.com
+api.moengage.com
+api.oneaudience.com
+api.pubnative.net
+api.quantumgraph.com
+api.redshell.io
+api.rollbar.com
+api.sec.intl.miui.com
+api.setting.intl.miui.com
+api.stats.appa.pe
+api.taplytics.com
+api.treasuredata.com
+api.tvpage.com
+api.userstyles.org
+api5.batmobil.net
+apiv2.moengage.com
+apiv3.moengage.com
+app-measurement.com
+app.adjust.com
+app.storage.yunvm.com
+appcdn.tvpage.com
+apple.com-fasting.live
+apple.com-notice.info
+applog.camera360.com
+applog.uc.cn
+apps.id.net
+apps3.cointraffic.io
+arkonziv.com
+asap.sharethrough.com
+ase.clmbtech.com
+assets.alphonso.tv
+ata.ero-advertising.com
+authbe.sec.intl.miui.com
+bacr.com.pk
+bale.alphonso.tv
+ban3ers.ero-advertising.com
+ban4ers.ero-advertising.com
+banjers.ero-advertising.com
+bann12s.ero-advertising.com
+bann13s.ero-advertising.com
+bann14s.ero-advertising.com
+bann1rs.ero-advertising.com
+banne2s.ero-advertising.com
+banne3s.ero-advertising.com
+banne4s.ero-advertising.com
+banner.ero-advertising.com
+banners.mediaparade.net
+banners1.ero-advertising.com
+bannevs.ero-advertising.com
+batchlogging4.truecaller.com
+bavners2.ero-advertising.com
+beacon.statful.com
+beap-bc.yahoo.com
+beauty-tea.com
+bebe.alphonso.tv
+beckham.alphonso.tv
+best.alphonso.tv
+best2017games.com
+betpromo247.com
+bi-collector.oneapm.com
+bid.axiatraders.com
+bid.grandonmedia.com
+bidgear.com
+bigsharkmedia.com
+blatfee.ero-advertising.com
+blog.adspaces.ero-advertising.com
+blog.alphonso.tv
+blog.ero-advertising.com
+blog.intext.ero-advertising.com
+blog.roboinside.me
+bmwforum.co
+breaksurvey.com
+browser.pipe.aria.microsoft.com
+btds.artplay.info
+btw.ero-advertising.com
+buzzclicks.com
+bwlkup.alphonso.tv
+c.adskeeper.co.uk
+c.webengage.com
+c2i-cdn.startappnetwork.com
+camsoda.com
+canuck-method.com
+cata.ero-advertising.com
+cc.sys.intl.xiaomi.com
+cc.sys.miui.com
+ccc.sys.intl.xiaomi.com
+ccc.sys.miui.com
+cdn-jp.gsecondscreen.com
+cdn-settings.segment.com
+cdn.ad.xiaomi.com
+cdn.auditude.com
+cdn.beginads.com
+cdn.bitmedianetwork.com
+cdn.moengage.com
+cdn.mxpnl.com
+cdn.segment.com
+cdn.tsyndicate.com
+cdn.zarget.com
+cdn5.userzoom.com
+cdnjs.tvpage.com
+ceromobi.club
+chat.adspaces.ero-advertising.com
+chat.ero-advertising.com
+chuknu.sokrati.com
+click-rtb-useast.kobenetwork.com
+click.axiatraders.com
+click.elixmedia.com
+click.enatimedia.com
+click.grandonmedia.com
+click.union.ucweb.com
+clickopon.com
+clickrtb-useast.kobenetwork.com
+client-analytics.braintreegateway.com
+clockskew.alphonso.tv
+com-fasting.live
+com-notice.info
+consumerproductsusa.com
+convhkmp.taboola.com
+convlatbmp.taboola.com
+cosiloon.com
+cradver.livejasmin.com
+cruyff.alphonso.tv
+cvent.axiatraders.com
+cws.conviva.com
+cyhners.ero-advertising.com
+d-and-h.com
+d.applovin.com
+daaa.ero-advertising.com
+daea.ero-advertising.com
+daia.ero-advertising.com
+darkpage.win
+dasdada.fu.ck
+dashboards.alphonso.tv
+dat2.ero-advertising.com
+data-ero-advertising.com
+data.cnn.com
+data.mistat.intl.xiaomi.com
+data.mistat.xiaomi.com
+data.sec.intl.miui.com
+data2.ero-advertising.com
+datacollect.vmall.com
+date.ero-advertising.com
+dats.ero-advertising.com
+datt.ero-advertising.com
+daua.ero-advertising.com
+dava.ero-advertising.com
+dawa.ero-advertising.com
+dbta.ero-advertising.com
+decide.mixpanel.com
+degea.alphonso.tv
+dembele.alphonso.tv
+demo.alphonso.tv
+deshmedia.com
+deta.ero-advertising.com
+dev.appboy.com
+device-api.urbanairship.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+dimaria.alphonso.tv
+dobre-programy.pl
+dobre-programy.xyz
+dobreprogramy.pro
+donovan.alphonso.tv
+dsp.face2trade.com
+dts.startappservice.com
+dtta.ero-advertising.com
+e-hpaces.ero-advertising.com
+e-ssl.apsalar.com
+e.ad.xiaomi.com
+ecommerce.roboinside.me
+eedclicks.ero-advertising.com
+elixmedia.com
+embed.sendtonews.com
+enabler.datalake.mediaset.it
+enatimedia.com
+engine.bitmedianetwork.com
+ers.ero-advertising.com
+es.ero-advertising.com
+eu.vortex-win.data.microsft.com
+event.ksosoft.com
+events.appsflyer.com
+events.redditmedia.com
+events.startappservice.com
+events3.adcolony.com
+exchange.face2trade.com
+ext.privacyassistant.net
+external.stealthedeal.com
+fanners.ero-advertising.com
+fata.ero-advertising.com
+fc.yahoo.com
+fcanr.tracking.miui.com
+feedback.adrecover.com
+feedback.uc.cn
+fgoogle.com
+fhatfee.ero-advertising.com
+files.ctnet4.space
+flash.sec.intl.miui.com
+flashtest.ero-advertising.com
+flatdee.ero-advertising.com
+flatfae.ero-advertising.com
+flatfea.ero-advertising.com
+flatfee.ero-advertising.com
+flw.ero-advertising.com
+fnatfee.ero-advertising.com
+fortnight.space
+fortnitechat.site
+forum.adspaces.ero-advertising.com
+forum.ero-advertising.com
+forums.adspaces.ero-advertising.com
+forums.data2.ero-advertising.com
+forums.ero-advertising.com
+fp-analytics.hotstar.com
+fpa.ero-advertising.com
+freeadult.games
+freegiftcards.co
+gamblerush.com
+gata.ero-advertising.com
+geofence.sys.miui.com
+gj.applog.uc.cn
+gj.track.uc.cn
+gjapplog.uc.cn
+gjtrack.ucweb.com
+globalapi.ad.xiaomi.com
+go.ad1data.com
+goodblock.gladly.io
+goooooooooogle.com
+grabify.link
+grandonmedia.com
+graph.accountkit.com
+greatmacsoft.tech
+gtsdk.batmobi.net
+gum.criteo.com
+gurgle.zdbb.net
+h-sdk.online-metrix.net
+hata.ero-advertising.com
+hb-analytics.hotstar.com
+hbbtv.mediaset.net
+honolulu.alphonso.tv
+hosted.stats.com
+hosted.stats.com.edgesuite.net
+hotstar.pubnub.net
+hotstar.worldgravity.com
+howupdateworks.amazingupdates4youtoday.website
+hrtya.com
+i1.dl-ad.com
+ibeat.indiatimes.com
+icloud.com-locations.in
+idspaces.ero-advertising.com
+imeds.ero-advertising.com
+imp.startappservice.com
+imprhkmp.taboola.com
+imprlatbmp.taboola.com
+imysurvey.com
+in-gmtdmp.mookie1.com
+in-star.videoplaza.tv
+in-starlive-preroll.videoplaza.tv
+in-starlive.videoplaza.tv
+in-viacom18.videoplaza.tv
+in8.zog.link
+indiaonclick.com
+init.startappservice.com
+insight.ucweb.com
+insights.alphonso.tv
+instory-log.ucnews.ucweb.com
+intext.ero-advertising.com
+ioads.ero-advertising.com
+iplogger.com
+iplogger.org
+iplogger.ru
+jackbootedroom.com
+jira.face2trade.com
+joinmy.site
+js-agent.newrelic.com
+js.ads.ero-advertising.com
+js34dc10.gamooga.com
+k5market.com
+kds.ero-advertising.com
+koudas.alphonso.tv
+kuikdelivery.com
+kushat.roboinside.me
+l-v1.presage.io
+l2.visiblemeasures.com
+largeloot.com
+layers.ero-advertising.com
+lead.soperson.com
+leancoding.co
+lecap-services.fr
+letitbefaster.website
+log.apk.v-mate.mobi
+log.getdropbox.com
+log.snapdeal.com
+logger.cloudmobi.net
+login.dotomi.com
+login.dotomi.net
+logitechlogitechglobal.112.2o7.net
+logs.gaana.com
+logserver.insight.ucweb.com
+logx.optimizely.com
+ma1310-r.analytics.edgekey.net
+ma312-r.analytics.edgesuite.net
+mackeeperapp.zeobit.com
+mads.at.atwola.com
+mahrez.alphonso.tv
+manifest.localytics.com
+mata.ero-advertising.com
+match.taboola.com
+matchmyip.com
+media.complex.com
+mediabarterexchange.com
+mediadirectx.com
+mediaparade.net
+metrics.adage.com
+metrics.brightcove.com
+miami.ero-advertising.com
+mktg.tvpage.com
+mobile.pipe.aria.microsoft.com
+mobileads.ero-advertising.com
+montrealgazette.stats.com
+movieads.ero-advertising.com
+msmetrics.ws.sonos.com
+mt.rtmark.net
+mx.ero-advertising.com
+my.rtmark.net
+mybb.ero-advertising.com
+myfreecams.com
+mysterysnooper.com
+mywot.com
+mywot.net
+nata.ero-advertising.com
+nativesdks.mparticle.com
+new.api.ad.xiaomi.com
+newlimitedoffer.com
+nexus.ensighten.com
+nexus.officeapps.live.com
+nexusrules.officeapps.live.com
+neymar.alphonso.tv
+nikitinskysport.ru
+nl1.ero-advertising.com
+nl2.ero-advertising.com
+nners.ero-advertising.com
+notification-browser.tools
+ns.zdbb.net
+oata.ero-advertising.com
+oca.telemetry.microsft.com
+onlineapi.youappi.com
+onlineusagesurveys.com
+opads.ero-advertising.com
+open.oneplus.net
+opps.taboola.com
+optout.alphonso.tv
+orion.iad.appboy.com
+oscar.alphonso.tv
+ovc2-ustokyyneikyfasnm.stackpathdns.com
+oz.ministryofads.com
+ozil.alphonso.tv
+pagepeel.ero-advertising.com
+pakistanelevators.pk
+parentelement.tk
+pata.ero-advertising.com
+pele.alphonso.tv
+perf.mmstat.com
+performanceadexchange.com
+phpmyadmin.ads.ero-advertising.com
+phpmyadmin.ero-advertising.com
+phpmyadmin.js.ero-advertising.com
+ping.chartbeat.net
+piwik.adspaces.ero-advertising.com
+piwik.ero-advertising.com
+pixel.nc0.co
+pixel.onaudience.com
+pixel.realclever.com
+pl-v2.presage.io
+plaimedia.com
+platform.bidgear.com
+ploy.batmobi.net
+popacs.ero-advertising.com
+postmediamontrealgazette2.files.wordpress.com
+powertradeprofit.com
+pp.alphonso.tv
+ppjs.alphonso.tv
+pr-bh.ybp.yahoo.com
+prebid.adnxs.com
+privacyassistant.net
+profile.localytics.com
+promo.buzzclicks.com
+promo.enatimedia.com
+promo.kobenetwork.com
+promotion.com-rewards.club
+promotions.yourfirstmillion.biz
+prov.alphonso.tv
+proxy.alphonso.tv
+ptrack.betaout.com
+pub.axiatraders.com
+pub.grandonmedia.com
+publisherhub.plaimedia.com
+pull-3045.kxcdn.com
+pushedwebnews.com
+pussysaga.com
+quark.plaimedia.com
+quickcash-system.com
+quickmessage.us
+rata.ero-advertising.com
+rdi.eu.criteo.com
+realestate2.deshmedia.com
+redirect.ero-advertising.com
+redshell.io
+register.appsflyer.com
+reports.crashlytics.com
+req.startappservice.com
+rereddit.com
+roboinside.me
+rollbar.com
+rotator.axiatraders.com
+rotator.beginads.com
+rotator.buzzclicks.com
+rs.ero-advertising.com
+rs2.ero-advertising.com
+rt.applovin.com
+rtb-adsterra.flshtrk.store
+rtb-useast.kobenetwork.com
+rtbdev4.alphonso.tv
+rtblbtr.alphonso.tv
+rules.quantcount.com
+s.ero-advertising.com
+s.zkcdn.net
+s10.hiadspaces.ero-advertising.com
+s10.hipaces.ero-advertising.com
+s10.his.ero-advertising.com
+s10.hispaces.ero-advertising.com
+s10.histas.ero-advertising.com
+s10.histats.com.ero-advertising.com
+s10paces.ero-advertising.com
+s4udash2.alphonso.tv
+s7.adaces.ero-advertising.com
+save-your-pc.info
+sb.scorecardresearch.com
+sdk.adincube.com
+sdkconfig.ad.intl.xiaomi.com
+sdkconfig.ad.xiaomi.com
+sdklogs.avocarrot.com
+sdktm.w.inmobi.com
+sdkupgrade.insight.ucweb.com
+sebder.roboinside.me
+secure.exoclick.com
+securemetrics.apple.com
+security-check-551.com
+segment.hotstar.com
+service.face2trade.com
+service.videoplaza.tv
+settings.crashlytics.com
+sex-and-flirt.com
+sf-3.east.kobenetwork.com
+sf-3.st.adtekmedia.com
+sf3.east.kobenetwork.com
+sg.mmstat.com
+sgp.o2o.api.xiaomi.com
+silva.alphonso.tv
+sin.ero-advertising.com
+sionicmedia.com
+sitecdn.tvpage.com
+sixstitch.win
+smetrics.bestbuy.com
+smtp.ero-advertising.com
+socrates.alphonso.tv
+soperson.com
+spaces.ero-advertising.com
+specialsections.siteseer.ca
+speed4cksa.ero-advertising.com
+speedclecks.ero-advertising.com
+speedclics.ero-advertising.com
+speedlicks.ero-advertising.com
+speeuclicks.ero-advertising.com
+spiegel-de.spiegel.de
+sportsinteraction.com
+spottyfly.com
+sqm.telemetry.microsoft.com
+srv.pixel.parsely.com
+ssl.widgets.webengage.com
+ssp.ad.xiaomi.com
+ssp.face2trade.com
+sstats.adobe.com
+stage.tvpage.com
+stat-c.maxthon.com
+static.clmbtech.com
+static.elixmedia.com
+static.youappi.com
+stats.adspaces.ero-advertising.com
+stats.bidgear.com
+stats.data2.ero-advertising.com
+stats.ero-advertising.com
+stats.jpush.cn
+stats.speedclicks.ero-advertising.com
+stats.wp.com
+stealthedeal.com
+steenbergen.web.ero-advertising.com
+sterling.alphonso.tv
+stopify.co
+storeconfig.mistat.intl.xiaomi.com
+superlogout.github.io
+supload.com
+support.apple.com-notice.info
+syndication-evo.exoclick.com
+t.appsflyer.com
+t.newlimitedoffer.com
+taboola-d.openx.net
+tag.hockeycurve.com
+tags.news.com.au
+talk99.cn
+tcm.optica.ero-advertising.com
+telecommand.telemetry.microsoft.com
+telemetry.firstpartyapps.oaspapps.com
+telemetry.layer.com
+test.ad.xiaomi.com
+test.e.ad.xiaomi.com
+test.new.api.ad.xiaomi.com
+tex.ero-advertising.com
+theannoyingsite.com
+thumb.ero-advertising.com
+thumbads.ero-advertising.com
+thumbs.xlaces.ero-advertising.com
+thumbs2.ero-advertising.com
+tiumbs.ero-advertising.com
+tn.alphonso.tv
+token.rubiconproject.com
+topads.ero-advertising.com
+torrenty-org.pl
+tr.alphonso.tv
+track.adtrue.com
+track.tenjin.io
+tracker.clickopon.com
+tracking-thirdparty.i2w.io
+tracking.beginads.com
+tracking.ero-advertising.com
+tracking.i2w.io
+tracking.intl.miui.com
+tracking.lenzmx.com
+tracking.miui.com
+tradersbrokers.com
+trafforsrv.com
+treasuredata.com
+tripan.me
+ttwitter.com
+tvads.alphonso.tv
+tvmds.tvpassport.com
+tvpage.com
+twitter.cm
+typo3.ero-advertising.com
+udm.scorecardresearch.com
+umbs.ero-advertising.com
+unconf.adkmob.com
+uop.umeng.com
+urldelivery.com
+us-east1.serve.elixmedia.com
+us-east1.serve.enatimedia.com
+us.vortex-win.data.microsft.com
+users.ero-advertising.com
+users.quantumgraph.com
+ustat.batmobi.net
+v10-win.vortex.data.microsft.com.akadns.net
+v10.events.data.microsoft.com
+v10.vortex-win.data.microsft.com
+v10.vortex-win.data.microsoft.com
+v10c.events.data.microsoft.com
+vamsoupowoa.com
+vanpersie.alphonso.tv
+vdtrack.com
+videoplayer.vice.technology
+videos-bleepingcomputers-com.tvpagecdn.com
+vidutils.taboola.com
+villa.alphonso.tv
+virtual.thewhig.com
+vortex-win.data.microsoft.com
+vrl.m.conviva.com
+watches-my.stream
+watson.telemetry.microsoft.com
+wc-tracking.lavasoft.com
+wdata.ero-advertising.com
+web.vortex.data.microsoft.com
+web2.alphonso.tv
+webstats.adspaces.ero-advertising.com
+weconfirmyou.com
+wf.taboola.com
+wiki.adspaces.ero-advertising.com
+wiki.ero-advertising.com
+wks.ero-advertising.com
+woodpecker.uc.cn
+wow.ero-advertising.com
+wsdk-files.webengage.com
+wsw.ero-advertising.com
+wta.ero-advertising.com
+ww2.ero-advertising.com
+wwa.ero-advertising.com
+wwbanners2.ero-advertising.com
+wws.ero-advertising.com
+www.a.ero-advertising.com
+www.ads.ero-advertising.com
+www.ads2live.com
+www.adserver.ministryofads.com
+www.adsflame.com
+www.adspaces.ero-advertising.com
+www.adtekmedia.com
+www.alliance4media.com
+www.alphonso.tv
+www.aoredi.com
+www.api.ad.intl.xiaomi.com
+www.api.alphonso.tv
+www.apple.com-fasting.live
+www.apple.com-notice.info
+www.arkonziv.com
+www.axiatraders.com
+www.banners.ero-advertising.com
+www.banners.mediaparade.net
+www.banners2.ero-advertising.com
+www.beauty-tea.com
+www.beginads.com
+www.bet365.com
+www.bidgear.com
+www.bigsharkmedia.com
+www.btds.artplay.info
+www.buzzclicks.com
+www.camsoda.com
+www.canuck-method.com
+www.chacomedia.com
+www.click.elixmedia.com
+www.clickopon.com
+www.com-notice.info
+www.cosiloon.com
+www.cpm20.com
+www.data-ero-advertising.com
+www.deshmedia.com
+www.diptanuinfo.co.cc
+www.dobre-programy.pl
+www.elixmedia.com
+www.enatimedia.com
+www.ero-adverising.com.ero-advertising.com
+www.ero-advertising.com
+www.exoclick.com
+www.face2trade.com
+www.gamblerush.com
+www.googletagmanager.com
+www.googletagservices.com
+www.grandonmedia.com
+www.hitcpm.com
+www.imads.ero-advertising.com
+www.imysurvey.com
+www.indiaonclick.com
+www.k5market.com
+www.lecap-services.fr
+www.mediabarterexchange.com
+www.mediadirectx.com
+www.mediaparade.net
+www.ministryofads.com
+www.movieads.ero-advertising.com
+www.myfreecams.com
+www.myishop.co.uk
+www.mywot.com
+www.mywot.net
+www.nikitinskysport.ru
+www.performanceadexchange.com
+www.plaimedia.com
+www.popads.ero-advertising.com
+www.powertradeprofit.com
+www.pussysaga.com
+www.quickcash-system.com
+www.roboinside.me
+www.rollbar.com
+www.rotator.buzzclicks.com
+www.security-check-551.com
+www.sf-3.st.adtekmedia.com
+www.sionicmedia.com
+www.soperson.com
+www.speedclicks.ero-advertising.com
+www.sportsinteraction.com
+www.static.elixmedia.com
+www.support.apple.com-notice.info
+www.talk99.cn
+www.thumb.ero-advertising.com
+www.torrenty-org.pl
+www.tradersbrokers.com
+www.tvpage.com
+www.tvpassport.com
+www.urldelivery.com
+www.us-east1.serve.elixmedia.com
+www.vdtrack.com
+www.www.cpm20.com
+www.wzrkt.com
+www.zekiatagur.com
+www2.myishop.co.uk
+wzrkt.com
+xda-developers.us
+xml.plaimedia.com
+xn--adspace-kvg.ero-advertising.com
+xn--discrd-zxa.com
+xn--disordapp-s3a.com
+xn--minecrft-5za.com
+xn--srahah-bua.eu
+xn--srahah-bua.pl
+xn--yotu-1ra.be
+yashin.alphonso.tv
+yip.su
+youshouldclick.us
+yun-static.soperson.com
+zamora.axiatraders.com
+zarget.com
+zee.cws.conviva.com
+zekiatagur.com
+zeus.ad.intl.xiaomi.com
+zeus.ad.xiaomi.com
+zico.alphonso.tv
+zww.ero-advertising.com

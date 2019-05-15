@@ -1,645 +1,635 @@
-# Contribute: https://gitlab.com/ZeroDot1/CoinBlockerLists/issues/new
-# Copyright: (c) ZeroDot1, 2019
-# Description: This list disables browser based miners such as coin-hive
-# Donate: http://bit.ly/CBLDonate Every donation keeps the future development going. Thank you.
-# Homepage: https://github.com/ZeroDot1/CoinBlockerLists
-# Last modified: 2019-04-26 08:15
-# License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
-# [CoinBlocker hosts List optional by ZeroDot1]
-0.0.0.0 0x.mycrypto.com
-0.0.0.0 1safe.link
-0.0.0.0 803mine.com
-0.0.0.0 a-ads.com
-0.0.0.0 about.mycrypto.com
-0.0.0.0 academy.bithumb.com
-0.0.0.0 acceptable.a-ads.com
-0.0.0.0 ad.a-ads.com
-0.0.0.0 ad.s.a-ads.com
-0.0.0.0 ad001.a-ads.com
-0.0.0.0 ad004.a-ads.com
-0.0.0.0 ad005.a-ads.com
-0.0.0.0 ad007.a-ads.com
-0.0.0.0 ad008.a-ads.com
-0.0.0.0 ad009.a-ads.com
-0.0.0.0 ad011.a-ads.com
-0.0.0.0 ad012.a-ads.com
-0.0.0.0 ad013.a-ads.com
-0.0.0.0 ad014.a-ads.com
-0.0.0.0 ad015.a-ads.com
-0.0.0.0 ad032.a-ads.com
-0.0.0.0 ad201.a-ads.com
-0.0.0.0 ad203.a-ads.com
-0.0.0.0 ad210.a-ads.com
-0.0.0.0 ad212.a-ads.com
-0.0.0.0 ad213.a-ads.com
-0.0.0.0 ad216.a-ads.com
-0.0.0.0 ad217.a-ads.com
-0.0.0.0 ad218.a-ads.com
-0.0.0.0 ad222.a-ads.com
-0.0.0.0 ad224.a-ads.com
-0.0.0.0 ad225.a-ads.com
-0.0.0.0 ad226.a-ads.com
-0.0.0.0 ad228.a-ads.com
-0.0.0.0 ad302.a-ads.com
-0.0.0.0 adc.cryptopia.co.nz
-0.0.0.0 adconity.com
-0.0.0.0 admin.adconity.com
-0.0.0.0 admin.coinmama.com
-0.0.0.0 affiliates.coinmama.com
-0.0.0.0 aimenterprise.blog21.fc2.com cdn1.cryptopia.co.nz
-0.0.0.0 alpha.cryptopia.co.nz
-0.0.0.0 alpha.myetherwallet.com
-0.0.0.0 antminer-store.com
-0.0.0.0 api.coinmama.com
-0.0.0.0 api.binance.com
-0.0.0.0 api.bitfinex.com
-0.0.0.0 api.bithumb.com
-0.0.0.0 api.btcturk.com
-0.0.0.0 api.coinmama.com
-0.0.0.0 api.cryptoguiminer.com
-0.0.0.0 api.cryptopia.co.nz
-0.0.0.0 api.inwemo.com
-0.0.0.0 api.jaxx.io
-0.0.0.0 api.ledgerwallet.com
-0.0.0.0 api.mycrypto.com
-0.0.0.0 api.mymonero.com
-0.0.0.0 api.quadrigacx.com
-0.0.0.0 api01.ledgerwallet.com
-0.0.0.0 api02.ledgerwallet.com
-0.0.0.0 api1.bithumb.com
-0.0.0.0 api2.bitfinex.com
-0.0.0.0 api2.jaxx.io
-0.0.0.0 apidocs.bithumb.com
-0.0.0.0 apidocs.m.bithumb.com
-0.0.0.0 app.bixin.im
-0.0.0.0 app0.a-ads.com
-0.0.0.0 apps.cointraffic.io
-0.0.0.0 apps.ledgerwallet.com
-0.0.0.0 apps2.cointraffic.io
-0.0.0.0 artus-mining.de
-0.0.0.0 assets.coinmama.com
-0.0.0.0 autoconfig.bitcoin-doubler.us
-0.0.0.0 autodiscover.btc-alpha.com
-0.0.0.0 autodiscover.cryptopia.co.nz
-0.0.0.0 autodiscover.uclick.in
-0.0.0.0 awesomeminer.com
-0.0.0.0 aws.simplemining.net
-0.0.0.0 babyalex.coinmama.com
-0.0.0.0 basicdemo.emercoin.com
-0.0.0.0 bch-bitcore2.trezor.io
-0.0.0.0 beta-wallet.trezor.io
-0.0.0.0 beta.bitfinex.com
-0.0.0.0 beta.mycrypto.com
-0.0.0.0 beta.simplemining.net
-0.0.0.0 bfgminer.org
-0.0.0.0 binance.com
-0.0.0.0 bit.cur.lv
-0.0.0.0 bitcoin-doubler.us
-0.0.0.0 bitcoin.org
-0.0.0.0 bitcoinminers.eu
-0.0.0.0 bitcore1.trezor.io
-0.0.0.0 bitcore3.trezor.io
-0.0.0.0 bitfinex.com
-0.0.0.0 bithumb.com
-0.0.0.0 bixin.im
-0.0.0.0 blocked.mymonero.com
-0.0.0.0 blog.a-ads.com
-0.0.0.0 blog.cryptopia.co.nz
-0.0.0.0 blog.jaxx.io
-0.0.0.0 blog.trezor.io
-0.0.0.0 bng.btc-alpha.com
-0.0.0.0 btc-alpha.com
-0.0.0.0 btc-bitcore1.trezor.io
-0.0.0.0 btc-bitcore3.trezor.io
-0.0.0.0 btc-smtp.bithumb.com
-0.0.0.0 btc.a-ads.com
-0.0.0.0 btcturk.com
-0.0.0.0 bullet.simplemining.net
-0.0.0.0 buy.mycrypto.com
-0.0.0.0 calendar.coinmama.com
-0.0.0.0 careers.coinmama.com
-0.0.0.0 cdn.inwemo.com
-0.0.0.0 cdn1.cryptopia.co.nz
-0.0.0.0 cdn2.inwemo.com
-0.0.0.0 certification.bithumb.com
-0.0.0.0 cex.io
-0.0.0.0 chainradar.com
-0.0.0.0 changelly.com
-0.0.0.0 chat.binance.com
-0.0.0.0 chat.coinmama.com
-0.0.0.0 chat.quadrigacx.com
-0.0.0.0 chat.simplemining.net
-0.0.0.0 chat2.binance.com
-0.0.0.0 checkout.hashgains.com
-0.0.0.0 chef.a-ads.com
-0.0.0.0 chf.a-ads.com
-0.0.0.0 click.a-ads.com
-0.0.0.0 cloud.awesomeminer.com
-0.0.0.0 cloud.cryptoguiminer.com
-0.0.0.0 cn.bithumb.com
-0.0.0.0 cn.m.bithumb.com
-0.0.0.0 coinad.com
-0.0.0.0 coinadnet.com
-0.0.0.0 coincube.io
-0.0.0.0 coinmama.com
-0.0.0.0 coinmarketcap.com
-0.0.0.0 coinminerz.com
-0.0.0.0 cointraffic.io
-0.0.0.0 coinzilla.io
-0.0.0.0 connect.trezor.io
-0.0.0.0 cosigner.electrum.org
-0.0.0.0 cpanel.antminer-store.com
-0.0.0.0 cpanel.cryptoguiminer.com
-0.0.0.0 cpanel.gameofbitcoins.com
-0.0.0.0 cpanel.imperiumminer.com
-0.0.0.0 cpanel.support.hashgains.com
-0.0.0.0 cpanel.uclick.in
-0.0.0.0 cryptoguiminer.com
-0.0.0.0 cryptonaut.org
-0.0.0.0 cryptonotemining.org
-0.0.0.0 cryptopia.co.nz
-0.0.0.0 cur.lv
-0.0.0.0 dash-bitcore1.trezor.io
-0.0.0.0 dashboard.inwemo.com
-0.0.0.0 dc.rockwall.investments
-0.0.0.0 destek.btcturk.com
-0.0.0.0 dev-xhlkashd.coinmama.com
-0.0.0.0 dev.a-ads.com
-0.0.0.0 dev.coinmama.com
-0.0.0.0 dev.cointraffic.io
-0.0.0.0 dev.quadrigacx.com
-0.0.0.0 dev.rockwall.investments
-0.0.0.0 dev.simplemining.net
-0.0.0.0 devapi.quadrigacx.com
-0.0.0.0 development.btcturk.com
-0.0.0.0 development.cryptopia.co.nz
-0.0.0.0 devtopia.cryptopia.co.nz
-0.0.0.0 devweb2.cryptopia.co.nz
-0.0.0.0 disney.cryptopia.co.nz
-0.0.0.0 dl.bixin.im
-0.0.0.0 dns3.rockwall.investments
-0.0.0.0 docs.bitfinex.com
-0.0.0.0 docs.electrum.org
-0.0.0.0 doge.cryptopia.co.nz
-0.0.0.0 dogeminer.cc
-0.0.0.0 domainkey.rockwall.investments
-0.0.0.0 download.electrum.org
-0.0.0.0 download.emercoin.com
-0.0.0.0 download.mycrypto.com
-0.0.0.0 download.simplemining.net
-0.0.0.0 easypc.io
-0.0.0.0 elderhash.com
-0.0.0.0 electrum.org
-0.0.0.0 em.quadrigacx.com
-0.0.0.0 emercoin.com
-0.0.0.0 ems01.bithumb.com
-0.0.0.0 ems02.bithumb.com
-0.0.0.0 ems03.bithumb.com
-0.0.0.0 ems04.bithumb.com
-0.0.0.0 ems05.bithumb.com
-0.0.0.0 ems06.bithumb.com
-0.0.0.0 emstrk.bithumb.com
-0.0.0.0 en.bithumb.com
-0.0.0.0 en.m.bithumb.com
-0.0.0.0 es.bithumb.com
-0.0.0.0 es.m.bithumb.com
-0.0.0.0 esbc.bithumb.com
-0.0.0.0 ether.cards
-0.0.0.0 event.btc-alpha.com
-0.0.0.0 event.rockwall.investments
-0.0.0.0 evergreencoin.org
-0.0.0.0 faucet.evergreencoin.org
-0.0.0.0 faucethub.io
-0.0.0.0 feedback.coinmama.com
-0.0.0.0 files.a-ads.com
-0.0.0.0 files.btcturk.com
-0.0.0.0 files.cointraffic.io
-0.0.0.0 forminerpro.com
-0.0.0.0 forum.bitcoin.org
-0.0.0.0 forum.uclick.in
-0.0.0.0 foundry.electrum.org
-0.0.0.0 ftp.adconity.com
-0.0.0.0 ftp.antminer-store.com
-0.0.0.0 ftp.awesomeminer.com
-0.0.0.0 ftp.binance.com
-0.0.0.0 ftp.bitcoin-doubler.us
-0.0.0.0 ftp.coinmama.com
-0.0.0.0 ftp.gameofbitcoins.com
-0.0.0.0 ftp.hashgains.com
-0.0.0.0 ftp.imperiumminer.com
-0.0.0.0 ftp.inwemo.com
-0.0.0.0 ftp.mellowads.com
-0.0.0.0 ftp.miningfarmasics.com
-0.0.0.0 ftp.quadrigacx.com
-0.0.0.0 ftp.uclick.in
-0.0.0.0 gameofbitcoins.com
-0.0.0.0 games.cryptopia.co.nz
-0.0.0.0 getbitcoin.nz
-0.0.0.0 getmonero.org
-0.0.0.0 global.binance.com
-0.0.0.0 go.coinmama.com
-0.0.0.0 go.cur.lv
-0.0.0.0 graphql.bixin.im
-0.0.0.0 hashcoin.io
-0.0.0.0 hashcoins.com
-0.0.0.0 hashcoins.ee
-0.0.0.0 hashcoins.ru
-0.0.0.0 hashgains.com
-0.0.0.0 headers.electrum.org
-0.0.0.0 healthbeauty.cryptopia.co.nz
-0.0.0.0 help.cryptopia.co.nz
-0.0.0.0 helpdesk.bitfinex.com
-0.0.0.0 helpdesk2.bitfinex.com
-0.0.0.0 hi.bithumb.com
-0.0.0.0 hi.m.bithumb.com
-0.0.0.0 hitbtc.com
-0.0.0.0 honeypot.cryptopia.co.nz
-0.0.0.0 i2p.emercoin.com
-0.0.0.0 icerockmining.io
-0.0.0.0 ico.icerockmining.io
-0.0.0.0 imap.quadrigacx.com
-0.0.0.0 imperiumminer.com
-0.0.0.0 in.cur.lv
-0.0.0.0 index.bithumb.com
-0.0.0.0 infra2.bithumb.com
-0.0.0.0 investor.cryptopia.co.nz
-0.0.0.0 inwemo.com
-0.0.0.0 io.rockwall.investments
-0.0.0.0 iota.bitfinex.com
-0.0.0.0 ja.bithumb.com
-0.0.0.0 ja.m.bithumb.com
-0.0.0.0 jaxx.io
-0.0.0.0 jira.cryptopia.co.nz
-0.0.0.0 joinslack.binance.com
-0.0.0.0 jp.simplemining.net
-0.0.0.0 jump.cur.lv
-0.0.0.0 jwallet.network
-0.0.0.0 kncminer.com
-0.0.0.0 kr.binance.com
-0.0.0.0 kriptometre.btcturk.com
-0.0.0.0 labs.binance.com
-0.0.0.0 launchpad.binance.com
-0.0.0.0 lb4.a-ads.com
-0.0.0.0 ledgerwallet.com
-0.0.0.0 legacy.mycrypto.com
-0.0.0.0 linfen.cryptopia.co.nz
-0.0.0.0 link.cur.lv
-0.0.0.0 links.upcoin.com
-0.0.0.0 load.cryptopia.co.nz
-0.0.0.0 localhost.cryptopia.co.nz
-0.0.0.0 localhost.quadrigacx.com
-0.0.0.0 lp.coinmama.com
-0.0.0.0 lt.cryptopia.co.nz
-0.0.0.0 ltc-bitcore3.trezor.io
-0.0.0.0 ltc.cryptopia.co.nz
-0.0.0.0 luckybits.io
-0.0.0.0 lyncdiscover.btcturk.com
-0.0.0.0 lyncdiscover.cryptopia.co.nz
-0.0.0.0 lyncdiscover.hashgains.com
-0.0.0.0 m.bithumb.com
-0.0.0.0 m.cryptopia.co.nz
-0.0.0.0 mail.antminer-store.com
-0.0.0.0 mail.awesomeminer.com
-0.0.0.0 mail.bithumb.com
-0.0.0.0 mail.coinadnet.com
-0.0.0.0 mail.cur.lv
-0.0.0.0 mail.imperiumminer.com
-0.0.0.0 mail.miningfarmasics.com
-0.0.0.0 mail.mymonero.com
-0.0.0.0 mail.peerhash.com
-0.0.0.0 mail.uclick.in
-0.0.0.0 mail2.awesomeminer.com
-0.0.0.0 management.cryptopia.co.nz
-0.0.0.0 mars.cryptopia.co.nz
-0.0.0.0 masternode-agent.com
-0.0.0.0 masternodes4everyone.com
-0.0.0.0 me.cur.lv
-0.0.0.0 mellowads.com
-0.0.0.0 merchant.bithumb.com
-0.0.0.0 message.bithumb.com
-0.0.0.0 mike.cryptopia.co.nz
-0.0.0.0 mike.rockwall.investments
-0.0.0.0 minecraft.cryptopia.co.nz
-0.0.0.0 miner.hosting
-0.0.0.0 minerboard.com
-0.0.0.0 mineshaft.cryptopia.co.nz
-0.0.0.0 mineshaft1.cryptopia.co.nz
-0.0.0.0 mineshop.eu
-0.0.0.0 mining-rig.de
-0.0.0.0 miningfarmasics.com
-0.0.0.0 minneapolis.rockwall.investments
-0.0.0.0 mm.a-ads.com
-0.0.0.0 mobile-update.bithumb.com
-0.0.0.0 monero-miner.000webhostapp.com
-0.0.0.0 mta82.a.hashgains.com
-0.0.0.0 mta82.hashgains.com
-0.0.0.0 mta83.a.hashgains.com
-0.0.0.0 mta84.a.hashgains.com
-0.0.0.0 mta85.a.hashgains.com
-0.0.0.0 mta86.a.hashgains.com
-0.0.0.0 mta87.a.hashgains.com
-0.0.0.0 mta88.a.hashgains.com
-0.0.0.0 mta89.a.hashgains.com
-0.0.0.0 mta90.a.hashgains.com
-0.0.0.0 mta91.a.hashgains.com
-0.0.0.0 multipoolminer.io
-0.0.0.0 mx.peerhash.com
-0.0.0.0 my.cur.lv
-0.0.0.0 my.ledgerwallet.com
-0.0.0.0 mycrypto.com
-0.0.0.0 myetherwallet.com
-0.0.0.0 mymonero.com
-0.0.0.0 n.cur.lv
-0.0.0.0 n1.cryptopia.co.nz
-0.0.0.0 name.cur.lv
-0.0.0.0 netvision.cryptopia.co.nz
-0.0.0.0 network.cryptopia.co.nz
-0.0.0.0 next.btc-alpha.com
-0.0.0.0 node.jwallet.network
-0.0.0.0 nodes1.cryptopia.co.nz
-0.0.0.0 nodes2.cryptopia.co.nz
-0.0.0.0 nostalgia.bitfinex.com
-0.0.0.0 ns2.a-ads.com
-0.0.0.0 o1.em.quadrigacx.com
-0.0.0.0 o1.mail.coinmama.com
-0.0.0.0 o2.em.quadrigacx.com
-0.0.0.0 o3.em.quadrigacx.com
-0.0.0.0 o4.em.quadrigacx.com
-0.0.0.0 o5.em.quadrigacx.com
-0.0.0.0 o6.em.quadrigacx.com
-0.0.0.0 offers.cryptopia.co.nz
-0.0.0.0 office.cryptopia.co.nz
-0.0.0.0 old-wallet.trezor.io
-0.0.0.0 old.coinad.com
-0.0.0.0 orders.whattomine.com
-0.0.0.0 overflow.mycrypto.com
-0.0.0.0 p2pool.in
-0.0.0.0 pandaminer.co
-0.0.0.0 parners.cryptopia.co.nz
-0.0.0.0 parthk.co.uk
-0.0.0.0 pay.bithumb.com
-0.0.0.0 peerhash.com
-0.0.0.0 pg-relay.bithumb.com
-0.0.0.0 poc.simplemining.net
-0.0.0.0 pool.emercoin.com
-0.0.0.0 pool2.emercoin.com
-0.0.0.0 pools.cryptopia.co.nz
-0.0.0.0 pools1.cryptopia.co.nz
-0.0.0.0 pools2.cryptopia.co.nz
-0.0.0.0 pop.quadrigacx.com
-0.0.0.0 pop3.awesomeminer.com
-0.0.0.0 pport.cryptopia.co.nz
-0.0.0.0 prelive.cryptopia.co.nz
-0.0.0.0 preorder.trezor.io
-0.0.0.0 preprod.simplemining.net
-0.0.0.0 pricing.jaxx.io
-0.0.0.0 privacy.coinmama.com
-0.0.0.0 psychomining.de
-0.0.0.0 pubapi.bithumb.com
-0.0.0.0 push.bithumb.com
-0.0.0.0 quadrigacx.com
-0.0.0.0 r1.bithumb.com
-0.0.0.0 r2.bithumb.com
-0.0.0.0 r3.bithumb.com
-0.0.0.0 r4.bithumb.com
-0.0.0.0 r5.bithumb.com
-0.0.0.0 rc.bithumb.com
-0.0.0.0 realtime.quadrigacx.com
-0.0.0.0 redmine.emercoin.com
-0.0.0.0 resource.binance.com
-0.0.0.0 resource2.binance.com
-0.0.0.0 return.bithumb.com
-0.0.0.0 ripple.com
-0.0.0.0 rm.cointraffic.io
-0.0.0.0 rockwall.investments
-0.0.0.0 rpc.myetherwallet.com
-0.0.0.0 rt.quadrigacx.com
-0.0.0.0 ru.cryptopia.co.nz
-0.0.0.0 s.a-ads.com
-0.0.0.0 bitmain.com
-0.0.0.0 www.bitmain.com
-0.0.0.0 www.bitmaintech.com
-0.0.0.0 bitmaintech.com
-0.0.0.0 sadmin.rockwall.investments
-0.0.0.0 safelinkconverter.com
-0.0.0.0 saml.cryptopia.co.nz
-0.0.0.0 secure.coinmama.com
-0.0.0.0 seed.emercoin.com
-0.0.0.0 seed1.emercoin.com
-0.0.0.0 seed2.emercoin.com
-0.0.0.0 selfx1.typeform.com
-0.0.0.0 sftp.binance.com
-0.0.0.0 shapeshift.io
-0.0.0.0 shop.simplemining.net
-0.0.0.0 shop.trezor.io
-0.0.0.0 simplemining.net
-0.0.0.0 smtp.awesomeminer.com
-0.0.0.0 socket.quadrigacx.com
-0.0.0.0 staging.coinmama.com
-0.0.0.0 start.ledgerwallet.com
-0.0.0.0 static.a-ads.com
-0.0.0.0 static.bithumb.com
-0.0.0.0 stats.ethc.io
-0.0.0.0 status.coinmama.com
-0.0.0.0 status.trezor.io
-0.0.0.0 stream.binance.com
-0.0.0.0 stream2.binance.com
-0.0.0.0 superbitcoiner.com
-0.0.0.0 support.a-ads.com
-0.0.0.0 support.binance.com
-0.0.0.0 support.bitfinex.com
-0.0.0.0 support.coinmama.com
-0.0.0.0 support.evergreencoin.org
-0.0.0.0 support.ledgerwallet.com
-0.0.0.0 support.mycrypto.com
-0.0.0.0 support.quadrigacx.com
-0.0.0.0 test.cryptopia.co.nz
-0.0.0.0 test.ledgerwallet.com
-0.0.0.0 test.rockwall.investments
-0.0.0.0 test.simplemining.net
-0.0.0.0 tm.btcturk.com
-0.0.0.0 to.cur.lv
-0.0.0.0 transactions.evergreencoin.org
-0.0.0.0 trezor.io
-0.0.0.0 uclick.in
-0.0.0.0 unauthorized.btcturk.com
-0.0.0.0 unauthorized.cryptopia.co.nz
-0.0.0.0 upcoin.com
-0.0.0.0 upload.a-ads.com
-0.0.0.0 upload.coinad.com
-0.0.0.0 ups.cryptopia.co.nz
-0.0.0.0 us.binance.com
-0.0.0.0 utils.jaxx.io
-0.0.0.0 vip.coinmama.com
-0.0.0.0 w.cryptopia.co.nz
-0.0.0.0 waiting.bithumb.com
-0.0.0.0 wallet.trezor.io
-0.0.0.0 web.bixin.im
-0.0.0.0 web1.hashgains.com
-0.0.0.0 web2.hashgains.com
-0.0.0.0 web3.hashgains.com
-0.0.0.0 web4.hashgains.com
-0.0.0.0 web5.hashgains.com
-0.0.0.0 web6.hashgains.com
-0.0.0.0 webdisk.antminer-store.com
-0.0.0.0 webdisk.api.cryptoguiminer.com
-0.0.0.0 webdisk.cryptoguiminer.com
-0.0.0.0 webdisk.uclick.in
-0.0.0.0 webmail.antminer-store.com
-0.0.0.0 webmail.awesomeminer.com
-0.0.0.0 webmail.imperiumminer.com
-0.0.0.0 webmail.uclick.in
-0.0.0.0 whattomine.com
-0.0.0.0 whm.gameofbitcoins.com
-0.0.0.0 widget.coinmama.com
-0.0.0.0 wiki.emercoin.com
-0.0.0.0 wiki.evergreencoin.org
-0.0.0.0 wiki.trezor.io
-0.0.0.0 winter.mycrypto.com
-0.0.0.0 ws.bitfinex.com
-0.0.0.0 ws.bixin.im
-0.0.0.0 ws.ledgerwallet.com
-0.0.0.0 ws.quadrigacx.com
-0.0.0.0 wss.bithumb.com
-0.0.0.0 wss1.bithumb.com
-0.0.0.0 ww.cryptopia.co.nz
-0.0.0.0 www.0x.mycrypto.com
-0.0.0.0 www.1safe.link
-0.0.0.0 www.803mine.com
-0.0.0.0 www.a-ads.com
-0.0.0.0 www.adconity.com
-0.0.0.0 www.alpha.myetherwallet.com
-0.0.0.0 www.antminer-store.com
-0.0.0.0 www.api.binance.com
-0.0.0.0 www.api.mymonero.com
-0.0.0.0 www.apps.cointraffic.io
-0.0.0.0 www.apps2.cointraffic.io
-0.0.0.0 www.artus-mining.de
-0.0.0.0 www.awesomeminer.com
-0.0.0.0 www.bch-bitcore2.trezor.io
-0.0.0.0 www.beta-wallet.trezor.io
-0.0.0.0 www.bfgminer.org
-0.0.0.0 www.binance.com
-0.0.0.0 www.bitcoin-doubler.us
-0.0.0.0 www.bitcoin.org
-0.0.0.0 www.bitcore1.trezor.io
-0.0.0.0 www.bitcore3.trezor.io
-0.0.0.0 www.bitfinex.com
-0.0.0.0 www.bithumb.com
-0.0.0.0 www.bixin.im
-0.0.0.0 www.blog.trezor.io
-0.0.0.0 www.btc-alpha.com
-0.0.0.0 www.btc-bitcore1.trezor.io
-0.0.0.0 www.btc-bitcore3.trezor.io
-0.0.0.0 www.btcturk.com
-0.0.0.0 www.careers.coinmama.com
-0.0.0.0 www.chainradar.com
-0.0.0.0 www.changelly.com
-0.0.0.0 www.chat.binance.com
-0.0.0.0 www.chat2.binance.com
-0.0.0.0 www.cloud.cryptoguiminer.com
-0.0.0.0 www.coinad.com
-0.0.0.0 www.coinadnet.com
-0.0.0.0 www.coincube.io
-0.0.0.0 www.coinmama.com
-0.0.0.0 www.coinmarketcap.com
-0.0.0.0 www.coinminerz.com
-0.0.0.0 www.cointraffic.io
-0.0.0.0 www.coinzilla.io
-0.0.0.0 www.connect.trezor.io
-0.0.0.0 www.cryptoguiminer.com
-0.0.0.0 www.cryptonaut.org
-0.0.0.0 www.cryptonotemining.org
-0.0.0.0 www.cryptopia.co.nz
-0.0.0.0 www.cur.lv
-0.0.0.0 www.dash-bitcore1.trezor.io
-0.0.0.0 www.dogeminer.cc
-0.0.0.0 www.easypc.io
-0.0.0.0 www.elderhash.com
-0.0.0.0 www.electrum.org
-0.0.0.0 www.emercoin.com
-0.0.0.0 www.ether.cards
-0.0.0.0 www.event.rockwall.investments
-0.0.0.0 www.evergreencoin.org
-0.0.0.0 www.faucethub.io
-0.0.0.0 www.files.cointraffic.io
-0.0.0.0 www.forminerpro.com
-0.0.0.0 www.forum.bitcoin.org
-0.0.0.0 www.ftp.binance.com
-0.0.0.0 www.gameofbitcoins.com
-0.0.0.0 www.getbitcoin.nz
-0.0.0.0 www.getmonero.org
-0.0.0.0 www.global.binance.com
-0.0.0.0 www.go.coinmama.com
-0.0.0.0 www.hashcoin.io
-0.0.0.0 www.hashcoins.com
-0.0.0.0 www.hashcoins.ee
-0.0.0.0 www.hashcoins.ru
-0.0.0.0 www.hashgains.com
-0.0.0.0 www.hitbtc.com
-0.0.0.0 www.icerockmining.io
-0.0.0.0 www.ico.icerockmining.io
-0.0.0.0 www.imperiumminer.com
-0.0.0.0 www.inwemo.com
-0.0.0.0 www.jaxx.io
-0.0.0.0 www.joinslack.binance.com
-0.0.0.0 www.jwallet.network
-0.0.0.0 www.kr.binance.com
-0.0.0.0 www.labs.binance.com
-0.0.0.0 www.launchpad.binance.com
-0.0.0.0 www.ledgerwallet.com
-0.0.0.0 www.ltc-bitcore3.trezor.io
-0.0.0.0 www.ltc.cryptopia.co.nz
-0.0.0.0 www.luckybits.io
-0.0.0.0 www.masternode-agent.com
-0.0.0.0 www.masternodes4everyone.com
-0.0.0.0 www.mellowads.com
-0.0.0.0 www.miner.hosting
-0.0.0.0 www.minerboard.com
-0.0.0.0 www.mineshop.eu
-0.0.0.0 www.mining-rig.de
-0.0.0.0 www.miningfarmasics.com
-0.0.0.0 www.monero-miner.000webhostapp.com
-0.0.0.0 www.multipoolminer.io
-0.0.0.0 www.mycrypto.com
-0.0.0.0 www.myetherwallet.com
-0.0.0.0 www.mymonero.com
-0.0.0.0 www.old-wallet.trezor.io
-0.0.0.0 www.overflow.mycrypto.com
-0.0.0.0 www.p2pool.in
-0.0.0.0 www.pandaminer.co
-0.0.0.0 www.parthk.co.uk
-0.0.0.0 www.pay.bithumb.com
-0.0.0.0 www.peerhash.com
-0.0.0.0 www.preorder.trezor.io
-0.0.0.0 www.psychomining.de
-0.0.0.0 www.quadrigacx.com
-0.0.0.0 www.resource.binance.com
-0.0.0.0 www.resource2.binance.com
-0.0.0.0 www.rm.cointraffic.io
-0.0.0.0 www.rockwall.investments
-0.0.0.0 www.rpc.myetherwallet.com
-0.0.0.0 www.safelinkconverter.com
-0.0.0.0 www.selfx1.typeform.com
-0.0.0.0 www.sftp.binance.com
-0.0.0.0 www.shapeshift.io
-0.0.0.0 www.shop.simplemining.net
-0.0.0.0 www.shop.trezor.io
-0.0.0.0 www.simplemining.net
-0.0.0.0 www.status.trezor.io
-0.0.0.0 www.stream.binance.com
-0.0.0.0 www.stream2.binance.com
-0.0.0.0 www.superbitcoiner.com
-0.0.0.0 www.support.binance.com
-0.0.0.0 www.trezor.io
-0.0.0.0 www.uclick.in
-0.0.0.0 www.upcoin.com
-0.0.0.0 www.us.binance.com
-0.0.0.0 www.wallet.trezor.io
-0.0.0.0 www.whattomine.com
-0.0.0.0 www.wiki.trezor.io
-0.0.0.0 www.zec-bitcore1.trezor.io
-0.0.0.0 www1.a-ads.com
-0.0.0.0 www1.bithumb.com
-0.0.0.0 www3.a-ads.com
-0.0.0.0 zec-bitcore1.trezor.io
+0x.mycrypto.com
+1safe.link
+803mine.com
+a-ads.com
+about.mycrypto.com
+academy.bithumb.com
+acceptable.a-ads.com
+ad.a-ads.com
+ad.s.a-ads.com
+ad001.a-ads.com
+ad004.a-ads.com
+ad005.a-ads.com
+ad007.a-ads.com
+ad008.a-ads.com
+ad009.a-ads.com
+ad011.a-ads.com
+ad012.a-ads.com
+ad013.a-ads.com
+ad014.a-ads.com
+ad015.a-ads.com
+ad032.a-ads.com
+ad201.a-ads.com
+ad203.a-ads.com
+ad210.a-ads.com
+ad212.a-ads.com
+ad213.a-ads.com
+ad216.a-ads.com
+ad217.a-ads.com
+ad218.a-ads.com
+ad222.a-ads.com
+ad224.a-ads.com
+ad225.a-ads.com
+ad226.a-ads.com
+ad228.a-ads.com
+ad302.a-ads.com
+adc.cryptopia.co.nz
+adconity.com
+admin.adconity.com
+admin.coinmama.com
+affiliates.coinmama.com
+alpha.cryptopia.co.nz
+alpha.myetherwallet.com
+antminer-store.com
+api.binance.com
+api.bitfinex.com
+api.bithumb.com
+api.btcturk.com
+api.coinmama.com
+api.cryptoguiminer.com
+api.cryptopia.co.nz
+api.inwemo.com
+api.jaxx.io
+api.ledgerwallet.com
+api.mycrypto.com
+api.mymonero.com
+api.quadrigacx.com
+api01.ledgerwallet.com
+api02.ledgerwallet.com
+api1.bithumb.com
+api2.bitfinex.com
+api2.jaxx.io
+apidocs.bithumb.com
+apidocs.m.bithumb.com
+app.bixin.im
+app0.a-ads.com
+apps.cointraffic.io
+apps.ledgerwallet.com
+apps2.cointraffic.io
+artus-mining.de
+assets.coinmama.com
+autoconfig.bitcoin-doubler.us
+autodiscover.btc-alpha.com
+autodiscover.cryptopia.co.nz
+autodiscover.uclick.in
+awesomeminer.com
+aws.simplemining.net
+babyalex.coinmama.com
+basicdemo.emercoin.com
+bch-bitcore2.trezor.io
+beta-wallet.trezor.io
+beta.bitfinex.com
+beta.mycrypto.com
+beta.simplemining.net
+bfgminer.org
+binance.com
+bit.cur.lv
+bitcoin-doubler.us
+bitcoin.org
+bitcoinminers.eu
+bitcore1.trezor.io
+bitcore3.trezor.io
+bitfinex.com
+bithumb.com
+bitmain.com
+bitmaintech.com
+bixin.im
+blocked.mymonero.com
+blog.a-ads.com
+blog.cryptopia.co.nz
+blog.jaxx.io
+blog.trezor.io
+bng.btc-alpha.com
+btc-alpha.com
+btc-bitcore1.trezor.io
+btc-bitcore3.trezor.io
+btc-smtp.bithumb.com
+btc.a-ads.com
+btcturk.com
+bullet.simplemining.net
+buy.mycrypto.com
+calendar.coinmama.com
+careers.coinmama.com
+cdn.inwemo.com
+cdn1.cryptopia.co.nz
+cdn2.inwemo.com
+certification.bithumb.com
+cex.io
+chainradar.com
+changelly.com
+chat.binance.com
+chat.coinmama.com
+chat.quadrigacx.com
+chat.simplemining.net
+chat2.binance.com
+checkout.hashgains.com
+chef.a-ads.com
+chf.a-ads.com
+click.a-ads.com
+cloud.awesomeminer.com
+cloud.cryptoguiminer.com
+cn.bithumb.com
+cn.m.bithumb.com
+coinad.com
+coinadnet.com
+coincube.io
+coinmama.com
+coinmarketcap.com
+coinminerz.com
+cointraffic.io
+coinzilla.io
+connect.trezor.io
+cosigner.electrum.org
+cpanel.antminer-store.com
+cpanel.cryptoguiminer.com
+cpanel.gameofbitcoins.com
+cpanel.imperiumminer.com
+cpanel.support.hashgains.com
+cpanel.uclick.in
+cryptoguiminer.com
+cryptonaut.org
+cryptonotemining.org
+cryptopia.co.nz
+cur.lv
+dash-bitcore1.trezor.io
+dashboard.inwemo.com
+dc.rockwall.investments
+destek.btcturk.com
+dev-xhlkashd.coinmama.com
+dev.a-ads.com
+dev.coinmama.com
+dev.cointraffic.io
+dev.quadrigacx.com
+dev.rockwall.investments
+dev.simplemining.net
+devapi.quadrigacx.com
+development.btcturk.com
+development.cryptopia.co.nz
+devtopia.cryptopia.co.nz
+devweb2.cryptopia.co.nz
+disney.cryptopia.co.nz
+dl.bixin.im
+dns3.rockwall.investments
+docs.bitfinex.com
+docs.electrum.org
+doge.cryptopia.co.nz
+dogeminer.cc
+domainkey.rockwall.investments
+download.electrum.org
+download.emercoin.com
+download.mycrypto.com
+download.simplemining.net
+easypc.io
+elderhash.com
+electrum.org
+em.quadrigacx.com
+emercoin.com
+ems01.bithumb.com
+ems02.bithumb.com
+ems03.bithumb.com
+ems04.bithumb.com
+ems05.bithumb.com
+ems06.bithumb.com
+emstrk.bithumb.com
+en.bithumb.com
+en.m.bithumb.com
+es.bithumb.com
+es.m.bithumb.com
+esbc.bithumb.com
+ether.cards
+event.btc-alpha.com
+event.rockwall.investments
+evergreencoin.org
+faucet.evergreencoin.org
+faucethub.io
+feedback.coinmama.com
+files.a-ads.com
+files.btcturk.com
+files.cointraffic.io
+forminerpro.com
+forum.bitcoin.org
+forum.uclick.in
+foundry.electrum.org
+ftp.adconity.com
+ftp.antminer-store.com
+ftp.awesomeminer.com
+ftp.binance.com
+ftp.bitcoin-doubler.us
+ftp.coinmama.com
+ftp.gameofbitcoins.com
+ftp.hashgains.com
+ftp.imperiumminer.com
+ftp.inwemo.com
+ftp.mellowads.com
+ftp.miningfarmasics.com
+ftp.quadrigacx.com
+ftp.uclick.in
+gameofbitcoins.com
+games.cryptopia.co.nz
+getbitcoin.nz
+getmonero.org
+global.binance.com
+go.coinmama.com
+go.cur.lv
+graphql.bixin.im
+hashcoin.io
+hashcoins.com
+hashcoins.ee
+hashcoins.ru
+hashgains.com
+headers.electrum.org
+healthbeauty.cryptopia.co.nz
+help.cryptopia.co.nz
+helpdesk.bitfinex.com
+helpdesk2.bitfinex.com
+hi.bithumb.com
+hi.m.bithumb.com
+hitbtc.com
+honeypot.cryptopia.co.nz
+i2p.emercoin.com
+icerockmining.io
+ico.icerockmining.io
+imap.quadrigacx.com
+imperiumminer.com
+in.cur.lv
+index.bithumb.com
+infra2.bithumb.com
+investor.cryptopia.co.nz
+inwemo.com
+io.rockwall.investments
+iota.bitfinex.com
+ja.bithumb.com
+ja.m.bithumb.com
+jaxx.io
+jira.cryptopia.co.nz
+joinslack.binance.com
+jp.simplemining.net
+jump.cur.lv
+jwallet.network
+kncminer.com
+kr.binance.com
+kriptometre.btcturk.com
+labs.binance.com
+launchpad.binance.com
+lb4.a-ads.com
+ledgerwallet.com
+legacy.mycrypto.com
+linfen.cryptopia.co.nz
+link.cur.lv
+links.upcoin.com
+load.cryptopia.co.nz
+localhost.cryptopia.co.nz
+localhost.quadrigacx.com
+lp.coinmama.com
+lt.cryptopia.co.nz
+ltc-bitcore3.trezor.io
+ltc.cryptopia.co.nz
+luckybits.io
+lyncdiscover.btcturk.com
+lyncdiscover.cryptopia.co.nz
+lyncdiscover.hashgains.com
+m.bithumb.com
+m.cryptopia.co.nz
+mail.antminer-store.com
+mail.awesomeminer.com
+mail.bithumb.com
+mail.coinadnet.com
+mail.cur.lv
+mail.imperiumminer.com
+mail.miningfarmasics.com
+mail.mymonero.com
+mail.peerhash.com
+mail.uclick.in
+mail2.awesomeminer.com
+management.cryptopia.co.nz
+mars.cryptopia.co.nz
+masternode-agent.com
+masternodes4everyone.com
+me.cur.lv
+mellowads.com
+merchant.bithumb.com
+message.bithumb.com
+mike.cryptopia.co.nz
+mike.rockwall.investments
+minecraft.cryptopia.co.nz
+miner.hosting
+minerboard.com
+mineshaft.cryptopia.co.nz
+mineshaft1.cryptopia.co.nz
+mineshop.eu
+mining-rig.de
+miningfarmasics.com
+minneapolis.rockwall.investments
+mm.a-ads.com
+mobile-update.bithumb.com
+monero-miner.000webhostapp.com
+mta82.a.hashgains.com
+mta82.hashgains.com
+mta83.a.hashgains.com
+mta84.a.hashgains.com
+mta85.a.hashgains.com
+mta86.a.hashgains.com
+mta87.a.hashgains.com
+mta88.a.hashgains.com
+mta89.a.hashgains.com
+mta90.a.hashgains.com
+mta91.a.hashgains.com
+multipoolminer.io
+mx.peerhash.com
+my.cur.lv
+my.ledgerwallet.com
+mycrypto.com
+myetherwallet.com
+mymonero.com
+n.cur.lv
+n1.cryptopia.co.nz
+name.cur.lv
+netvision.cryptopia.co.nz
+network.cryptopia.co.nz
+next.btc-alpha.com
+node.jwallet.network
+nodes1.cryptopia.co.nz
+nodes2.cryptopia.co.nz
+nostalgia.bitfinex.com
+ns2.a-ads.com
+o1.em.quadrigacx.com
+o1.mail.coinmama.com
+o2.em.quadrigacx.com
+o3.em.quadrigacx.com
+o4.em.quadrigacx.com
+o5.em.quadrigacx.com
+o6.em.quadrigacx.com
+offers.cryptopia.co.nz
+office.cryptopia.co.nz
+old-wallet.trezor.io
+old.coinad.com
+orders.whattomine.com
+overflow.mycrypto.com
+p2pool.in
+pandaminer.co
+parners.cryptopia.co.nz
+parthk.co.uk
+pay.bithumb.com
+peerhash.com
+pg-relay.bithumb.com
+poc.simplemining.net
+pool.emercoin.com
+pool2.emercoin.com
+pools.cryptopia.co.nz
+pools1.cryptopia.co.nz
+pools2.cryptopia.co.nz
+pop.quadrigacx.com
+pop3.awesomeminer.com
+pport.cryptopia.co.nz
+prelive.cryptopia.co.nz
+preorder.trezor.io
+preprod.simplemining.net
+pricing.jaxx.io
+privacy.coinmama.com
+psychomining.de
+pubapi.bithumb.com
+push.bithumb.com
+quadrigacx.com
+r1.bithumb.com
+r2.bithumb.com
+r3.bithumb.com
+r4.bithumb.com
+r5.bithumb.com
+rc.bithumb.com
+realtime.quadrigacx.com
+redmine.emercoin.com
+resource.binance.com
+resource2.binance.com
+return.bithumb.com
+ripple.com
+rm.cointraffic.io
+rockwall.investments
+rpc.myetherwallet.com
+rt.quadrigacx.com
+ru.cryptopia.co.nz
+s.a-ads.com
+sadmin.rockwall.investments
+safelinkconverter.com
+saml.cryptopia.co.nz
+secure.coinmama.com
+seed.emercoin.com
+seed1.emercoin.com
+seed2.emercoin.com
+selfx1.typeform.com
+sftp.binance.com
+shapeshift.io
+shop.simplemining.net
+shop.trezor.io
+simplemining.net
+smtp.awesomeminer.com
+socket.quadrigacx.com
+staging.coinmama.com
+start.ledgerwallet.com
+static.a-ads.com
+static.bithumb.com
+stats.ethc.io
+status.coinmama.com
+status.trezor.io
+stream.binance.com
+stream2.binance.com
+superbitcoiner.com
+support.a-ads.com
+support.binance.com
+support.bitfinex.com
+support.coinmama.com
+support.evergreencoin.org
+support.ledgerwallet.com
+support.mycrypto.com
+support.quadrigacx.com
+test.cryptopia.co.nz
+test.ledgerwallet.com
+test.rockwall.investments
+test.simplemining.net
+tm.btcturk.com
+to.cur.lv
+transactions.evergreencoin.org
+trezor.io
+uclick.in
+unauthorized.btcturk.com
+unauthorized.cryptopia.co.nz
+upcoin.com
+upload.a-ads.com
+upload.coinad.com
+ups.cryptopia.co.nz
+us.binance.com
+utils.jaxx.io
+vip.coinmama.com
+w.cryptopia.co.nz
+waiting.bithumb.com
+wallet.trezor.io
+web.bixin.im
+web1.hashgains.com
+web2.hashgains.com
+web3.hashgains.com
+web4.hashgains.com
+web5.hashgains.com
+web6.hashgains.com
+webdisk.antminer-store.com
+webdisk.api.cryptoguiminer.com
+webdisk.cryptoguiminer.com
+webdisk.uclick.in
+webmail.antminer-store.com
+webmail.awesomeminer.com
+webmail.imperiumminer.com
+webmail.uclick.in
+whattomine.com
+whm.gameofbitcoins.com
+widget.coinmama.com
+wiki.emercoin.com
+wiki.evergreencoin.org
+wiki.trezor.io
+winter.mycrypto.com
+ws.bitfinex.com
+ws.bixin.im
+ws.ledgerwallet.com
+ws.quadrigacx.com
+wss.bithumb.com
+wss1.bithumb.com
+ww.cryptopia.co.nz
+www.0x.mycrypto.com
+www.1safe.link
+www.803mine.com
+www.a-ads.com
+www.adconity.com
+www.alpha.myetherwallet.com
+www.antminer-store.com
+www.api.binance.com
+www.api.mymonero.com
+www.apps.cointraffic.io
+www.apps2.cointraffic.io
+www.artus-mining.de
+www.awesomeminer.com
+www.bch-bitcore2.trezor.io
+www.beta-wallet.trezor.io
+www.bfgminer.org
+www.binance.com
+www.bitcoin-doubler.us
+www.bitcoin.org
+www.bitcore1.trezor.io
+www.bitcore3.trezor.io
+www.bitfinex.com
+www.bithumb.com
+www.bitmain.com
+www.bitmaintech.com
+www.bixin.im
+www.blog.trezor.io
+www.btc-alpha.com
+www.btc-bitcore1.trezor.io
+www.btc-bitcore3.trezor.io
+www.btcturk.com
+www.careers.coinmama.com
+www.chainradar.com
+www.changelly.com
+www.chat.binance.com
+www.chat2.binance.com
+www.cloud.cryptoguiminer.com
+www.coinad.com
+www.coinadnet.com
+www.coincube.io
+www.coinmama.com
+www.coinmarketcap.com
+www.coinminerz.com
+www.cointraffic.io
+www.coinzilla.io
+www.connect.trezor.io
+www.cryptoguiminer.com
+www.cryptonaut.org
+www.cryptonotemining.org
+www.cryptopia.co.nz
+www.cur.lv
+www.dash-bitcore1.trezor.io
+www.dogeminer.cc
+www.easypc.io
+www.elderhash.com
+www.electrum.org
+www.emercoin.com
+www.ether.cards
+www.event.rockwall.investments
+www.evergreencoin.org
+www.faucethub.io
+www.files.cointraffic.io
+www.forminerpro.com
+www.forum.bitcoin.org
+www.ftp.binance.com
+www.gameofbitcoins.com
+www.getbitcoin.nz
+www.getmonero.org
+www.global.binance.com
+www.go.coinmama.com
+www.hashcoin.io
+www.hashcoins.com
+www.hashcoins.ee
+www.hashcoins.ru
+www.hashgains.com
+www.hitbtc.com
+www.icerockmining.io
+www.ico.icerockmining.io
+www.imperiumminer.com
+www.inwemo.com
+www.jaxx.io
+www.joinslack.binance.com
+www.jwallet.network
+www.kr.binance.com
+www.labs.binance.com
+www.launchpad.binance.com
+www.ledgerwallet.com
+www.ltc-bitcore3.trezor.io
+www.ltc.cryptopia.co.nz
+www.luckybits.io
+www.masternode-agent.com
+www.masternodes4everyone.com
+www.mellowads.com
+www.miner.hosting
+www.minerboard.com
+www.mineshop.eu
+www.mining-rig.de
+www.miningfarmasics.com
+www.monero-miner.000webhostapp.com
+www.multipoolminer.io
+www.mycrypto.com
+www.myetherwallet.com
+www.mymonero.com
+www.old-wallet.trezor.io
+www.overflow.mycrypto.com
+www.p2pool.in
+www.pandaminer.co
+www.parthk.co.uk
+www.pay.bithumb.com
+www.peerhash.com
+www.preorder.trezor.io
+www.psychomining.de
+www.quadrigacx.com
+www.resource.binance.com
+www.resource2.binance.com
+www.rm.cointraffic.io
+www.rockwall.investments
+www.rpc.myetherwallet.com
+www.safelinkconverter.com
+www.selfx1.typeform.com
+www.sftp.binance.com
+www.shapeshift.io
+www.shop.simplemining.net
+www.shop.trezor.io
+www.simplemining.net
+www.status.trezor.io
+www.stream.binance.com
+www.stream2.binance.com
+www.superbitcoiner.com
+www.support.binance.com
+www.trezor.io
+www.uclick.in
+www.upcoin.com
+www.us.binance.com
+www.wallet.trezor.io
+www.whattomine.com
+www.wiki.trezor.io
+www.zec-bitcore1.trezor.io
+www1.a-ads.com
+www1.bithumb.com
+www3.a-ads.com
+zec-bitcore1.trezor.io
