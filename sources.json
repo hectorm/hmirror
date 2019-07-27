@@ -64,6 +64,5 @@
   {"name": "winhelp2002.mvps.org",               "enabled": true,  "format": "hosts",   "url": "http://winhelp2002.mvps.org/hosts.txt"},
   {"name": "zerodot1-coinblockerlists",          "enabled": true,  "format": "hosts",   "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts"},
   {"name": "zerodot1-coinblockerlists-browser",  "enabled": true,  "format": "hosts",   "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser"},
-  {"name": "zerodot1-coinblockerlists-optional", "enabled": true,  "format": "hosts",   "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional"},
-  {"name": "zeustracker.abuse.ch",               "enabled": true,  "format": "hosts",   "url": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist"}
+  {"name": "zerodot1-coinblockerlists-optional", "enabled": true,  "format": "hosts",   "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional"}
 ]}
