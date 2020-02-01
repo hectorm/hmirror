@@ -54,7 +54,6 @@
   {"name": "pgl.yoyo.org",                       "enabled": true,  "format": "hosts",   "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext"},
   {"name": "phishing.army",                      "enabled": true,  "format": "hosts",   "url": "https://phishing.army/download/phishing_army_blocklist.txt"},
   {"name": "phishing.army-extended",             "enabled": true,  "format": "hosts",   "url": "https://phishing.army/download/phishing_army_blocklist_extended.txt"},
-  {"name": "ransomwaretracker.abuse.ch",         "enabled": true,  "format": "hosts",   "url": "https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"},
   {"name": "someonewhocares.org",                "enabled": true,  "format": "hosts",   "url": "https://someonewhocares.org/hosts/hosts"},
   {"name": "spam404.com",                        "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt"},
   {"name": "stevenblack",                        "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts"},
