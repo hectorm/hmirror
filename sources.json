@@ -6,7 +6,7 @@
   {"name": "anudeepnd-adservers",                "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt"},
   {"name": "anudeepnd-coinminer",                "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt"},
   {"name": "anudeepnd-facebook",                 "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt"},
-  {"name": "blocklist.kowabit.de",               "enabled": true,  "format": "hosts",   "url": "https://blocklist.kowabit.de/list.txt"},
+  {"name": "kowabit.de-kwbtlist",                "enabled": true,  "format": "hosts",   "url": "https://kowabit.de/blocklist/kwbtlist.txt"},
   {"name": "disconnect.me-ad",                   "enabled": true,  "format": "hosts",   "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"},
   {"name": "disconnect.me-malvertising",         "enabled": true,  "format": "hosts",   "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt"},
   {"name": "disconnect.me-malware",              "enabled": true,  "format": "hosts",   "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt"},
