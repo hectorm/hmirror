@@ -15034,6 +15034,7 @@ ads.rocketadv.com
 ads.roku.com
 ads.rubiconproject.com
 ads.rvty.net
+ads.samsungads.com
 ads.sc.videohub.tv
 ads.scanapps.com
 ads.scorecardresearch.com
@@ -18380,6 +18381,7 @@ api-stage.advance.net
 api-staging-grpc.lightstep.com
 api-staging-us-west-2.lisnr.com
 api-staging-v3.conductrics.com
+api-staging.appcues.com
 api-staging.demandbase.com
 api-staging.gosquared.com
 api-staging.lightstep.com
@@ -18483,6 +18485,7 @@ api.api.omnitagjs.com
 api.app.m.so.com
 api.app.optimizely.com
 api.appboy.com
+api.appcues.com
 api.appdynamics.com
 api.applicationinsights.io
 api.applovin.com
@@ -18849,6 +18852,7 @@ api.production.jetlore.com
 api.production.oregon.demandbase.com
 api.production.virginia.demandbase.com
 api.promotions.skype.com
+api.proof-x.com
 api.propellerads.com
 api.pt.163.com
 api.ptest.st-av.net
@@ -19740,6 +19744,7 @@ app.pixlee.com
 app.poc.exct.net
 app.powerbi.com
 app.preview.exacttarget.com
+app.proof-x.com
 app.pubserver.adhood.com
 app.qa.exacttarget.com
 app.qa1.jivox.com
@@ -19908,6 +19913,7 @@ appcentre.bronto.com
 appchoices.rubiconproject.com
 appcloud-node-stage.corp.flurry.com
 appconsent.mgr.consensu.org
+appcues.com
 appdemo.eazybiz.ng
 appdeploy.infra.braze.com
 appdev.addthis.com
@@ -21373,6 +21379,8 @@ auth-qa.resonate.com
 auth-san.exacttarget.com
 auth-service.mediaforge.com
 auth-smoke.nonprod.flurry.com
+auth-staging.appcues.com
+auth-staging.proof-x.com
 auth-staging.usabilla.com
 auth.a.pxi.pub
 auth.adfox.ru
@@ -21380,6 +21388,7 @@ auth.advidi.com
 auth.adx1.com
 auth.api.driftt.com
 auth.app.returnpath.net
+auth.appcues.com
 auth.ascend.ai
 auth.audience.acpm.fr
 auth.avs.io
@@ -21409,6 +21418,7 @@ auth.navegg.com
 auth.newrelic.com
 auth.oribi.io
 auth.poc.exacttarget.com
+auth.proof-x.com
 auth.qa1.exacttarget.com
 auth.qa2.exacttarget.com
 auth.qa3.exacttarget.com
@@ -24041,6 +24051,8 @@ bload.adhood.com
 bload.sumo.com
 blob.omnitagjs.com
 blobs.omnitagjs.com
+block-editor-staging.proof-x.com
+block-editor.proof-x.com
 block-test.developerdan.com
 blockbuster.112.2o7.net
 blockbustercom.112.2o7.net
@@ -24055,6 +24067,8 @@ blockeu.secure.ace-tag.advertising.com.adcom.akadns.net
 blockeu.secure.ace.advertising.com.adcom.akadns.net
 blockshopper-d.openx.net
 blockshopper-d3.openxenterprise.com
+blocksjs-staging.proof-x.com
+blocksjs.proof-x.com
 bloem.gmial.com
 blog-assets.newrelic.com
 blog-contaazul.onesignal.com
@@ -25090,6 +25104,7 @@ bumlam.com
 bundle-dev.clearstream.tv
 bundle-staging.clearstream.tv
 bundle.clearstream.tv
+bundler.appcues.com
 bung.com
 bungeltd.na.dir.bung.com
 bungie.greenhouse.io
@@ -26930,6 +26945,7 @@ cdn.andy-forms-content-andy.sendgrid.net
 cdn.andy2-forms-content-andy2.sendgrid.net
 cdn.aniview.com
 cdn.apac.xplosion.de
+cdn.appcues.com
 cdn.appdynamics.com
 cdn.appsflyer.com
 cdn.aralego.com
@@ -27225,6 +27241,7 @@ cdn.playbuzz.com
 cdn.postrelease.com
 cdn.powerbi.com
 cdn.prod.paperg.com
+cdn.proof-x.com
 cdn.propellerads.com
 cdn.pubexchange.com
 cdn.public.pushspring.com
@@ -28646,6 +28663,7 @@ cle-de-peau.extole.io
 cle.vid.springserve.com
 clean.gg
 clearbit.com
+clearbitjs.com
 clearcdg.thirdpresence.com
 clearchannel.122.2o7.net
 clearchannel.adswizz.com
@@ -30676,6 +30694,7 @@ config.mediavine.com
 config.parsely.com
 config.pek1.vip.inmobi.com
 config.pfa.gcp.datamind.ru
+config.samsungads.com
 config.sensic.net
 config.tremorhub.com
 config.uca.cloud.unity3d.com
@@ -30983,6 +31002,7 @@ content.pilot.silverpop.com
 content.pixlee.com
 content.postrelease.com
 content.promediaconverter.com
+content.proof-x.com
 content.qa-dest.imprev.net
 content.qa.imprev.net
 content.quantcount.com
@@ -32112,6 +32132,7 @@ cspreporter.optimizely.com
 csr.admaster.com.cn
 csr.plan.admaster.com.cn
 csre.mediamath.com
+css.appcues.com
 css.dc-storm.com
 css.pardot.com
 css.vidconlab.acxiom.com
@@ -34657,6 +34678,7 @@ dev.powerbi.com
 dev.ppe.applicationinsights.io
 dev.ppe.applicationinsights.microsoft.com
 dev.prebid.org
+dev.proof-x.com
 dev.pursuanthealth.com
 dev.pxsrv.net
 dev.qa.facebook-ads.adtz.com
@@ -34811,10 +34833,12 @@ development-tiles.simpli.fi
 development-us.preview.tenjin.com
 development.adx1.com
 development.blis.com
+development.bundler.appcues.com
 development.d1.impact-ad.jp
 development.hybrid.ai
 development.infusionsoft.com
 development.knightbridge.acxiom.com
+development.my.appcues.com
 develrc-api.dz.optimizely.com
 develrc-app.optimizely.com
 develrc.app.optimizely.com
@@ -36980,6 +37004,7 @@ e.mktoedge.com
 e.mktossl.com
 e.monetate.net
 e.optvdo.com
+e.proof-x.com
 e.quartic.pl
 e.redbox.com
 e.s1.exct.net
@@ -38024,6 +38049,7 @@ email.advertisingbox.com
 email.advidi.com
 email.adx1.com
 email.appboy.com
+email.appcues.com
 email.applovin.com
 email.apps.elfsight.com
 email.appsee.com
@@ -38378,6 +38404,7 @@ energypower.backup.sh
 enervee-product-images.bannerflow.com
 enflick-d.openx.net
 eng-blog.paperg.com
+eng.appcues.com
 eng.appdynamics.com
 eng.leanplum.com
 eng.localytics.com
@@ -38494,6 +38521,7 @@ enovoapac-app.quantummetric.com
 enpartners.silveregg.net
 enquete.gl.macromill.com
 enquiries14e59c.clickfunnels.com
+enrich.proof-x.com
 enricher.stg.apester.com
 enrichment.api.drift.com
 enrolementweb.audience.acpm.fr
@@ -39696,8 +39724,10 @@ events.netseer.com
 events.onedigitalad.com
 events.privy.com
 events.prod.bidr.io
+events.proof-x.com
 events.quantummetric.com
 events.salesloft.com
+events.samsungads.com
 events.segment.com
 events.set.tv
 events.simpli.fi
@@ -40713,6 +40743,8 @@ fashionesta.adspirit.de
 fashionismo.onesignal.com
 fashionreview.onesignal.com
 fassetmanager.webtrends.com
+fast-crx.appcues.com
+fast-nc.appcues.com
 fast.a.klaviyo.com
 fast.aaas.demdex.net
 fast.adobe.demdex.net
@@ -40720,6 +40752,7 @@ fast.aexp.demdex.net
 fast.airbus.demdex.net
 fast.ais.demdex.net
 fast.anshin.demdex.net
+fast.appcues.com
 fast.asahishimbun.demdex.net
 fast.asiamiles.demdex.net
 fast.audiag.demdex.net
@@ -44825,6 +44858,7 @@ go.amplitude.com
 go.aniview.com
 go.app.link
 go.appboy.com
+go.appcues.com
 go.applovin.com
 go.appnexus.com
 go.automatad.com
@@ -45516,6 +45550,7 @@ graph.apne2.st-av.net
 graph.df-srv.de
 graph.euw1.st-av.net
 graph.m-freeway.com
+graph.proof-x.com
 graph.sae1.st-av.net
 graph.segment.com
 graph.traefik.df-srv.de
@@ -47698,6 +47733,7 @@ hubert.iad-03.braze.com
 hubexchange.exacttarget.com
 hubpages-d.openx.net
 hubs.rtbiq.com
+hubspot-site.appcues.com
 hubspot-test-subdomain.hs-scripts.com
 hubspot.clearbit.com
 hubspot.greenhouse.io
@@ -48465,6 +48501,7 @@ ideals.drift.com
 ideanb1expert.onesignal.com
 ideaonlineshop.silveregg.net
 idearc.tt.omtrdc.net
+ideas.appcues.com
 ideas.bronto.com
 ideas.engagio.com
 ideas.leadfeeder.com
@@ -48816,6 +48853,7 @@ image.adjug.com
 image.admedo.com
 image.adserver01.de
 image.advance.net
+image.appcues.com
 image.atdmt.com
 image.boa.exacttarget.com
 image.cbsi.com
@@ -49996,6 +50034,7 @@ insanebars.hop.clickbank.net
 inshared.blueconic.net
 inside-forter.forter.com
 inside.adpushup.com
+inside.appcues.com
 inside.getambassador.com
 inside.hm-test.vergic.com
 inside.hotjar.com
@@ -55485,6 +55524,7 @@ logging.glogging.ar.atwola.com
 logging.newstags.stag.bounceexchange.com
 logging.ops.tradedoubler.com
 logging.pinch.no
+logging.samsungads.com
 logging.sandbox53.localytics.com
 logging.vungle.com
 logging.webspectator.com
@@ -60823,6 +60863,7 @@ my.adserver.yahoo.com
 my.adsttc.com
 my.aidata.me
 my.aip.insightexpressai.com
+my.appcues.com
 my.bidswitch.net
 my.boldchat.com
 my.browser.360.cn
@@ -69577,6 +69618,7 @@ presentation-atl1.turn.com
 presentation-hkg1.turn.com
 presentation-sjc2.turn.com
 presentation.analyticson.com
+presenting.appcues.com
 president-usd-d.openx.net
 presidentscup.com.ssl.sc.omtrdc.net
 press-citizen.com.sc.omtrdc.net
@@ -69639,6 +69681,7 @@ preview.platform.sizmek.com
 preview.powerbi.com
 preview.prod.sizmdx.com
 preview.prod.sizmek.com
+preview.proof-x.com
 preview.quantserve.com
 preview.returnpath.net
 preview.sele.co
@@ -70365,6 +70408,7 @@ promotable.crazyegg.com
 promotions.privy.com
 promotions.skype.com
 prontera.inlocomedia.com
+proof-x.com
 proof.ovh.net
 propane15751z.btttag.com
 propark.extole.io
@@ -70467,6 +70511,7 @@ proxy-vmrc-001.rbx.vps.ovh.net
 proxy-vmrc-001.sbg.vps.ovh.net
 proxy.adnxs.com
 proxy.allinviews.com
+proxy.appcues.com
 proxy.apponic.com
 proxy.ascend.ai
 proxy.beeviewd.com
@@ -70793,6 +70838,7 @@ public-webservice.apdc4.adpushup.com
 public-webservice.geo.adpushup.com
 public.53.localytics.com
 public.adyoulike.com
+public.appcues.com
 public.billing.master.postgres.mopub.com
 public.cobrowse.oraclecloud.com
 public.dable.io
@@ -76242,6 +76288,7 @@ samsung.ecorebates.com
 samsung.mobile.uu.163.com
 samsung.netmng.com
 samsung.ydigitalmedia.com
+samsungads.com
 samsungafrica.demdex.net
 samsungafrica.tt.omtrdc.net
 samsungazetesi.onesignal.com
@@ -76831,7 +76878,9 @@ screenshot.brandads.net
 screenshot.convertcart.com
 screenshot.triplelift.com
 screenshot.visualwebsiteoptimizer.com
+screenshots-staging.cdn.appcues.com
 screenshots.bugherd.com
+screenshots.cdn.appcues.com
 screenshots.propellerads.com
 screentek.corp.com
 screenwritingu.clickfunnels.com
@@ -76965,6 +77014,7 @@ sdk.adform.com
 sdk.adkmob.com
 sdk.adotmob.com
 sdk.api.xtify.com
+sdk.appcues.com
 sdk.appsflyer.com
 sdk.avidly.com
 sdk.beeketing.com
@@ -77557,6 +77607,7 @@ segment-v4-e2e.sendgrid.net
 segment-v4-production.sendgrid.net
 segment-v4-staging.sendgrid.net
 segment.a3cloud.net
+segment.appcues.com
 segment.babynamewizard.com
 segment.com
 segment.dev.satismeter.com
@@ -81571,6 +81622,7 @@ staging-api.keen.io
 staging-api.sele.co
 staging-api.spot.im
 staging-api.survicate.com
+staging-app.proof-x.com
 staging-appengage-video.fyber.com
 staging-as-jp-sync.bidswitch.net
 staging-as-jp.bidswitch.net
@@ -81742,6 +81794,7 @@ staging.bizible.com
 staging.blog.adblade.com
 staging.bounceexchange.com
 staging.brightedge.com
+staging.bundler.appcues.com
 staging.bytegain.com
 staging.c.msas.media.net
 staging.c.vindicosuite.com
@@ -81820,6 +81873,7 @@ staging.mediabong.net
 staging.mediavoice.com
 staging.monumetric.com
 staging.msrv.saastest.appdynamics.com
+staging.my.appcues.com
 staging.my.getadmiral.com
 staging.neatab.com
 staging.netseer.com
@@ -82571,6 +82625,7 @@ status.airfind.com
 status.airpr.com
 status.amplitude.com
 status.appboy.com
+status.appcues.com
 status.appnexus.com
 status.appsee.com
 status.appsflyer.com
@@ -83064,6 +83119,7 @@ studio-t.teads.tv.edgekey.net
 studio-tag.teads.tv
 studio.adadyn.com
 studio.adform.com
+studio.appcues.com
 studio.bidtheatre.com
 studio.brainient.com
 studio.criteo.com
@@ -87594,6 +87650,7 @@ try-staging.newrelic.com
 try.abtasty.com
 try.adglare.net
 try.appboy.com
+try.appcues.com
 try.applovin.com
 try.bannerflow.com
 try.cdn.adglare.net
@@ -93573,6 +93630,7 @@ vulcan.branch.io
 vulcan.phx.bluekai.com
 vulcan.stage.branch.io
 vulcan.wdc.bluekai.com
+vulpix.appcues.com
 vungle-cdn.vungle.com
 vungle.akadns.net
 vungle.com
@@ -96316,6 +96374,7 @@ www.app.visualwebsiteoptimizer.com
 www.appboy.com
 www.appboycdn.com
 www.appcenter.bronto.com
+www.appcues.com
 www.appdemo.eazybiz.ng
 www.appdynamics.com
 www.appier.net
@@ -98358,6 +98417,7 @@ www.mxcdn.net
 www.mxl.connexity.net
 www.mxptint.net
 www.my-ssl.effectivemeasure.net
+www.my.appcues.com
 www.my.evidon.com
 www.my.getadmiral.com
 www.my.getambassador.com
@@ -99042,6 +99102,7 @@ www.sample.adthrive.com
 www.sample.crazyegg.com
 www.samplicio.us
 www.samsung.facebook-ads.adtz.com
+www.samsungads.com
 www.sanalytics.ncaa.com
 www.sarahconnorforever.go.pl
 www.sascdn.com
@@ -100402,6 +100463,7 @@ x-xws.adj.st
 x.163.com
 x.bidswitch.net
 x.clearbit.com
+x.clearbitjs.com
 x.dlx.addthis.com
 x.everesttech.net
 x.flashtalking.com
