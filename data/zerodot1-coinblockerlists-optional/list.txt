@@ -66,6 +66,7 @@ api.prime.coinbase.com
 api.pro.coinbase.com
 api.quadrigacx.com
 api.sandbox.coinbase.com
+api.vinchain.io
 api01.ledgerwallet.com
 api02.ledgerwallet.com
 api1.bithumb.com
@@ -75,6 +76,7 @@ apidocs.bithumb.com
 apidocs.m.bithumb.com
 app.analytics.coinbase.com
 app.bixin.im
+app.vinchain.io
 app0.a-ads.com
 apps.cointraffic.io
 apps.ledgerwallet.com
@@ -113,6 +115,7 @@ bitpay.com
 bittip.coinbase.com
 bixin.im
 blocked.mymonero.com
+blockexplorer.vinchain.io
 blog-dev.coinbase.com
 blog-staging.coinbase.com
 blog.bitpay.com
@@ -196,7 +199,9 @@ dev.cointraffic.io
 dev.quadrigacx.com
 dev.rockwall.investments
 dev.simplemining.net
+dev.vinchain.io
 devapi.quadrigacx.com
+devapp.vinchain.io
 developer.coinbase.com
 developers.coinbase.com
 development.btcturk.com
@@ -255,6 +260,7 @@ ex-notify.coinbase.com
 exceptions.coinbase.com
 exchange.coinbase.com
 explorer.burstpay.io
+explorer.vinchain.io
 faucet.evergreencoin.org
 faucethub.io
 feed.exchange.coinbase.com
@@ -419,6 +425,7 @@ netvision.cryptopia.co.nz
 network.cryptopia.co.nz
 next.btc-alpha.com
 node.jwallet.network
+node.vinchain.io
 nodes1.cryptopia.co.nz
 nodes2.cryptopia.co.nz
 nostalgia.bitfinex.com
@@ -443,6 +450,7 @@ pandaminer.co
 parners.cryptopia.co.nz
 parthk.co.uk
 pay.bithumb.com
+payments.vinchain.io
 peerhash.com
 pg-relay.bithumb.com
 poc.simplemining.net
@@ -472,6 +480,7 @@ public.sandbox.prime.coinbase.com
 public.sandbox.pro.coinbase.com
 push.bithumb.com
 quadrigacx.com
+quality.vinchain.io
 r1.bithumb.com
 r2.bithumb.com
 r3.bithumb.com
@@ -555,6 +564,7 @@ test.cryptopia.co.nz
 test.ledgerwallet.com
 test.rockwall.investments
 test.simplemining.net
+test.vinchain.io
 ticker.epic-ticker.tech
 tm.btcturk.com
 to.cur.lv
@@ -573,7 +583,10 @@ ups.cryptopia.co.nz
 url8362.bitpay.com
 us.binance.com
 utils.jaxx.io
+validate.vinchain.io
 ventures.coinbase.com
+verify.vinchain.io
+vinchain.io
 vip.coinmama.com
 w.cryptopia.co.nz
 waiting.bithumb.com
@@ -581,6 +594,7 @@ wallet.burstpay.io
 wallet.coinbase.com
 wallet.commerce.coinbase.com
 wallet.trezor.io
+wallet.vinchain.io
 web.bixin.im
 web1.hashgains.com
 web2.hashgains.com
@@ -613,6 +627,7 @@ ws.ledgerwallet.com
 ws.quadrigacx.com
 ws.sandbox.coinbase.com
 wss.bithumb.com
+wss.vinchain.io
 wss1.bithumb.com
 ww.cryptopia.co.nz
 www.0x.mycrypto.com
@@ -763,6 +778,7 @@ www.trezor.io
 www.uclick.in
 www.upcoin.com
 www.us.binance.com
+www.vinchain.io
 www.wallet.trezor.io
 www.whattomine.com
 www.wiki.trezor.io
