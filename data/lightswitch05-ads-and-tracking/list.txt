@@ -2628,6 +2628,7 @@
 2f5f651e72.akstat.io
 2f60062f05.akstat.io
 2f60062f06.akstat.io
+2f60062f07.akstat.io
 2f60062f08.akstat.io
 2f60062f09.akstat.io
 2f60062f0a.akstat.io
@@ -2635,6 +2636,7 @@
 2f60062f0c.akstat.io
 2f684d0d38.akstat.io
 2f684dd30a.akstat.io
+2f684fc53b.akstat.io
 2f686eb51a.akstat.io
 2f6b148a22.akstat.io
 2f6b148a64.akstat.io
@@ -30975,6 +30977,7 @@ collector-px2gsjhc90.perimeterx.net
 collector-px2ldwspdg.perimeterx.net
 collector-px2pmxpr54.perimeterx.net
 collector-px2qgibktu.perimeterx.net
+collector-px2qgibktu.px-cloud.net
 collector-px2tcs0qig.perimeterx.net
 collector-px2wixzdhx.perimeterx.net
 collector-px2wixzdhx.px-cdn.net
@@ -30995,12 +30998,14 @@ collector-px3c3ez9ug.perimeterx.net
 collector-px3c3ez9ug.px-cloud.net
 collector-px3c3ez9ug.pxchk.net
 collector-px3cvqbi14.perimeterx.net
+collector-px3cvqbi14.px-cloud.net
 collector-px3cvqbi14.pxchk.net
 collector-px3e9m4ebb.perimeterx.net
 collector-px3h2ds8p1.perimeterx.net
 collector-px3h2ds8p1.pxchk.net
 collector-px3t7fwqg6.perimeterx.net
 collector-px3t7fwqg6.px-cdn.net
+collector-px3t7fwqg6.px-cloud.net
 collector-px3t7fwqg6.pxchk.net
 collector-px3thq532g.perimeterx.net
 collector-px3thq532g.px-cdn.net
@@ -31018,6 +31023,7 @@ collector-px4rn57kj2.px-cdn.net
 collector-px4vmagn4o.px-cloud.net
 collector-px5001.pxchk.net
 collector-px54pltfoq.perimeterx.net
+collector-px5cabblk1.px-cloud.net
 collector-px5cg3t23p.perimeterx.net
 collector-px5fxqwmtm.perimeterx.net
 collector-px5j5h9cc2.perimeterx.net
@@ -31050,6 +31056,7 @@ collector-px6tosdlh8.px-cdn.net
 collector-px6tosdlh8.px-cloud.net
 collector-px6tosdlh8.pxchk.net
 collector-px6xnn2xkk.perimeterx.net
+collector-px6xnn2xkk.px-cloud.net
 collector-px6ze6vybh.perimeterx.net
 collector-px7001.perimeterx.net
 collector-px7001.pxchk.net
@@ -31072,6 +31079,7 @@ collector-px81wk13v6.perimeterx.net
 collector-px81wk13v6.px-cloud.net
 collector-px81wk13v6.pxchk.net
 collector-px85fbc6q9.perimeterx.net
+collector-px85fbc6q9.px-cloud.net
 collector-px85fbc6q9.pxchk.net
 collector-px879tg0qa.perimeterx.net
 collector-px879tg0qa.px-cdn.net
@@ -31109,6 +31117,7 @@ collector-px9gxgqy6v.px-cloud.net
 collector-px9gxgqy6v.pxchk.net
 collector-px9heeaowf.perimeterx.net
 collector-px9popoyoe.perimeterx.net
+collector-px9popoyoe.px-cloud.net
 collector-px9qx3rve4.perimeterx.net
 collector-px9qziyplm.px-cloud.net
 collector-px9vyuvz4f.perimeterx.net
@@ -31194,6 +31203,7 @@ collector-pxdz588q90.px-cloud.net
 collector-pxe8kfvgtl.perimeterx.net
 collector-pxe9noujil.perimeterx.net
 collector-pxe9noujil.px-cdn.net
+collector-pxe9noujil.px-cloud.net
 collector-pxektvxkq2.perimeterx.net
 collector-pxektvxkq2.px-cloud.net
 collector-pxektvxkq2.pxchk.net
@@ -31535,6 +31545,7 @@ collector-pxtsf7wcbr.px-cloud.net
 collector-pxtsf7wcbr.pxchk.net
 collector-pxtu0h5frq.perimeterx.net
 collector-pxtu0h5frq.px-cdn.net
+collector-pxtu0h5frq.px-cloud.net
 collector-pxtw69u8ub.perimeterx.net
 collector-pxtw69u8ub.px-cdn.net
 collector-pxtw69u8ub.pxchk.net
@@ -31615,6 +31626,7 @@ collector-pxxgcxm9by.px-cdn.net
 collector-pxxgcxm9by.px-cloud.net
 collector-pxxgcxm9by.pxchk.net
 collector-pxxgwm9nuh.perimeterx.net
+collector-pxxgwm9nuh.px-cloud.net
 collector-pxxiuo7qtj.perimeterx.net
 collector-pxxiuo7qtj.pxchk.net
 collector-pxxlphc6n3.px-cdn.net
@@ -38542,6 +38554,7 @@ e-10208.adzerk.net
 e-10220-us-east-1.adzerk.net
 e-10220.adzerk.net
 e-10225.adzerk.net
+e-10250.adzerk.net
 e-10251.adzerk.net
 e-10273-us-east-1.adzerk.net
 e-10273.adzerk.net
@@ -41639,6 +41652,7 @@ events.intuit.launchdarkly.com
 events.ispot.tv
 events.kws.staging.superawesome.tv
 events.kws.superawesome.tv
+events.launchdarkly.com
 events.lb.foreseeresults.com
 events.linkstorm.net
 events.liveramp.com
@@ -71902,6 +71916,7 @@ platform.liquidm.com
 platform.liverail.com
 platform.madisonlogic.com
 platform.mall.163.com
+platform.massrelevance.com
 platform.mediamind.com
 platform.mobileapptracking.com
 platform.onetag.net
@@ -86676,6 +86691,7 @@ stats.jpush.cn
 stats.juicyads.com
 stats.l.doubleclick.net
 stats.ligatus.com
+stats.lobster-writer.co.uk
 stats.lotlinx.com
 stats.mediaforge.com
 stats.mobpro.com
