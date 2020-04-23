@@ -45,7 +45,7 @@
   {"name": "hosts-file.net-wrz",                 "enabled": true,  "format": "hosts",   "url": "https://hosts-file.net/wrz.txt"},
   {"name": "hostsvn",                            "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN"},
   {"name": "kadhosts",                           "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt"},
-  {"name": "lightswitch05-ads-and-tracking",     "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt"},
+  {"name": "lightswitch05-ads-and-tracking",     "enabled": true,  "format": "hosts",   "url": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt"},
   {"name": "malwaredomainlist.com",              "enabled": true,  "format": "hosts",   "url": "https://www.malwaredomainlist.com/hostslist/hosts.txt"},
   {"name": "malwaredomains.com-immortaldomains", "enabled": true,  "format": "hosts",   "url": "https://malwaredomains.usu.edu/immortal_domains.txt"},
   {"name": "malwaredomains.com-justdomains",     "enabled": true,  "format": "hosts",   "url": "https://malwaredomains.usu.edu/justdomains"},
