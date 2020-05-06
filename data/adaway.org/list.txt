@@ -241,6 +241,7 @@
 3056.engine.mobileapptracking.com
 30572.api.swrve.com
 30572.content.swrve.com
+30572.identity.swrve.com
 30575.api.swrve.com
 30576.api.swrve.com
 30576.content.swrve.com
@@ -681,17 +682,24 @@ a2dfp.net
 a2pub.com
 a3.chartboost.com
 a50.g2.akamai.net
+a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 a8.net
 a9.com
 aa-d.openx.net
 aa.adfarm1.adition.com
+aa.online-metrix.net
+aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com
 aa7bd76554cff2d93d33288d31aa6839.api.appsee.com
 aajtak.pushwoosh.com
 aalb.de17a.com
+aan.amazon.com
 aan.cdn.speedshiftmedia.com
 aan.speedshiftmedia.com
 aarki.com
 aax-us-east.amazon-adsystem.com
+aax-us-iad.amazon.com
+aax-us.amazon-adsystem.com
+aax.amazon-adsystem.com
 ab-mknodepub.marketo.com
 ab.airpush.com
 ab.batmobi.net
@@ -1626,6 +1634,7 @@ adx.admicro.vn
 adx.adnxs.com
 adx.ads.oppomobile.com
 adx.callback.batmobi.net
+adx.g.doubleclick.net
 adx.kul.vn
 adx.lsosad.com
 adx.noahmob.com
@@ -1875,6 +1884,7 @@ analytics-ext-prod.us-east-1.elasticbeanstalk.com
 analytics-gb-nfl.yinzcam.com
 analytics-gcp.tout.com
 analytics-ingest.creative-mobile.com
+analytics-ingestion.production-public.tubi.io
 analytics-ingestion.staging-public.tubi.io
 analytics-iwtg-ten.yinzcam.com
 analytics-league-lfp.yinzcam.com
@@ -1928,6 +1938,7 @@ analytics.icons8.com
 analytics.ihbsoft.com
 analytics.in-tend.co.uk
 analytics.jabong.com
+analytics.jumboprivacy.com
 analytics.kaltura.com
 analytics.kingoapp.com
 analytics.kongregate.io
@@ -2427,6 +2438,7 @@ api2.batmobi.net
 api2.bounceexchange.com
 api2.branch.io
 api2.chartbeat.com
+api2.okanjo.com
 api2.poperblocker.com
 api2.restartad.com
 api3.siftscience.com
@@ -2869,6 +2881,8 @@ atrack-a.anthill.vn
 atracking-auto.appflood.com
 atracking-use.appflood.com
 atrk.alexametrics.com
+att.productmadness.com
+att.sc.omtrdc.net
 atti.com
 attr.appsflyer.com
 au-gmtdmp.gd3.mookie1.com
@@ -3587,6 +3601,7 @@ cdn.cmp.advertising.com
 cdn.coinad.com
 cdn.comedia.coccoc.com
 cdn.concert.io
+cdn.cookielaw.org
 cdn.creative.medialytics.com
 cdn.crwdcntrl.net
 cdn.curalate.com
@@ -3654,6 +3669,7 @@ cdn.natpal.com
 cdn.o333o.com
 cdn.oas-c18.adnxs.com
 cdn.oas-eu1.adnxs.com
+cdn.okanjo.com
 cdn.onscroll.com
 cdn.onthe.io
 cdn.optimizely.com
@@ -4280,6 +4296,7 @@ cookie.brealtime.com
 cookie.sync.ad.cpe.dotomi.com
 cookie.vrtzads.com
 cookieads.fuse-ad.com
+cookies.onetrust.mgr.consensu.org
 cookiesync.mparticle.com
 cookiesync.vertamedia.com
 cooladata.kampyle.com
@@ -4334,7 +4351,6 @@ cr171.mta.exacttarget.com
 cr71.mta.exacttarget.com
 cr91.mta.exacttarget.com
 crab.baidu.com
-crackle.demdex.net
 crash-metrics.sdk.inmobi.com
 crash.163.com
 crasheye.cn
@@ -5432,6 +5448,7 @@ fetch.yourblocksite.com
 fexclick.baidu.com
 ffcdn3.featureforward.com
 ffcdn4.featureforward.com
+ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 fi-gmtdmp.mookie1.com
 fidelity-media-ssp.rtb.adx1.com
 fidelity-media.com
@@ -5455,6 +5472,7 @@ fimc.net
 findep.adnow.com
 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 finlogs.joyeggs.com
+firebase-settings.crashlytics.com
 first.iovation.com
 firstimpression.io
 fizzylabs.afftrack.com
@@ -5682,6 +5700,7 @@ geoip.fotoable.net
 geoip.goforandroid.com
 geoip.ifunny.co
 geoip.propellerads.com
+geolocation.onetrust.com
 geoplugin.net
 geopulse.factual.com
 geoworker.ayads.co
@@ -5717,6 +5736,7 @@ glb-ads.legacy.adtechus.com
 glb-ads.nejm.adtechus.com
 glbg.logsss.com
 glbgcl.logsss.com
+glimmer.hearstapps.com
 glispa.com
 globadmedia.com
 global.adserver.yahoo.com
@@ -5878,6 +5898,7 @@ h-signifyd.online-metrix.net
 h.atdmt.com
 h.imguol.com
 h.mobcells.com
+h.online-metrix.net
 h.openx.net
 h.parrable.com
 h12-media.com
@@ -5890,6 +5911,7 @@ ha.pushwoosh.com
 haaretz.pushwoosh.com
 hadarone.com
 hades.getsocial.im
+hail-reporting.tutelatechnologies.com
 halc.iadvize.com
 hao123.com.com
 hao123union.baidu.com
@@ -6025,6 +6047,7 @@ i.apis.com
 i.appflood.com
 i.casalemedia.com
 i.cdn.openx.com
+i.clean.gg
 i.clickagy.com
 i.connectad.io
 i.goadservices.com
@@ -6385,6 +6408,7 @@ index-winners-us-west-2-rtb.adroll.com
 indus.iad-01.braze.com
 inferna.iad-03.braze.com
 infinite-mobility.g2afse.com
+infinity-c4.youboranqs01.com
 influencers.tapinfluence.com
 info.adacado.com
 info.adspruce.com
@@ -6689,6 +6713,8 @@ kimia.es
 kinesis.us-east-1.amazonaws.com
 kinesisanalytics.eu-central-1.amazonaws.com
 kinesisanalytics.eu-west-1.amazonaws.com
+king-candycrush-prod.secure2.footprint.net
+king-contenido-prod.secure2.footprint.net
 kiosked.com
 kissmyads.go2jump.org
 kits.crashlytics.com
@@ -7341,6 +7367,7 @@ metrics-cbslocal-com.cdn.ampproject.org
 metrics-collector.onscroll.com
 metrics-collector.s-onetag.com
 metrics-collector.us.onscroll.com
+metrics-logger.spot.im
 metrics.adnetwork.vn
 metrics.advisorchannel.com.edgekey.net
 metrics.ambient-platform.com
@@ -7507,6 +7534,7 @@ mobile.eum-appdynamics.com
 mobile.game-insight.com
 mobile.ib.sin1.geoadnxs.com
 mobile.itsbetter.com
+mobile.launchdarkly.com
 mobile.mediabrix.com
 mobile.mng-ads.com
 mobile.mofowl.com
@@ -8391,6 +8419,7 @@ pgpl.g5e.com
 ph-gmtdmp.mookie1.com
 ph5t.adups.com
 phabricator.leanplum.com
+phar.gu-web.net
 phawk.parrable.com
 phillateemis.iad-03.braze.com
 philly-d.openx.net
@@ -8448,6 +8477,7 @@ pixel.bounceexchange.com
 pixel.carambo.la
 pixel.cdnwidget.com
 pixel.digitru.st
+pixel.facebook.com
 pixel.keywee.co
 pixel.mathtag.com
 pixel.mediaiqdigital.com
@@ -8911,6 +8941,7 @@ rarenok.biz
 rasmas.inmar.com
 rastaban.iad-03.braze.com
 ratkoqa.midasplayer.com
+rawtelemetry-west.servicebus.windows.net
 rayjump.com
 rb.adnxs.com
 rbc.medialand.ru
@@ -9291,6 +9322,7 @@ s.po.st
 s.pubmine.com
 s.servedby-buysellads.com
 s.sharethis.com
+s.skimresources.com
 s.ssacdn.com
 s.supersonicads.com
 s.tagsrvcs.com
@@ -10006,6 +10038,7 @@ smarttravel-d.openx.net
 smartyads.rtb.adx1.com
 smartyadsdisplay.rtb.adx1.com
 smetrics.aa.com
+smetrics.att.com
 smetrics.bestbuy.com
 smetrics.boston.com
 smetrics.chrysler.com
@@ -10715,6 +10748,7 @@ tagmans3.adsolutions.com
 tags-cdn.deployads.com
 tags-eu.tiqcdn.com
 tags-prod.vrvm.com
+tags.acmeaom.com
 tags.adriver.ru
 tags.adsafety.net
 tags.affiliatefuture.com
@@ -10941,6 +10975,7 @@ tools.3g.qq.com
 tools.mgid.com
 tools.pubmatic.com
 top20.com
+topapps-func.pinsightmedia.com
 topblock.lentainform.com
 topblogarea.se
 topix-d.openx.net
