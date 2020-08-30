@@ -57,7 +57,7 @@
   {"name": "phishing.army",                      "enabled": true,  "format": "hosts",   "url": "https://phishing.army/download/phishing_army_blocklist.txt"},
   {"name": "phishing.army-extended",             "enabled": true,  "format": "hosts",   "url": "https://phishing.army/download/phishing_army_blocklist_extended.txt"},
   {"name": "someonewhocares.org",                "enabled": true,  "format": "hosts",   "url": "https://someonewhocares.org/hosts/hosts"},
-  {"name": "spam404.com",                        "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt"},
+  {"name": "spam404.com",                        "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt"},
   {"name": "stevenblack",                        "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts"},
   {"name": "stopforumspam.com",                  "enabled": true,  "format": "hosts",   "url": "https://stopforumspam.com/downloads/toxic_domains_whole.txt"},
   {"name": "ublock",                             "enabled": true,  "format": "adblock", "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt"},
