@@ -49,6 +49,7 @@
   {"name": "stevenblack",                        "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts"},
   {"name": "stopforumspam.com",                  "enabled": true,  "format": "hosts",   "url": "https://stopforumspam.com/downloads/toxic_domains_whole.txt"},
   {"name": "ublock",                             "enabled": true,  "format": "adblock", "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt"},
+  {"name": "ublock-abuse",                       "enabled": true,  "format": "adblock", "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt"},
   {"name": "ublock-badware",                     "enabled": true,  "format": "adblock", "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt"},
   {"name": "ublock-privacy",                     "enabled": true,  "format": "adblock", "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt"},
   {"name": "urlhaus",                            "enabled": true,  "format": "hosts",   "url": "https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt"},
