@@ -11,11 +11,12 @@ SCRIPT_DIR="$(CDPATH='' cd -- "$(dirname -- "${0:?}")" && pwd -P)"
 
 main() {
 	updatedSources="$(git ls-files --modified --other -- "${SCRIPT_DIR:?}/data/" | sed -ne 's|.*/\(.*\)/list\.txt$|* \1|p')"
-	commitMsg="$(printf -- '%s\n%s' 'Updated sources:' "${updatedSources:?}")"
-
-	git add "${SCRIPT_DIR:?}/data/"
-	git commit -m "${commitMsg:?}"
-	git push origin master
+	if [ -n "${updatedSources?}" ]; then
+		commitMsg="$(printf -- '%s\n%s' 'Updated sources:' "${updatedSources:?}")"
+		git add "${SCRIPT_DIR:?}/data/"
+		git commit -m "${commitMsg:?}"
+		git push origin master
+	fi
 }
 
 main "${@-}"
