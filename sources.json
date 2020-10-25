@@ -32,7 +32,7 @@
   {"name": "fanboy-social",                      "enabled": true,  "format": "adblock", "url": "https://easylist.to/easylist/fanboy-social.txt"},
   {"name": "gfrogeye-firstparty-trackers",       "enabled": true,  "format": "hosts",   "url": "https://hostfiles.frogeye.fr/firstparty-trackers.txt"},
   {"name": "hostsvn",                            "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN"},
-  {"name": "kadhosts",                           "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt"},
+  {"name": "kadhosts",                           "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"},
   {"name": "kowabit.de-kwbtlist",                "enabled": true,  "format": "hosts",   "url": "https://kowabit.de/blocklist/kwbtlist.txt"},
   {"name": "lightswitch05-ads-and-tracking",     "enabled": true,  "format": "hosts",   "url": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt"},
   {"name": "malwaredomainlist.com",              "enabled": true,  "format": "hosts",   "url": "https://www.malwaredomainlist.com/hostslist/hosts.txt"},
