@@ -38,7 +38,7 @@
   {"name": "malwaredomainlist.com",              "enabled": true,  "format": "hosts",   "url": "https://www.malwaredomainlist.com/hostslist/hosts.txt"},
   {"name": "malwaredomains.com-immortaldomains", "enabled": true,  "format": "hosts",   "url": "https://mirror1.malwaredomains.com/files/immortal_domains.txt"},
   {"name": "malwaredomains.com-justdomains",     "enabled": true,  "format": "hosts",   "url": "https://mirror1.malwaredomains.com/files/justdomains"},
-  {"name": "matomo.org-spammers",                "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt"},
+  {"name": "matomo.org-spammers",                "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt"},
   {"name": "mitchellkrogza-badd-boyz-hosts",     "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts"},
   {"name": "molinero.dev",                       "enabled": true,  "format": "hosts",   "url": "https://hblock.molinero.dev/hosts"},
   {"name": "pgl.yoyo.org",                       "enabled": true,  "format": "hosts",   "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext"},
