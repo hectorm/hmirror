@@ -13,9 +13,9 @@ main() {
 	updatedSources="$(git ls-files --modified --other -- "${SCRIPT_DIR:?}/data/" | sed -ne 's|.*/\(.*\)/list\.txt$|* \1|p')"
 	if [ -n "${updatedSources?}" ]; then
 		commitMsg="$(printf -- '%s\n%s' 'Updated sources:' "${updatedSources:?}")"
-		git add "${SCRIPT_DIR:?}/data/"
+		git add -- "${SCRIPT_DIR:?}/data/"
 		git commit -m "${commitMsg:?}"
-		git push origin master
+		git push origin HEAD
 	fi
 }
 
