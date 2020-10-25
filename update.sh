@@ -7,7 +7,7 @@
 set -eu
 export LC_ALL='C'
 
-SCRIPT_DIR="$(dirname "$(readlink -f "${0:?}")")"
+SCRIPT_DIR="$(CDPATH='' cd -- "$(dirname -- "${0:?}")" && pwd -P)"
 
 printInfo() { [ -t 1 ] && printf -- '\033[0m[\033[1;32mINFO\033[0m] %s\n' "${@}" || printf -- '[INFO] %s\n' "${@}"; }
 printWarn() { [ -t 1 ] && printf -- '\033[0m[\033[1;33mWARN\033[0m] %s\n' "${@}" >&2 || printf -- '[WARN] %s\n' "${@}" >&2; }
@@ -18,7 +18,7 @@ fetchUrl() { curl -fsSL -A 'Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100
 
 removeCRLF() { tr -d '\r'; }
 toLowercase() { tr '[:upper:]' '[:lower:]'; }
-removeComments() { sed -e "s/${1:?}.*//"; }
+removeComments() { sed -e 's/'"${1:?}"'.*//'; }
 trimWhitespace() { sed -e 's/^[[:blank:]]*//' -e 's/[[:blank:]]*$//'; }
 
 hostsToDomains() {
@@ -28,7 +28,7 @@ hostsToDomains() {
 	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z_-]\{1,62\}'
 
 	removeCRLF | toLowercase | removeComments '#' | trimWhitespace \
-		| sed -ne "/^\\(${ipRegex:?}[[:blank:]]\\{1,\\}\\)\\{0,1\\}${domainRegex:?}$/p" \
+		| sed -ne '/^\('"${ipRegex:?}"'[[:blank:]]\{1,\}\)\{0,1\}'"${domainRegex:?}"'$/p' \
 		| sed -e 's/^.\{1,\}[[:blank:]]\{1,\}//' \
 		| sort | uniq
 }
@@ -41,30 +41,31 @@ adblockToDomains() {
 
 	domainsPipe="$(mktemp -u)"
 	mkfifo -m 600 "${domainsPipe:?}" >/dev/null
-	sed -ne "s/^||\(${domainRegex:?}\)\^$/\1/p" "${contentFile:?}" | sort | uniq > "${domainsPipe:?}" &
+	sed -ne 's/^||\('"${domainRegex:?}"'\)\^$/\1/p' "${contentFile:?}" | sort | uniq > "${domainsPipe:?}" &
 
 	exceptionsPipe="$(mktemp -u)"
 	mkfifo -m 600 "${exceptionsPipe:?}" >/dev/null
-	sed -ne "s/^@@||\(${domainRegex:?}\).*/\1/p" "${contentFile:?}" | sort | uniq > "${exceptionsPipe:?}" &
+	sed -ne 's/^@@||\('"${domainRegex:?}"'\).*/\1/p' "${contentFile:?}" | sort | uniq > "${exceptionsPipe:?}" &
 
 	comm -23 "${domainsPipe:?}" "${exceptionsPipe:?}"
 	rm -f "${contentFile:?}" "${domainsPipe:?}" "${exceptionsPipe:?}" >/dev/null
 }
 
 main() {
-	sourceList="$(jq -r '.sources|map(select(.enabled))' "${SCRIPT_DIR:?}/sources.json")"
-	sourceCount="$(printf -- '%s' "${sourceList:?}" | jq -r '.|length-1')"
+	sources="$(jq -r '.sources|map(select(.enabled))' -- "${SCRIPT_DIR:?}/sources.json")"
+	sourcesTotal="$(jq -nr --argjson d "${sources:?}" '$d|length-1')"
 
 	tmpWorkDir="$(mktemp -d)"
 	trap 'rm -rf -- "${tmpWorkDir:?}"; trap - EXIT; exit 0' EXIT TERM INT HUP
 
 	printInfo 'Downloading lists...'
 
-	for i in $(seq 0 "${sourceCount:?}"); do
-		entry="$(printf -- '%s' "${sourceList:?}" | jq -r --arg i "${i:?}" '.[$i|tonumber]')"
-		name="$(printf -- '%s' "${entry:?}" | jq -r '.name')"
-		format="$(printf -- '%s' "${entry:?}" | jq -r '.format')"
-		url="$(printf -- '%s' "${entry:?}" | jq -r '.url')"
+	sourcesIndex='0'
+	while [ "${sourcesIndex:?}" -le "${sourcesTotal:?}" ]; do
+		source="$(jq -nr --argjson d "${sources:?}" --arg i "${sourcesIndex:?}" '$d[$i|tonumber]')"
+		name="$(jq -nr --argjson d "${source:?}" '$d.name')"
+		format="$(jq -nr --argjson d "${source:?}" '$d.format')"
+		url="$(jq -nr --argjson d "${source:?}" '$d.url')"
 
 		printList "${url:?}"
 
@@ -85,7 +86,9 @@ main() {
 		else
 			printError 'Download failed'
 		fi
+
+		sourcesIndex="$((sourcesIndex+1))"
 	done
 }
 
-main "${@}"
+main "${@-}"
