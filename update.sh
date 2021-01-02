@@ -56,7 +56,8 @@ main() {
 	sourcesTotal="$(jq -nr --argjson d "${sources:?}" '$d|length-1')"
 
 	tmpWorkDir="$(mktemp -d)"
-	trap 'rm -rf -- "${tmpWorkDir:?}"; trap - EXIT; exit 0' EXIT TERM INT HUP
+	# shellcheck disable=SC2154
+	trap 'ret=$?; rm -rf -- "${tmpWorkDir:?}"; trap - EXIT; exit "${ret:?}"' EXIT TERM INT HUP
 
 	printInfo 'Downloading lists...'
 
