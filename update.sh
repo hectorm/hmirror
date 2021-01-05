@@ -57,7 +57,7 @@ main() {
 
 	tmpWorkDir="$(mktemp -d)"
 	# shellcheck disable=SC2154
-	trap 'ret=$?; rm -rf -- "${tmpWorkDir:?}"; trap - EXIT; exit "${ret:?}"' EXIT TERM INT HUP
+	trap 'ret="$?"; rm -rf -- "${tmpWorkDir:?}"; trap - EXIT; exit "${ret:?}"' EXIT TERM INT HUP
 
 	printInfo 'Downloading lists...'
 
