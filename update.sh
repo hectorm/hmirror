@@ -17,37 +17,36 @@ printList() { [ -t 1 ] && printf -- '\033[0m \033[1;36m*\033[0m %s\n' "${@}" || 
 fetchUrl() { curl -fsSL -A 'Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0' -- "${1:?}"; }
 
 removeCR() { tr -d '\r'; }
-toLowercase() { awk '{print(tolower($0))}'; }
+toLowercase() { sed 'y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/'; }
 
 hostsToDomains() {
-	ipv4Regex='\(0\)\{0,1\}\(127\)\{0,1\}\(\.[0-9]\{1,3\}\)\{3\}'
-	ipv6Regex='\(0\{0,4\}:\)\{2,7\}0\{0,3\}[01]\{0,1\}'
-	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z_-]\{1,62\}'
-	ipv4HostRegex='^[[:blank:]]*\('"${ipv4Regex:?}"'[[:blank:]]\{1,\}\)\{0,1\}'"${domainRegex:?}"'[[:blank:]]*\(#.*\)\{0,1\}$'
-	ipv6HostRegex='^[[:blank:]]*\('"${ipv6Regex:?}"'[[:blank:]]\{1,\}\)\{0,1\}'"${domainRegex:?}"'[[:blank:]]*\(#.*\)\{0,1\}$'
+	leadingScript='s/^[[:blank:]]*//'
+	trailingScript='s/[[:blank:]]*\(#.*\)\{0,1\}$//'
+	ipv4Script='s/^\(0\)\{0,1\}\(127\)\{0,1\}\(\.[0-9]\{1,3\}\)\{3\}[[:blank:]]\{1,\}//'
+	ipv6Script='s/^\(0\{0,4\}:\)\{2,7\}0\{0,3\}[01]\{0,1\}[[:blank:]]\{1,\}//'
+	domainRegex='^\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z_-]\{1,62\}$'
 
 	removeCR | toLowercase \
-		| grep -e "${ipv4HostRegex:?}" -e "${ipv6HostRegex:?}" \
-		| sed -e 's/[[:blank:]]*\(#.*\)\{0,1\}$//;s/^.*[[:blank:]]\{1,\}//' \
-		| sort | uniq
+		| sed -e "${leadingScript:?};${ipv4Script:?};${ipv6Script:?};${trailingScript:?}" \
+		| { grep -e "${domainRegex:?}" ||:; } | sort | uniq
 }
 
 adblockToDomains() {
 	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z_-]\{1,62\}'
+	adblockScript='s/^||\('"${domainRegex:?}"'\)\^$/\1/p' # 's/^||\([0-9a-z._-]\{1,\}\).\{0,1\}$/\1/'
+	adblockExceptionScript='s/^@@||\('"${domainRegex:?}"'\).*/\1/p'
 
 	contentFile="$(mktemp)"
 	removeCR | toLowercase > "${contentFile:?}"
 
-	domainsPipe="$(mktemp -u)"
-	mkfifo -m 600 "${domainsPipe:?}" >/dev/null
-	sed -ne 's/^||\('"${domainRegex:?}"'\)\^$/\1/p' "${contentFile:?}" | sort | uniq > "${domainsPipe:?}" &
+	domainsPipe="$(mktemp -u)"; mkfifo -m 600 "${domainsPipe:?}"
+	sed -ne "${adblockScript:?}" -- "${contentFile:?}" | sort | uniq > "${domainsPipe:?}" &
 
-	exceptionsPipe="$(mktemp -u)"
-	mkfifo -m 600 "${exceptionsPipe:?}" >/dev/null
-	sed -ne 's/^@@||\('"${domainRegex:?}"'\).*/\1/p' "${contentFile:?}" | sort | uniq > "${exceptionsPipe:?}" &
+	exceptionsPipe="$(mktemp -u)"; mkfifo -m 600 "${exceptionsPipe:?}"
+	sed -ne "${adblockExceptionScript:?}" -- "${contentFile:?}" | sort | uniq > "${exceptionsPipe:?}" &
 
-	comm -23 "${domainsPipe:?}" "${exceptionsPipe:?}"
-	rm -f "${contentFile:?}" "${domainsPipe:?}" "${exceptionsPipe:?}" >/dev/null
+	comm -23 -- "${domainsPipe:?}" "${exceptionsPipe:?}"
+	rm -f -- "${contentFile:?}" "${domainsPipe:?}" "${exceptionsPipe:?}"
 }
 
 main() {
