@@ -24,7 +24,7 @@ hostsToDomains() {
 	trailingScript='s/[[:blank:]]*\(#.*\)\{0,1\}$//'
 	ipv4Script='s/^\(0\)\{0,1\}\(127\)\{0,1\}\(\.[0-9]\{1,3\}\)\{3\}[[:blank:]]\{1,\}//'
 	ipv6Script='s/^\(0\{0,4\}:\)\{2,7\}0\{0,3\}[01]\{0,1\}[[:blank:]]\{1,\}//'
-	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z_-]\{1,62\}'
+	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z-]\{0,61\}[0-9a-z]\.\{0,1\}'
 
 	removeCR | toLowercase \
 		| sed -e "${leadingScript:?};${ipv4Script:?};${ipv6Script:?};${trailingScript:?}" \
@@ -33,8 +33,8 @@ hostsToDomains() {
 }
 
 adblockToDomains() {
-	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z_-]\{1,62\}'
-	adblockScript='s/^||\('"${domainRegex:?}"'\)\^$/\1/p' # 's/^||\([0-9a-z._-]\{1,\}\).\{0,1\}$/\1/'
+	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z-]\{0,61\}[0-9a-z]\.\{0,1\}'
+	adblockScript='s/^||\('"${domainRegex:?}"'\)\^$/\1/p'
 	adblockExceptionScript='s/^@@||\('"${domainRegex:?}"'\).*/\1/p'
 
 	contentFile="$(mktemp)"
