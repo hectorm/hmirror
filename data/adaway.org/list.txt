@@ -1970,8 +1970,11 @@ beacon46-sjc2.rubiconproject.com
 beaconhub.iadmob.com
 beacons-wxm0dh1cst4.stackpathdns.com
 beacons.extremereach.io
+beacons.gcp.gvt2.com
+beacons.gvt2.com
 beacons.mediamelon.com
 beacons2.extremereach.io
+beacons5.gvt3.com
 beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 beacontest.cardlytics.com
@@ -2839,6 +2842,7 @@ config.sentinel.mob.com
 config.uca.cloud.unity3d.com
 config.unityads.unity3d.com
 config2.mparticle.com
+configs-community-app.audent.io
 configure.rayjump.com
 connatix-d.openx.net
 connatix-supply-partners.tremorhub.com
@@ -3448,6 +3452,7 @@ ecpm.tanx.com
 ecs.mantisadnetwork.com
 ecs.mb.moatads.com
 eddd6b75.api.splkmobile.com
+edge-mcdn-beacon.secure.yahoo.com
 edge-west.customer.io
 edge.addthis.com
 edge.safedk.com
@@ -3928,6 +3933,7 @@ geo.atlassbx.com
 geo.celtra.com
 geo.gop1.co
 geo.moatads.com
+geo.ngtv.io
 geo.query.yahoo.com
 geo.rlcdn.com
 geo.yahoo.com
@@ -4480,6 +4486,7 @@ in.admicro.vn
 in.advertising.yahoo.com
 in.analytics.glance.inmobi.com
 in.api.glance.inmobi.com
+in.appcenter.ms
 in.cuebiq.com
 in.getclicky.com
 in.treasuredata.com
@@ -4940,6 +4947,7 @@ lovetk-d.openx.net
 lowes.netmng.com
 lp.netwrix.com
 lp4.io
+lptag.liveperson.net
 lrc.nct.nixcdn.com
 lrpush.apxlv.com
 ls.skimresources.com
@@ -5178,6 +5186,7 @@ microad.jp
 microad.net
 mid.rkdms.com
 midasplayer.com
+middycdn-a.akamaihd.net
 midoweb.offerstrack.net
 min.admicro.vn
 mindtank-d.openx.net
@@ -5230,11 +5239,13 @@ mobile.appchina.com
 mobile.cmtelematics.com
 mobile.controller.duokanbox.com
 mobile.eum-appdynamics.com
+mobile.events.data.microsoft.com
 mobile.game-insight.com
 mobile.ib.sin1.geoadnxs.com
 mobile.launchdarkly.com
 mobile.mediabrix.com
 mobile.mng-ads.com
+mobile.pipe.aria.microsoft.com
 mobile.yandexadexchange.net
 mobile01-d.openx.net
 mobilead.vn
@@ -5490,6 +5501,7 @@ nycp-hlb.dvgtm.akadns.net
 nyidt.adsafeprotected.com
 nz-gmtdmp.mookie1.com
 o.cmp.advertising.com
+o430870.ingest.sentry.io
 oao-d.openx.net
 oas-c18.adnxs.com
 oauth.datorama.com
@@ -5757,6 +5769,7 @@ performance.affiliaxe.com
 performancehorizon.com
 permutive.com
 persona.ly
+personalization.bloomberg.com
 personalization.centech.glulive.com
 pespn.chartbeat.net
 pg-prebid-server-aws-ane1.rubiconproject.com
@@ -5984,6 +5997,7 @@ prod-a.applovin.com
 prod-ads.aerserv.com
 prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com
 prod-bid.applovin.com
+prod-collecticon.outlookmobile.com
 prod-customfeeds.flashtalking.com
 prod-dcs-eventlog.decagames.com
 prod-defaulting-subscriptiontool.gismart.xyz
@@ -6811,11 +6825,13 @@ segments.company-target.com
 sejs.moatads.com
 sekindo.com
 select-d.openx.net
+self.events.data.microsoft.com
 send.microadinc.com
 sender.clevernt.com
 sense360eng.com.herokudns.com
 sensors.yodo1api.com
 sentinel.mob.com
+sentry.audent.io
 ser.adledge.com
 serpens.iad-01.braze.com
 serpens.iad.appboy.com
@@ -8253,6 +8269,7 @@ verify.mob.com
 verizon.adhaven.com
 verizon.asapp.com
 verizon.demdex.net
+verizontelecom.tt.omtrdc.net
 verticalscope-d.openx.net
 vervemobile.com
 vet-us-east-1.track.smaato.net
@@ -8273,6 +8290,8 @@ video-ads-apex.rubiconproject.com
 video-ads.rubiconproject.com
 video-ads.rubiconproject.com-v1.edgekey.net
 video-assets.mathtag.com
+video-dfw5-1.xx.fbcdn.net
+video-dfw5-2.xx.fbcdn.net
 video-native.mgid.com
 video-stats.video.google.com
 video.adaptv.advertising.com
@@ -8336,6 +8355,7 @@ vntsm.com
 vod.adspruce.com
 voicefive.com.edgekey.net
 vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com
+vortex.data.microsoft.com
 vox.amp.permutive.com
 voxcustomdfp152282307853.s.moatpixel.com
 voxvidint960547728228.s.moatpixel.com
@@ -8344,6 +8364,7 @@ vpaid.doubleverify.com
 vpaid.springserve.com
 vqq.admaster.com.cn
 vrl.m.conviva.com
+vrt.outbrain.com
 vserv.mobi
 vst.c.appier.net
 vt.adition.com
@@ -8545,6 +8566,7 @@ ww3232.smartadserver.com
 www-googletagmanager.l.google.com
 www.5rocks.io
 www.chartboost.com
+www.clarity.ms
 www.geoplugin.net
 www.google-analytics.com
 www.googleadservices.com
