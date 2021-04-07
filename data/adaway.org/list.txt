@@ -2002,6 +2002,7 @@ betrad.com.edgekey.net
 bh.contextweb.com
 bhpz.adj.st
 bi-analytics.cloudapp.net
+bi.yeshen.com
 bid-east.intentiq.com
 bid.adview.cn
 bid.adview.com
@@ -2763,8 +2764,6 @@ collecting-consent.g5e.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
 collection.decibelinsight.net
-collection.sumologic.com
-collection.us2.sumologic.com
 collector-001.newrelic.com
 collector-002.newrelic.com
 collector-003.newrelic.com
@@ -2801,8 +2800,6 @@ collector.scopely.io
 collector.snplow.net
 collector.stats.socialquantum.ru
 collector.tealeaf.ibmcloud.com
-collectors.sumologic.com
-collectors.us2.sumologic.com
 com-fcagroup.netmng.com
 com-geckoboard-main.collector.snplow.net
 com-thebigwillow-prod1.collector.snplow.net
@@ -3503,8 +3500,6 @@ emxdgt.com
 emxhb.emxdgt.com
 encyclopediabritannica.blueconic.net
 end.scorecardresearch.com
-endpoint1.collection.us2.sumologic.com
-endpoint2.collection.sumologic.com
 engage-network.influencemobile.com
 engage.commander1.com
 engage.marketo.com
@@ -4980,7 +4975,6 @@ lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com
 lynx.cognitivlabs.com
 m-adash.m.taobao.com
 m-metrics.capitalone.com
-m-motu.doglobal.net
 m.adnxs.com
 m.adtiming.com
 m.amoad.com
@@ -5452,6 +5446,7 @@ new.afsanalytics.com
 new.fqtag.com
 newfeatureview.perfectionholic.com
 newre-conversions.clickmeter.com
+news.iadsdk.apple.com
 newscorp.grapeshot.co.uk
 newspush.sinajs.cn
 nex8.net
@@ -6120,6 +6115,7 @@ pubmatic.edgekey.net
 pubnative-d.openx.net
 pubnative.info
 pubnative.net
+pubstatus.sinaapp.com
 pubwise-d.openx.net
 puds.ucweb.com
 puhtml.com
@@ -7430,6 +7426,7 @@ studybreakmedia-d.openx.net
 stuff.cdn.biddingx.com
 stx-assets.sharethrough.com
 stx-match.dotomi.com
+su.iadsdk.apple.com
 submit.zapr.in
 suite-analytics.socialbakers.com
 suite-builder.socialbakers.com
@@ -7885,6 +7882,7 @@ tracker.winudf.com
 trackers.voodoo-analytics.io
 tracking-1611167402.us-east-1.elb.amazonaws.com
 tracking-1659963975.ap-southeast-1.elb.amazonaws.com
+tracking-3-9f58.trnox.com
 tracking-server-prod-1.zenmxapps.com
 tracking.aatkit.com
 tracking.ad-brix.com
@@ -7893,6 +7891,7 @@ tracking.adalyser.com
 tracking.admarketplace.net
 tracking.admarketplace.net.edgekey.net
 tracking.applift.com
+tracking.apptrackerlink.com
 tracking.autoads.asia
 tracking.crazyegg.com
 tracking.directservices.it
@@ -7940,6 +7939,7 @@ trans.hiido.com
 trc-events.taboola.com
 trc.kissmetrics.com
 trc.taboola.com
+trcakingapp.trnox.com
 tremor-match.dotomi.com
 tremorhub.com
 tremormedia.com
@@ -8162,7 +8162,6 @@ us.y.atwola.com
 us01.rayjump.com
 us1-spiky.wzrkt.com
 us1.wzrkt.com
-us2.sumologic.com
 usadmm-ds.dotomi.com
 usadmm.dotomi.com
 usasync01.admantx.com
@@ -8610,6 +8609,7 @@ www.google-analytics.com
 www.googleadservices.com
 www.googletagmanager.com
 www.googletagservices.com
+www.iadsdk.apple.com
 www.leanplum.com
 www.localytics.com
 www.npttech.com
