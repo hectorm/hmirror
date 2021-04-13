@@ -1,7 +1,7 @@
 {"sources": [
   {"name": "adaway.org",                         "enabled": true,  "format": "hosts",   "url": "https://adaway.org/hosts.txt"},
   {"name": "adblock-nocoin-list",                "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"},
-  {"name": "adguard-simplified",                 "enabled": true,  "format": "adblock", "url": "https://filters.adtidy.org/extension/chromium/filters/15.txt"},
+  {"name": "adguard-simplified",                 "enabled": true,  "format": "adblock", "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"},
   {"name": "antipopads",                         "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts"},
   {"name": "anudeepnd-adservers",                "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt"},
   {"name": "anudeepnd-coinminer",                "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt"},
