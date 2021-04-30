@@ -1,6 +1,7 @@
 {"sources": [
   {"name": "adaway.org",                         "enabled": true,  "format": "hosts",   "url": "https://adaway.org/hosts.txt"},
   {"name": "adblock-nocoin-list",                "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"},
+  {"name": "adguard-cname-trackers",             "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt"},
   {"name": "adguard-simplified",                 "enabled": true,  "format": "adblock", "url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"},
   {"name": "antipopads",                         "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts"},
   {"name": "anudeepnd-adservers",                "enabled": true,  "format": "hosts",   "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt"},
