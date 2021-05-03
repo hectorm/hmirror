@@ -50,6 +50,17 @@ adblockToDomains() {
 	rm -f -- "${contentFile:?}" "${domainsPipe:?}" "${exceptionsPipe:?}"
 }
 
+disconnectmeToDomains() {
+	category="${1:?}"
+	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z-]\{0,61\}[0-9a-z]\.\{0,1\}'
+	# shellcheck disable=SC2016
+	disconnectmeFilter='.categories[$c][][][] | if type == "array" then .[] else empty end'
+
+	jq -r --arg c "${category:?}" "${disconnectmeFilter:?}" \
+		| { grep -e "^${domainRegex:?}$" ||:; } \
+		| sort | uniq
+}
+
 main() {
 	sources="$(jq -r '.sources|map(select(.enabled))' -- "${SCRIPT_DIR:?}/sources.json")"
 	sourcesTotal="$(jq -nr --argjson d "${sources:?}" '$d|length-1')"
@@ -65,9 +76,10 @@ main() {
 		source="$(jq -nr --argjson d "${sources:?}" --arg i "${sourcesIndex:?}" '$d[$i|tonumber]')"
 		name="$(jq -nr --argjson d "${source:?}" '$d.name')"
 		format="$(jq -nr --argjson d "${source:?}" '$d.format')"
+		args="$(jq -nr --argjson d "${source:?}" '$d.args | join("\n")')"
 		url="$(jq -nr --argjson d "${source:?}" '$d.url')"
 
-		printList "${url:?}"
+		printList "${name:?}: ${url:?}"
 
 		tmpFile="${tmpWorkDir:?}/${name:?}.txt"
 		outFile="${SCRIPT_DIR:?}/data/${name:?}/list.txt"
@@ -75,11 +87,16 @@ main() {
 		if fetchUrl "${url:?}" > "${tmpFile:?}"; then
 			mkdir -p "${outFile%/*}"
 
+			_IFS="${IFS?}"; IFS="$(printf '\nx')"; IFS="${IFS%x}"
+			# shellcheck disable=SC2086
 			if [ "${format:?}" = 'hosts' ]; then
-				hostsToDomains < "${tmpFile:?}" > "${outFile:?}"
+				hostsToDomains ${args?} < "${tmpFile:?}" > "${outFile:?}"
 			elif [ "${format:?}" = 'adblock' ]; then
-				adblockToDomains < "${tmpFile:?}" > "${outFile:?}"
+				adblockToDomains ${args?} < "${tmpFile:?}" > "${outFile:?}"
+			elif [ "${format:?}" = 'disconnectme' ]; then
+				disconnectmeToDomains ${args?} < "${tmpFile:?}" > "${outFile:?}"
 			fi
+			IFS="${_IFS?}"
 
 			checksum="$(sha256sum "${outFile:?}" | cut -c 1-64)"
 			printf '%s  %s\n' "${checksum:?}" "${outFile##*/}" > "${outFile:?}.sha256"
