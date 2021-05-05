@@ -29,7 +29,7 @@ hostsToDomains() {
 	removeCR | toLowercase \
 		| sed -e "${leadingScript:?};${ipv4Script:?};${ipv6Script:?};${trailingScript:?}" \
 		| { grep -e "^${domainRegex:?}\([[:blank:]]\{1,\}${domainRegex:?}\)*$" ||:; } \
-		| tr -s ' \t' '\n' | sort | uniq
+		| tr -s ' \t' '\n' | sed 's/\.$//' | sort | uniq
 }
 
 adblockToDomains() {
