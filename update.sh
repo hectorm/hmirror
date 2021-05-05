@@ -41,10 +41,10 @@ adblockToDomains() {
 	removeCR | toLowercase > "${contentFile:?}"
 
 	domainsPipe="$(mktemp -u)"; mkfifo -m 600 "${domainsPipe:?}"
-	sed -ne "${adblockScript:?}" -- "${contentFile:?}" | sort | uniq > "${domainsPipe:?}" &
+	sed -ne "${adblockScript:?}" -- "${contentFile:?}" | sed 's/\.$//' | sort | uniq > "${domainsPipe:?}" &
 
 	exceptionsPipe="$(mktemp -u)"; mkfifo -m 600 "${exceptionsPipe:?}"
-	sed -ne "${adblockExceptionScript:?}" -- "${contentFile:?}" | sort | uniq > "${exceptionsPipe:?}" &
+	sed -ne "${adblockExceptionScript:?}" -- "${contentFile:?}" | sed 's/\.$//' | sort | uniq > "${exceptionsPipe:?}" &
 
 	comm -23 -- "${domainsPipe:?}" "${exceptionsPipe:?}"
 	rm -f -- "${contentFile:?}" "${domainsPipe:?}" "${exceptionsPipe:?}"
