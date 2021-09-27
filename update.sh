@@ -14,7 +14,7 @@ printWarn() { [ -t 1 ] && printf -- '\033[0m[\033[1;33mWARN\033[0m] %s\n' "${@}"
 printError() { [ -t 1 ] && printf -- '\033[0m[\033[1;31mERROR\033[0m] %s\n' "${@}" >&2 || printf -- '[ERROR] %s\n' "${@}" >&2; }
 printList() { [ -t 1 ] && printf -- '\033[0m \033[1;36m*\033[0m %s\n' "${@}" || printf -- ' * %s\n' "${@}" >&2; }
 
-fetchUrl() { curl -fsSL -A 'Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0' -- "${1:?}"; }
+fetchUrl() { curl -fsSL -A 'Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0' -- "${1:?}"; }
 
 removeCR() { tr -d '\r'; }
 toLowercase() { tr 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' 'abcdefghijklmnopqrstuvwxyz'; }
