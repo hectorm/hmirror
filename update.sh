@@ -9,10 +9,10 @@ export LC_ALL='C'
 
 SCRIPT_DIR="$(CDPATH='' cd -- "$(dirname -- "${0:?}")" && pwd -P)"
 
-printInfo() { [ -t 1 ] && printf -- '\033[0m[\033[1;32mINFO\033[0m] %s\n' "${@}" || printf -- '[INFO] %s\n' "${@}"; }
-printWarn() { [ -t 1 ] && printf -- '\033[0m[\033[1;33mWARN\033[0m] %s\n' "${@}" >&2 || printf -- '[WARN] %s\n' "${@}" >&2; }
-printError() { [ -t 1 ] && printf -- '\033[0m[\033[1;31mERROR\033[0m] %s\n' "${@}" >&2 || printf -- '[ERROR] %s\n' "${@}" >&2; }
-printList() { [ -t 1 ] && printf -- '\033[0m \033[1;36m*\033[0m %s\n' "${@}" || printf -- ' * %s\n' "${@}" >&2; }
+printInfo() { [ -t 1 ] && printf '\033[0m[\033[1;32mINFO\033[0m] %s\n' "${@}" || printf '[INFO] %s\n' "${@}"; }
+printWarn() { [ -t 1 ] && printf '\033[0m[\033[1;33mWARN\033[0m] %s\n' "${@}" >&2 || printf '[WARN] %s\n' "${@}" >&2; }
+printError() { [ -t 1 ] && printf '\033[0m[\033[1;31mERROR\033[0m] %s\n' "${@}" >&2 || printf '[ERROR] %s\n' "${@}" >&2; }
+printList() { [ -t 1 ] && printf '\033[0m \033[1;36m*\033[0m %s\n' "${@}" || printf ' * %s\n' "${@}" >&2; }
 
 fetchUrl() { curl -fsSL -A 'Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0' -- "${1:?}"; }
 
