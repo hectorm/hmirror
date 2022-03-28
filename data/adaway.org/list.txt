@@ -1093,7 +1093,6 @@ api.ning.com
 api.omnilocal.ai
 api.omniture.com
 api.oneaudience.com
-api.onesignal.com
 api.optimizely.com
 api.optinmonster.com
 api.optmnstr.com
@@ -1996,7 +1995,6 @@ cdn.natpal.com
 cdn.o333o.com
 cdn.oas-c18.adnxs.com
 cdn.okanjo.com
-cdn.onesignal.com
 cdn.onthe.io
 cdn.optimizely.com
 cdn.otherlevels.com
@@ -2360,6 +2358,7 @@ content.ad2iction.com
 content.adacado.com
 content.carambo.la
 content.cdn.targetspot.com
+content.inhousedsp.com
 content.maropost.com
 content.quantcount.com
 content.swrve.com
@@ -2728,6 +2727,7 @@ dsp.fout.jp
 dsp.logly.co.jp
 dsp.youdao.com
 dsp3.adtelligent.com
+dspbeacons.error.ihasdsp.inmobi.com
 dspcluster.adfarm1.adition.com
 dsum-sec.casalemedia.com
 dsum-sec.casalemedia.com.edgekey.net
@@ -3410,6 +3410,7 @@ i.gridsumdissector.com
 i.idio.co
 i.ipromote.com
 i.isnssdk.com
+i.l-dsp.inmobicdn.net
 i.l.inmobicdn.net
 i.liadm.com
 i.loopme.me
@@ -3463,6 +3464,7 @@ ib.mookie1.com
 ib.sin1.geoadnxs.com
 ibilisk.iad-01.braze.com
 ibis.iad-03.braze.com
+ic.de.inmobi.com
 ichannel.isnssdk.com
 ichnaea-web.netflix.com
 iclick.cm.admaster.com.cn
@@ -3561,6 +3563,7 @@ immediatemedia.amp.permutive.com
 imobile.socdm.com
 imp-dsp.bidgear.com
 imp-east.pub.local.emxdgt.com
+imp-lb-us2.jampp.com
 imp.adzmedia.com
 imp.control.kochava.com
 imp.emxdgt.com
@@ -3623,6 +3626,7 @@ ingameads.gameloft.com
 ingest.m2appmonitor.com
 ingest.vungle.akadns.net
 ingest.vungle.com
+inhousedsp.com
 inimage.carambo.la
 init.sms.mob.com
 init.startappexchange.com
@@ -5221,6 +5225,7 @@ s.fqtag.com
 s.go-mpulse.net
 s.iaudienc.com
 s.idio.co
+s.iff.inmobi.com
 s.innovid.com
 s.innovid.com.akadns.net
 s.jpush.cn
@@ -5870,6 +5875,7 @@ static.iadvize.com
 static.innovid.com
 static.intentarget.com
 static.iterable.com
+static.jampp.com
 static.klaviyo.com
 static.leaddyno.com
 static.leadpages.net
@@ -5985,6 +5991,7 @@ sundaysky-partners.tremorhub.com
 sundaysky-sync-us.teads.tv
 superad2.com.sg
 supersonicads.com
+supply.inmobicdn.net
 survata.com
 survey.g.doubleclick.net
 survey.survicate.com
@@ -6613,6 +6620,7 @@ utop.umengcloud.com
 uts.kingoapp.com
 uw.evm1.stackadapt.com
 uw.srv.stackadapt.com
+v-ak.chartboost.com
 v.admaster.com.cn
 v.adsrvr.org
 v.cf.ssacdn.com
@@ -6702,6 +6710,9 @@ verizon.demdex.net
 verizontelecom.tt.omtrdc.net
 vervemobile.com
 vet-us-east-1.track.smaato.net
+vg-aws-us-east-1a-hb.rayjump.com
+vg-aws-us-east-1b-hb.rayjump.com
+vg-new-hb.rayjump.com
 vg-setting.rayjump.com
 vi-serve.com
 via.batch.com
