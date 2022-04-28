@@ -14,6 +14,8 @@ jobs:
   update:
     name: 'Update'
     runs-on: 'ubuntu-latest'
+    permissions:
+      contents: 'write'
     container: 'docker.io/ubuntu:latest'
     steps:
       - name: 'Install dependencies'
