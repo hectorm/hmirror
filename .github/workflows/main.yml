@@ -9,6 +9,8 @@ on:
     - cron: '45 00 * * *'
   workflow_dispatch:
 
+permissions: {}
+
 jobs:
 
   update:
