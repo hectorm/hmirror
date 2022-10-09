@@ -53,7 +53,6 @@
   {"name": "ublock-badware",                        "enabled": true,  "format": "adblock",      "args": [],              "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt"},
   {"name": "ublock-privacy",                        "enabled": true,  "format": "adblock",      "args": [],              "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt"},
   {"name": "urlhaus",                               "enabled": true,  "format": "hosts",        "args": [],              "url": "https://urlhaus.abuse.ch/downloads/hostfile/"},
-  {"name": "winhelp2002.mvps.org",                  "enabled": true,  "format": "hosts",        "args": [],              "url": "https://winhelp2002.mvps.org/hosts.txt"},
   {"name": "zerodot1-coinblockerlists",             "enabled": true,  "format": "hosts",        "args": [],              "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts"},
   {"name": "zerodot1-coinblockerlists-browser",     "enabled": true,  "format": "hosts",        "args": [],              "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser"},
   {"name": "zerodot1-coinblockerlists-optional",    "enabled": true,  "format": "hosts",        "args": [],              "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional"}
