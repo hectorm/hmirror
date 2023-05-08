@@ -34,7 +34,7 @@ hostsToDomains() {
 
 adblockToDomains() {
 	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z-]\{0,61\}[0-9a-z]\.\{0,1\}'
-	adblockScript='s/^||\('"${domainRegex:?}"'\)\^$/\1/p'
+	adblockScript='s/^||\('"${domainRegex:?}"'\)\^\(\$\(all\|doc\|document\)\)\{0,1\}$/\1/p'
 	adblockExceptionScript='s/^@@||\('"${domainRegex:?}"'\).*/\1/p'
 
 	contentFile="$(mktemp)"
