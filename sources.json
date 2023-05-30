@@ -39,7 +39,7 @@
   {"name": "molinero.dev",                          "enabled": true,  "format": "hosts",        "args": [],              "url": "https://hblock.molinero.dev/hosts"},
   {"name": "mozilla-shavar-advertising",            "enabled": true,  "format": "disconnectme", "args": ["Advertising"], "url": "https://raw.githubusercontent.com/mozilla-services/shavar-prod-lists/master/disconnect-blacklist.json"},
   {"name": "mozilla-shavar-analytics",              "enabled": true,  "format": "disconnectme", "args": ["Analytics"],   "url": "https://raw.githubusercontent.com/mozilla-services/shavar-prod-lists/master/disconnect-blacklist.json"},
-  {"name": "pgl.yoyo.org",                          "enabled": false, "format": "hosts",        "args": [],              "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext"},
+  {"name": "pgl.yoyo.org",                          "enabled": true,  "format": "hosts",        "args": [],              "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext&skip=t.co"},
   {"name": "phishing.army",                         "enabled": true,  "format": "hosts",        "args": [],              "url": "https://phishing.army/download/phishing_army_blocklist.txt"},
   {"name": "phishing.army-extended",                "enabled": true,  "format": "hosts",        "args": [],              "url": "https://phishing.army/download/phishing_army_blocklist_extended.txt"},
   {"name": "socram8888-notonmyshift",               "enabled": true,  "format": "hosts",        "args": [],              "url": "https://orca.pet/notonmyshift/hosts.txt"},
