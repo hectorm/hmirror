@@ -22,6 +22,7 @@
   {"name": "easylist-lit",                          "enabled": true,  "format": "adblock",      "args": [],              "url": "https://easylist-downloads.adblockplus.org/easylistlithuania.txt"},
   {"name": "easylist-nld",                          "enabled": true,  "format": "adblock",      "args": [],              "url": "https://easylist-downloads.adblockplus.org/easylistdutch.txt"},
   {"name": "easylist-por",                          "enabled": true,  "format": "adblock",      "args": [],              "url": "https://easylist-downloads.adblockplus.org/easylistportuguese.txt"},
+  {"name": "easylist-rou",                          "enabled": true,  "format": "adblock",      "args": [],              "url": "https://easylist-downloads.adblockplus.org/rolist.txt"},
   {"name": "easylist-rus",                          "enabled": true,  "format": "adblock",      "args": [],              "url": "https://easylist-downloads.adblockplus.org/advblock.txt"},
   {"name": "easylist-spa",                          "enabled": true,  "format": "adblock",      "args": [],              "url": "https://easylist-downloads.adblockplus.org/easylistspanish.txt"},
   {"name": "easylist-zho",                          "enabled": true,  "format": "adblock",      "args": [],              "url": "https://easylist-downloads.adblockplus.org/easylistchina.txt"},
