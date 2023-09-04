@@ -25,7 +25,7 @@ jobs:
           apt-get update
           apt-get install -y --no-install-recommends ca-certificates curl git jq
       - name: 'Checkout project'
-        uses: 'actions/checkout@v3'
+        uses: 'actions/checkout@v4'
       - name: 'Update lists'
         run: |
           sh ./update.sh
