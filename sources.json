@@ -6,6 +6,7 @@
   {"name": "anudeepnd-adservers",                   "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt"},
   {"name": "anudeepnd-coinminer",                   "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt"},
   {"name": "anudeepnd-facebook",                    "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt"},
+  {"name": "d3host",                                "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt"},
   {"name": "dandelionsprout-nordic",                "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/DandelionSproutsNorskeFiltreDomains.txt"},
   {"name": "digitalside-threat-intel",              "enabled": true,  "format": "hosts",        "args": [],              "url": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt"},
   {"name": "easylist",                              "enabled": true,  "format": "adblock",      "args": [],              "url": "https://easylist.to/easylist/easylist.txt"},
