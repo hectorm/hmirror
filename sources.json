@@ -61,6 +61,7 @@
   {"name": "ublock-2022",                           "enabled": true,  "format": "adblock",      "args": [],              "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt"},
   {"name": "ublock-2023",                           "enabled": true,  "format": "adblock",      "args": [],              "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt"},
   {"name": "ublock-2024",                           "enabled": true,  "format": "adblock",      "args": [],              "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt"},
+  {"name": "ublock-2025",                           "enabled": true,  "format": "adblock",      "args": [],              "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2025.txt"},
   {"name": "ublock-abuse",                          "enabled": true,  "format": "adblock",      "args": [],              "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt"},
   {"name": "ublock-annoyances",                     "enabled": true,  "format": "adblock",      "args": [],              "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances-others.txt"},
   {"name": "ublock-badware",                        "enabled": true,  "format": "adblock",      "args": [],              "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt"},
