@@ -50,6 +50,7 @@
   {"name": "pgl.yoyo.org",                          "enabled": true,  "format": "hosts",        "args": [],              "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext&skip=t.co"},
   {"name": "phishing.army",                         "enabled": true,  "format": "hosts",        "args": [],              "url": "https://phishing.army/download/phishing_army_blocklist.txt"},
   {"name": "phishing.army-extended",                "enabled": true,  "format": "hosts",        "args": [],              "url": "https://phishing.army/download/phishing_army_blocklist_extended.txt"},
+  {"name": "red.flag.domains",                      "enabled": true,  "format": "hosts",        "args": [],              "url": "https://dl.red.flag.domains/red.flag.domains.txt"},
   {"name": "someonewhocares.org",                   "enabled": true,  "format": "hosts",        "args": [],              "url": "https://someonewhocares.org/hosts/hosts"},
   {"name": "spam404.com",                           "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt"},
   {"name": "stevenblack",                           "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts"},
