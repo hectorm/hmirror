@@ -25,6 +25,7 @@ ad.partner.gifshow.com
 ad.qingting.fm
 ad.qq.com
 ad.richmob.cn
+ad.shunchangzhixing.com
 ad.tencentmusic.com
 ad.toutiao.com
 ad.v3mh.com
@@ -95,7 +96,6 @@ adse.ximalaya.com
 adsebs.ximalaya.com
 adsense.google.cn
 adserver.unityads.unity3d.com
-adservice.google.cn
 adservice.google.com
 adservice.sigmob.cn
 adserviceretry.kugou.com
@@ -188,6 +188,7 @@ api-gd.hiaiabc.com
 api-htp.beizi.biz
 api.ad.xiaomi.com
 api.anythinktech.com
+api.aqyad.com
 api.e.kuaishou.com
 api.fu.xcultur.com
 api.htp.hubcloud.com.cn
@@ -195,6 +196,7 @@ api.hzsanjiaomao.com
 api.installer.xiaomi.com
 api.jietuhb.com
 api.kingdata.ksyun.com
+api.shanghailingye.cn
 api.ssp.xcultur.com
 api.statsig.com
 api.touch-moblie.com
@@ -208,6 +210,7 @@ applog.uc.cn
 applog.zijieapi.com
 applovin.com
 appversion.115.com
+aqyad.com
 aspect-upush.umeng.com
 auction.unityads.unity3d.com
 audid-api.taobao.com
@@ -251,7 +254,6 @@ catalog.fjwhcbsh.com
 cbjs.baidu.com
 ccc-x.jd.com
 ccs.umeng.com
-cctv.adsunion.com
 cdn-ad.wtzw.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 cdn-f.adsmoloco.com
@@ -265,7 +267,6 @@ cdn.ynuf.aliapp.org
 cfg.imtt.qq.com
 chat1.jd.com
 chiq-cloud.com
-cj.qidian.com
 ck.ads.oppomobile.com
 click.chinaliftoff.io
 click.googleanalytics.com
@@ -273,6 +274,7 @@ click.liftoff.io
 click.oneplus.cn
 click4.chinaliftoff.io
 clog.miguvideo.com
+cloooud.com
 cn-api.anythinktech.com
 cnlogs.umeng.com
 cnlogs.umengcloud.com
@@ -288,7 +290,6 @@ cpro.baidustatic.com
 crash2.zhihu.com
 crashlyticsreports-pa.googleapis.com
 csjplatform.com
-cws-cctv.conviva.com
 d.applovin.com
 d.applvn.com
 da.anythinktech.com
@@ -329,6 +330,7 @@ event.tradplusad.com
 events-drcn.op.dbankcloud.cn
 events.reddit.com
 events.redditmedia.com
+fancyapi.com
 fclog.baidu.com
 feed-image.baidu.com
 file.daihuo.qq.com
@@ -340,6 +342,7 @@ fxgate.baidu.com
 g-adnet.hiaiabc.com
 g-staic.ganjingworld.com
 g.dtv.cn.miaozhen.com
+g.fancyapi.com
 g2.ganjing.world
 game.loveota.com
 gdfp.gifshow.com
@@ -353,7 +356,6 @@ ggx03.miguvideo.com
 globalapi.ad.xiaomi.com
 google-analytics.com
 googleads.g.doubleclick-cn.net
-googleads.g.doubleclick.com
 googleads.g.doubleclick.net
 googleadservices-cn.com
 googleadservices.com
@@ -419,7 +421,6 @@ iot-eu-logser.realme.com
 iot-logser.realme.com
 ipv4.kkmh.com
 irc.qubiankeji.com
-itv2-up.openspeech.cn
 ixav-cse.avlyun.com
 iyfbodn.com
 janapi.jd.com
@@ -437,10 +438,12 @@ ks-p2p-v2.pull.yximgs.com
 ks-p2p.pull.yximgs.com
 ks.ferlytc.com
 ks.pull.yximgs.com
+l6.fancyapi.com
 launcher.smart-tv.cn
 launcherimg.smart-tv.cn
 lf3-ad-union-sdk.pglstatp-toutiao.com
 lf6-ad-union-sdk.pglstatp-toutiao.com
+lftxali.fancyapi.com
 lh3.googleadsserving.cn
 litchiads.com
 live-api.hktvmall.com
@@ -548,6 +551,7 @@ open.e.kuaishou.com
 open.kuaishouzt.com
 open.kwaizt.com
 open.snssdk.com
+openadapi.fancydsp.com
 optimus-ads.amap.com
 orbit.jd.com
 oss.cdn.aiclk.com
@@ -606,7 +610,6 @@ res1.hubcloud.com.cn
 res2.hubcloud.com.cn
 res3.hubcloud.com.cn
 resolve.umeng.com
-rev.aiclk.com
 review.gdtimg.com
 rlog.popin.cc
 rms-drcn.platform.dbankcloud.cn
@@ -623,7 +626,6 @@ saad.ms.zhangyue.net
 saas.hpplay.cn
 samsung-com.112.2o7.net
 samsungads.com
-sanme2.taisantech.com
 saxysec.com
 scs.openspeech.cn
 sdk-ab-config.qquanquan.com
@@ -631,12 +633,14 @@ sdk-cache.video.ptqy.gitv.tv
 sdk.1rtb.net
 sdk.ad.smaato.net
 sdk.adx.adwangmai.com
+sdk.aqyad.com
 sdk.beizi.biz
 sdk.cferw.com
 sdk.e.qq.com
 sdk.hzsanjiaomao.com
 sdk.markmedia.com.cn
 sdk.mobads.adwangmai.com
+sdkapi.cloooud.com
 sdkauth.hpplay.cn
 sdkconf.avlyun.com
 sdkconfig.ad.intl.xiaomi.com
@@ -659,23 +663,23 @@ service.vmos.cn
 sf16-static.i18n-pglstatp.com
 sf3-fe-tos.pglstatp-toutiao.com
 shouji.sogou.com
-sigmob.cn
 sigmob.com
 skdisplay.jd.com
 sl.hpplay.cn
 slb-p2p.vcloud.ks-live.com
 smad.ms.zhangyue.net
-smart-tv.cn
 smartad.10010.com
 smetrics.samsung.com
 sms.ads.oppomobile.com
 sngmta.qq.com
 snowflake.qq.com
+ssp.cloooud.com
 staging-notify.sec.miui.com
 stat.dongqiudi.com
 stat.y.qq.com
 static-s.iqiyi.com
 static.ads-twitter.com
+statichf.shihuocdn.cn
 statics.woozooo.com
 stats.wp.com
 statsigapi.net
@@ -695,6 +699,7 @@ t002.ottcn.com
 t1.a.market.xiaomi.com
 t1.teads.tv
 t2.a.market.xiaomi.com
+t2.fancyapi.com
 t3.a.market.xiaomi.com
 t7z.cupid.iqiyi.com
 t7z.cupid.ptqy.gitv.tv
@@ -723,6 +728,7 @@ tnc3-aliec1.toutiaoapi.com
 tnc3-aliec2.bytedance.com
 tnc3-aliec2.snssdk.com
 tnc3-aliec2.toutiaoapi.com
+tnc3-aliec2.zijieapi.com
 tnc3-alisc1.bytedance.com
 tnc3-alisc1.snssdk.com
 tnc3-alisc1.toutiaoapi.com
@@ -737,6 +743,7 @@ tpa-hcdn.iqiyi.com
 tpc.googlesyndication-cn.com
 tpc.googlesyndication.com
 tr-asia.adsmoloco.com
+trace.aqyad.com
 trace.qq.com
 tracelog-debug.aiclk.com
 tracelog-debug.qquanquan.com
@@ -776,6 +783,7 @@ upgrade-update.hismarttv.com
 uranus.jd.com
 us.l.qq.com
 usr-api.aiclk.com
+utoken.umeng.com
 v.110route.cn
 v.adintl.cn
 v.adx.hubcloud.com.cn
